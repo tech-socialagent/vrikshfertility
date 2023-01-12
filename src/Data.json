@@ -1,8 +1,42 @@
 {
     "header": {
-        "header_icon":"PurpleLogo.svg",
-        "nav_items":["About Us","Our Services","Fertility Preservation","Surgeries","Third Party Services","Resources"],
-        "nav_btns":["Contact Us","Book Now"]
+        "header_icon": "PurpleLogo.svg",
+        "nav_items": [
+            {
+                "title": "Home",
+                "id": "home"
+            },
+            {
+                "title": "About Us",
+                "id": "about"
+            },
+            {
+                "title": "Fertility",
+                "id": "fertility"
+            },
+            {
+                "title": "Our Services",
+                "id": "services"
+            },
+            {
+                "title": "Surgeries",
+                "id": "surgeries"
+            },
+            {
+                "title": "Resources",
+                "id": "resources"
+            }
+        ],
+        "nav_btns": [
+            {
+                "title": "Contact Us",
+                "id": "contact"
+            },
+            {
+                "title": "Book Now",
+                "id": "book"
+            }
+        ]
     },
     "landingPage": {
         "Banner_Section": {
@@ -10,7 +44,7 @@
             "section_headline": "Fertility Care - Your Journey Towards A Loving Parenthood",
             "section_desc": "We solve all your fertility core needs by providing personilised & holistic fertility care",
             "section_btn_tex": "Book Appointment",
-            "section_banner_image": ""  
+            "section_banner_image": ""
         },
         "Doctor_section": {
             "section_title": "",

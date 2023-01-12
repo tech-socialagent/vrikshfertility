@@ -1,0 +1,128 @@
+.Nav_body {
+  
+  height: 90px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* position: fixed; */
+  margin: 10px 5px;
+  padding: 0px 20px;
+  z-index: 100;
+
+  background: linear-gradient(
+    90.24deg,
+    rgba(217, 217, 217, 0.4) 2.19%,
+    rgba(217, 217, 217, 0.1) 97.39% );
+
+  box-shadow: 0px 4px 24px -1px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(20px);
+
+  border-radius: 40px;
+}
+
+.app_logo a,
+.nav_item a {
+  text-decoration: none;
+  color: var(--black-color);
+}
+
+.app_logo img {
+  height: 70px;
+  width: 120px;
+}
+
+.nav_menu ul {
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+.nav_items li {
+  list-style: none;
+  font-weight: var(--weight-regular);
+  font-size: var(--text-regular);
+}
+.nav_item{
+  margin: 0px 10px;
+}
+
+.nav_menu {
+  display: flex;
+  align-items: center;
+}
+
+.nav_items {
+  display: flex;
+  
+  /* margin-right: 40px; */
+}
+
+.nav_items li:hover a {
+  color: var(--primary-color);
+}
+
+.nav_items li:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.get_quote_btn:hover {
+  color: var(--white-color);
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.get_quote_btn {
+  text-decoration: none;
+  font-size: var(--text-regular);
+  font-weight: var(--weight-medium);
+  margin: 0px 5px;
+  padding: 5px 10px;
+  color: white;
+  background: #772c77;
+  border: 1px solid #772c77;
+  border-radius: 20px;
+}
+
+.white_bg {
+  background-color: #f3f3f3;
+  box-shadow: 0px 0px 10px 0px black;
+}
+.menu_bar {
+  display: none;
+}
+@media only screen and (max-width: 400px) {
+  .Nav_body {
+    padding: 0px 10px;
+    background-color: #f3f3f3;
+    box-shadow: 0px 0px 10px 0px black;
+  }
+
+  .nav_menu {
+    flex-direction: column;
+    padding: 50px 0px;
+    position: absolute;
+    top: 70px;
+    right: -100%;
+    background-color: #f3f3f3;
+    height: 100vh;
+    width: 90vw;
+  }
+  .to_right {
+    right: 0;
+  }
+  .nav_items {
+    display: block;
+    text-align: center;
+  }
+  .nav_items li {
+    margin: 20px 0px;
+    font-size: var(--text-medium);
+    font-weight: var(--weight-semibold);
+  }
+  .menu_bar {
+    display: block;
+    font-size: 30px;
+    transition: all 1s;
+  }
+}
