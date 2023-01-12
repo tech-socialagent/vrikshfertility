@@ -1,0 +1,560 @@
+{
+    "header": {
+        "header_icon":"",
+        "nav_items":["About Us","Our Services","Fertility Preservation","Surgeries","Third Party Services","Resources"],
+        "nav_btns":["Contact Us","Book Now"]
+    },
+    "landingPage": {
+        "Banner_Section": {
+            "section_brand_name": "Vriksh Fertility",
+            "section_headline": "Fertility Care - Your Journey Towards A Loving Parenthood",
+            "section_desc": "We solve all your fertility core needs by providing personilised & holistic fertility care",
+            "section_btn_tex": "Book Appointment",
+            "section_banner_image": ""  
+        },
+        "Doctor_section": {
+            "section_title": "",
+            "section_video": "",
+            "Doctors_detail": [
+                {
+                    "name": "Dr. Sneha Shetty",
+                    "experience": "12",
+                    "designation": [
+                        "Gynoecologist",
+                        "loparoscopic Surgeon",
+                        "infertility Specialist"
+                    ],
+                    "media_links": [
+                        "facebooklink",
+                        "twitterlink",
+                        "instalink",
+                        "whatsapplink"
+                    ],
+                    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "btn_text": "Know More"
+                }
+            ]
+        },
+        "Benefits_section": {
+            "section_title": "Benefits With Vriksh",
+            "benefits_items": [
+                {
+                    "item_title": "Qualified Doctors",
+                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                },
+                {
+                    "item_title": "Qualified Doctors",
+                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                },
+                {
+                    "item_title": "Qualified Doctors",
+                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                },
+                {
+                    "item_title": "Qualified Doctors",
+                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                }
+            ]
+        },
+        "services_section": {
+            "section_title": "Our Services",
+            "services": [
+                {
+                    "service_title": "Fertility Treatment",
+                    "sub_services": [
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        }
+                    ]
+                },
+                {
+                    "service_title": "Advanced Fertility Treatments",
+                    "sub_services": [
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        }
+                    ]
+                },
+                {
+                    "service_title": "PRP",
+                    "sub_services": [
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        }
+                    ]
+                },
+                {
+                    "service_title": "Other Genomic Testing",
+                    "sub_services": [
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        }
+                    ]
+                },
+                {
+                    "service_title": "Female Fertility Treatments",
+                    "sub_services": [
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        }
+                    ]
+                },
+                {
+                    "service_title": "Male Disorders",
+                    "sub_services": [
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        }
+                    ]
+                },
+                {
+                    "service_title": "Other Conditions",
+                    "sub_services": [
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        },
+                        {
+                            "sub_service_name": "OI-TI",
+                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_keypoints": [
+                                "Lorem Ipsum",
+                                "Lorem Ipsum",
+                                "Lorem Ipsum"
+                            ],
+                            "sub_service_image": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "choose_us_section": {
+            "section_title": "Why Choose Us?",
+            "section_desc": "Great Reasons For People To Choose Vriksh Fertility",
+            "section_image": "",
+            "key_factors": [
+                {
+                    "item_title": "Quality",
+                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                },
+                {
+                    "item_title": "Quality",
+                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                },
+                {
+                    "item_title": "Quality",
+                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                },
+                {
+                    "item_title": "Quality",
+                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                }
+            ]
+        },
+        "testimonials_section": {
+            "section_title": "Testimonials",
+            "section_desc": "What Our Client Say About Vriksh",
+            "reviews_item": [
+                {
+                    "name": "Sneha paul",
+                    "age": "28",
+                    "profession": "Director of Marketing & Design of Tots & Teens",
+                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!"
+                },
+                {
+                    "name": "Sneha paul",
+                    "age": "28",
+                    "profession": "Director of Marketing & Design of Tots & Teens",
+                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!"
+                },
+                {
+                    "name": "Sneha paul",
+                    "age": "28",
+                    "profession": "Director of Marketing & Design of Tots & Teens",
+                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!"
+                },
+                {
+                    "name": "Sneha paul",
+                    "age": "28",
+                    "profession": "Director of Marketing & Design of Tots & Teens",
+                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!"
+                }
+            ]
+        },
+        "article_section": {
+            "section_title": "Articles",
+            "section_desc": "Resources To Keep You Informed With Our Blog",
+            "articles": [
+                {
+                    "title": "How Do Inherited Retinal Diseases Happen?",
+                    "date": "June 7,2022",
+                    "postby": "Admin",
+                    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "more_link": ""
+                },
+                {
+                    "title": "How Do Inherited Retinal Diseases Happen?",
+                    "date": "June 7,2022",
+                    "postby": "Admin",
+                    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "more_link": ""
+                },
+                {
+                    "title": "How Do Inherited Retinal Diseases Happen?",
+                    "date": "June 7,2022",
+                    "postby": "Admin",
+                    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "more_link": ""
+                }
+            ]
+        },
+        "location_time_section": {
+            "section_title": "",
+            "map_link": "",
+            "timing": {
+                "heading": "Working Hours & Contact Info",
+                "weekdays": "8 AM - 6 PM",
+                "weekends": "9 AM - 4 PM"
+            },
+            "email": "info@vrikshfertility.com",
+            "phone_no": "+1(230)-456-155-23"
+        },
+        "consultation_section": {
+            "section_title": "Need Consultation",
+            "section_video": "",
+            "form_items": [
+                "Name",
+                "Email ID",
+                "Date",
+                "Time"
+            ]
+        }
+    },
+    "footer": {
+        "section_image": "",
+        "contact": {
+            "phone_no": "+1(230)-456-155-23",
+            "mail": "info@vrikshfertility.com"
+        },
+        "media_links": [
+            "facebooklink",
+            "instalink",
+            "twitterlink",
+            "youtubelinki"
+        ],
+        "services": [
+            "Fertility Treatment",
+            "Advanced Fertility Treatments",
+            "PRP",
+            "Other Geonomic Testing",
+            "Female Fertility Treatments",
+            "Male Disorders",
+            "Other Conditions"
+        ],
+        "Fertility_Preservation": [
+            "Oocyte/Egg Freezing",
+            "Semen Freezing",
+            "Embryo Freezing"
+        ],
+        "Third_Party_Services": [
+            "Egg Donation",
+            "Sperm Donation"
+        ],
+        "Surgeries": [
+            "Laparascopy",
+            "Hysteroscopy",
+            "Myomectomy",
+            "Ulterine Septal Resection",
+            "Endometrial/Dermoid Cyctectomy",
+            "Surgical Sperm Retrieval"
+        ],
+        "International_Patients": [
+            "online Consultation",
+            "Planning Your Visit",
+            "Price Estimation",
+            "Contact Details"
+        ],
+        "Resources": [
+            "Knowledge Base",
+            "FAQs",
+            "Community",
+            "Blogs"
+        ]
+    }
+}
