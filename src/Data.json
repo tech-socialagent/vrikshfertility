@@ -1,6 +1,6 @@
 {
     "header": {
-        "header_icon":"",
+        "header_icon":"PurpleLogo.svg",
         "nav_items":["About Us","Our Services","Fertility Preservation","Surgeries","Third Party Services","Resources"],
         "nav_btns":["Contact Us","Book Now"]
     },
