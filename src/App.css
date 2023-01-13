@@ -1,8 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Lexend+Deca:100,200,300,regular,500,600,700,800,900);
+
 :root{
-
+  /* colors */
+  --primary-color: #772C77;
+  --secondary-color: #DBB13B;
+  --secondary-color-light: #D4B352;
+  --green-color: #56BDB4;
+  --green-bold: #21CEBF;
+  --light-color: #F3EBF3;
+  --bold-color: #121820;
+  --black-color: #000000;
+  --white-color: #ffffff;
 }
-
 html{
   width: 100%;
   box-sizing: border-box;

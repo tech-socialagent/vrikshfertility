@@ -17,7 +17,7 @@ const Navbar = () => {
     <div className="Nav_body">
       <div className="app_logo">
         <a href="/">
-          <img src={Logo} alt="logo" />
+          <img src={require("../assests/svgs/"+Data.header.header_icon)} alt="logo" />
         </a>
       </div>
 

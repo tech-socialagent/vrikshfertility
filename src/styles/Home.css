@@ -1,0 +1,55 @@
+.home_section{
+    display: grid;
+    grid-template-columns: 1.7fr 1fr;
+}
+.home_content{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: flex-start;
+    padding: 50px;
+}
+.home_icons img{
+    height: 60px;
+    width: 60px;
+    margin: 0px 5px;
+}
+.home_brandname{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 22px;
+    color: var(--primary-color);
+}
+.home_content h2{
+    font-weight: 500;
+    color: var(--secondary-color-light);
+    font-size: 40px;
+    margin: 10px 0px;
+}
+.home_content p{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+    margin: 10px 0px;
+    color: var(--black-color);
+}
+.home_book_app{
+    border-radius: 30px;
+    color: var(--white-color);
+    background-color: var(--primary-color);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    align-items: center;
+    padding: 10px 50px;
+    width: fit-content;
+    margin: 20px 0px;
+}
+.home_banner_img img{
+    height: 80vh;
+    width: 100%;
+}
+.titleclr{
+    color: var(--black-color);
+}

@@ -43,8 +43,9 @@
             "section_brand_name": "Vriksh Fertility",
             "section_headline": "Fertility Care - Your Journey Towards A Loving Parenthood",
             "section_desc": "We solve all your fertility core needs by providing personilised & holistic fertility care",
-            "section_btn_tex": "Book Appointment",
-            "section_banner_image": ""
+            "section_btn_text": "Book Appointment",
+            "section_banner_image": "",
+            "section_icons":["FEMALE EGGS ( 60x60).png","SPERMS(60x60).png","FEMALE EGGS ( 60x60).png","SPERMS(60x60).png"]
         },
         "Doctor_section": {
             "section_title": "",
