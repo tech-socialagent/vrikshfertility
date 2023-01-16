@@ -34,7 +34,7 @@
     margin: 10px 0px;
     color: var(--black-color);
 }
-.home_book_app{
+.home_book_app,.btn{
     border-radius: 30px;
     color: var(--white-color);
     background-color: var(--primary-color);

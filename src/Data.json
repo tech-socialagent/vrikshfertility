@@ -48,16 +48,17 @@
             "section_icons":["FEMALE EGGS ( 60x60).png","SPERMS(60x60).png","FEMALE EGGS ( 60x60).png","SPERMS(60x60).png"]
         },
         "Doctor_section": {
-            "section_title": "",
-            "section_video": "",
+            "section_title": "Meet Our Doctor",
+            "section_video": "Frame 52.png",
             "Doctors_detail": [
                 {
                     "name": "Dr. Sneha Shetty",
+                    "photo":"pngwing.com.png",
                     "experience": "12",
                     "designation": [
                         "Gynoecologist",
-                        "loparoscopic Surgeon",
-                        "infertility Specialist"
+                        "Loparoscopic Surgeon",
+                        "Infertility Specialist"
                     ],
                     "media_links": [
                         "facebooklink",
