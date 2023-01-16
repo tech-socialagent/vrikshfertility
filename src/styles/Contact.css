@@ -1,0 +1,46 @@
+.contact{
+    background-color: #F8F8F8;
+}
+.contact_body {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  column-gap: 10px;
+ 
+}
+.contact_map iframe {
+  border: 0;
+  height: 100%;
+  width: 100%;
+
+  
+}
+.timings {
+  width: 300px;
+  text-align: center;
+  color: white;
+}
+
+.time_heading{
+    padding: 10px 40px;
+    font-size: 18px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background: linear-gradient(90.24deg, #772C77 2.19%, rgba(15, 15, 15, 0.95) 97.39% );
+}
+.workinghours,.contact_details{
+    background-color: #121820;
+    padding: 20px;
+}
+.contact_details{
+    border-top: 1px solid #EEEEEE;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 20px 0 40px 0;
+}
+.time_sub_heading{
+    font-size: 18px;
+}
+.main_time{
+    color: var(--secondary-color);
+    padding: 5px 0;
+}
