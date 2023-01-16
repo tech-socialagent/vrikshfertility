@@ -66,22 +66,23 @@
   transform: scale(1.1, 1.1);
 }
 
-.get_quote_btn:hover {
-  color: var(--white-color);
-  background-color: var(--primary-color);
-  border-color: var(--primary-color);
-}
 
-.get_quote_btn {
+
+.get_quote_btn a{
   text-decoration: none;
-  font-size: var(--text-regular);
-  font-weight: var(--weight-medium);
+  color: white;
+}
+.get_quote_btn {
   margin: 0px 5px;
   padding: 5px 10px;
-  color: white;
   background: #772c77;
   border: 1px solid #772c77;
   border-radius: 20px;
+}
+.get_quote_btn:hover a {
+  color: var(--secondary-color) !important;
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
 }
 
 .white_bg {
