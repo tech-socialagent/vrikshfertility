@@ -1,6 +1,7 @@
 .home_section{
     display: grid;
-    grid-template-columns: 1.7fr 1fr;
+    grid-template-columns: 1.5fr 1fr;
+    height: 100vh;
 }
 .home_content{
     display: flex;
@@ -47,7 +48,7 @@
     margin: 20px 0px;
 }
 .home_banner_img img{
-    height: 80vh;
+    height: 100%;
     width: 100%;
 }
 .titleclr{

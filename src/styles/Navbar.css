@@ -1,12 +1,13 @@
 .Nav_body {
   
-  height: 90px;
+  height: 80px;
+  width: 100%;
 
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* position: fixed; */
-  margin: 10px 5px;
+  position: fixed;
+  margin: 8px 5px;
   padding: 0px 20px;
   z-index: 100;
 
@@ -42,6 +43,7 @@
   list-style: none;
   font-weight: var(--weight-regular);
   font-size: var(--text-regular);
+  
 }
 .nav_item{
   margin: 0px 10px;
@@ -54,8 +56,6 @@
 
 .nav_items {
   display: flex;
-  
-  /* margin-right: 40px; */
 }
 
 .nav_items li:hover a {
