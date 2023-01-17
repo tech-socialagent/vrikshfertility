@@ -5,7 +5,7 @@ import TestimonialsCard from "./TestimonialsCard";
 
 function Testimonials() {
   return (
-    <section className="testimonials-main">
+    <section className="testimonials-main" id="testimonials">
       <div className="testimonials-background">
         <img src={TestimonialsBackground} alt="" />
       </div>

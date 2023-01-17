@@ -27,17 +27,17 @@ const Navbar = () => {
 
       <div className="nav_menu">
         <ul className="nav_items">
-          {Data.header.nav_items.map((item) => {
+          {Data.header.nav_items.map((item,index) => {
             return (
-              <li className="nav_item">
+              <li key={index} className="nav_item">
                 <a href={"#"+item.id}>{item.title}</a>
               </li>
             );
           })}
           {/* action buttons */}
-          {Data.header.nav_btns.map(item=>{
+          {Data.header.nav_btns.map((item,index)=>{
             return (
-                <li className="nav_item nav_btns get_quote_btn">
+                <li key={index} className="nav_item nav_btns get_quote_btn">
                     <a href={"#"+item.id}>{item.title}</a>
                 </li>
             )
