@@ -4,7 +4,6 @@
 }
 .about{
   background-color: #F8F8F8;
-
 }
 .background{
   position: absolute;
@@ -77,8 +76,8 @@
 }
 .doc_desig{
   font-size: 14px;
-  font-weight: 300;
-  line-height: 16px;
+  font-weight: 400;
+  line-height: 20px;
   color: rgba(0, 0, 0, 0.8);
 }
 .social_media_links{
@@ -115,7 +114,8 @@
   font-weight: 300;
   font-size: 16px;
   line-height: 20px;
-  color: #080111;;
+  color: #080111;
+  margin: 20px 0px;
 }
 .doc_knowmore_btn{
   margin: 0px auto;

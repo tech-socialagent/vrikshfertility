@@ -5,6 +5,7 @@ import About from './components/About'
 import Contact from './components/Contact';
 import Benefits from './components/Benefits';
 import Choose from './components/Choose';
+import Testimonials from './components/Testimonials';
 
 function App() {
   return (
@@ -14,8 +15,8 @@ function App() {
       <About/>
       <Benefits/>
       <Choose/>
+      <Testimonials/>
       <Contact/>
-
     </div>
   );
 }

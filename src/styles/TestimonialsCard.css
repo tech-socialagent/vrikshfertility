@@ -1,76 +1,31 @@
-.testimonialsCard {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.test_card {
+  margin: 10px;
+  border-radius: 20px;
+  padding: 24px;
+  color: var(--white-color);
 }
-
-.testimonialsCard-Main {
-    display: flex;
-    align-items: left;
-    justify-content: center;
-    flex-direction: column;
-    padding: 0px 20px 20px 20px;
-    width: 40%;
-    border-radius: 20px;
-    background-color: #DBB13B;
-    color: white;
+.test_user {
+  display: flex;
+  align-items: center;
+  margin: 10px 0px;
 }
-
-.testimonialsCard-dec {
-    font-size: 24px;
-    font-weight: 300;
-    line-height: 30px;
-    letter-spacing: 0em;
+.test_user img {
+  height: 40px;
+  width: 40px;
+  margin: 5px;
 }
-
-.testimonials-About {
-    display: flex;
-    justify-content: left;
-    align-items: left;
+.user_name {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
 }
-
-.testimonials-Image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.user_prof {
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 18px;
 }
-
-.testimonials-Image img {
-    height: 52px;
-    width: 52px;
-    z-index: 1;
-    margin-top: 40px;
-}
-
-.testimonialsCard-name {
-    margin-left: 60px;
-}
-
-.testimonialsCard-name,
-.testimonialsCard-age {
-    font-size: 24px;
-    font-weight: 600;
-    line-height: 0px;
-}
-
-.testimonialsCard-degig {
-    font-size: 14px;
-    font-weight: 200;
-    line-height: 0px;
-    margin-left: 60px;
-}
-@media screen and (max-width:360px) {
-    .testimonialsCard-Main {
-        display: flex;
-        align-items: left;
-        justify-content: center;
-        flex-direction: column;
-        padding: 0px 20px 20px 20px;
-        width: 90%;
-        border-radius: 20px;
-        background-color: #DBB13B;
-        color: white;
-    }
-    
-    
+.test_desc {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 25px;
 }

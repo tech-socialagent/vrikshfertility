@@ -1,32 +1,24 @@
 import Data from "../Data.json";
-import "../Styles/TestimonialsCard.css";
-import TestimonialsCardPhoto from '../Assets/Photos/TestimonialsCardPhoto.png'
-function TestimonialsCard() {
+import "../styles/TestimonialsCard.css";
+
+function TestimonialsCard({ desc, pic, name, age, prof,clr }) {
   return (
-    <section className="testimonialsCard">
-    <div className="testimonialsCard-Main">
-      <div className="testimonialsCard-dec">
-        <p>
-          {Data.landingPage.testimonials_section.reviews_item[0].review_text}
-        </p>
+    <div className="test_card" style={{"backgroundColor": clr}}>
+      <div className="test_desc">{desc}</div>
+      <div className="test_user">
+        <img
+          src={require("../assests/Icons/" + pic)}
+          alt=""
+          className="user_pic"
+        />
+        <div className="test_user_detail">
+          <div className="user_name">
+            {name} , {age}
+          </div> 
+          <div className="user_prof">{prof}</div>
+        </div>
       </div>
-
-      <div className="testimonials-About">
-      <div className="testimonials-Image">
-      <img src={TestimonialsCardPhoto} alt="" />
-
-      </div>
-        <p className="testimonialsCard-name">
-          {Data.landingPage.testimonials_section.reviews_item[0].name},
-        </p>
-        <p className="testimonialsCard-age"> {Data.landingPage.testimonials_section.reviews_item[0].age}</p>
-      </div>
-      <p className="testimonialsCard-degig">
-          {Data.landingPage.testimonials_section.reviews_item[0].profession}
-        </p>
-    
-</div>
-    </section>
+    </div>
   );
 }
 export default TestimonialsCard;

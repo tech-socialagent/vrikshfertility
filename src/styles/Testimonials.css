@@ -1,74 +1,15 @@
-.testimonials-background {
-    display: flex;
-    justify-content: right;
-    align-items: right;
+.testimonials .section_subtitle{
+    text-align: center;
 }
-
-.testimonials-main img {
-    height: 100vh;
-    width: 50%;
-    z-index: -1;
-    margin-left: 40px;
+.testimonial_cards{
+    display: flex;
+}
+.testimonial_body{
+    position: relative;
+    z-index: 10;
+}
+.testimonials .background{
     position: absolute;
-}
-
-.testimonials-heading {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    line-height: 0px;
-}
-
-.testimonials-heading h1 {
-    font-size: 48px;
-    font-weight: 500;
-}
-
-.testimonials-heading p {
-    font-size: 32px;
-    font-weight: 400;
-    color: #6E3173;
-}
-
-.testimonialsCard-parent {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.changing-btn {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.changing-btn button {
-    height: 6px;
-    width: 60px;
-    margin: 30px 20px 0px 0px;
-    border: none;
-    border-radius: 20px;
-}
-
-.changing-btn button:active {
-    background-color: #DBB13B;
-}
-@media screen and (max-width:360px) {
-    .testimonials-heading {
-        display: flex;
-    }
-    
-    .testimonials-heading h1{
-font-size: 32px;
-    }
-    .testimonials-heading p{
-font-size: 22px;
-    }
-    .changing-btn button {
-        margin: 30px -5px 0px 0px;
-        border: none;
-        border-radius: 20px;
-    }
-    
+    bottom: 0;
+    z-index: 1;
 }

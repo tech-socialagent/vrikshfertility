@@ -471,29 +471,37 @@
             "section_title": "Testimonials",
             "section_desc": "What Our Client Say About Vriksh",
             "reviews_item": [
-                {
+                {   
                     "name": "Sneha paul",
                     "age": "28",
                     "profession": "Director of Marketing & Design of Tots & Teens",
-                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!"
+                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!",
+                    "picUrl":"sneha.png",
+                    "color":"#DBB13B"
                 },
                 {
                     "name": "Sneha paul",
                     "age": "28",
                     "profession": "Director of Marketing & Design of Tots & Teens",
-                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!"
+                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!",
+                    "picUrl":"sneha.png",
+                    "color":"#57BEB5"
                 },
                 {
                     "name": "Sneha paul",
                     "age": "28",
                     "profession": "Director of Marketing & Design of Tots & Teens",
-                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!"
+                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!",
+                    "picUrl":"sneha.png",
+                    "color":"#DBB13B"
                 },
                 {
                     "name": "Sneha paul",
                     "age": "28",
                     "profession": "Director of Marketing & Design of Tots & Teens",
-                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!"
+                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!",
+                    "picUrl":"sneha.png",
+                    "color":"#57BEB5"
                 }
             ]
         },
