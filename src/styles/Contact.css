@@ -1,5 +1,6 @@
 .contact{
     background-color: #F8F8F8;
+    padding: 0px 30px;
 }
 .contact_body {
   display: grid;
@@ -11,7 +12,6 @@
   border: 0;
   height: 100%;
   width: 100%;
-
   
 }
 .timings {

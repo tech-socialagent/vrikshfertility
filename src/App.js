@@ -6,6 +6,7 @@ import Contact from './components/Contact';
 import Benefits from './components/Benefits';
 import Choose from './components/Choose';
 import Testimonials from './components/Testimonials';
+import Articles from './components/Articles';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Benefits/>
       <Choose/>
       <Testimonials/>
+      <Articles/>
       <Contact/>
     </div>
   );
