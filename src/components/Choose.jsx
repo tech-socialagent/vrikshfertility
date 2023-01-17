@@ -1,55 +1,30 @@
 import Data from "../Data.json";
-import "../Styles/Choose.css";
+import "../styles/Choose.css";
 function Choose() {
   return (
-    <div className="Choose-main">
-      <div className="choose-text-part">
-        <h1>{Data.landingPage.choose_us_section.section_title}</h1>
-        <p className="choose-reason">
+    <section className="section choose" id="choose">
+      <img src={require("../assests/Photos/"+Data.landingPage.choose_us_section.section_image)} alt="" className="choose_back_vdo" />
+      <div className="choose_body">
+        <div>
+        <h2 className="section_title">
+          {Data.landingPage.choose_us_section.section_title}
+        </h2>
+        <div className="section_subtitle">
           {Data.landingPage.choose_us_section.section_desc}
-        </p>
-        <section className="choose-quality-part">
-          <div>
-            <h1>
-              {Data.landingPage.choose_us_section.key_factors[0].item_title}
-            </h1>
-            <p>{Data.landingPage.choose_us_section.key_factors[0].item_desc}</p>
-          </div>
-          <div>
-            <h1>
-              {Data.landingPage.choose_us_section.key_factors[1].item_title}
-            </h1>
-            <p>{Data.landingPage.choose_us_section.key_factors[1].item_desc}</p>
-          </div>
-        </section>
-
-        <section className="choose-quality-part2">
-          <div>
-            <h1>
-              {Data.landingPage.choose_us_section.key_factors[2].item_title}
-            </h1>
-            <p>{Data.landingPage.choose_us_section.key_factors[2].item_desc}</p>
-          </div>
-          <div>
-            <h1>
-              {Data.landingPage.choose_us_section.key_factors[3].item_title}
-            </h1>
-            <p>{Data.landingPage.choose_us_section.key_factors[3].item_desc}</p>
-          </div>
-        </section>
+        </div>
+        <div className="key_factors">
+          {Data.landingPage.choose_us_section.key_factors.map((item,index)=>{
+            return <div key={index} className="keycards">
+              <div className="card_heading">{item.item_title}</div>
+              <div className="card_desc">{item.item_desc}</div>
+            </div>
+          })}
+        </div>
+        </div>
+        <div></div>
       </div>
-      <div className="choose-video-part">
-        {/* <video>
-                <sourse src="video"/>
-                </video> */}
-        {/* <img src="../Assets/Photos/baby-parents.jpg" alt=""/> */}
-        <img
-          src={require("../Assets/Photos/choose-us.jpg")}
-          alt=""
-          className="benefits-image"
-        />
-      </div>
-    </div>
+      
+    </section>
   );
 }
 export default Choose;
