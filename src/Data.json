@@ -45,7 +45,7 @@
             "section_desc": "We solve all your fertility core needs by providing personilised & holistic fertility care",
             "section_btn_text": "Book Appointment",
             "section_banner_image": "",
-            "section_icons":["FEMALE EGGS ( 60x60).png","SPERMS(60x60).png","FEMALE EGGS ( 60x60).png","SPERMS(60x60).png"]
+            "section_icons":["maleSperm.png","femaleEgg.png","maleSperm.png","femaleEgg.png"]
         },
         "Doctor_section": {
             "section_title": "Meet Our Doctor",
@@ -75,18 +75,22 @@
             "section_title": "Benefits With Vriksh",
             "benefits_items": [
                 {
+                    "item_image":"maleSperm.png",
                     "item_title": "Qualified Doctors",
                     "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 },
                 {
+                    "item_image":"femaleEgg.png",
                     "item_title": "Qualified Doctors",
                     "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 },
                 {
+                    "item_image":"maleSperm.png",
                     "item_title": "Qualified Doctors",
                     "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 },
                 {
+                    "item_image":"femaleEgg.png",
                     "item_title": "Qualified Doctors",
                     "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                 }

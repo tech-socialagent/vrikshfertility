@@ -1,3 +1,7 @@
+.testimonials-main{
+    height: 100vh;
+    width: 100%;
+}
 .testimonials-background {
     display: flex;
     justify-content: right;
@@ -17,7 +21,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    line-height: 0px;
+    line-height: 80px;
 }
 
 .testimonials-heading h1 {

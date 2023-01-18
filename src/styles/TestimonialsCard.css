@@ -9,7 +9,7 @@
     align-items: left;
     justify-content: center;
     flex-direction: column;
-    padding: 0px 20px 20px 20px;
+    padding: 0px 20px 40px 20px;
     width: 40%;
     border-radius: 20px;
     background-color: #DBB13B;
@@ -17,9 +17,9 @@
 }
 
 .testimonialsCard-dec {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 300;
-    line-height: 30px;
+    /* line-height: 60px; */
     letter-spacing: 0em;
 }
 
@@ -50,14 +50,14 @@
 .testimonialsCard-age {
     font-size: 24px;
     font-weight: 600;
-    line-height: 0px;
+    line-height: 80px;
 }
 
 .testimonialsCard-degig {
     font-size: 14px;
     font-weight: 200;
-    line-height: 0px;
     margin-left: 60px;
+    margin-top: -20px;
 }
 @media screen and (max-width:360px) {
     .testimonialsCard-Main {

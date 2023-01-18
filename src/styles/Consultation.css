@@ -1,0 +1,67 @@
+.consultation-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.consultion-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #ffff;
+    padding: 60px 40px 20px 40px;
+    box-shadow: 1px 5px 12px 2px gray;
+    margin-right: -40px;
+    margin-top: -20px;
+    background-image: url('../assests/svgs/web-01.svg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.consultion-form h1{
+font-size: 48px;
+font-weight: 600;
+line-height: 39px;
+letter-spacing: 0px;
+text-align: center;
+color: #772C77;
+margin-top: -20px;
+padding-bottom: 20px;
+}
+.consultion-form input, select{
+    height: 48px;
+width: 390px;
+border-radius: 10px;
+margin-top: 10px;
+padding-left: 20px;
+border: 1px solid gray;
+}
+.consultion-form button{
+    height: 48px;
+width: 297px;
+border-radius: 30px;
+background-color: #772C77;
+color: white;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+border: none;
+margin-top: 10px;
+}
+.consultion-form-img img{
+height: 528px;
+width: 781px;
+border-radius: 20px;
+
+}
+@media screen and (max-width:360px) {
+    .consultation-main{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+
+}

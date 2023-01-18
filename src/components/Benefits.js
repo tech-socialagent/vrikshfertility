@@ -1,5 +1,5 @@
 import Data from "../Data.json";
-import "../Styles/Benefits.css";
+import '../styles/Benefits.css'
 function Benefits() {
   // let data=require('../Data.json');
 
@@ -22,7 +22,7 @@ function Benefits() {
                 <div className="benefits-card">
                   <div>
                     <img
-                      src={require("../Assets/Photos/" + item.item_image)}
+                      src={require("../assests/Icons/" + item.item_image)}
                       alt=""
                       className="benefits-image"
                     />

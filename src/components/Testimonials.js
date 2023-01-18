@@ -1,6 +1,6 @@
-import "../Styles/Testimonials.css";
+import '../styles/Testimonials.css';
 import Data from "../Data.json";
-import TestimonialsBackground from "../Assets/SVG/TestimonialsBackground.svg";
+import TestimonialsBackground from "../assests/svgs/TestimonialsBackground.svg";
 import TestimonialsCard from "./TestimonialsCard";
 
 function Testimonials() {

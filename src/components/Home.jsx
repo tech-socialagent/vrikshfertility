@@ -12,7 +12,7 @@ const Home = () => {
             <div className="home_book_app">{Data.landingPage.Banner_Section.section_btn_text}</div>
             <div className="home_icons">
             {Data.landingPage.Banner_Section.section_icons.map(item=>{
-                return <img key={img++} src={require("../assests/Icons/"+item)}/>
+                return <img key={img++} src={require("../assests/Icons/"+item)} alt=""/>
             })}
             </div>
         </div>
@@ -23,4 +23,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home;

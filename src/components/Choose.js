@@ -1,10 +1,10 @@
 import Data from "../Data.json";
-import "../Styles/Choose.css";
+import '../styles/Choose.css';
 function Choose() {
   return (
     <div className="Choose-main">
       <div className="choose-text-part">
-        <h1>{Data.landingPage.choose_us_section.section_title}</h1>
+        <h1 className="choose-us-title">{Data.landingPage.choose_us_section.section_title}</h1>
         <p className="choose-reason">
           {Data.landingPage.choose_us_section.section_desc}
         </p>
@@ -44,7 +44,7 @@ function Choose() {
                 </video> */}
         {/* <img src="../Assets/Photos/baby-parents.jpg" alt=""/> */}
         <img
-          src={require("../Assets/Photos/choose-us.jpg")}
+          src={require("../assests/Photos/choose-us.jpg")}
           alt=""
           className="benefits-image"
         />
