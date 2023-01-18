@@ -1,4 +1,19 @@
+.articles{
+    padding: 30px 50px;
+    background-color: var(--primary-color);
+}
 .articles .section_subtitle{
     text-align: center;
     color: var(--secondary-color);
+}
+.articles .section_title{
+    color: var(--white-color);
+    padding: 10px;
+}
+.articles .section_body{
+    margin: 40px 0px;
+}
+.article_items{
+    display: flex;
+    justify-content: space-between;
 }

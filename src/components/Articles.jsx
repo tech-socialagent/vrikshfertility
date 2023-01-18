@@ -1,5 +1,6 @@
 import '../styles/Articles.css';
 import Data from '../Data.json';
+import Article_card from './Article_card';
 
 const Articles = () => {
   return (
@@ -9,7 +10,11 @@ const Articles = () => {
             <div className="section_subtitle">{Data.landingPage.article_section.section_desc}</div>
             <div className="section_body">
                 <div className="article_items">
-                    
+                      {Data.landingPage.article_section.articles.map((item,index)=>{
+                        return <div className="arItems" key={index}>
+                          <Article_card title={item.title} img={item.img} user={item.postby} desc={item.desc} time={item.date} arlink={item.more_link} />
+                        </div>
+                      })}
                 </div>
             </div>
         </div>

@@ -1,0 +1,40 @@
+.article_title{
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: 400;
+    margin: 10px 10px;
+    color: var(--black-color);
+}
+.article_upload_dt{
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 1px solid #EEEEEE;
+}
+.article_card{
+    width: 350px;
+    background-color: var(--white-color);
+    border-radius: 20px;
+}
+
+.article_card img{
+    width: 350px;
+    height: auto;
+}
+.article_time,.article_by,.article_desc{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 10px 10px;
+    color: var(--black-color);
+}
+.article_desc{
+    font-weight: 400;
+}
+.article_readmore{
+    text-align: center;
+    padding: 10px 0px;
+}
+.article_readmore a{
+    font-weight: 500;
+    text-decoration: none;
+}
