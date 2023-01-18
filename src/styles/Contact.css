@@ -16,7 +16,9 @@
 }
 .timings {
   width: 300px;
+  padding: 30px 40px;
   text-align: center;
+  margin: 0px auto;
   color: white;
 }
 
