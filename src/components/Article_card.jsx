@@ -11,8 +11,8 @@ const Article_card = ({ img, title, desc, time, user, arlink }) => {
       />
       <div className="article_title">{title}</div>
       <div className="article_upload_dt">
-        <div className="article_time"><FaCalendar/> {time}</div>
-        <div className="article_by"><FaUser/> {user}</div>
+        <div className="article_time"><FaCalendar className="icon"/> {time}</div>
+        <div className="article_by"><FaUser className="icon"/> {user}</div>
       </div>
       <div className="article_desc">{desc}</div>
       <div className="article_readmore">

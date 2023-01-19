@@ -29,7 +29,7 @@ function Testimonials() {
           {Data.landingPage.testimonials_section.reviews_item.map(
             (item, index) => {
               return (
-                <div>
+                <div key={index}>
                 <TestimonialsCard
                   desc={item.review_text}
                   name={item.name}

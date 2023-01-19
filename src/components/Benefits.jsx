@@ -11,9 +11,9 @@ function Benefits() {
         <div className="section_body">
           <div className="colorDot1"></div>
           <div className="benefits_items">
-            {Data.landingPage.Benefits_section.benefits_items.map((item) => {
+            {Data.landingPage.Benefits_section.benefits_items.map((item,index) => {
               return (
-                <div className="benefits-card">
+                <div className="benefits-card" key={index}>
                   <div>
                     <img
                       src={require("../assests/Icons/" + item.item_image)}

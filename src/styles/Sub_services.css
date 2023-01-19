@@ -1,0 +1,42 @@
+.sub_compo{
+    background-color: var(--secondary-color);
+    border-radius: 20px;
+    padding: 40px 40px 0 40px;
+}
+.sub_compo .sub_service{
+    position: relative;
+    top: -80px;
+}
+.compo_header{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align: center;
+    column-gap: 50px;
+}
+.compo_nav_items{
+    background-color: #121820;
+    border-radius: 20px;
+    font-size: 22px;
+    font-weight: 500;
+    padding: 40px 20px ;
+    
+}
+.compo_nav_items a{
+    text-decoration: none;
+    color: var(--white-color);
+}
+
+.compo_title{
+    font-weight: 500;
+    font-size: 30px;
+    color: #ffffff;
+    margin: 20px 0px;
+}
+.compo_desc,.compo_keyfactors li{
+    font-weight: 300;
+    font-size: 18px;
+}
+.compo_keyfactors{
+    color: #ffffff;
+    margin: 30px 20px;
+}

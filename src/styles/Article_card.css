@@ -10,6 +10,9 @@
     justify-content: space-evenly;
     border-bottom: 1px solid #EEEEEE;
 }
+.article_upload_dt .icon{
+    color: var(--secondary-color);
+}
 .article_card{
     width: 350px;
     background-color: var(--white-color);

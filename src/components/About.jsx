@@ -37,8 +37,8 @@ const Doctors = () => {
                   {Data.landingPage.Doctor_section.Doctors_detail[0].name}
                 </h4>
                 {Data.landingPage.Doctor_section.Doctors_detail[0].designation.map(
-                  (item) => {
-                    return <div className="doc_desig">{item}</div>;
+                  (item,index) => {
+                    return <div className="doc_desig" key={index}>{item}</div>;
                   }
                 )}
                 <div className="social_media_links">
