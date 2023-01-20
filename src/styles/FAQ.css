@@ -1,0 +1,88 @@
+.FAQ-main {
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    padding: 50px 0px;
+    /* margin: ; */
+}
+
+.FAQ-left {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex: 50%;
+    padding-left: 40px;
+}
+
+.FAQ-left p {
+    align-items: flex-start;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.FAQ-left h1 {
+    font-size: 48px;
+    font-weight: 600;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+/* .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  } */
+  
+
+.FAQ-right {
+    flex: 50%;
+    background-image: url('../assests/Photos/aboutbackg.png');
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: top;
+    position: relative;
+    padding-top: 100px;
+}
+
+.FAQ-right img {
+    height: 263px;
+    width: 263px;
+    border-radius: 0px;
+    border-radius: 50%;
+    border: 2px solid #D4B352;
+    position: absolute;
+    right: 90px;
+}
+
+.FAQ-right-baby-img1 {
+    left: 70px;
+    z-index: 1;
+    top: 35%;
+}

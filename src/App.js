@@ -8,7 +8,8 @@ import Choose from '../src/components/Choose';
 import Testimonials from './components/Testimonials';
 import ArticlesCard from './components/ArticlesCard';
 import Consultation from './components/Consultation';
-
+import AboutDr from './components/AboutDr';
+import Faq from './components/Faq';
 function App() {
   return (
     <div className="App">
@@ -19,8 +20,11 @@ function App() {
       <Testimonials/>
       <ArticlesCard/>
       <Consultation/>
+      <AboutDr/>
+      <Faq/>
       <About/>
       <Contact/>
+      
     </div>
   );
 }
