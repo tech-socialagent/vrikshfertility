@@ -25,10 +25,7 @@ const Services = () => {
           </div>
           <div className="services_details">
             <Switch>
-              {/* <Route exact path={Data.landingPage.services_section.services[0].service_title.toLowerCase()}>
-              <Sub_services ser_data={Data.landingPage.services_section.services[0]} />
-              </Route> */}
-
+              
               {Data.landingPage.services_section.services.map((item, index) => {
                 return (
                   <Route
