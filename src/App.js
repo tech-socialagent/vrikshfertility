@@ -10,6 +10,7 @@ import ArticlesCard from './components/ArticlesCard';
 import Consultation from './components/Consultation';
 import AboutDr from './components/AboutDr';
 import Faq from './components/Faq';
+import Treatments from './components/Treatments';
 function App() {
   return (
     <div className="App">
@@ -22,6 +23,7 @@ function App() {
       <Consultation/>
       <AboutDr/>
       <Faq/>
+      <Treatments/>
       <About/>
       <Contact/>
       
