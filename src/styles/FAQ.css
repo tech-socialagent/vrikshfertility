@@ -2,7 +2,8 @@
     display: grid;
     grid-template-columns: 1fr 1.2fr;
     padding: 50px 0px;
-    /* margin: ; */
+    height: 100vh;
+    width: 100%;
 }
 
 .FAQ-left {
@@ -23,43 +24,74 @@
     font-size: 48px;
     font-weight: 600;
 }
-.dropdown {
+select {
+    height: 40px;
+    width: 250px;
+}
+.dropbtn, .dropbtn2,.dropbtn3 {
+   background-color: #DBB13B;
+height: 60px;
+width:400px;
+border-radius: 10px;
+font-size: 22px;
+font-weight: 600;
+color: white;
+border: none;
+z-index: 11;
+box-shadow:  0px 8px 16px 0px rgba(0,0,0,0.2);
+margin-bottom: 10px;
+  } 
+  .dropdown {
     position: relative;
     display: inline-block;
   }
   
-  .dropdown-content {
+  .dropdown-content, .dropdown-content2,.dropdown-content3 {
     display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    padding: 12px 16px;
-    z-index: 1;
-  }
-  .dropdown:hover .dropdown-content {
-    display: block;
+    overflow: auto;
+    box-shadow:  0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: -1;
+    width:400px;
+    border-radius: 10px;
+    padding: 10px;
   }
 
-/* .dropdown {
-    position: relative;
-    display: inline-block;
+  .dropdown-content p, .dropdown-content2 p, .dropdown-content3 p {
+    color: black;
   }
   
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    padding: 12px 16px;
-    z-index: 1;
-  }
+  .dropdown a:hover {
+    background-color: #ddd;
+}
   
-  .dropdown:hover .dropdown-content {
+  .show {
     display: block;
-  } */
+}
   
+.show2 {
+    display: block;
+}
+  
+.show3 {
+    display: block;
+}
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .FAQ-right {
     flex: 50%;
@@ -78,11 +110,12 @@
     border-radius: 50%;
     border: 2px solid #D4B352;
     position: absolute;
-    right: 90px;
+    right: 30px;
+    position: relative;
 }
 
 .FAQ-right-baby-img1 {
     left: 70px;
     z-index: 1;
-    top: 35%;
+    top: 30%;
 }
