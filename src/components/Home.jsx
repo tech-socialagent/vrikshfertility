@@ -6,6 +6,10 @@ const Home = () => {
   return (
     <section className="home_section" id="home">
         <div className="home_content">
+            <div className="floatingIcons">
+            <img className="floatIcon1" src={require("../assests/Icons/SPERMS(60x60).png")} alt="" />
+            <img className="floatIcon2" src={require("../assests/Icons/FEMALE EGGS ( 60x60).png")} alt="" />
+            </div>
             <div className="home_brandname">{Data.landingPage.Banner_Section.section_brand_name}</div>
             <h2 className="home_title"><span className='titleclr'>Fertility Care</span> - Your Journey Towards A Loving Parenthood</h2>
             <p className="home_desc">{Data.landingPage.Banner_Section.section_desc}</p>

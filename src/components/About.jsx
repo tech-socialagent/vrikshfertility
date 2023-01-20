@@ -4,6 +4,7 @@ import { BsInstagram } from "react-icons/bs";
 import {IoLogoWhatsapp} from 'react-icons/io'
 import { FaLinkedinIn } from "react-icons/fa";
 import "../styles/About.css";
+import { Link } from "react-router-dom";
 
 const Doctors = () => {
   return (
@@ -63,7 +64,7 @@ const Doctors = () => {
             <p className="doctor_desc">
               {Data.landingPage.Doctor_section.Doctors_detail[0].desc}
             </p>
-            <div className="doc_knowmore_btn btn">Know More</div>
+            <div className="doc_knowmore_btn btn"><Link to={"/about_doctor"}>Know More</Link></div>
           </div>
         </div>
       </div>
