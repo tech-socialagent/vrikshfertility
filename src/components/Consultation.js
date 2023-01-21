@@ -8,10 +8,10 @@ function Consultation(){
                 <h1>Need Consultation</h1>
                 <input type="text" placeholder="Name"/>
                 <input type="email" placeholder="Email ID"/>
-                <select>
+                <select className="dropdown-option">
                     <option>17/01/2023</option>
                 </select>
-                <select>
+                <select className="dropdown-option">
                     <option>10:00AM</option>
                 </select>
                 <button>Book Appointment</button>

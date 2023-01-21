@@ -14,12 +14,12 @@
     border-radius: 20px;
     background-color: #DBB13B;
     color: white;
+    margin-bottom: 30px;
 }
 
 .testimonialsCard-dec {
     font-size: 22px;
     font-weight: 300;
-    /* line-height: 60px; */
     letter-spacing: 0em;
 }
 
@@ -59,13 +59,13 @@
     margin-left: 60px;
     margin-top: -20px;
 }
-@media screen and (max-width:360px) {
+@media screen and (max-width:400px) {
     .testimonialsCard-Main {
         display: flex;
         align-items: left;
         justify-content: center;
         flex-direction: column;
-        padding: 0px 20px 20px 20px;
+        /* padding: 0px 20px 20px 20px; */
         width: 90%;
         border-radius: 20px;
         background-color: #DBB13B;

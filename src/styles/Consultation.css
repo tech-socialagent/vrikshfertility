@@ -20,15 +20,14 @@
 .consultion-form h1{
 font-size: 48px;
 font-weight: 600;
-line-height: 39px;
 letter-spacing: 0px;
 text-align: center;
 color: #772C77;
 margin-top: -20px;
 padding-bottom: 20px;
 }
-.consultion-form input, select{
-    height: 48px;
+.consultion-form input, .dropdown-option{
+height: 48px;
 width: 390px;
 border-radius: 10px;
 margin-top: 10px;
@@ -49,18 +48,35 @@ text-align: center;
 border: none;
 margin-top: 10px;
 }
-.consultion-form-img img{
-height: 528px;
-width: 781px;
+.consultation-form-img img{
+height: 475px;
+width: 680px;
 border-radius: 20px;
 
 }
-@media screen and (max-width:360px) {
+@media screen and (max-width:400px) {
     .consultation-main{
-        display: flex;
-        justify-content: center;
-        align-items: center;
         flex-direction: column;
     }
+    .consultion-form{
+border-radius: 20px;
+padding: 60px 20px 20px 20px;
+margin-right: 0px;
+
+
+}
+    .consultion-form h1{
+        font-size: 24px;
+        font-weight: 600;        
+    }
+    .consultion-form input, .dropdown-option{
+        height: 30px;
+        width: 280px;
+    }
+.consultation-form-img img{
+    height: 230px;
+    width: 380px;
+    margin-top: 20px;
+}
 
 }

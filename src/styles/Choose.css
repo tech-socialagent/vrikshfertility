@@ -44,7 +44,7 @@
     text-align: left;
 }
 .choose-quality-part p, .choose-quality-part2 p{
-padding-bottom: 50px;
+padding-bottom: 20px;
 }
 
 .choose-video-part {
@@ -56,15 +56,14 @@ padding-bottom: 50px;
     height: 100vh;
     left: 0px;
     border-radius: 0px;
-
+    box-shadow: 2px 2px 2px gray;
 }
-@media screen and (max-width:360px) {
+@media screen and (max-width:400px) {
     .Choose-main {
         display: flex;
         flex-direction: column;
     }
     .choose-text-part {
-        /* padding-left: 10px; */
         padding: 0px 20px 0px 20px;
     }
     

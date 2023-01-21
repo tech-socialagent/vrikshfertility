@@ -21,7 +21,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    line-height: 80px;
+    /* line-height: 80px; */
 }
 
 .testimonials-heading h1 {
@@ -58,7 +58,10 @@
 .changing-btn button:active {
     background-color: #DBB13B;
 }
-@media screen and (max-width:360px) {
+@media screen and (max-width:400px) {
+    .testimonials-main{
+        margin-bottom: 150px;
+    }
     .testimonials-heading {
         display: flex;
     }

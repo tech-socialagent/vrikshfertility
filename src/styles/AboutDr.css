@@ -1,9 +1,5 @@
 .about-doctor{
     display: flex;
-    /* background-image: url('../assests/svgs/web-03.svg');
-    background-size: 400px;
-    background-repeat: no-repeat;
-    background-position:right; */
 }
 .about-doc-left{
     display: flex;
@@ -12,7 +8,6 @@
     flex-direction: column;
     flex: 30%;
     padding-left: 40px;
-    /* margin-top: -200px; */
 }
 .about-doc-left img{
 height: 350px;
@@ -63,6 +58,56 @@ padding-bottom:20px;
     list-style: number;
 font-size: 18px;
 font-weight: 300;
-line-height: 28px;
+/* line-height: 28px; */
 padding-left: 40px;
+}
+@media screen and (max-width:400px) {
+    .about-doctor{
+        display: flex;
+        flex-direction: column;
+    }
+    .about-doc-left img{
+        height: 326px;
+width: 326px;
+    }
+    .about-doc-name{
+font-size: 32px;
+font-weight: 600;
+    }
+    .about-doc-desc{
+font-size: 14px;
+font-weight: 500;
+    }
+    .about-doc-social-media-links{
+        flex-direction: row;
+    }
+    .about-doc-social-media-links img{
+        height: 24px;
+        width: 24px;
+    }
+    .about-doctor-right{
+        padding: 0px 20px 0px 40px;
+
+    }
+    .about-doc-title, .about-doc-subtitle{
+        display: none;
+    }
+    .about-doc-description p{
+            font-size: 16px;
+            text-indent:9%;
+            padding-bottom: 20px;
+            font-weight: 300;
+    }
+    .about-doc-membership h1{
+font-size: 24px;
+font-weight: 500;
+    }
+    .about-doc-membership ul{
+        list-style: number;
+    font-size: 16px;
+    font-weight: 300;
+    padding-left: 0px;
+    text-align: left;
+    }
+    
 }

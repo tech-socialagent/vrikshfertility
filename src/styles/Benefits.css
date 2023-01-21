@@ -59,7 +59,7 @@ font-size: 24px;
 font-weight: 500;
 line-height: 40px;
 }
-@media screen and (max-width:360px) {
+@media screen and (max-width:400px) {
     .benefits_main{
         padding: 10px 0px 10px 0px;
         border-radius: 10px;

@@ -39,10 +39,6 @@ function Choose() {
         </section>
       </div>
       <div className="choose-video-part">
-        {/* <video>
-                <sourse src="video"/>
-                </video> */}
-        {/* <img src="../Assets/Photos/baby-parents.jpg" alt=""/> */}
         <img
           src={require("../assests/Photos/choose-us.jpg")}
           alt=""
