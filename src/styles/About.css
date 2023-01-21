@@ -1,5 +1,5 @@
 .section {
-  padding: 0px 30px 30px 30px ;
+  padding: 30px 30px 50px 30px ;
   position: relative;
 }
 .about{
@@ -119,4 +119,10 @@
 }
 .doc_knowmore_btn{
   margin: 0px auto;
+  padding: auto 0;
+}
+.doc_knowmore_btn a{
+  text-decoration: none;
+  color: var(--white-color);
+  padding: 10px 60px;
 }

@@ -21,9 +21,9 @@
     padding: 40px 20px ;
     
 }
-.compo_nav_items a{
-    text-decoration: none;
+.compo_nav_items .sub_item{
     color: var(--white-color);
+    cursor: pointer;
 }
 
 .compo_title{

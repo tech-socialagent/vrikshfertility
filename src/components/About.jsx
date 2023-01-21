@@ -64,7 +64,8 @@ const Doctors = () => {
             <p className="doctor_desc">
               {Data.landingPage.Doctor_section.Doctors_detail[0].desc}
             </p>
-            <div className="doc_knowmore_btn btn"><Link to={"/about_doctor"}>Know More</Link></div>
+            {/* <Link to={"/about_doctor"} className="doc_knowmore_btn btn">Know More</Link> */}
+            <div to={"/about_doctor"} className="doc_knowmore_btn btn"><Link to={"/about_doctor"}>Know More</Link></div>
           </div>
         </div>
       </div>
