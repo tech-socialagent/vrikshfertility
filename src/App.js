@@ -13,6 +13,7 @@ import Services from "./components/Services";
 import AboutDr from "./components/About_Doctor";
 import { useEffect } from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
+import Treatments from "./components/Treatments";
 
 function App() {
   useEffect(() => {
@@ -39,16 +40,19 @@ function App() {
             <Home />
             <About />
             <Benefits />
-            <Services />
+            {/* <Services /> */}
             <Choose />
             <Testimonials />
             <Articles />
             <Contact />
-            <Consultation />
+            {/* <Consultation />  */}
             <Footer />
           </Route>
           <Route path={"/about_doctor"}>
-            <AboutDr/>
+            <AboutDr />
+          </Route>
+          <Route path={"/treatments"}>
+            <Treatments />
           </Route>
         </Switch>
       </div>

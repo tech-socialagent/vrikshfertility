@@ -46,3 +46,18 @@
     color: var(--secondary-color);
     padding: 5px 0;
 }
+
+@media only screen and (max-width: 400px ){
+  .contact{
+    padding: 10px ;
+  }
+  .contact_body{
+    grid-template-columns: auto;
+  }
+  .contact_map iframe{
+    height: 200px;
+  } 
+  .timings{
+    padding: 10px 10px;
+  }
+}

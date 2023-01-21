@@ -3,12 +3,12 @@
   position: absolute;
   left: 40%;
   z-index: -1;
-  
 }
 .choose .section_title {
   text-align: left;
   padding: 30px 0px;
 }
+
 .section_subtitle {
   font-weight: 400;
   font-size: 32px;
@@ -43,4 +43,31 @@
   line-height: 22px;
 
   color: var(--black-color);
+}
+
+@media only screen and (max-width: 400px) {
+  .choose_body {
+    grid-template-columns: auto;
+  }
+  .key_factors {
+    grid-template-columns: auto;
+  }
+  .choose > img {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    display: none;
+  }
+
+  .choose .section_title {
+    padding: 10px 0px;
+  }
+  .section_subtitle {
+    font-size: 20px;
+    line-height: 22px;
+  }
+  .key_factors{
+    margin: 10px 0px;
+    row-gap: 10px;
+  }
 }

@@ -3,7 +3,7 @@ import Data from "../Data.json";
 import ConsultationImg from "../assests/Photos/Frame 52.png";
 function Consultation() {
   return (
-    <section className="consultation-main section">
+    <section className="consultation-main section" id="book">
       <div className="consultion">
         <form className="consultion-form">
           <h1>{Data.landingPage.consultation_section.section_title}</h1>

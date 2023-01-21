@@ -17,3 +17,23 @@
     display: flex;
     justify-content: space-between;
 }
+.single{
+    display: none;
+}
+@media only screen and (max-width: 400px) {
+    .articles{
+        padding: 10px 20px;
+    }
+    .articles .section_body{
+        margin: 20px 0px;
+    }
+    .article_items{
+        flex-wrap: wrap;
+    }
+    .multi{
+        display: none;
+    }
+    .single{
+        display: block;
+    }
+}

@@ -14,6 +14,13 @@ function Testimonials() {
     slidesToShow: 2,
     slidesToScroll: 2
   };
+  var settingsmob = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 1,
+    slidesToScroll: 1
+  };
 
   return (
     <section className="testimonials section" id="testmonials">
@@ -24,8 +31,8 @@ function Testimonials() {
         <div className="section_subtitle">
           {Data.landingPage.testimonials_section.section_desc}
         </div>
-        <div className="testimonial_cards">
-          <Slider {...settings}>
+        <div className="testimonial_cards test_multi">
+          <Slider {...settings} >
           {Data.landingPage.testimonials_section.reviews_item.map(
             (item, index) => {
               return (
@@ -43,6 +50,28 @@ function Testimonials() {
             }
           )}
           </Slider>
+          
+        </div>
+        <div className="testimonial_cards test_single">
+          <Slider {...settingsmob} >
+          {Data.landingPage.testimonials_section.reviews_item.map(
+            (item, index) => {
+              return (
+                <div key={index}>
+                <TestimonialsCard
+                  desc={item.review_text}
+                  name={item.name}
+                  age={item.age}
+                  prof={item.profession}
+                  pic={item.picUrl}
+                  clr={item.color}
+                />
+                </div>
+              );
+            }
+          )}
+          </Slider>
+          
         </div>
       </div>
       <img

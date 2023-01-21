@@ -1,0 +1,168 @@
+.Treatments-main {
+  display: grid;
+  grid-template-columns: 2fr 4fr;
+  position: relative;
+  /* column-gap: 10px; */
+  margin: 30px 40px;
+}
+.treatment > img {
+  width: 100%;
+  height: 200px;
+}
+.Treatments-left {
+  position: fixed;
+}
+.Treatments-right {
+  position: relative;
+  right: 0;
+}
+.treatments-list li {
+  list-style: none;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 40px;
+  color: #787575;
+  scroll-behavior: smooth;
+}
+.treatments-list a {
+  text-decoration: none;
+}
+.Treatments-right {
+  flex: 70%;
+}
+.treatments-title h1 {
+  font-size: 48px;
+  font-weight: 600;
+  /* line-height: 43px; */
+}
+.treatments-title p {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  color: #6e3173;
+}
+.treatments-subtitle h1 {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 29px;
+  letter-spacing: 0px;
+  /* padding-top: 100px; */
+}
+.treatments-subtitle p {
+  margin: 20px 0px 10px 0px;
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 25px;
+}
+
+/* faq */
+.FAQ-main {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  padding: 50px 0px;
+  width: 100%;
+}
+
+.FAQ-left {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex: 50%;
+  /* padding-left: 40px; */
+}
+
+.FAQ-left p {
+  align-items: flex-start;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.FAQ-left h1 {
+  font-size: 48px;
+  font-weight: 600;
+}
+select {
+  height: 40px;
+  width: 250px;
+}
+.dropbtn,
+.dropbtn2,
+.dropbtn3 {
+  background-color: #dbb13b;
+  height: 60px;
+  width: 400px;
+  border-radius: 10px;
+  font-size: 22px;
+  font-weight: 600;
+  color: white;
+  border: none;
+  z-index: 11;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+  /* margin-top: 10px; */
+}
+
+.dropdown-content,
+.dropdown-content2,
+.dropdown-content3 {
+  display: none;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: -1;
+  width: 400px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.dropdown-content p,
+.dropdown-content2 p,
+.dropdown-content3 p {
+  color: black;
+}
+
+.dropdown a:hover {
+  background-color: #ddd;
+}
+
+.show {
+  display: block;
+}
+
+.show2 {
+  display: block;
+}
+
+.show3 {
+  display: block;
+}
+
+.FAQ-right {
+  flex: 50%;
+  background-image: url("../assests/Photos/aboutbackg.png");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: top;
+  position: relative;
+  padding-top: 100px;
+}
+
+.FAQ-right img {
+  height: 263px;
+  width: 263px;
+  border-radius: 0px;
+  border-radius: 50%;
+  border: 2px solid #d4b352;
+  position: absolute;
+  right: 30px;
+  position: relative;
+}
+
+.FAQ-right-baby-img1 {
+  left: 70px;
+  z-index: 1;
+  top: 30%;
+}

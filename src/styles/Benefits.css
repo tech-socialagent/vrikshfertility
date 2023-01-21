@@ -1,6 +1,6 @@
 .benefits {
   background-color: #772c77;
-  width: 100%;
+  width: 101%;
   position: relative;
 }
 .benefits .section_title {
@@ -61,4 +61,23 @@
 .colorDot2{
     left: 80px;
     bottom: -70px;
+}
+
+@media only screen and (max-width: 400px) {
+  .benefits_items{
+    flex-wrap: wrap;
+    padding: 5px;
+  }
+  .benefits-card {
+    padding: 10px 20px;
+    background-color: #f3ebf3;
+    margin: 10px 10px;
+  }
+  .benefits .section_body{
+    margin-top: 10px;
+  }
+  .colorDot1,
+.colorDot2 {
+  display: none;
+}
 }

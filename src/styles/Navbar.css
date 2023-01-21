@@ -1,23 +1,24 @@
 .Nav_body {
-  
   height: 90px;
   width: 100%;
 
   display: flex;
   justify-content: space-between;
   align-items: center;
+
   position: fixed;
-  margin: 8px 5px;
+  margin: 8px auto;
   padding: 0px 20px;
   z-index: 100;
 
   background: linear-gradient(
     90.24deg,
     rgba(217, 217, 217, 0.4) 2.19%,
-    rgba(217, 217, 217, 0.1) 97.39% );
+    rgba(217, 217, 217, 0.1) 97.39%
+  );
 
-  box-shadow: 0px 4px 24px -1px rgba(0, 0, 0, 0.2);
-  backdrop-filter: blur(20px);
+  /* box-shadow: 0px 4px 24px -1px rgba(0, 0, 0, 0.2); */
+  backdrop-filter: blur(15px);
 
   border-radius: 40px;
 }
@@ -43,9 +44,8 @@
   list-style: none;
   font-weight: var(--weight-regular);
   font-size: var(--text-regular);
-  
 }
-.nav_item{
+.nav_item {
   margin: 0px 10px;
 }
 
@@ -66,9 +66,7 @@
   transform: scale(1.1, 1.1);
 }
 
-
-
-.get_quote_btn a{
+.get_quote_btn a {
   text-decoration: none;
   color: white;
 }
@@ -95,8 +93,10 @@
 @media only screen and (max-width: 400px) {
   .Nav_body {
     padding: 0px 10px;
-    background-color: #f3f3f3;
-    box-shadow: 0px 0px 10px 0px black;
+    /* background-color: #f3f3f3; */
+    /* box-shadow: 0px 0px 10px 0px black; */
+    /* border-radius: 30px; */
+    padding: 0px 5px;
   }
 
   .nav_menu {

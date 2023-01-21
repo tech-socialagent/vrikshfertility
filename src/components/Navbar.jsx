@@ -30,7 +30,7 @@ const Navbar = () => {
           {Data.header.nav_items.map((item,index) => {
             return (
               <li key={index} className="nav_item">
-                <a href={"#"+item.id}>{item.title}</a>
+                <HashLink to={"/#"+item.id}>{item.title}</HashLink>
               </li>
             );
           })}
@@ -38,7 +38,7 @@ const Navbar = () => {
           {Data.header.nav_btns.map((item,index)=>{
             return (
                 <li key={index} className="nav_item nav_btns get_quote_btn">
-                    <a href={"#"+item.id}>{item.title}</a>
+                    <HashLink to={"/#"+item.id}>{item.title}</HashLink>
                 </li>
             )
           })}

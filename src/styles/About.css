@@ -1,6 +1,7 @@
 .section {
   padding: 30px 30px 50px 30px ;
   position: relative;
+  width: 100%;
 }
 .about{
   background-color: #F8F8F8;
@@ -75,7 +76,7 @@
  
 }
 .doc_desig{
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 20px;
   color: rgba(0, 0, 0, 0.8);
@@ -124,5 +125,42 @@
 .doc_knowmore_btn a{
   text-decoration: none;
   color: var(--white-color);
-  padding: 10px 60px;
+  /* padding: 10px 60px; */
+}
+
+@media only screen and (max-width: 400px) {
+  .section{
+    padding: 10px;
+  }
+  .section_title {
+    padding: 0px;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 40px;
+   
+  }
+  .about .section_body{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .doctor_detail{
+    grid-template-columns: auto;
+    justify-content: center;
+    text-align: center;
+  }
+  .social_media_links{
+    justify-content: center;
+  }
+  .doctor_desc{
+    text-align: center;
+    margin: 20px;
+  }
+  .doc_image{
+    margin-top: 50px;
+  }
+  .about_video img{
+    height: 200px;
+    width: auto;
+    margin: 10px 0px;
+  }
 }
