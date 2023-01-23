@@ -61,6 +61,56 @@ font-weight: 300;
 /* line-height: 28px; */
 padding-left: 40px;
 }
+
+
+
+.about-doctor-contact{
+    display: flex;
+    margin: 0px 40px 0px 40px;
+}
+.input-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.about-doctor-form-contact h1{
+font-size: 48px;
+font-weight: 600;
+margin-bottom: 20px;
+}
+.input-section input{
+height: 48px;
+width: 350px;
+border-radius: 10px;
+margin: 0px 10px 20px 0px;
+border: 2px solid black;
+padding-left: 20px;
+}
+.about-doc-contact-form-second textarea{
+    height: 211px;
+    width: 750px;
+    border-radius: 10px;   
+    margin: 0px 10px 20px 0px ;
+    border: 2px solid black;
+    padding: 20px 0px 0px 20px;
+}
+.about-doc-contact-form-second button{
+    height: 47px;
+    width: 297px;
+    border-radius: 30px;
+    background-color: #6E3173;
+    border: none;
+    color: white;
+    
+}
+.about-doctor-form-photo img{
+height: 430px;
+width: 430px;
+border-radius: 20px;
+margin-top: 30px;
+}
+
+
 @media screen and (max-width:400px) {
     .about-doctor{
         display: flex;
@@ -109,5 +159,34 @@ font-weight: 500;
     padding-left: 0px;
     text-align: left;
     }
+    .about-doctor-contact{
+        display: flex;
+        flex-direction: column-reverse;
+        margin: 0px 40px 0px 40px;
+    }
     
+    .input-section{
+        display: flex;
+        flex-direction: column;
+    }
+    .input-section input{
+        height: 40px;
+        width: 327px;
+
+    }
+    .about-doc-contact-form-second textarea{
+        height: 160px;
+        width: 327px;
+    }
+    .about-doc-contact-form-second button{
+        height: 48px;
+        width: 297px;
+    }
+    .about-doctor-form-photo img{
+        height: 326px;
+        width: 326px;
+    }
+    
+    
+
 }
