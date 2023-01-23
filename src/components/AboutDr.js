@@ -3,10 +3,12 @@ import youtube from '../assests/Icons/youtube-3.png';
 import insta from '../assests/Icons/IG.png';
 import linkdin from '../assests/Icons/linkedin.png';
 import twitter from '../assests/Icons/Twitter.png';
-import DoctorPic from '../assests/Photos/freestocks-9UVmlIb0wJU-unsplash.jpg'
+import DoctorPic from '../assests/Photos/freestocks-9UVmlIb0wJU-unsplash.jpg';
+import ContactImg from '../assests/Photos/alvin-mahmudov-D3H1opzzq68-unsplash.jpg';
 
 function AboutDr(){
     return(
+        <>
         <section className='about-doctor'>
         <div className='about-doc-left'>
             <img src={DoctorPic} alt=''/>
@@ -59,8 +61,29 @@ function AboutDr(){
         </div>
 
 
-
         </section>
+        <div className='about-doctor-contact'>
+            <div className='about-doctor-form-contact'>
+                <h1>Contact Me</h1>
+                <form className='about-contact-form'>
+                <div className='input-section'>
+                    <input type="name" placeholder='Name'/>
+                    <input type="email" placeholder='Email ID'/>
+                    <input type="number" placeholder='Contact Number'/>
+                    <input type="name" placeholder='Subject'/>
+                    </div>
+                    <div className='about-doc-contact-form-second'>
+                    <textarea placeholder='meassage' className='contact-meassage'/>
+                    <button>Send meassage</button>
+                    </div>
+
+                </form>
+            </div>
+            <div className='about-doctor-form-photo'> 
+            <img src={ContactImg} alt=""/>
+            </div>
+        </div>
+</>
     )
 }
 export default AboutDr;
