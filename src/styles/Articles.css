@@ -36,4 +36,10 @@
     .single{
         display: block;
     }
+    .slick-next{
+        right: -20px !important;
+    }
+    .slick-prev{
+        left: -20px !important;
+    }
 }

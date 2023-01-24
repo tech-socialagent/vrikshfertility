@@ -100,7 +100,7 @@ select {
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   margin-bottom: 10px;
 }
-.dropdown {
+.dropdowntt {
   position: relative;
   display: inline-block;
   /* margin-top: 10px; */
@@ -124,7 +124,7 @@ select {
   color: black;
 }
 
-.dropdown a:hover {
+.dropdowntt a:hover {
   background-color: #ddd;
 }
 

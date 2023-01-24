@@ -167,7 +167,7 @@ function Treatments() {
             <div className="FAQ-left">
               <p>FAQ's</p>
               <h1>FAQ’s on OT - TI Treatment</h1>
-              <div class="dropdown">
+              <div class="dropdowntt">
                 <button onClick={myFunction} className="dropbtn">
                   Do you do residential work?
                 </button>

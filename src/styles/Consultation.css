@@ -57,11 +57,27 @@ select {
   width: 781px;
   border-radius: 20px;
 }
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 400px) {
   .consultation-main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     flex-direction: column;
+  }
+  .consultion-form {
+    border-radius: 20px;
+    padding: 60px 20px 20px 20px;
+    margin-right: 0px;
+  }
+  .consultion-form h1 {
+    font-size: 24px;
+    font-weight: 600;
+  }
+  .consultion-form input,
+  .dropdown-option {
+    height: 30px;
+    width: 280px;
+  }
+  .consultation-form-img img {
+    height: 230px;
+    width: 380px;
+    margin-top: 20px;
   }
 }

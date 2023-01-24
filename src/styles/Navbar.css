@@ -42,11 +42,11 @@
 
 .nav_items li {
   list-style: none;
-  font-weight: var(--weight-regular);
-  font-size: var(--text-regular);
+  font-size: 14px;
+  font-weight: 400;
 }
 .nav_item {
-  margin: 0px 10px;
+  margin: 0px 8px;
 }
 
 .nav_menu {

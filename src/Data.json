@@ -3,28 +3,320 @@
         "header_icon": "PurpleLogo.svg",
         "nav_items": [
             {
-                "title": "Home",
-                "id": "home"
-            },
-            {
                 "title": "About Us",
-                "id": "about"
+                "id": "about",
+                "submenu": [
+                    {
+                        "title": "About Vriksh"
+                    },
+                    {
+                        "title": "Why Vriksh"
+                    },
+                    {
+                        "title": "Team Mission"
+                    },
+                    {
+                        "title": "Team Value"
+                    },
+                    {
+                        "title": "Events"
+                    },
+                    {
+                        "title": "Contact Us"
+                    }
+                ]
             },
             {
-                "title": "Fertility",
-                "id": "fertility"
+                "title": "Treatments",
+                "id": "treatments",
+                "submenu": [
+                    {
+                        "title": "Third Party Reproduction",
+                        "submenu": [
+                            {
+                                "title": "Fertility Enhancing Products",
+                                "submenu": [
+                                    {
+                                        "title": "Male Neutraceuticals"
+                                    },
+                                    {
+                                        "title": "Female Neutraceuticals"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Donor Egg"
+                            },
+                            {
+                                "title": "Donor Sperm"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Fertility Treatments",
+                        "submenu": [
+                            {
+                                "title": "OI-TI"
+                            },
+                            {
+                                "title": "IUI"
+                            },
+                            {
+                                "title": "IVF"
+                            },
+                            {
+                                "title": "ICSI"
+                            },
+                            {
+                                "title": "Assisted Hatching"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Advanced Fertility Treatments",
+                        "submenu": [
+                            {
+                                "title": "ERA"
+                            },
+                            {
+                                "title": "PGT"
+                            },
+                            {
+                                "title": "Assisted Hatching"
+                            },
+                            {
+                                "title": "Blastocyst culture"
+                            },
+                            {
+                                "title": "PRP",
+                                "submenu": [
+                                    {
+                                        "title": "Blastocyst culture"
+                                    },
+                                    {
+                                        "title": "Ovarion PRP"
+                                    },
+                                    {
+                                        "title": "Endometrial PRP"
+                                    },
+                                    {
+                                        "title": "Testicular PRP"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Other Genomic Testing",
+                                "submenu": [
+                                    {
+                                        "title": "PGT-SR"
+                                    },
+                                    {
+                                        "title": "PGT-A"
+                                    },
+                                    {
+                                        "title": "Chromosomal Karyotyping"
+                                    },
+                                    {
+                                        "title": "PGT-M"
+                                    },
+                                    {
+                                        "title": "Product of Conception"
+                                    },
+                                    {
+                                        "title": "Sperm Aneuploidy Screening"
+                                    },
+                                    {
+                                        "title": "Endometrial Microbiota Analysis (EMMA/ALICE)"
+                                    },
+                                    {
+                                        "title": "Genetic Tests"
+                                    },
+                                    {
+                                        "title": "Genetic Disorders"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Female Fertility Treatments",
+                        "submenu": [
+                            {
+                                "title": "Polycystic Ovary Syndrome (PCOS)"
+                            },
+                            {
+                                "title": "Endometriosis & Adenomyosis"
+                            },
+                            {
+                                "title": "Recurrent Miscarriage"
+                            },
+                            {
+                                "title": "Extopic Pregnancy"
+                            },
+                            {
+                                "title": "Ovulation Problems"
+                            },
+                            {
+                                "title": "Ovarian Cysts"
+                            },
+                            {
+                                "title": "Menstrual Disorders"
+                            },
+                            {
+                                "title": "Fallopian Tube Obstruction"
+                            },
+                            {
+                                "title": "Cevical & Uterine Factors (Fibroids)"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Male Fertility Treatments",
+                        "submenu": [
+                            {
+                                "title": "Male disorders",
+                                "submenu": [
+                                    {
+                                        "title": "Varicocele"
+                                    },
+                                    {
+                                        "title": "Azoospermia"
+                                    },
+                                    {
+                                        "title": "Retrograde Ejaculation"
+                                    },
+                                    {
+                                        "title": "Ejaculation Problems"
+                                    },
+                                    {
+                                        "title": "Erectile Dysfuntion"
+                                    },
+                                    {
+                                        "title": "Abnormal semen analysis"
+                                    },
+                                    {
+                                        "title": "Chromosomal Disorders"
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Surgical sperm retreival",
+                                "submenu": [
+                                    {
+                                        "title": "TESA"
+                                    },
+                                    {
+                                        "title": "PESA"
+                                    },
+                                    {
+                                        "title": "MICRO TESE"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Other Conditions",
+                        "submenu": [
+                            {
+                                "title": "Unexplained Infertility"
+                            },
+                            {
+                                "title": "Thyroid Disorders"
+                            },
+                            {
+                                "title": "Vitamin D Deficiency"
+                            },
+                            {
+                                "title": "Hormone Level Imbalance"
+                            },
+                            {
+                                "title": "Obesity"
+                            },
+                            {
+                                "title": "Auto Immune Disease"
+                            },
+                            {
+                                "title": "Diabetes"
+                            },
+                            {
+                                "title": "Genetic Disorders"
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "title": "Our Services",
-                "id": "services"
+                "title": "Fertility Preservation",
+                "id": "fertility",
+                "submenu": [
+                    {
+                        "title": "Oocyte/Egg Freezing"
+                    },
+                    {
+                        "title": "Semen Freezing"
+                    },
+                    {
+                        "title": "Embryo Freezing"
+                    }
+                ]
             },
             {
                 "title": "Surgeries",
-                "id": "surgeries"
+                "id": "surgeries",
+                "submenu": [
+                    {
+                        "title": "Laparoscopy"
+                    },
+                    {
+                        "title": "Hysteroscopy"
+                    },
+                    {
+                        "title": "Myomectomy (Fibroid Removal Surgery)"
+                    },
+                    {
+                        "title": "Uterine Septal Resection"
+                    },
+                    {
+                        "title": "Endometrial/ Dermoid Cystectomy"
+                    }
+                ]
             },
             {
                 "title": "Resources",
-                "id": "resources"
+                "id": "resources",
+                "submenu": [
+                    {
+                        "title": "Knowledge base"
+                    },
+                    {
+                        "title": "FAQs"
+                    },
+                    {
+                        "title": "Community"
+                    },
+                    {
+                        "title": "Blogs"
+                    }
+                ]
+            },
+            {
+                "title": "International Patients",
+                "id": "international",
+                "submenu": [
+                    {
+                        "title": "Online Consultation"
+                    },
+                    {
+                        "title": "Planning Your Visit"
+                    },
+                    {
+                        "title": "Price Estimation"
+                    },
+                    {
+                        "title": "Contact details"
+                    }
+                ]
             }
         ],
         "nav_btns": [
@@ -106,7 +398,7 @@
             "services": [
                 {
                     "service_title": "Fertility Treatment",
-                    "sub_services":[
+                    "sub_services": [
                         {
                             "sub_service_name": "OI-TI1",
                             "sub_service_title": "When is OI-TI advised?1",

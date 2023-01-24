@@ -40,12 +40,12 @@ function App() {
             <Home />
             <About />
             <Benefits />
-            {/* <Services /> */}
+            <Services />
             <Choose />
             <Testimonials />
             <Articles />
             <Contact />
-            {/* <Consultation />  */}
+            <Consultation /> 
             <Footer />
           </Route>
           <Route path={"/about_doctor"}>
