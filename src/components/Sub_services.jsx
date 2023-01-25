@@ -5,25 +5,28 @@ const Sub_services = ({ ser_data }) => {
   const [sub, setSub] = useState(
     ser_data.sub_services[0].sub_service_name.split(" ").join("").toLowerCase()
   );
+  const tabHandler = (e, item) => {
+    document.querySelectorAll(".compo_nav_items").forEach((item) => {
+      item.classList.remove("active");
+    });
+    e.currentTarget.classList.add("active");
 
-  console.log(sub);
+    setSub(item.sub_service_name.split(" ").join("").toLowerCase());
+  };
+  // console.log(sub);
   return (
     <div className="sub_compo">
       <div className="sub_service">
         <div className="compo_header">
           {ser_data.sub_services.map((item, index) => {
             return (
-              <div key={index} className="compo_nav_items">
-                <div
-                  className="sub_item"
-                  onClick={() =>
-                    setSub(
-                      item.sub_service_name.split(" ").join("").toLowerCase()
-                    )
-                  }
-                >
-                  {item.sub_service_name}
-                </div>
+              <div
+                key={index}
+                className="compo_nav_items"
+                onClick={(e) => tabHandler(e, item)}
+              >
+                <div className="sub_item">{item.sub_service_name} </div>
+                <div className="sqbar"></div>
               </div>
             );
           })}

@@ -6,7 +6,17 @@ import { useState } from "react";
 
 const Services = () => {
   const [cr_service, setCr_service] = useState("fertilitytreatment");
-  console.log(cr_service);
+
+  // console.log(cr_service);
+
+  const handler = (e) => {
+    document.querySelectorAll(".services_items").forEach(item=>{
+      item.classList.remove("active");
+    })
+
+    e.currentTarget.classList.add("active");
+  };
+
   return (
     <section className="section services" id="services">
       <h2 className="section_title">
@@ -16,11 +26,16 @@ const Services = () => {
         <div className="services_menu">
           {Data.landingPage.services_section.services.map((item, index) => {
             return (
-              <div className="services_items" key={index}>
+              <div
+                className="services_items"
+                key={index}
+                onClick={(e) => handler(e)}
+              >
                 <div className="bar"></div>
-                <div className="ser_item"
+                <div
+                  className="ser_item"
                   onClick={() =>
-                    setCr_service(  
+                    setCr_service(
                       item.service_title.split(" ").join("").toLowerCase()
                     )
                   }

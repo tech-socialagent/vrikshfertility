@@ -162,8 +162,8 @@ function Treatments() {
               laboris nis.
             </p>
           </div>
-        {/* faq */}
-        <div className="FAQ-main" id="faq">
+          {/* faq */}
+          <div className="FAQ-main" id="faq">
             <div className="FAQ-left">
               <p>FAQ's</p>
               <h1>FAQ’s on OT - TI Treatment</h1>
@@ -209,11 +209,8 @@ function Treatments() {
               <img src={FAQImg} alt="" className="FAQ-right-baby-img2" />
             </div> */}
           </div>
-          
         </div>
-        
       </div>
-      
     </section>
   );
 }

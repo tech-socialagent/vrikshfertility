@@ -18,8 +18,19 @@
     border-radius: 20px;
     font-size: 22px;
     font-weight: 500;
-    padding: 40px 20px ;
-    
+    padding: 40px 20px ;   
+    position: relative;
+}
+.active .sqbar{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    display: block;
+    background-color: #6DBCA4;
+    bottom: -10%;
+    left: 45%;
+    transform: rotate(45deg);
+    border: 1px solid #171818;
 }
 .compo_nav_items .sub_item{
     color: var(--white-color);

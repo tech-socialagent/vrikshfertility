@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from "react";
+import { Link } from "react-router-dom";
 import Dropdown from "./Dropdown";
 import "../styles/Dropdown.css";
 
@@ -41,7 +42,7 @@ const MenuItems = ({ items, depthLevel }) => {
     >
       {items.submenu ? (
         <>
-        {console.log(items)}
+        {/* {console.log(items)} */}
           <button
             type="button"
             aria-haspopup="menu"
@@ -62,7 +63,7 @@ const MenuItems = ({ items, depthLevel }) => {
           />
         </>
       ) : (
-        <a href="/#"> {items.title} </a>
+        <Link to={`/${items.title.split(" ").join("").toLowerCase()}`}> {items.title} </Link>
       )}
     </li>
   );
