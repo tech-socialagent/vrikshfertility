@@ -17,8 +17,12 @@
     width: 350px;
     background-color: var(--white-color);
     border-radius: 20px;
+    margin: 0;
+    transition: all 0.5s;
 }
-
+.article_card:hover{
+    transform: translateY(-20px)
+}
 .article_card img{
     width: 350px;
     height: auto;

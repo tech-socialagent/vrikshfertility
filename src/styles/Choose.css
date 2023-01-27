@@ -21,7 +21,12 @@
   grid-template-columns: 1.2fr 1fr;
   padding: 20px;
 }
-
+.keycards{
+  transition: all 0.5s;
+}
+.keycards:hover{
+  transform:translate(0px,-10px)
+}
 .key_factors {
   display: grid;
   margin: 20px 0px;
@@ -29,6 +34,7 @@
   row-gap: 30px;
   column-gap: 30px;
 }
+
 .card_heading {
   font-weight: 500;
   font-size: 24px;
@@ -70,4 +76,17 @@
     margin: 10px 0px;
     row-gap: 10px;
   }
+}
+
+@media only screen and (max-width: 850px){
+  .choose_body{
+    grid-template-columns: auto;
+  }  
+  .key_factors{
+      grid-template-columns: 1fr 1fr;
+    }
+    .choose > img{
+      display: none;
+    }
+    
 }

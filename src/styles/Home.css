@@ -60,6 +60,14 @@
     position: relative;
     margin: 30px;
     opacity: 0.8;
+    animation-name: roundN;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-delay: 0s;
+    animation-timing-function: linear;
+}
+.floatingIcons{
+    
 }
 .floatIcon1{
     top: -40px;
@@ -69,7 +77,23 @@
     top: 30px;
     left: 200px;
 }
-
+@keyframes roundN {
+    0%{
+      transform: rotate(0deg);
+    }
+    /* 25%{
+      transform: rotate(90deg);
+    } */
+    50%{
+      transform: rotate(180deg);
+    }
+    /* 75%{
+      transform: rotate(270deg);
+    } */
+    100%{
+      transform: rotate(360deg);
+    }
+  }
 @media only screen and (max-width: 400px){
     .home_section{
         display: flex;
@@ -91,6 +115,40 @@
     }
     .home_content p{
         font-size: 14px;
+        line-height: 18px;
+    }
+    .home_icons{
+        display: none;
+    }
+    .home_book_app{
+        margin: 10px auto;
+    }
+   
+}
+@media only screen and (max-width: 850px){
+    .home_section{
+        display: flex;
+        flex-direction: column-reverse;
+        /* height: 95vh; */
+    }
+    .home_banner_img img{
+        width: 80vw; 
+    }
+    .home_content{
+        padding: 15px;
+    }
+    .floatingIcons img{
+        display: none;
+    }
+    .home_brandname{
+        font-size: 24px;
+    }
+    .home_content h2{
+        font-size: 40px;
+       margin: 10px 0px;
+    }
+    .home_content p{
+        font-size: 16px;
         line-height: 18px;
     }
     .home_icons{

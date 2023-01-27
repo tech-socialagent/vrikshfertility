@@ -22,7 +22,7 @@ const Home = () => {
           {Data.landingPage.Banner_Section.section_brand_name}
         </div>
         <h2 className="home_title">
-          <span className="titleclr">Fertility Care</span> - Your Journey
+          <span className="titleclr">Fertility Care</span>  Your Journey
           Towards A Loving Parenthood
         </h2>
         <p className="home_desc">

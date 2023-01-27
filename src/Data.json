@@ -321,19 +321,19 @@
         ],
         "nav_btns": [
             {
-                "title": "Contact Us",
-                "id": "contact"
-            },
-            {
                 "title": "Book Now",
                 "id": "book"
+            },
+            {
+                "title": "Location",
+                "id": "contact"
             }
         ]
     },
     "landingPage": {
         "Banner_Section": {
             "section_brand_name": "Vriksh Fertility",
-            "section_headline": "Fertility Care - Your Journey Towards A Loving Parenthood",
+            "section_headline": "Fertility Care  Your Journey Towards A Loving Parenthood",
             "section_desc": "We solve all your fertility core needs by providing personilised & holistic fertility care",
             "section_btn_text": "Book Appointment",
             "section_banner_image": "",
@@ -363,7 +363,7 @@
                         "instalink",
                         "whatsapplink"
                     ],
-                    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "desc": "Dr. Sneha Shetty has completed her Bachelor of Medicine & Bachelor of Surgery – MBBS From the esteemed S.D.M College of Medical Sciences & Hospital. She went on to complete her Post Graduation in Obstetrics & gynaecology from the prestigious Mahadevappa Rampure College of Medical Sciences and Hospital.",
                     "btn_text": "Know More"
                 }
             ]
@@ -374,22 +374,22 @@
                 {
                     "item_image": "FEMALE EGGS shadow (80x80).png",
                     "item_title": "Qualified Doctors",
-                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    "item_desc": "Good treatment begins from good diagnosis from experienced doctors"
                 },
                 {
                     "item_image": "SPERMS shadow (80x80).png",
-                    "item_title": "Qualified Doctors",
-                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    "item_title": "Indivisualized Approach",
+                    "item_desc": "Fertility Treatment is a very personal journey - Finding the right doctor who understands this is of utmost importance and key to the success of the treatment"
                 },
                 {
                     "item_image": "FEMALE EGGS shadow (80x80).png",
-                    "item_title": "Qualified Doctors",
-                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    "item_title": "Advanced Protocols   ",
+                    "item_desc": "Fertility treatments proceeds through well established protocols that are continuosly updated - Providing the latest protocols ensures better results"
                 },
                 {
                     "item_image": "SPERMS shadow (80x80).png",
-                    "item_title": "Qualified Doctors",
-                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    "item_title": "International Standards",
+                    "item_desc": "The embryology lab is where all the magic happens and at Vriksh the equipments and processes are maintained keeping to international standards"
                 }
             ]
         },
@@ -748,19 +748,19 @@
             "key_factors": [
                 {
                     "item_title": "Quality",
-                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    "item_desc": "We go the distance to provide the Best for our patients - Best Quality Drugs/ Medications & Service"
                 },
                 {
-                    "item_title": "Quality",
-                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    "item_title": "Transparency",
+                    "item_desc": "We believe in transparent operations while our patients undergo the treatment with step by step hand holding through the entire journey."
                 },
                 {
-                    "item_title": "Quality",
-                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    "item_title": "Affordable Pricing",
+                    "item_desc": "With convenient pricing models and flexible payment options we will certainly be able to provide you the value for your money"
                 },
                 {
-                    "item_title": "Quality",
-                    "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    "item_title": "Personalized Solutions",
+                    "item_desc": "Vriksh Fertility is focused on individualised and personal care to ensure the couples get the maximum benefit while undergoing Fertility treatments here."
                 }
             ]
         },

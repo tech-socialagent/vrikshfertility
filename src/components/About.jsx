@@ -1,4 +1,4 @@
-import React from "react";
+  import React from "react";
 import Data from "../Data.json";
 import { BsInstagram } from "react-icons/bs";
 import {IoLogoWhatsapp} from 'react-icons/io'

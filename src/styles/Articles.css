@@ -15,26 +15,34 @@
 }
 .article_items{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
-.single{
+.multi{
     display: none;
 }
-@media only screen and (max-width: 400px) {
+.single{
+    /* display: none; */
+}
+.slick-list{
+    padding: 20px 0px;
+}
+.arItems{
+    
+}
+
+@media only screen and (max-width: 850px) {
     .articles{
         padding: 10px 20px;
     }
     .articles .section_body{
         margin: 20px 0px;
     }
-    .article_items{
-        flex-wrap: wrap;
-    }
     .multi{
         display: none;
     }
     .single{
         display: block;
+
     }
     .slick-next{
         right: -20px !important;
@@ -43,3 +51,5 @@
         left: -20px !important;
     }
 }
+
+

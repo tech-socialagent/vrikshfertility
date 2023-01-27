@@ -52,9 +52,9 @@ select {
   border: none;
   margin-top: 10px;
 }
-.consultion-form-img img {
-  height: 528px;
-  width: 781px;
+.consultation-form-img img {
+  height: 520px;
+  width: 600px;
   border-radius: 20px;
 }
 @media screen and (max-width: 400px) {
@@ -79,5 +79,14 @@ select {
     height: 230px;
     width: 380px;
     margin-top: 20px;
+  }
+}
+@media only screen and (max-width: 850px){
+  .consultion-form h1 {
+    font-size: 30px;
+    font-weight: 600;
+  }
+  .consultation-form-img img {
+    display: none;
   }
 }

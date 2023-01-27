@@ -5,15 +5,24 @@ import Article_card from "./Article_card";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
+import { useState } from "react";
 
 const Articles = () => {
+  const [slide,setSlide]=useState(1);
+
   var settings2 = {
     dots: true,
     infinite: true,
     speed: 500,
-    slidesToShow: 1,
-    slidesToScroll: 1,
+    slidesToShow: slide,
+    slidesToScroll: 0,
   };
+  useState(()=>{
+    if(window.innerWidth> 450 && window.innerWidth <850) setSlide(2); 
+    else if(window.innerWidth > 850) setSlide(3);
+    else setSlide(1);
+    // console.log(window.innerWidth)
+  },[slide])
 
   return (
     <section className="articles section" id="articles">

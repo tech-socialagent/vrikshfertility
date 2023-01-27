@@ -34,6 +34,7 @@
 .menu-items a:hover,
 .menu-items button:hover {
   /* background-color: #f2f2f2; */
+  color: var(--secondary-color);
 }
 
 .arrow::after {
