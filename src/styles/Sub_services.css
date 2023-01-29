@@ -21,6 +21,7 @@
     padding: 40px 20px ;   
     position: relative;
 }
+
 .active .sqbar{
     position: absolute;
     height: 20px;

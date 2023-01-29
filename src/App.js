@@ -14,6 +14,7 @@ import AboutDr from "./components/About_Doctor";
 import { useEffect } from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Treatments from "./components/Treatments";
+import Data from "./Data.json";
 
 function App() {
   useEffect(() => {
@@ -26,7 +27,6 @@ function App() {
       if (document.documentElement.scrollTop + 1 > 1) {
         document.querySelector(".Nav_body").classList.add("white_bg");
         document.querySelector(".nav_item a").classList.add("white_bg_text");
-
         // console.log("oh yes "  + document.documentElement.scrollTop);
       }
     });
@@ -45,15 +45,26 @@ function App() {
             <Testimonials />
             <Articles />
             <Contact />
-            <Consultation /> 
+            <Consultation />
             <Footer />
           </Route>
           <Route path={"/about_doctor"}>
             <AboutDr />
           </Route>
-          <Route path={"/treatments"}>
-            <Treatments />
+          {Data.treatments.map((item, index) => {
+            console.log(item.treatment_name.toLowerCase().toString())
+            return (
+              <Route key={index} path={`/${item.treatment_name.toLowerCase().toString()}`}>
+                <Treatments data={item} />
+              </Route>
+            );
+          })}
+          {/* <Route path={"/oi-ti"}>
+            <Treatments data={Data.treatments["oi-ti"]}/>
           </Route>
+          <Route path={"/iui"}>
+            <Treatments data={Data.treatments.iui}/>
+          </Route> */}
         </Switch>
       </div>
     </BrowserRouter>

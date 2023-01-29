@@ -904,5 +904,240 @@
             "Community",
             "Blogs"
         ]
-    }
+    },
+    "treatments": [
+        {
+            "treatment_name": "OI-TI",
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc":[
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc":[
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc":[
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc":[
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc":[
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                }
+            ],
+            "faqs": [
+                {
+                    "title": "",
+                    "fdesc": ""
+                },
+                {
+                    "title": "",
+                    "fdesc": ""
+                },
+                {
+                    "title": "",
+                    "fdesc": ""
+                }
+            ]
+        },
+        {
+            "treatment_name": "IUI",
+            "sub_data": [
+                {
+                    "sub-title": "iuuuOvulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                }
+            ],
+            "faqs": [
+                {
+                    "title": "",
+                    "fdesc": ""
+                },
+                {
+                    "title": "",
+                    "fdesc": ""
+                },
+                {
+                    "title": "",
+                    "fdesc": ""
+                }
+            ]
+        },
+        {
+            "treatment_name": "ivf",
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                }
+            ],
+            "faqs": [
+                {
+                    "title": "",
+                    "fdesc": ""
+                },
+                {
+                    "title": "",
+                    "fdesc": ""
+                },
+                {
+                    "title": "",
+                    "fdesc": ""
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                }
+            ],
+            "faqs": [
+                {
+                    "title": "",
+                    "fdesc": ""
+                },
+                {
+                    "title": "",
+                    "fdesc": ""
+                },
+                {
+                    "title": "",
+                    "fdesc": ""
+                }
+            ]
+        }
+    ]
 }
