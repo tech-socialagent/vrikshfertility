@@ -52,16 +52,31 @@ function App() {
             <AboutDr />
           </Route>
           {Data.treatments.map((item, index) => {
+<<<<<<< HEAD
             console.log(item.treatment_name.toLowerCase().toString());
             return (
               <Route
                 key={index}
                 path={`/${item.treatment_name.toLowerCase().toString()}`}
               >
+=======
+            console.log(item.treatment_name.toLowerCase().toString())
+            return (
+              <Route key={index} path={`/${item.treatment_name.toLowerCase().toString()}`}>
+>>>>>>> d60f1c51c530e17e64c6d9730317a1c41ef022d7
                 <Treatments data={item} />
               </Route>
             );
           })}
+<<<<<<< HEAD
+=======
+          {/* <Route path={"/oi-ti"}>
+            <Treatments data={Data.treatments["oi-ti"]}/>
+          </Route>
+          <Route path={"/iui"}>
+            <Treatments data={Data.treatments.iui}/>
+          </Route> */}
+>>>>>>> d60f1c51c530e17e64c6d9730317a1c41ef022d7
         </Switch>
       </div>
     </BrowserRouter>
