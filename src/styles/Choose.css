@@ -73,12 +73,14 @@
     line-height: 22px;
   }
   .key_factors{
+    grid-template-columns: 1fr;
+    /* grid-template-rows: 1fr 1fr 1fr 1fr; */
     margin: 10px 0px;
     row-gap: 10px;
   }
 }
 
-@media only screen and (max-width: 850px){
+@media only screen and (min-width:451px) and (max-width: 850px){
   .choose_body{
     grid-template-columns: auto;
   }  

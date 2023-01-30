@@ -1,7 +1,7 @@
 import Data from "../Data.json";
 import "../styles/Services.css";
 import Sub_services from "./Sub_services";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import {FaAngleRight} from "react-icons/fa";
 
 const Services = () => {
@@ -27,7 +27,9 @@ const Services = () => {
     e.currentTarget.classList.add("sactive");
 
   };
-
+useEffect(()=>{
+  document.querySelector(".services_items:first-child").classList.add("active")
+},[])
   return (
     <section className="section services" id="services">
       <h2 className="section_title">

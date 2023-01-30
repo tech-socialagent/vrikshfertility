@@ -22,7 +22,7 @@ const Articles = () => {
     else if(window.innerWidth > 850) setSlide(3);
     else setSlide(1);
     // console.log(window.innerWidth)
-  },[slide])
+  },[])
 
   return (
     <section className="articles section" id="articles">

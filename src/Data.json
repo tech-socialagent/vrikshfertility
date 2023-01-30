@@ -904,5 +904,246 @@
             "Community",
             "Blogs"
         ]
-    }
+    },
+    "treatments": [
+        {
+            "treatment_name": "OI-TI",
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc":[
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc":[
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc":[
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc":[
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc":[
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc":  [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        }
+                    ]
+                }
+            ]
+            
+        },
+        {
+            "treatment_name": "IUI",
+            "sub_data": [
+                {
+                    "sub-title": "What is the difference between IUI and IVF?",
+                    "desc": [
+                        "IUI involves fertilisation inside the uterus, whereas IVF involves fertilisation outside the uterus in a lab. It involves taking fertility medication to stimulate the ovaries, followed by a minor surgery to retrieve the mature eggs. Fertilised eggs are fertilised in the lab with prepared sperm. Transferring the embryos into the uterus or freezing them for later use can then be done. The cost and time associated with IUI are usually lower than those associated with IVF."
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc":  [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "ivf",
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc":  [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [ 
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc":  [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

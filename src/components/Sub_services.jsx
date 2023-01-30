@@ -1,10 +1,12 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Data from "../Data.json";
 import "../styles/Sub_services.css";
+
 const Sub_services = ({ ser_data }) => {
   const [sub, setSub] = useState(
     ser_data.sub_services[0].sub_service_name.split(" ").join("").toLowerCase()
   );
+
   const tabHandler = (e, item) => {
     document.querySelectorAll(".compo_nav_items").forEach((item) => {
       item.classList.remove("active");
@@ -13,6 +15,11 @@ const Sub_services = ({ ser_data }) => {
 
     setSub(item.sub_service_name.split(" ").join("").toLowerCase());
   };
+
+  useEffect(() => {
+    document.querySelector(".compo_nav_items:first-child").classList.add("active");
+    
+  },[]);
   // console.log(sub);
   return (
     <div className="sub_compo">
