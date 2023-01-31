@@ -47,6 +47,10 @@
     width: fit-content;
     margin: 30px 0px;
 }
+.home_book_app a{
+    text-decoration: none;
+    color: var(--white-color);
+}
 .home_banner_img img{
     height: 100%;
     width: 100%;
@@ -94,7 +98,7 @@
       transform: rotate(360deg);
     }
   }
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 480px){
     .home_section{
         display: flex;
         flex-direction: column-reverse;

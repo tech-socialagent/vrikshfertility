@@ -15,6 +15,7 @@
 }
 .Treatments-left {
   position: fixed;
+  width: 100%;
 }
 .Treatments-right {
   position: relative;
@@ -25,6 +26,7 @@
   font-size: 20px;
   font-weight: 300;
   line-height: 40px;
+  width: 400px;
   color: #787575;
   scroll-behavior: smooth;
 }
@@ -160,7 +162,7 @@ select {
   top: 30%;
 }
 
-@media only screen and (max-width: 450px){
+@media only screen and (max-width: 480px){
   .Treatments-left,.mid{
     display: none;
   }

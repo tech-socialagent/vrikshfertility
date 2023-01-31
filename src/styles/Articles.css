@@ -17,17 +17,20 @@
     display: flex;
     justify-content: center;
 }
-.multi{
-    display: none;
+.multi .article_card{
+    margin: 0px 20px;
 }
+/* .multi{
+    display: none;
+} */
 .single{
-    /* display: none; */
+    display: block;
 }
 .slick-list{
     padding: 20px 0px;
 }
 .arItems{
-    
+ width: 350px;   
 }
 
 @media only screen and (max-width: 850px) {

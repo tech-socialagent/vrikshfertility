@@ -51,7 +51,7 @@ const MenuItems = ({ items, depthLevel }) => {
           >
             {items.title}
             {depthLevel > 0 ? (
-              <span> &raquo; </span>
+              <span className="arrow_right">  </span> 
             ) : (
               <span className="arrow" ></span>
             )}
@@ -68,5 +68,5 @@ const MenuItems = ({ items, depthLevel }) => {
     </li>
   );
 };
-
+// &raquo;
 export default MenuItems;

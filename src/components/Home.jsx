@@ -22,14 +22,14 @@ const Home = () => {
           {Data.landingPage.Banner_Section.section_brand_name}
         </div>
         <h2 className="home_title">
-          <span className="titleclr">Fertility Care</span>  Your Journey
-          Towards A Loving Parenthood
+          <span className="titleclr">Fertility Care</span> Your Journey Towards
+          A Loving Parenthood
         </h2>
         <p className="home_desc">
           {Data.landingPage.Banner_Section.section_desc}
         </p>
         <div className="home_book_app">
-          {Data.landingPage.Banner_Section.section_btn_text}
+          <a href="#book">{Data.landingPage.Banner_Section.section_btn_text}</a>
         </div>
         <div className="home_icons">
           {Data.landingPage.Banner_Section.section_icons.map((item) => {

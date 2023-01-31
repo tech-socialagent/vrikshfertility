@@ -8,21 +8,46 @@ import Slider from "react-slick";
 import { useState } from "react";
 
 const Articles = () => {
-  const [slide,setSlide]=useState(1);
+  
 
   var settings2 = {
     dots: true,
     infinite: true,
     speed: 500,
-    slidesToShow: slide,
-    slidesToScroll: 0,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+     
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 1,
+          infinite: true,
+          dots: true,
+          centerPadding: "20px", 
+        }
+      },
+      {
+        breakpoint: 800,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2,
+          infinite: true,
+          dots: true
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          infinite: true,
+          dots: true
+        }
+      }
+    ]
   };
-  useState(()=>{
-    if(window.innerWidth> 450 && window.innerWidth <850) setSlide(2); 
-    else if(window.innerWidth > 850) setSlide(3);
-    else setSlide(1);
-    // console.log(window.innerWidth)
-  },[])
 
   return (
     <section className="articles section" id="articles">
@@ -34,7 +59,7 @@ const Articles = () => {
           {Data.landingPage.article_section.section_desc}
         </div>
         <div className="section_body">
-          <div className="article_items multi">
+          {/* <div className="article_items multi">
             {Data.landingPage.article_section.articles.map((item, index) => {
               return (
                 <div className="arItems" key={index}>
@@ -49,7 +74,7 @@ const Articles = () => {
                 </div>
               );
             })}
-          </div>
+          </div> */}
           <div className="single">
             <Slider {...settings2}>
               {Data.landingPage.article_section.articles.map((item, index) => {

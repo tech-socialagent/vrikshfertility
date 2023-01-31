@@ -23,7 +23,16 @@
 .test_single{
     display: none;
 }
-@media only screen and (max-width: 400px){
+.testimonials {
+    position: relative;
+}
+.bit1,.bit2{
+    top: 20px;
+}
+.bit2{
+    right: 20px;
+}
+@media only screen and (max-width: 480px){
     .test_multi{
         display: none;
     }

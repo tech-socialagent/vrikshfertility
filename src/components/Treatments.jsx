@@ -10,7 +10,7 @@ function Treatments({ data }) {
 
   useEffect(() => {
     window.addEventListener("scroll", () => {
-      console.log(" scrolllll");
+      console.log(" scrolllll");   
       var current = "";
       sections.forEach((sec) => {
         const sectionTop = sec.offsetTop;
@@ -87,7 +87,9 @@ function Treatments({ data }) {
                               </span>
                             </button>
                             <div id="myDropdown" className="dropdown-content">
-                              <p>{item.fdesc}</p>
+                              {item.fdesc.map((item,index)=>{
+                                return <p key={index}>{item}</p>
+                              })}
                             </div>
                           </div>
                         );

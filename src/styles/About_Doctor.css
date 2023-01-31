@@ -1,8 +1,10 @@
 .about-doctor {
+  padding: 120px 40px;
+}
+.about_doc_body {
   display: grid;
   grid-template-columns: 1fr 3fr;
   column-gap: 40px;
-  padding: 120px 50px;
 }
 .about-doc-left {
   display: flex;
@@ -60,4 +62,128 @@
   font-weight: 300;
   line-height: 28px;
   padding-left: 40px;
+}
+
+.about-doctor-contact {
+  display: flex;
+  margin: 40px 40px 10px 40px;
+}
+.about-contact-form{
+  margin: 10px;
+}
+.input-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.about-doctor-form-contact h1 {
+  font-size: 48px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.input-section input {
+  height: 48px;
+  width: 100%;
+  border-radius: 10px;
+  border: 2px solid black;
+  padding-left: 20px;
+}
+.about-doc-contact-form-second textarea {
+  height: 211px;
+  width: 750px;
+  border-radius: 10px;
+  margin: 10px 0px;
+  border: 2px solid black;
+  padding: 20px 0px 0px 20px;
+}
+.about-doc-contact-form-second button {
+  height: 47px;
+  width: 297px;
+  border-radius: 30px;
+  background-color: #6e3173;
+  border: none;
+  color: white;
+}
+.about-doctor-form-photo img {
+  height: 100%;
+  width: 100%;
+  border-radius: 20px;
+  padding:  50px 0px;  
+}
+
+@media screen and (max-width: 480px) {
+  .about-doctor {
+    display: flex;
+    flex-direction: column;
+  }
+  .about-doc-left img {
+    height: 326px;
+    width: 326px;
+  }
+  .about-doc-name {
+    font-size: 32px;
+    font-weight: 600;
+  }
+  .about-doc-desc {
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .about-doc-social-media-links {
+    flex-direction: row;
+  }
+  .about-doc-social-media-links img {
+    height: 24px;
+    width: 24px;
+  }
+  .about-doctor-right {
+    padding: 0px 20px 0px 40px;
+  }
+  .about-doc-title,
+  .about-doc-subtitle {
+    display: none;
+  }
+  .about-doc-description p {
+    font-size: 16px;
+    text-indent: 9%;
+    padding-bottom: 20px;
+    font-weight: 300;
+  }
+  .about-doc-membership h1 {
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .about-doc-membership ul {
+    list-style: number;
+    font-size: 16px;
+    font-weight: 300;
+    padding-left: 0px;
+    text-align: left;
+  }
+  .about-doctor-contact {
+    display: flex;
+    flex-direction: column-reverse;
+    margin: 0px 40px 0px 40px;
+  }
+
+  .input-section {
+    display: flex;
+    flex-direction: column;
+  }
+  .input-section input {
+    height: 40px;
+    width: 327px;
+  }
+  .about-doc-contact-form-second textarea {
+    height: 160px;
+    width: 327px;
+  }
+  .about-doc-contact-form-second button {
+    height: 48px;
+    width: 297px;
+  }
+  .about-doctor-form-photo img {
+    height: 326px;
+    width: 326px;
+  }
 }

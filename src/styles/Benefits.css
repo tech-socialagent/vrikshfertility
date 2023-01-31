@@ -72,7 +72,7 @@
   bottom: -70px;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 480px) {
   .benefits_items {
     grid-template-columns: auto;
     grid-template-rows: 1fr 1fr 1fr 1fr;
