@@ -11,6 +11,7 @@ import Consultation from './components/Consultation';
 import AboutDr from './components/AboutDr';
 import Faq from './components/Faq';
 import Treatments from './components/Treatments';
+import BlogMore from './components/BlogMore';
 function App() {
   return (
     <div className="App">
@@ -23,10 +24,13 @@ function App() {
       <Consultation/>
       <AboutDr/>
       <Faq/>
+      <BlogMore/>
+
       <Treatments/>
       <About/>
+
       <Contact/>
-      
+
     </div>
   );
 }
