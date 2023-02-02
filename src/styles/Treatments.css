@@ -1,7 +1,5 @@
 .Treatments-main{
     display: flex;
-    /* justify-content: center;
-    align-items: center; */
 column-gap:2%;
 margin: 0px 50px 0px 40px;
 }
@@ -28,7 +26,6 @@ scroll-behavior: smooth;
 .treatments-title h1{
     font-size: 48px;
     font-weight: 600;
-    /* line-height: 43px; */
 }
 .treatments-title p{
     font-size: 14px;
@@ -43,9 +40,48 @@ line-height: 29px;
 letter-spacing: 0px;
 padding-top: 100px;
 }
+.treatments-subtitle img{
+    height: 332px;
+width: 801px;
+border-radius: 10px;
+
+}
 .treatments-subtitle p{
 margin: 20px 0px 10px 0px;
 font-size: 20px;
 font-weight: 200;
 line-height: 25px;
+}
+@media screen and (max-width:400px) {
+    .Treatments-left{
+        display: none;
+    }
+    .treatments-title h1{
+        font-size: 32px;
+        text-align: center;
+        padding-top: 150px;
+    }
+    .treatments-title p{
+font-size: 14px;
+text-align: center;
+    }
+    .treatments-subtitle h1{
+        font-size: 24px;
+        font-weight: 500;
+        padding-top: 10px;
+        text-align: center;
+        }
+        .treatments-subtitle p{
+            margin: 10px 0px 10px 0px;
+            font-size: 16px;
+            font-weight: 200;
+            line-height: 20px;
+            }
+            .treatments-subtitle img{
+                height: 136px;
+                width: 328px;
+            }
+            
+            
+    
 }

@@ -59,6 +59,14 @@ font-size: 24px;
 font-weight: 500;
 line-height: 40px;
 }
+@media screen and (max-width:744px) {
+    .benefits_main{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    
+
+}
 @media screen and (max-width:400px) {
     .benefits_main{
         padding: 10px 0px 10px 0px;

@@ -1,4 +1,5 @@
 import "../styles/Treatments.css";
+import babyPhoto from '../assests/Photos/garrett-jackson-oOnJWBMlb5A-unsplash.jpg';
 function Treatments() {
   return (
     <section className="Treatments-main">
@@ -46,7 +47,6 @@ function Treatments() {
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
             aliquip ex ea commodo consequat exercitation ullamco laboris nis.
           </p>
-          <img src="" alt="" />
           <h1 id="treatments-subtitle-2">When is OI-TI advised?</h1>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -60,6 +60,8 @@ function Treatments() {
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
             aliquip ex ea commodo consequat exercitation ullamco laboris nis.
           </p>
+          <img src={babyPhoto} alt="" />
+
           <h1 id="treatments-subtitle-3">What should I expect?</h1>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

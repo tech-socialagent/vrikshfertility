@@ -76,23 +76,6 @@ margin-bottom: 10px;
     display: block;
 }
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .FAQ-right {
     flex: 50%;
     background-image: url('../assests/Photos/aboutbackg.png');
@@ -119,3 +102,53 @@ margin-bottom: 10px;
     z-index: 1;
     top: 30%;
 }
+/* @media screen and (max-width:400px) { */
+
+  @media screen and (max-width:400px) {
+    .FAQ-main {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .FAQ-left {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .FAQ-left h1 {
+        font-size: 32px;
+    }
+    .dropbtn, .dropbtn2,.dropbtn3 {
+        height: 40px;
+        width: 327px;
+        font-size: 13px;
+       } 
+       .dropdown-content, .dropdown-content2,.dropdown-content3 {
+         height: 130px;
+         width: 327px;
+        }  
+        .FAQ-right {
+            background-size: 300px;
+            padding-top: 0px;
+            background-position:right
+        
+        }
+        .FAQ-right img {
+            height: 200px;
+            width: 200px;
+            position: absolute;
+            right: 10px;
+            position: relative;
+            margin-bottom: 50px;
+        }
+        
+        .FAQ-right-baby-img1 {
+            left: 50px;
+            z-index: 1;
+            top:40%;
+        }
+        .FAQ-right-baby-img2{
+            top: 10%;
+        }
+        
+           
+  }
