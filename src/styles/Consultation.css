@@ -15,9 +15,9 @@
   box-shadow: 1px 5px 12px 2px gray;
   margin-right: -40px;
   margin-top: -20px;
-  background-image: url("../assests/svgs/web-01.svg");
+  background-image: url("../assests/Icons/contact_bg.png");
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-position: -50px 170px;
 }
 .consultion-form h1 {
   font-size: 48px;

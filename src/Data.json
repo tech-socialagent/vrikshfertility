@@ -51,9 +51,6 @@
                                 "title": "PGT"
                             },
                             {
-                                "title": "Assisted Hatching"
-                            },
-                            {
                                 "title": "Blastocyst culture"
                             },
                             {
@@ -261,7 +258,6 @@
                 "title": "Online Consultation",
                 "id": "online"
             }
-            
         ],
         "nav_btns": [
             {
@@ -1461,7 +1457,6 @@
         {
             "treatment_name": "Donor Egg ",
             "sub_data": [
-                
                 {
                     "sub-title": "FAQs",
                     "desc": [
@@ -1499,5 +1494,56 @@
                 }
             ]
         }
+    ],
+    "treatmentOptions": [
+        "OI-TI",
+        "IUI",
+        "IVF",
+        "ICSI",
+        "Assisted Hactching",
+        "ERA",
+        "PGT",
+        "TESA",
+        "PESA",
+        "MICRO TESE",
+        "PGT-SR",
+        "PGT-M",
+        "PGT-A",
+        "Blastocyst culture",
+        "Ovarion PRP",
+        "Endometrial PRP",
+        "Testicular PRP",
+        "Varicocele",
+        "Azoospermia",
+        "Chromosomal Karyotyping",
+        "Sperm Aneuploidy Screening",
+        "Genetic Tests",
+        "Genetic Disorders",
+        "Polycystic Ovary Syndrome ",
+        "Endometriosis & Adenomyosis",
+        "Recurrent Miscarriage",
+        "Ectopic Pregnancy",
+        "Ovulation Problems",
+        "Ovarian Cysts",
+        "Menstrual Disorders",
+        "Fallopian Tube Obstruction",
+        "Cevical & Uterine Factors ",
+        "Endometrial Microbiota Analysis",
+        "Retrograde Ejaculation",
+        "Ejaculation Problems",
+        "Erectile Dysfuntion",
+        "Chromosomal Disorders",
+        "Unexplained Infertility",
+        "Thyroid Disorders",
+        "Vitamin D Deficiency",
+        "Hormone Level Imbalance",
+        "Obesity",
+        "Auto Immune Disease",
+        "Diabetes",
+        "Genetic Disorders",
+        "Oocyte/Egg Freezing",
+        "Semen Freezing",
+        "Embryo Freezing"
+
     ]
 }

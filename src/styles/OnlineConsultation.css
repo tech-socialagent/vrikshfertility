@@ -1,0 +1,66 @@
+.online_consultation {
+  padding: 100px 50px 50px 50px;
+}
+.online_consultation .section_title {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 90%;
+  text-align: left;
+  padding: 0;
+  /* or 43px */
+  color: #000000;
+  margin: 10px 0px;
+}
+.online_consultation .section_desc {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+  color: #080111;
+  margin: 10px 0px;
+}
+.consultation_form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.input_field{
+    margin: 10px 0px;
+}
+.input_field .input_title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+.input_field input,select {
+  border: 1px solid #cccccc;
+  box-shadow: 0px 2px 2px 2px rgba(204, 204, 204, 0.1);
+  border-radius: 4px;
+  padding: 10px;
+  margin: 5px 0px;
+  width: 100%;
+}
+.multi_select_checkbox {
+  display: grid;
+  grid-template-columns: 1fr 1fr  1fr 1fr;
+  row-gap: 20px;
+  column-gap: 10px;
+  margin: 20px 0px;
+  position: relative;
+}
+.multi_select_checkbox:after{
+    content: "";
+    display: block;
+    height: 1 0px;
+    position: relative;
+}
+
+.multi_select_checkbox input {
+  display: block;
+}
+.select_items {
+  display: flex;
+  align-items: baseline;
+}
+.multi_select_checkbox span {
+  margin: 0px 5px;
+}

@@ -15,6 +15,7 @@ import { useEffect } from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Treatments from "./components/Treatments";
 import Data from "./Data.json";
+import OnlineConsultation from "./components/OnlineConsultation";
 
 function App() {
   useEffect(() => {
@@ -50,6 +51,11 @@ function App() {
           </Route>
           <Route path={"/about_doctor"}>
             <AboutDr />
+            <Footer/>
+          </Route>
+          <Route path={"/onlineConsultation"}>
+            <OnlineConsultation/>
+            <Footer/>
           </Route>
           {Data.treatments.map((item, index) => {
             console.log(item.treatment_name.toLowerCase().toString());
@@ -59,6 +65,7 @@ function App() {
                 path={`/${item.treatment_name.toLowerCase().toString()}`}
               >
                 <Treatments data={item} />
+                <Footer/>
               </Route>
             );
           })}

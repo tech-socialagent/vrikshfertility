@@ -45,7 +45,7 @@ function Treatments({ data }) {
             {data.sub_data.map((item, index) => {
               return (
                 <li key={index} className={`sec${++index}`}>
-                  <a href={`#sec${index}`}>- {item["sub-title"]}</a>
+                  <a href={`#sec${index}`}><div className="bar"></div>{item["sub-title"]}</a>
                 </li>
               );
             })}
