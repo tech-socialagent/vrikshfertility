@@ -17,6 +17,10 @@ import Treatments from "./components/Treatments";
 import Data from "./Data.json";
 import OnlineConsultation from "./components/OnlineConsultation";
 import Blogpage from "./components/Blogpage";
+import FaqPage from './components/FaqPage';
+import AboutVriksh from './components/AboutVriksh';
+import TeamValue from './components/TeamValue';
+import ContactPage from './components/ContactPage';
 
 function App() {
   useEffect(() => {
@@ -60,6 +64,22 @@ function App() {
           </Route>
           <Route path={"/blogs"}>
             <Blogpage/>
+            <Footer/>
+          </Route>
+          <Route path={"/aboutvriksh"}>
+            <AboutVriksh/>
+            <Footer/>
+          </Route>
+          <Route path={"/teamvalue"}>
+            <TeamValue/>
+            <Footer/>
+          </Route>
+          <Route path={"/contactus"}>
+            <ContactPage/>
+            <Footer/>
+          </Route>
+          <Route path={"/faqs"}>
+            <FaqPage/>
             <Footer/>
           </Route>
           {Data.treatments.map((item, index) => {

@@ -1,0 +1,75 @@
+.teamvaluePage .header {
+  height: 300px;
+  width: 100%;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../assests//Photos/Teamvaluepic.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  text-align: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 70px;
+}
+.teamvaluePage .team_body {
+  margin: 10px 60px;
+}
+.teamvaluePage .header h2 {
+  font-weight: 600;
+  font-size: 48px;
+}
+.team_body h2 {
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  width: 900px;
+  color: #d4b352;
+  margin: 20px auto;
+}
+.team_body h3 {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+  color: #772c77;
+  margin: 30px 0px;
+}
+.team_desc .doc_detail {
+  color: #000000;
+}
+.teamvalue_text p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  margin: 15px 0px;
+  color: #000000;
+}
+.team_desc {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+.teamvalue_text .doc_quote{
+    margin-bottom: 30px;
+}
+.teamvaluePage .section_ft {
+  text-align: center;
+}
+.teamvalue_text h4 {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  color: #772c77;
+  margin: 10px 0px;
+}
+.teamvaluePage .team_img{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.teamvaluePage .team_img img{
+    height: 500px;
+    width: auto;
+    border-radius: 5px;
+}
