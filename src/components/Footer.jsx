@@ -119,7 +119,7 @@ const Footer = () => {
           </div>
         </div>
       </section>
-      <div className="ft_foot"></div>
+      <div className="ft_foot">Vriksh Fertility &copy; 2022 All Right Reserved.</div>
     </>
   );
 };

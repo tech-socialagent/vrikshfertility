@@ -30,82 +30,64 @@ function AboutDr() {
           </div>
           <div className="about-doc-description">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
+              Dr. Sneha Shetty has completed her Bachelor of Medicine & Bachelor
+              of Surgery – MBBS From the esteemed S.D.M College of Medical
+              Sciences & Hospital. She went on to complete her Post Graduation
+              in Obstetrics & gynaecology from the prestigious Mahadevappa
+              Rampure College of Medical Sciences and Hospital.
             </p>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
+              Dr. Sneha Shetty has completed her Fellowship & Diploma in Minimal
+              Access Surgery from World Laparoscopy Hospital, Delhi, and has
+              also done her Fellowship in Reproductive Medicine & IVF from
+              Homerton University Hospital – London & UKSH Germany - While also
+              having trained extensively in the management of Infertility
+              through a One Year full time fellowship In ART in India.
             </p>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud Lorem ipsum dolor sit amet,
-              consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-              labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-              nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-              consequat.exercitation ullamco laboris nisi ut aliquip ex ea
-              commodo consequat.
+              With a total experience of 12+ years of handling various
+              Gynaecological & Infertility, Assisted Reproductive Techniques.
+              She has been getting the best Pregnancy results with Naturally
+              Cycles, IUI, IVF, ICSI, & ICSI-OD through Drugs, Surgeries & Basic
+              to Advanced Fertility Treatments.
             </p>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit
-              amet, consectetur adipiscing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-              ex ea commodo consequat.Lorem ipsum Lorem ipsum dolor sit amet,
-              consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-              labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-              nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-              consequat.dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
+              In addition to her degrees, Dr. Sneha Shetty has been contributing
+              to healthcare needs by her acute sense of medical analysis. She
+              loves taking care of patients. In order to build a relationship
+              with a patient, she strives to listen to her patients and be their
+              advocate through empathy & patience. By making the visit
+              comfortable and relaxed, she makes them feel like she's not only
+              their doctor but a friend they can talk to about any health
+              concerns they may have. She is one of the Best Fertility
+              Specialists & Laparoscopic surgeons in Bangalore.
             </p>
           </div>
           <div className="about-doc-membership">
             <h1>Membership</h1>
             <ul>
               <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor
+                Executive member of Bangalore Society of Obstetrics and
+                Gynaecology (BSOG)
               </li>
               <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor
+                Karnataka Chapter -Indian Society of Assisted Reproduction
+                (KISAR & ISAR)
               </li>
+              <li>World Association of Laparoscopic Surgeons ( WALS)</li>
               <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor
+                Society of American Gastroenterologists and endoscopic Surgeon
+                (SAGES)
               </li>
-              <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor
-              </li>
-              <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor
-              </li>
-              <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor
-              </li>
+              <li>Indian Medical Association (IMA)</li>
+              <li>Academy of Clinical Embryologists- (ACE)</li>
             </ul>
             <h1>Awards</h1>
             <ul>
+              <li>Best outgoing student during post-graduation.</li>
               <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor
-              </li>
-              <li>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor
+                A.P.J ABDUL KALAM health and medical excellence award for best
+                and dedicated services in the medical field 2021.
               </li>
             </ul>
           </div>

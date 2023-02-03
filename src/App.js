@@ -16,6 +16,7 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Treatments from "./components/Treatments";
 import Data from "./Data.json";
 import OnlineConsultation from "./components/OnlineConsultation";
+import Blogpage from "./components/Blogpage";
 
 function App() {
   useEffect(() => {
@@ -55,6 +56,10 @@ function App() {
           </Route>
           <Route path={"/onlineConsultation"}>
             <OnlineConsultation/>
+            <Footer/>
+          </Route>
+          <Route path={"/blogs"}>
+            <Blogpage/>
             <Footer/>
           </Route>
           {Data.treatments.map((item, index) => {

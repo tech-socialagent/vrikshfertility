@@ -5,6 +5,7 @@
 }
 .about{
   background-color: #F8F8F8;
+  margin: 30px 0px;
 }
 .background{
   position: absolute;
@@ -15,7 +16,6 @@
 }
 .section_title {
   text-align: center;
-  /* margin: 30px 0px 30px 0px; */
   padding: 30px;
   font-size: 48px;
   font-weight: 500;
