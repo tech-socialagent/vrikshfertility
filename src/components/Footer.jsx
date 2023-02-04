@@ -21,14 +21,14 @@ const Footer = () => {
             <div className="ft_services">
               <div className="ft_ser_heading">Contact</div>
               <div className="ft_con_data">
-                <div className="ft_con">
+                <a href="mailto:info@vrikshfertility.com" className="ft_con">
                   <img src={Phone} alt="" className="ft_icons" />{" "}
                   {Data.footer.contact.mail}
-                </div>
-                <div className="ft_con">
+                </a>
+                <a href="tel:" className="ft_con">
                   <img src={Mail} alt="" className="ft_icons" />{" "}
                   {Data.footer.contact.phone_no}
-                </div>
+                </a>
               </div>
             </div>
             <div></div>
@@ -119,7 +119,7 @@ const Footer = () => {
           </div>
         </div>
       </section>
-      <div className="ft_foot">Vriksh Fertility &copy; 2022 All Right Reserved.</div>
+      <div className="ft_foot">Vriksh Fertility &copy; 2023 All Right Reserved.</div>
     </>
   );
 };

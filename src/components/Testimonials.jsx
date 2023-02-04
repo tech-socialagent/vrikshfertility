@@ -10,13 +10,17 @@ function Testimonials() {
     dots: true,
     infinite: true,
     speed: 500,
+    autoplaySpeed: 2000,
+    autoplay: true,
     slidesToShow: 2,
-    slidesToScroll: 2,
+    slidesToScroll: 1,
   };
   var settingsmob = {
     dots: true,
     infinite: true,
     speed: 500,
+    autoplaySpeed: 1000,
+    autoplay: true,
     slidesToShow: 1,
     slidesToScroll: 1,
   };

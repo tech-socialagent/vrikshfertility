@@ -20,6 +20,9 @@
 .Treatments-right {
   position: relative;
   right: 0;
+  background-image: url("../assests/Photos/aboutbackg.png");
+  background-repeat: no-repeat;
+  background-position: top 0% right 0%;
 }
 .treatments-list{
   margin: 20px 0px;

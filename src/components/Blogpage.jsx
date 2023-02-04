@@ -41,7 +41,7 @@ const Blogpage = () => {
                         {blog.postby + ". " + blog.date}
                       </div>
                       <a href={blog.more_link} className="blogLink">
-                        <FiArrowUpRight />
+                        Readmore
                       </a>
                     </div>
                     <div className="blogTitle">{blog.title}</div>

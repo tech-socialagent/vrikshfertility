@@ -1,7 +1,7 @@
-  import React from "react";
+import React from "react";
 import Data from "../Data.json";
 import { BsInstagram } from "react-icons/bs";
-import {IoLogoWhatsapp} from 'react-icons/io'
+import { IoLogoWhatsapp } from "react-icons/io";
 import { FaLinkedinIn } from "react-icons/fa";
 import "../styles/About.css";
 import { Link } from "react-router-dom";
@@ -9,7 +9,11 @@ import { Link } from "react-router-dom";
 const Doctors = () => {
   return (
     <section className="meetDoctors about section" id="about">
-      <img className="background" src={require("../assests/Photos/aboutbackg.png")} alt="" />
+      <img
+        className="background"
+        src={require("../assests/Photos/aboutbackg.png")}
+        alt=""
+      />
       <div className="about_body">
         <h2 className="section_title">
           {Data.landingPage.Doctor_section.section_title}
@@ -38,8 +42,12 @@ const Doctors = () => {
                   {Data.landingPage.Doctor_section.Doctors_detail[0].name}
                 </h4>
                 {Data.landingPage.Doctor_section.Doctors_detail[0].designation.map(
-                  (item,index) => {
-                    return <div className="doc_desig" key={index}>{item}</div>;
+                  (item, index) => {
+                    return (
+                      <div className="doc_desig" key={index}>
+                        {item}
+                      </div>
+                    );
                   }
                 )}
                 <div className="social_media_links">
@@ -55,7 +63,7 @@ const Doctors = () => {
                   </div>
                   <div className="linkedin">
                     <a href="">
-                      <FaLinkedinIn /> 
+                      <FaLinkedinIn />
                     </a>
                   </div>
                 </div>
@@ -65,7 +73,10 @@ const Doctors = () => {
               {Data.landingPage.Doctor_section.Doctors_detail[0].desc}
             </p>
             {/* <Link to={"/about_doctor"} className="doc_knowmore_btn btn">Know More</Link> */}
-            <div to={"/about_doctor"} className="doc_knowmore_btn btn"><Link to={"/about_doctor"}>Know More</Link></div>
+            {/* <div to={"/about_doctor"} className="doc_knowmore_btn btn"><Link to={"/about_doctor"}>Know More</Link></div> */}
+            <div className="home_book_app">
+              <Link to="/about_doctor">Know More</Link>
+            </div>
           </div>
         </div>
       </div>

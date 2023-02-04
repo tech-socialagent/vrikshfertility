@@ -14,8 +14,8 @@ function Treatments({ data }) {
       var current = "";
       sections.forEach((sec) => {
         const sectionTop = sec.offsetTop;
-        // console.log(sectionTop);
-        if (window.scrollY >= sectionTop - 100) {
+
+        if (document.documentElement.scrollTop >= sectionTop - 200) {
           current = sec.getAttribute("id");
           console.log("oo yesh " + current);
         }
@@ -43,6 +43,7 @@ function Treatments({ data }) {
         <div className="Treatments-left">
           <ul className="treatments-list">
             {data.sub_data.map((item, index) => {
+             
               return (
                 <li key={index} className={`sec${++index}`}>
                   <a href={`#sec${index}`}><div className="bar"></div>{item["sub-title"]}</a>
@@ -60,7 +61,7 @@ function Treatments({ data }) {
           <div className="treatments-subtitle">
             {data.sub_data.slice(0, -1).map((item, index) => {
               return (
-                <section key={index} id={`sec${index++}`}>
+                <section key={index} id={`sec${++index}`}>
                   <h1 id="treatments-subtitle-1">{item["sub-title"]}</h1>
                   {item.desc.map((des, index) => {
                     return <p key={index}>{des}</p>;
@@ -68,7 +69,8 @@ function Treatments({ data }) {
                 </section>
               );
             })}
-            <section id="sec6">
+            
+            <section id={`sec${data.sub_data.length}`}>
               <div className="FAQ-main" id="faq">
                 <div className="faq-text">FAQ's</div>
                 <h1 className="faq-heading">

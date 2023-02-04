@@ -47,7 +47,7 @@ function App() {
             <Home />
             <About />
             <Benefits />
-            {/* <Services /> */}
+            <Services />
             <Choose />
             <Testimonials />
             <Articles />

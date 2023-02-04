@@ -1,13 +1,13 @@
 .section {
-  padding: 0px 30px 50px 30px ;
+  padding: 0px 30px 50px 30px;
   position: relative;
   width: 100%;
 }
-.about{
-  background-color: #F8F8F8;
+.about {
+  background-color: #f8f8f8;
   margin: 0px 0px;
 }
-.background{
+.background {
   position: absolute;
   right: 0px;
   z-index: 1;
@@ -44,8 +44,9 @@
   grid-template-columns: 1fr 1fr;
   column-gap: 20px;
   align-items: center;
+  margin-top: 30px;
 }
-.doc_image{
+.doc_image {
   position: relative;
   background-color: var(--primary-color);
   border-radius: 15px;
@@ -53,9 +54,9 @@
   width: 260px;
   height: 180px;
 }
-.doc_image div{
+.doc_image div {
   position: absolute;
-  background-color: var(--primary-color);  
+  background-color: var(--primary-color);
   filter: blur(5px);
   border-radius: 15px;
   width: 260px;
@@ -68,32 +69,31 @@
   height: 220px;
   width: 220px;
 }
-.doctor_data h4{
+.doctor_data h4 {
   font-size: 26px;
   line-height: 32px;
   font-weight: 500;
   line-height: 32px;
   margin-block: 0;
   margin: 10px 0px;
- 
 }
-.doc_desig{
+.doc_desig {
   font-size: 16px;
   font-weight: 400;
   line-height: 20px;
   color: rgba(0, 0, 0, 0.8);
 }
-.social_media_links{
+.social_media_links {
   display: flex;
 }
-.social_media_links div a{
+.social_media_links div a {
   text-decoration: none;
   color: white;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.social_media_links div{
+.social_media_links div {
   height: 30px;
   width: 30px;
   border-radius: 50%;
@@ -102,87 +102,84 @@
   justify-content: center;
   align-items: center;
 }
-.whatsapp{
-  background-color:#48C95F;
-  
+.whatsapp {
+  background-color: #48c95f;
 }
-.instagram{
-  background: linear-gradient(43.94deg, #EEA054 16.16%, #D64763 50.11%, #B62A99 83.68%);
+.instagram {
+  background: linear-gradient(
+    43.94deg,
+    #eea054 16.16%,
+    #d64763 50.11%,
+    #b62a99 83.68%
+  );
 }
-.linkedin{
-  background-color: #2878B7;
+.linkedin {
+  background-color: #2878b7;
 }
 
-.doctor_desc{
+.doctor_desc {
   font-weight: 300;
   font-size: 18px;
   line-height: 22px;
   color: #080111;
   margin: 20px 0px;
 }
-.doc_knowmore_btn{
-  margin: 0px auto;
-  padding: auto 0;
+.about_doctor .home_book_app a {
+  margin: 0 auto;
 }
-.doc_knowmore_btn a{
-  text-decoration: none;
-  color: var(--white-color);
-  /* padding: 10px 60px; */
-}
-
 @media only screen and (max-width: 480px) {
-  .section{
+  .section {
     padding: 10px;
   }
   .section_title {
     padding: 0px;
     font-size: 30px;
     font-weight: 500;
-    line-height: 40px; 
+    line-height: 40px;
   }
-  .about .section_body{
+  .about .section_body {
     display: flex;
     flex-direction: column-reverse;
   }
-  .doctor_detail{
+  .doctor_detail {
     grid-template-columns: auto;
     justify-content: center;
     text-align: center;
   }
-  .social_media_links{
+  .social_media_links {
     justify-content: center;
   }
-  .doctor_desc{
+  .doctor_desc {
     text-align: center;
     margin: 20px;
   }
-  .doc_image{
+  .doc_image {
     margin-top: 50px;
   }
-  .about_video img{
+  .about_video img {
     height: 200px;
     width: auto;
     margin: 10px 0px;
   }
-  .background{
-  display: none;
+  .background {
+    display: none;
   }
 }
-@media only screen and (max-width: 850px){
-  .about .section_body{
+@media only screen and (max-width: 850px) {
+  .about .section_body {
     display: flex;
     flex-direction: column-reverse;
     margin-top: 20px;
   }
-  .background{
+  .background {
     width: 50%;
     height: 30%;
   }
-  .about_video img{
+  .about_video img {
     width: 100vw;
     margin-top: 10px;
   }
-  .section{
+  .section {
     padding: 0px 30px;
   }
 }

@@ -56,8 +56,7 @@
 .blogSlide img{
     height: 400px;
     width: 100%;
-    border-radius: 20px;
-    
+    border-radius: 10px;   
 }
 .inData{
     position: absolute;
@@ -70,12 +69,20 @@
 .inData .blogTitle,.inData .blogDesc{
     color: white;
 }
-
+.inData a{
+  text-decoration: none;
+  color: #ffffff;
+  position: relative;
+  bottom: -100px;
+}
 @media only screen and (max-width: 480px){
   .blogpage{
     padding: 100px 20px 20px 20px;
   }
   .blogs_cards{
     grid-template-columns: 1fr;
+  }
+  .inData a{
+    display: none;
   }
 }

@@ -1,7 +1,10 @@
 import "../styles/Consultation.css";
 import Data from "../Data.json";
 import ConsultationImg from "../assests/Photos/Frame 52.png";
+import { Link } from "react-router-dom";
 function Consultation() {
+  const today=new Date();
+  console.log(today)
   return (
     <section className="consultation-main section" id="book">
       <div className="consultion">
@@ -17,13 +20,18 @@ function Consultation() {
           />
           <input
             type="date"
-            placeholder={Data.landingPage.consultation_section.form_items[2]}
+            defaultValue={today.getDate()+"/"+today.getMonth()+"/"+today.getFullYear()}          
+            placeholder={today.getDate()+"/"+today.getMonth()+"/"+today.getFullYear()}
           />
           <input
             type="time"
             placeholder={Data.landingPage.consultation_section.form_items[3]}
           />
-          <button>Book Appointment</button>
+          {/* <button>Book Appointment</button> */}
+          {/* <div to={"/about_doctor"} className="doc_knowmore_btn btn"><Link to={"/about_doctor"}>Book Appointment</Link></div> */}
+          <div className="home_book_app">
+              <Link to="/about_doctor">Book Appointment</Link>
+            </div>
         </form>
       </div>
       <div className="consultation-form-img">
