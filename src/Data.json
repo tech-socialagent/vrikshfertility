@@ -743,28 +743,28 @@
             "section_desc": "Resources To Keep You Informed With Our Blog",
             "articles": [
                 {
-                    "img": "Frame34.png",
+                    "img": "pppp.png",
                     "title": "How Do Inherited Retinal Diseases Happen?",
                     "date": "June 7,2022",
                     "postby": "Admin",
                     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                    "more_link": ""
+                    "more_link": "blog1"
                 },
                 {
-                    "img": "Frame34.png",
+                    "img": "pppp.png",
                     "title": "How Do Inherited Retinal Diseases Happen?",
                     "date": "June 7,2022",
                     "postby": "Admin",
                     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                    "more_link": ""
+                    "more_link": "blog2"
                 },
                 {
-                    "img": "Frame34.png",
+                    "img": "pppp.png",
                     "title": "How Do Inherited Retinal Diseases Happen?",
                     "date": "June 7,2022",
                     "postby": "Admin",
                     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                    "more_link": ""
+                    "more_link": "blog3"
                 }
             ]
         },
@@ -1020,7 +1020,6 @@
                         ""
                     ]
                 },
-                
                 {
                     "sub-title": "FAQs",
                     "desc": [
@@ -1488,6 +1487,366 @@
                     "desc": [
                         "The couple may decide to use donated sperm when there is significant male factor infertility. The sperm donors must donate at the authorised sperm banks and are typically anonymous. Before releasing the semen sample, they are also tested for infectious viral infections like HIV, Hbsag, and HCV. The same tests are done every 6 months."
                     ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ]
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ]
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Assisted Hatching",
+            "sub_data": [
+                {
+                    "sub_title": "IVF with Assisted Hatching for Higher Implantation Rates ",
+                    "desc": [
+                        "IVF failure is a frustrating experience for both individuals and couples, and it frequently results from an embryo that does not successfully implant in the uterus.",
+                        "Your fertility specialist could suggest aided hatching if you've had multiple unsuccessful IVF cycles or have a poor prognosis for IVF."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What exactly is aided hatching? ",
+                            "fdesc": [
+                                "The cells start to divide after a laboratory-fertilized egg. The zona pellicuda, a layer of proteins, surrounds the embryo during these early stages of development. An embryo must emerge through the zona pellucida and adhere to the uterine walls in order to properly implant into the uterine lining.",
+                                "A more recent laboratory procedure called assisted hatching was created after fertility specialists noticed that embryos with a thin zona pellucida had a better likelihood of implantation during IVF. Under a microscope, an embryologist can manipulate the zona pellucida to make a tiny hole for aided hatching. This occurs on the third day of embryo development, when there are typically six to eight cells per embryo.",
+                                "An embryo stabilisation pipette is used. A tiny laser on the opposing side slightly damages the zona pellucida. The embryos are then placed back in the incubator to continue to develop."
+                            ]
+                        },
+                        {
+                            "title": "Who ought to use IVF and assisted hatching?",
+                            "fdesc": [
+                                "Some couples with a poor prognosis may benefit from assisted hatching since their embryos may not have the energy to finish the hatching process.",
+                                "According to the American Society for Reproductive Medicine, women with the following conditions may benefit from assisted hatching:",
+                                "Mother's advanced age (older than 38) Two or more IVF cycles that failed A bad quality embryo"
+                            ]
+                        },
+                        {
+                            "title": "IVF-assisted hatching: Is it secure?",
+                            "fdesc": [
+                                "Complications from assisted hatching are possible. It may be linked to a decrease in the viability of the embryo as well as harm to the embryo and individual blastomeres.",
+                                "Furthermore, aided hatching has been linked to a higher incidence of twin pregnancies. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Azoospermia",
+            "sub_data": [
+                {
+                    "sub-title": "AzooSpermia",
+                    "desc": [
+                        "Azoospermia means there’s no sperm in a man’s ejaculate. Its causes include a blockage along the reproductive tract, hormonal problems, ejaculation problems or issues with testicular structure or function. Many causes are treatable and fertility can be restored. For other causes it may be possible to retrieve live sperm to be used in assisted reproductive techniques. Male reproductive anatomy."
+                    ]
+                },
+                {
+                    "sub-title": "What is azoospermia?",
+                    "desc": [
+                        "Azoospermia is a condition in which there’s no measurable sperm in a man’s ejaculate (semen). Azoospermia leads to male infertility."
+                    ]
+                },
+                {
+                    "sub-title": "How common is azoospermia?",
+                    "desc": [
+                        "About 1% of all men and 10% to 15% of infertile men have azoospermia."
+                    ]
+                },
+                {
+                    "sub-title": "What are the parts of the male reproductive system?",
+                    "desc": [
+                        "The male reproductive system is made up of the following:",
+                        "Testes, or testicles produce sperm (male reproductive cells) in a process called spermatogenesis.",
+                        "Seminiferous tubules are tiny tubes that make up most of the tissue of the testes. ",
+                        "Epididymis is the structure on the back of each testicle into which mature  sperm are moved and stored. ",
+                        "It is the muscular tube that passes from the epididymis into the pelvis then curves around and enters the seminal vesicle.",
+                        "Seminal vesicle is a tubular gland that produces and stores most of the fluid ingredients of semen. The vesicle narrows to form a straight duct, the seminal duct, which joins with the vas deferens",
+                        "Ejaculatory duct is created when the seminal vesicle duct merges with the vas deferens. The ejaculatory duct passes into the prostate gland and connects with the urethra.",
+                        "Urethra is the tube that runs through the penis to eliminate urine from the bladder and semen from the vas deferens.",
+                        "During ejaculation, sperm move from the testes and the epididymis into the vas deferens. Tightening (contraction) of the vas deferens moves the sperm along. Secretions from the seminal vesicle are added and the seminal fluid continues to move forward toward the urethra. Before reaching the urethra, the seminal fluid passes by the prostate gland, which adds a milky fluid to the sperm to form semen. Lastly, the semen is ejaculated (released) through the penis through the urethra. </br></br>A normal sperm count is considered to be 15 million/mL or more. Men with low sperm counts (oligozoospermia or oligospermia) have a sperm concentration of less than 15 million/mL. If you have azoospermia, you have no measurable sperm in your ejaculate."
+                    ]
+                },
+                {
+                    "sub-title": "Are there different types of azoospermia?",
+                    "desc": [
+                        "There are two main types of azoospermia:",
+                        "Obstructive azoospermia: This type of azoospermia means that there is a blockage or missing connection in the epididymis, vas deferens, or elsewhere along your reproductive tract. You are producing sperm but it’s getting blocked from exit so there’s no measurable amount of sperm in your semen.",
+                        "Nonobstructive azoospermia: This type of azoospermia means you have poor or no sperm production due to defects in the structure or function of the testicles or other causes."
+                    ]
+                },
+                {
+                    "sub-title": "What are the causes of azoospermia?",
+                    "desc": [
+                        "The causes of azoospermia relate directly to the types of azoospermia. In other words, causes can be due to an obstruction or nonobstructive sources. ",
+                        "Obstructions that result in azoospermia most commonly occur in the vas deferens, the epididymus or ejaculatory ducts. Problems that can cause blockages in these areas include: ",
+                        "1. Trauma or injury to these areas.",
+                        "2. Infections.",
+                        "3. Inflammation.",
+                        "4. Previous surgeries in the pelvic area.",
+                        "5. Development of a cyst.",
+                        "6. Vasectomy (planned permanent contraceptive procedure in which the vas deferens are cut or clamped to prevent the flow of sperm). ",
+                        "7. Cystic fibrosis gene mutation, which causes either the vas deferens not to form or causes abnormal development such that semen gets blocked by a buildup of thick secretions in the vas deferens.  ",
+                        "Nonobstructive causes of azoospermia include:",
+                        "Genetic causes. Certain genetic mutations can result in infertility, including:",
+                        "a.Kallmann syndrome: A genetic (inherited) disorder carried on the X chromosome and that if left untreated can result in infertility.",
+                        "b.Klinefelter’s syndrome: A male carries an extra X chromosome (making his chromosomal makeup XXY instead of XY). The result is often infertility, along with lack of sexual or physical maturity, and learning difficulties.",
+                        "c.Y chromosome deletion: Critical sections of genes on the Y chromosome (the male chromosome) that are responsible for sperm production are missing, resulting in infertility.",
+                        "8. Hormone imbalances/endocrine disorders, including hypogonadotropic hypogonadism. hyperprolactinemia and androgen resistance.",
+                        "9. Ejaculation problems such as retrograde ejaculation where the semen goes in to the bladder",
+                        "10. Testicular causes include:",
+                        "a.Anorchia (absence of the testicles).",
+                        "b.Cyptorchidism (testicles have not dropped into the scrotum).",
+                        "c.Sertoli cell-only syndrome (testicles fail to produce living sperm cells).",
+                        "d.Spermatogenic arrest (testicles fail to produce fully mature sperm cells).",
+                        "e.Mumps orchitis (inflamed testicles caused by mumps in late puberty). ",
+                        "f.Testicular torsion. ",
+                        "g.Tumors.",
+                        "h.Reactions to certain medications that harm sperm production.",
+                        "i.Radiation treatments.",
+                        "j.Diseases such as diabetes, cirrhosis, or kidney failure. ",
+                        "k. Varicocele (veins coming from the testicle are dilated or widened impeding sperm production). "
+                    ]
+                },
+                {
+                    "sub-title": "How is azoospermia diagnosed?",
+                    "desc": [
+                        "Azoospermia is diagnosed when, on two separate occasions, your sperm sample reveals no sperm when examined under a high-powered microscope following a spin in a centrifuge. A centrifuge is a laboratory instrument that spins a test sample at a high speed to separate it into its various parts. In the case of centrifuged seminal fluid, if sperm cells are present, they separate from the fluid around them and can be viewed under a microscope.",
+                        "As part of the diagnosis, your healthcare provider will take your medical history, including asking you about the following:",
+                        "1. Fertility success or failure in the past (your ability to have children). ",
+                        "2. Childhood illnesses.",
+                        "3. Injuries or surgeries in the pelvic area (these could cause duct blockage or poor blood supply to the testicles).",
+                        "4. Urinary or reproductive tract infections. ",
+                        "5. History of sexually transmitted diseases. ",
+                        "6. Exposure to radiation or chemotherapy. ",
+                        "7. Your current and past medications. ",
+                        "8. Any abuse of alcohol, marijuana or other drugs.",
+                        "9. Recent fevers or exposure to heat, including frequent saunas or steam baths (heat kills sperm cells).",
+                        "10. Family history of birth defects, learning disabilities, reproductive failure or cystic fibrosis.",
+                        "Your healthcare provider will also conduct a physical examination, and will check:",
+                        "11. Your entire body in terms of signs of/lack of maturation of your body and reproductive organs.",
+                        "12. Your penis and scrotum, checking for the presence of your vas deferens, tenderness or swelling of your epididymis, size of the testicles, the presence or absence of a varicocele, and any blockage of the ejaculatory duct (via exam through the rectum) as evidenced by enlarged seminal vesicles.",
+                        "Your healthcare provider may also order the following tests:",
+                        "13. Measurement of testosterone and follicle-stimulating hormone (FSH) levels.",
+                        "14. Genetic testing. ",
+                        "15.X-rays or ultrasound of the reproductive organs to see if there are any problems with the shape and size, and to see if there are tumors, blockages or an inadequate blood supply.",
+                        "16. Imaging of the brain to identify disorders of the hypothalamus or pituitary gland.",
+                        "17. Biopsy (tissue sampling) of the testes. A normal biopsy would mean a blockage is probable at some point in the sperm transport system. Sometimes, any sperm found in the testes is frozen for future analysis or can be used in assisted pregnancy."
+                    ]
+                },
+                {
+                    "sub-title": "How is azoospermia treated?",
+                    "desc": [
+                        "Treatment of azoospermia depends on the cause. Genetic testing and counselling are often an important part of understanding and treating azoospermia. Treatment approaches include:",
+                        "If a blockage is the cause of your azoospermia, surgery can unblock tubes or reconstruct and connect abnormal or never developed tubes.",
+                        "If low hormone production is the main cause, you may be given hormone treatments. Hormones include follicle-stimulating hormone (FSH), human chorionic gonadotropin (HCG), clomiphene, anastrazole and letrozole.",
+                        "If a varicocele is the cause of poor sperm production, the problem veins can be tied off in a surgical procedure, keeping surrounding structures preserved.",
+                        "Sperm can be retrieved directly from the testicle with an extensive biopsy in some men",
+                        "If living sperm are present, they can be retrieved from the testes, epididymis or vas deferens for assisted pregnancy procedures such as in vitro fertilization or intracytoplasmic sperm injection (the injection of one sperm into one egg). If the cause of azoospermia is thought to be something that could be passed on to children, your healthcare provider may recommend genetic analysis of your sperm before assisted fertilization procedures are considered."
+                    ]
+                },
+                {
+                    "sub-title": "How can azoospermia be prevented?",
+                    "desc": [
+                        "There is no known way to prevent the genetic problems that cause azoospermia. If your azoospermia is not a genetic problem, doing the following can help lessen the chance of azoospermia:",
+                        "1. Avoid activities that could injure the reproductive organs. ",
+                        "2. Avoid exposure to radiation. ",
+                        "3. Know the risks and benefits of medications that could harm sperm production.",
+                        "4. Avoid lengthy exposure of your testes to hot temperatures."
+                    ]
+                },
+                {
+                    "sub-title": "What is the long-term outlook for those with azoospermia?",
+                    "desc": [
+                        "Every cause of azoospermia has a different prognosis. Many causes of azoospermia can be reversed. You and your healthcare team will work together to determine the cause of your azoospermia and treatment options. Hormonal problems and obstructive causes of azoospermia are usually treatable and fertility can potentially be restored. If testicular disorders are the cause, it’s still possible to retrieve live sperm to be used in assisted reproductive techniques."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ]
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ]
+                        },
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Donor Egg ",
+            "sub_data": [
+                {
+                    "sub-title": "How can azoospermia be prevented?",
+                    "desc": [
+                        "There is no known way to prevent the genetic problems that cause azoospermia. If your azoospermia is not a genetic problem, doing the following can help lessen the chance of azoospermia:",
+                        "1. Avoid activities that could injure the reproductive organs. ",
+                        "2. Avoid exposure to radiation. ",
+                        "3. Know the risks and benefits of medications that could harm sperm production.",
+                        "4. Avoid lengthy exposure of your testes to hot temperatures."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What does egg donation entail??",
+                            "fdesc": [
+                                "When a woman gives her eggs (or oocytes), she is assisting another woman in getting pregnant. The male partner's sperm or donor sperm may be used to fertilise donor eggs.",
+                                "If there are no medical reasons why a woman shouldn't carry a pregnancy, donor egg IVF may be a viable choice for those who are unable to conceive with their own eggs. Advanced age, a decreased ovarian reserve, early ovarian failure that is either undiagnosed or brought on by autoimmune diseases, chemotherapy, or surgical menopause are all indications for donor egg IVF. IVF with donor eggs is also suitable for women who have genetic mutations."
+                            ]
+                        },
+                        {
+                            "title": "The egg donation procedure",
+                            "fdesc": [
+                                "According to ICMR rules, egg donation is a private practise. Donors of eggs are typically young, healthy women with one or more kids. Infections like HIV and hepatitis are screened for, and a full medical and psychological evaluation is also performed. The ICMR's recommended tests are carried out, and its rules are properly adhered to. An egg donor will be added to the programme once the application and legal documents have been finished."
+                            ]
+                        },
+                        {
+                            "title": "How is donor egg IVF carried out?",
+                            "fdesc": [
+                                "IVF donor egg cycles mix the recipient and donor egg cycles. The menstrual cycle of the egg donor and the recipient's use of birth control tablets are often coordinated. On the second day of menstruation, the receiver starts taking estradiol tablets to prepare her uterus, while the donor starts receiving injections to stimulate her ovaries. Once the donor's follicles are prepared, which typically takes 11–12 days, the egg retrieval operation is carried out under anaesthetic and ultrasound monitoring. The recipient's partner gives a sample of his semen on the day of egg retrieval. The gametes are then fertilised in a laboratory setting. The recipient is given luteal support medicines. Three to five days later, a USG directs the transfer of one to two embryos into the recipient's uterus. If there are extra embryos, they can be stored in the freezer for later use."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Blastocyst Culture & Transfer ",
+            "sub_data": [
+                {
+                    "sub-title": "Blastocyst Culture & Transfer ",
+                    "desc": [
+                        "It is now possible to accomplish so many things that were previously unthinkable due to the advancement of medical knowledge. The embryo can now be grown for longer than the customary three days thanks to changes made to the liquid used for in vitro cultivation. The final stage of the embryo's development before it leaves the egg by rupturing the zona pellucida and embeds itself in the uterine wall is the blastocyst, which may now be cultured in vitro for up to 5 days."
+                    ]
+                },
+                {
+                    "sub-title": "Why Is It Performed?",
+                    "desc": [
+                        "Pregnancy rates are greater after blastocyst-stage embryo transfer on the fifth day. There are potentially two plausible explanations for this:",
+                        "In the beginning, transferring the blastocyst to the uterus may be more medically suitable because it closely mimics nature, increasing the likelihood that the embryo will implant.",
+                        "Furthermore, waiting until the blastocyst stage allows the expert to select the best embryo because undesired babies are likely to terminate before they get to this stage.",
+                        "Fundamentally, the likelihood of potentially hazardous twin or triplet birth is reduced by blastocyst transfer. Higher implantation rates allow doctors to exchange fewer blastocysts, possibly just one, reducing or avoiding multiple births and the problems they bring. With the help of vitrification, extra blastocysts can also be successfully cryopreserved so that pregnancies can be carried out in the future."
+                    ]
+                },
+                {
+                    "sub-title": "Advantages of the blastocyst method over traditional embryo transfer techniques ",
+                    "desc": [
+                        "The majority of embryo transfers in the past took place on days two or three. In any event, the majority of excellent clinics have moved on to routinely performing day five (blastocyst) transfers. Tragically, many IVF clinics in India still transfer embryos on the second or third day because this is not yet the common option. This is primarily due to their lack of tremendous confidence in the capabilities of their research facility and their embryologist's ability to culture eggs up to day five. They justify this by telling the patient that it's preferable for the embryo to hatch inside the uterus earlier, which is why they lean toward transferring the embryo into the uterus. However, there are a lot of disadvantages to this, therefore you should request that your doctor perform a blastocyst transfer on your behalf.",
+                        "When compared to Day 2 or Day 3 transfer, blastocysts have a higher possibility of implanting, hence the success percentage is higher with blastocyst transfer. They are more likely since they are more developed and have more cells. When compared to transferring three or four Day 3 embryos, the specialist can reduce the number of embryos to be transferred and exchange only a few blastocysts while still having a high pregnancy rate.",
+                        "Additionally, since the expert is only exchanging 1–2 blastocysts, you can freeze the extra blastocysts, giving you the chance to complete multiple cycles in the future. In light of the fact that the overall pregnancy rate is increasing, this makes it more useful.",
+                        "The final and most important reason to request a blastocyst transfer is that you won't have to endure the scary 2-week wait during which you won't know whether you will become pregnant or not if you have poor quality embryos. Therefore, if the IVF cycle fails after exchanging Day 3 embryos, it is impossible to determine if the problem was that the foetus did not develop further or whether there was some other reason why the implantation failed. Even more so, you're uncertain as to whether your embryo will live for five days or not.",
+                        "This is especially true for older women with fewer eggs. Such women are more likely to experience a failed IVF because their embryos are more likely to halt and not develop into blastocysts. Many of the embryos can be genetically abnormal.",
+                        "These are the patients who might benefit most greatly from a blastocyst transfer. However, because they typically have poor ovarian response, the doctor is reluctant to develop the embryos all the way to the blastocyst stage when just 3–4 eggs are collected. The patient will blame them if it doesn't work out. For this reason, they would much rather transfer the embryos back into the uterus, where they could claim  \"implantation failure\" if the cycle did not succeed.",
+                        "However, following the embryo swap, the patient is duped into believing that \"Amazingly, possibly this embryo may implant and grow into a baby,\" which is why they are so optimistic during the waiting period.",
+                        "This false expectation is hurting. They believe that their uterus rejected the embryo at the time when the cycle ends prematurely, which is when they are persuaded to pursue surrogacy. This is dreadful advise which is absolutely imperfect on the grounds that the issue is with the egg and not with the uterus.",
+                        "Aveya IVF maintains an honest approach with all the patients and gives the best potential outcome in each situation. This is combined with our highly skilled and informed specialists who can assist you in getting the greatest outcome from your IVF operation. Consult with our skilled fertility doctors to know more about this process and discuss your alternatives."
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "PGT -A ",
+            "sub_data": [
+                {
+                    "sub-title": "An overview of genetic testing for preimplantation embryos",
+                    "desc": [
+                        "Preimplantation genetic testing (PGT) during in vitro fertilisation (IVF) screens embryos for a variety of genetic issues that can cause implantation failure, miscarriage, and birth abnormalities in a child.",
+                        "Birth abnormalities or pregnancy loss can result from a variety of genetic illnesses, such as extra chromosomes in the embryo (like Down syndrome), single gene diseases (like sickle cell anaemia), or gene rearrangements.",
+                        "There are three different kinds of PGTs, which perform the same tasks as the well-known PGD and PGS tests for preimplantation genetic diagnosis and screening, respectively.",
+                        "Using PGT, embryologists can identify genetic flaws in an embryo prior to IVF, preventing those embryos from being implanted into the woman's uterus."
+                    ]
+                },
+                {
+                    "sub-title": "For embryos, what is preimplantation genetic testing (PGT)?",
+                    "desc": [
+                        "Preimplantation genetic testing on embryos during IVF is possible in three ways:",
+                        "examining chromosomal counts during preimplantation genetic testing to look for abnormalities (PGT-A)",
+                        "In PGT-A, the chromosome count of embryonic cells is examined to see if it is normal. An uneven division of either sperm or egg cells can result in an embryo having either too few or too many chromosomes.",
+                        "People typically have 46 chromosomes since each parent contributes 23 chromosomes to each child. An embryo or cell is said to be aneuploid if it has an additional chromosome or if one is missing altogether. When one chromosome is absent, the condition is known as monosomy; when one chromosome has two copies, it is known as trisomy.",
+                        "Turner syndrome, which results from the lack of an X chromosome, is the only monosomy that can survive in a child. Trisomy 21 (Down syndrome), Turner syndrome, and other conditions can occur from an extra chromosome in pair 21 of normal chromosomes. Aneuploidy is one of the leading causes of miscarriage and unsuccessful pregnancy implantation."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "The PGT-A test looks for what kinds of chromosomal abnormalities?",
+                            "fdesc": [
+                                "The main goal of a PGT-A embryo is to guarantee that it is euploid, or having the appropriate amount of chromosomes. PGT-A can identify monosomies (incomplete chromosomes) and trisomies (incomplete chromosomes) in embryos. PGT-A also checks for chromosomal duplications and deletions. Large deletions and duplications are necessary for their detection. In some versions, but not all, the PGT-A may also pick up on mosaicism and uniparental disomy (UPD). Our genetic counsellor will go over the different kinds of outcomes that can be discovered during your session."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "PGT-A ",
+            "sub_data": [
+                {
+                    "sub-title": "An overview of genetic testing for preimplantation embryos",
+                    "desc": [
+                        "Preimplantation genetic testing (PGT) during in vitro fertilisation (IVF) screens embryos for a variety of genetic issues that can cause implantation failure, miscarriage, and birth abnormalities in a child.",
+                        "Birth abnormalities or pregnancy loss can result from a variety of genetic illnesses, such as extra chromosomes in the embryo (like Down syndrome), single gene diseases (like sickle cell anaemia), or gene rearrangements.",
+                        "There are three different kinds of PGTs, which perform the same tasks as the well-known PGD and PGS tests for preimplantation genetic diagnosis and screening, respectively.",
+                        "Using PGT, embryologists can identify genetic flaws in an embryo prior to IVF, preventing those embryos from being implanted into the woman's uterus."
+                    ]
+                },
+                {
+                    "sub-title": "For embryos, what is preimplantation genetic testing (PGT)?",
+                    "desc": [
+                        "Preimplantation genetic testing on embryos during IVF is possible in three ways:",
+                        "examining chromosomal counts during preimplantation genetic testing to look for abnormalities (PGT-A)",
+                        "In PGT-A, the chromosome count of embryonic cells is examined to see if it is normal. An uneven division of either sperm or egg cells can result in an embryo having either too few or too many chromosomes.",
+                        "People typically have 46 chromosomes since each parent contributes 23 chromosomes to each child. An embryo or cell is said to be aneuploid if it has an additional chromosome or if one is missing altogether. When one chromosome is absent, the condition is known as monosomy; when one chromosome has two copies, it is known as trisomy.",
+                        "Turner syndrome, which results from the lack of an X chromosome, is the only monosomy that can survive in a child. Trisomy 21 (Down syndrome), Turner syndrome, and other conditions can occur from an extra chromosome in pair 21 of normal chromosomes. Aneuploidy is one of the leading causes of miscarriage and unsuccessful pregnancy implantation."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "The PGT-A test looks for what kinds of chromosomal abnormalities?",
+                            "fdesc": [
+                                "The main goal of a PGT-A embryo is to guarantee that it is euploid, or having the appropriate amount of chromosomes. PGT-A can identify monosomies (incomplete chromosomes) and trisomies (incomplete chromosomes) in embryos. PGT-A also checks for chromosomal duplications and deletions. Large deletions and duplications are necessary for their detection. In some versions, but not all, the PGT-A may also pick up on mosaicism and uniparental disomy (UPD). Our genetic counsellor will go over the different kinds of outcomes that can be discovered during your session."
+                            ]
+                        }
+                    ]
                 }
             ]
         }
@@ -1541,5 +1900,197 @@
         "Oocyte/Egg Freezing",
         "Semen Freezing",
         "Embryo Freezing"
+    ],
+    "faqpage": [
+        {
+            "title": "What is the PGT procedure?",
+            "fdesc": [
+                "The three different PGTs are all carried out similarly. The patient follows the doctor's advice and has an IVF cycle and egg retrieval. Their embryos are observed in our lab till they are referred to as blastocysts on day 5 or day 6. A few cells are extracted from the biopsyed (removed) embryos and sent to a lab for PGT. The blastocyst's trophectoderm eventually develops into the placenta.",
+                "It is anticipated that these cells will constitute the remainder of the embryo, although due to things like mosaicism, this may not always be the case (see question 13). The embryo(s) must be frozen before PGT. An embryo with normal PGT results will be chosen, frozen, and implanted into the patient's uterus later."
+            ]
+        },
+        {
+            "title": "When must I decide whether to pursue PGT?",
+            "fdesc": [
+                "You should decide to have PGT a long time before your IVF cycle. Before an IVF cycle can occur, DNA samples from the patient, their partner or donor, and occasionally other family members, may need to be obtained.",
+                "To see if the lab will be able to accurately identify the genetic alterations in the patient's embryo, PGT-M is put through a test development phase. The test creation stage can take up to 12 weeks after receiving all DNA samples. This procedure must be finished in its entirety before an IVF cycle (stimulating drugs) can begin."
+            ]
+        },
+        {
+            "title": "The PGT-A test looks for what kinds of chromosomal abnormalities? ",
+            "fdesc": [
+                "The main goal of a PGT-A embryo is to guarantee that it is euploid, or having the appropriate amount of chromosomes. PGT-A can identify monosomies (incomplete chromosomes) and trisomies (incomplete chromosomes) in embryos. PGT-A also checks for chromosomal duplications and deletions. Large deletions and duplications are necessary for their detection. In some versions, but not all, the PGT-A may also pick up on mosaicism and uniparental disomy (UPD). Our genetic counsellor will go over the different kinds of outcomes that can be discovered during your session."
+            ]
+        },
+        {
+            "title": "Why Is It Performed? ",
+            "fdesc": [
+                "Pregnancy rates are greater after blastocyst-stage embryo transfer on the fifth day. There are potentially two plausible explanations for this:",
+                "In the beginning, transferring the blastocyst to the uterus may be more medically suitable because it closely mimics nature, increasing the likelihood that the embryo will implant.",
+                "Furthermore, waiting until the blastocyst stage allows the expert to select the best embryo because undesired babies are likely to terminate before they get to this stage."
+            ]
+        },
+        {
+            "title": "Who ought to use IVF and assisted hatching?",
+            "fdesc": [
+                "Some couples with a poor prognosis may benefit from assisted hatching since their embryos may not have the energy to finish the hatching process.",
+                "According to the American Society for Reproductive Medicine, women with the following conditions may benefit from assisted hatching:",
+                "Mother's advanced age (older than 38) Two or more IVF cycles that failed A bad quality embryo",
+                "Fundamentally, the likelihood of potentially hazardous twin or triplet birth is reduced by blastocyst transfer. Higher implantation rates allow doctors to exchange fewer blastocysts, possibly just one, reducing or avoiding multiple births and the problems they bring. With the help of vitrification, extra blastocysts can also be successfully cryopreserved so that pregnancies can be carried out in the future."
+            ]
+        },
+        {
+            "title": "Advantages of the blastocyst method over traditional embryo transfer techniques ",
+            "fdesc": [
+                "The majority of embryo transfers in the past took place on days two or three. In any event, the majority of excellent clinics have moved on to routinely performing day five (blastocyst) transfers. Tragically, many IVF clinics in India still transfer embryos on the second or third day because this is not yet the common option. This is primarily due to their lack of tremendous confidence in the capabilities of their research facility and their embryologist's ability to culture eggs up to day five. They justify this by telling the patient that it's preferable for the embryo to hatch inside the uterus earlier, which is why they lean toward transferring the embryo into the uterus. However, there are a lot of disadvantages to this, therefore you should request that your doctor perform a blastocyst transfer on your behalf.",
+                "When compared to Day 2 or Day 3 transfer, blastocysts have a higher possibility of implanting, hence the success percentage is higher with blastocyst transfer. They are more  likely since they are more developed and have more cells. When compared to transferring three or four Day 3 embryos, the specialist can reduce the number of embryos to be transferred and exchange only a few blastocysts while still having a high pregnancy rate.",
+                "Additionally, since the expert is only exchanging 1–2 blastocysts, you can freeze the extra blastocysts, giving you the chance to complete multiple cycles in the future. In light of the fact that the overall pregnancy rate is increasing, this makes it more useful. ",
+                "The final and most important reason to request a blastocyst transfer is that you won't have to endure the scary 2-week wait during which you won't know whether you will become pregnant or not if you have poor quality embryos. Therefore, if the IVF cycle fails after exchanging Day 3 embryos, it is impossible to determine if the problem was that the foetus did not develop further or whether there was some other reason why the implantation failed. Even more so, you're uncertain as to whether your embryo will live for five days or not.",
+                "This is especially true for older women with fewer eggs. Such women are more likely to experience a failed IVF because their embryos are more likely to halt and not develop into blastocysts. Many of the embryos can be genetically abnormal.",
+                "These are the patients who might benefit most greatly from a blastocyst transfer. However, because they typically have poor ovarian response, the doctor is reluctant to develop the embryos all the way to the blastocyst stage when just 3–4 eggs are collected. The patient will blame them if it doesn't work out. For this reason, they would much rather transfer the embryos back into the uterus, where they could claim \"implantation failure\" if the cycle did not succeed.",
+                "However, following the embryo swap, the patient is duped into believing that \"Amazingly, possibly this embryo may implant and grow into a baby,\" which is why they are so optimistic during the waiting period.",
+                "This false expectation is hurting. They believe that their uterus rejected the embryo at the time when the cycle ends prematurely, which is when they are persuaded to pursue surrogacy. This is dreadful advise which is absolutely imperfect on the grounds that the issue is with the egg and not with the uterus.",
+                "Aveya IVF maintains an honest approach with all the patients and gives the best potential outcome in each situation. This is combined with our highly skilled and informed specialists who can assist you in getting the greatest outcome from your IVF operation. Consult with our skilled fertility doctors to know more about this process and discuss your alternatives."
+            ]
+        },
+        {
+            "title": "What does egg donation entail??",
+            "fdesc": [
+                "When a woman gives her eggs (or oocytes), she is assisting another woman in getting pregnant. The male partner's sperm or donor sperm may be used to fertilise donor eggs.",
+                "If there are no medical reasons why a woman shouldn't carry a pregnancy, donor egg IVF may be a viable choice for those who are unable to conceive with their own eggs. Advanced age, a decreased ovarian reserve, early ovarian failure that is either undiagnosed or brought on by autoimmune diseases, chemotherapy, or surgical menopause are all indications for donor egg IVF. IVF with donor eggs is also suitable for women who have genetic mutations."
+            ]
+        },
+        {
+            "title": "The egg donation procedure",
+            "fdesc": [
+                "According to ICMR rules, egg donation is a private practise. Donors of eggs are typically young, healthy women with one or more kids. Infections like HIV and hepatitis are screened for, and a full medical and psychological evaluation is also performed. The ICMR's recommended tests are carried out, and its rules are properly adhered to. An egg donor will be added to the programme once the application and legal documents have been finished."
+            ]
+        },
+        {
+            "title": "How is donor egg IVF carried out?",
+            "fdesc": [
+                "IVF donor egg cycles mix the recipient and donor egg cycles. The menstrual cycle of the egg donor and the recipient's use of birth control tablets are often coordinated. On the second day of menstruation, the receiver starts taking estradiol tablets to prepare her uterus, while the donor starts receiving injections to stimulate her ovaries. Once the donor's follicles are prepared, which typically takes 11–12 days, the egg retrieval operation is carried out under anaesthetic and ultrasound monitoring. The recipient's partner gives a sample of his semen on the day of egg retrieval. The gametes are then fertilised in a laboratory setting. The recipient is given luteal support medicines. Three to five days later, a USG directs the transfer of one to two embryos into the recipient's uterus. If there are extra embryos, they can be stored in the freezer for later use."
+            ]
+        },
+        {
+            "title": "What is azoospermia?",
+            "fdesc": [
+                "Azoospermia is a condition in which there’s no measurable sperm in a man’s ejaculate (semen). Azoospermia leads to male infertility."
+            ]
+        },
+        {
+            "title": "How common is azoospermia?",
+            "fdesc": [
+                "About 1% of all men and 10% to 15% of infertile men have azoospermia."
+            ]
+        },
+        {
+            "title": "What are the parts of the male reproductive system?",
+            "fdesc": [
+                "The male reproductive system is made up of the following:",
+                "Testes, or testicles produce sperm (male reproductive cells) in a process called spermatogenesis.",
+                "Seminiferous tubules are tiny tubes that make up most of the tissue of the testes. ",
+                "Epididymis is the structure on the back of each testicle into which mature  sperm are moved and stored. ",
+                "It is the muscular tube that passes from the epididymis into the pelvis then curves around and enters the seminal vesicle.",
+                "Seminal vesicle is a tubular gland that produces and stores most of the fluid ingredients of semen. The vesicle narrows to form a straight duct, the seminal duct, which joins with the vas deferens",
+                "Ejaculatory duct is created when the seminal vesicle duct merges with the vas deferens. The ejaculatory duct passes into the prostate gland and connects with the urethra.",
+                "Urethra is the tube that runs through the penis to eliminate urine from the bladder and semen from the vas deferens.",
+                "During ejaculation, sperm move from the testes and the epididymis into the vas deferens. Tightening (contraction) of the vas deferens moves the sperm along. Secretions from the seminal vesicle are added and the seminal fluid continues to move forward toward the urethra. Before reaching the urethra, the seminal fluid passes by the prostate gland, which adds a milky fluid to the sperm to form semen. Lastly, the semen is ejaculated (released) through the penis through the urethra. </br></br>A normal sperm count is considered to be 15 million/mL or more. Men with low sperm counts (oligozoospermia or oligospermia) have a sperm concentration of less than 15 million/mL. If you have azoospermia, you have no measurable sperm in your ejaculate."
+            ]
+        },
+        {
+            "title": "Are there different types of azoospermia?",
+            "fdesc": [
+                "There are two main types of azoospermia:",
+                "Obstructive azoospermia: This type of azoospermia means that there is a blockage or missing connection in the epididymis, vas deferens, or elsewhere along your reproductive tract. You are producing sperm but it’s getting blocked from exit so there’s no measurable amount of sperm in your semen.",
+                "Nonobstructive azoospermia: This type of azoospermia means you have poor or no sperm production due to defects in the structure or function of the testicles or other causes."
+            ]
+        },
+        {
+            "title": "What are the causes of azoospermia?",
+            "fdesc": [
+                "The causes of azoospermia relate directly to the types of azoospermia. In other words, causes can be due to an obstruction or nonobstructive sources. ",
+                "Obstructions that result in azoospermia most commonly occur in the vas deferens, the epididymus or ejaculatory ducts. Problems that can cause blockages in these areas include: ",
+                "1. Trauma or injury to these areas.",
+                "2. Infections.",
+                "3. Inflammation.",
+                "4. Previous surgeries in the pelvic area.",
+                "5. Development of a cyst.",
+                "6. Vasectomy (planned permanent contraceptive procedure in which the vas deferens are cut or clamped to prevent the flow of sperm). ",
+                "7. Cystic fibrosis gene mutation, which causes either the vas deferens not to form or causes abnormal development such that semen gets blocked by a buildup of thick secretions in the vas deferens.  ",
+                "Nonobstructive causes of azoospermia include:",
+                "Genetic causes. Certain genetic mutations can result in infertility, including:",
+                "a.Kallmann syndrome: A genetic (inherited) disorder carried on the X chromosome and that if left untreated can result in infertility.",
+                "b.Klinefelter’s syndrome: A male carries an extra X chromosome (making his chromosomal makeup XXY instead of XY). The result is often infertility, along with lack of sexual or physical maturity, and learning difficulties.",
+                "c.Y chromosome deletion: Critical sections of genes on the Y chromosome (the male chromosome) that are responsible for sperm production are missing, resulting in infertility.",
+                "8. Hormone imbalances/endocrine disorders, including hypogonadotropic hypogonadism. hyperprolactinemia and androgen resistance.",
+                "9. Ejaculation problems such as retrograde ejaculation where the semen goes in to the bladder",
+                "10. Testicular causes include:",
+                "a.Anorchia (absence of the testicles).",
+                "b.Cyptorchidism (testicles have not dropped into the scrotum).",
+                "c.Sertoli cell-only syndrome (testicles fail to produce living sperm cells).",
+                "d.Spermatogenic arrest (testicles fail to produce fully mature sperm cells).",
+                "e.Mumps orchitis (inflamed testicles caused by mumps in late puberty). ",
+                "f.Testicular torsion. ",
+                "g.Tumors.",
+                "h.Reactions to certain medications that harm sperm production.",
+                "i.Radiation treatments.",
+                "j.Diseases such as diabetes, cirrhosis, or kidney failure. ",
+                "k. Varicocele (veins coming from the testicle are dilated or widened impeding sperm production). "
+            ]
+        },
+        {
+            "title": "How is azoospermia diagnosed?",
+            "fdesc": [
+                "Azoospermia is diagnosed when, on two separate occasions, your sperm sample reveals no sperm when examined under a high-powered microscope following a spin in a centrifuge. A centrifuge is a laboratory instrument that spins a test sample at a high speed to separate it into its various parts. In the case of centrifuged seminal fluid, if sperm cells are present, they separate from the fluid around them and can be viewed under a microscope.",
+                "As part of the diagnosis, your healthcare provider will take your medical history, including asking you about the following:",
+                "1. Fertility success or failure in the past (your ability to have children). ",
+                "2. Childhood illnesses.",
+                "3. Injuries or surgeries in the pelvic area (these could cause duct blockage or poor blood supply to the testicles).",
+                "4. Urinary or reproductive tract infections. ",
+                "5. History of sexually transmitted diseases. ",
+                "6. Exposure to radiation or chemotherapy. ",
+                "7. Your current and past medications. ",
+                "8. Any abuse of alcohol, marijuana or other drugs.",
+                "9. Recent fevers or exposure to heat, including frequent saunas or steam baths (heat kills sperm cells).",
+                "10. Family history of birth defects, learning disabilities, reproductive failure or cystic fibrosis.",
+                "Your healthcare provider will also conduct a physical examination, and will check:",
+                "11. Your entire body in terms of signs of/lack of maturation of your body and reproductive organs.",
+                "12. Your penis and scrotum, checking for the presence of your vas deferens, tenderness or swelling of your epididymis, size of the testicles, the presence or absence of a varicocele, and any blockage of the ejaculatory duct (via exam through the rectum) as evidenced by enlarged seminal vesicles.",
+                "Your healthcare provider may also order the following tests:",
+                "13. Measurement of testosterone and follicle-stimulating hormone (FSH) levels.",
+                "14. Genetic testing. ",
+                "15.X-rays or ultrasound of the reproductive organs to see if there are any problems with the shape and size, and to see if there are tumors, blockages or an inadequate blood supply.",
+                "16. Imaging of the brain to identify disorders of the hypothalamus or pituitary gland.",
+                "17. Biopsy (tissue sampling) of the testes. A normal biopsy would mean a blockage is probable at some point in the sperm transport system. Sometimes, any sperm found in the testes is frozen for future analysis or can be used in assisted pregnancy."
+            ]
+        },
+        {
+            "title": "How is azoospermia treated?",
+            "fdesc": [
+                "Treatment of azoospermia depends on the cause. Genetic testing and counselling are often an important part of understanding and treating azoospermia. Treatment approaches include:",
+                "If a blockage is the cause of your azoospermia, surgery can unblock tubes or reconstruct and connect abnormal or never developed tubes.",
+                "If low hormone production is the main cause, you may be given hormone treatments. Hormones include follicle-stimulating hormone (FSH), human chorionic gonadotropin (HCG), clomiphene, anastrazole and letrozole.",
+                "If a varicocele is the cause of poor sperm production, the problem veins can be tied off in a surgical procedure, keeping surrounding structures preserved.",
+                "Sperm can be retrieved directly from the testicle with an extensive biopsy in some men",
+                "If living sperm are present, they can be retrieved from the testes, epididymis or vas deferens for assisted pregnancy procedures such as in vitro fertilization or intracytoplasmic sperm injection (the injection of one sperm into one egg). If the cause of azoospermia is thought to be something that could be passed on to children, your healthcare provider may recommend genetic analysis of your sperm before assisted fertilization procedures are considered."
+            ]
+        },
+        {
+            "title": "How can azoospermia be prevented?",
+            "fdesc": [
+                "There is no known way to prevent the genetic problems that cause azoospermia. If your azoospermia is not a genetic problem, doing the following can help lessen the chance of azoospermia:",
+                "1. Avoid activities that could injure the reproductive organs. ",
+                "2. Avoid exposure to radiation. ",
+                "3. Know the risks and benefits of medications that could harm sperm production.",
+                "4. Avoid lengthy exposure of your testes to hot temperatures."
+            ]
+        },
+        {
+            "title": "What is the long-term outlook for those with azoospermia?",
+            "fdesc": [
+                "Every cause of azoospermia has a different prognosis. Many causes of azoospermia can be reversed. You and your healthcare team will work together to determine the cause of your azoospermia and treatment options. Hormonal problems and obstructive causes of azoospermia are usually treatable and fertility can potentially be restored. If testicular disorders are the cause, it’s still possible to retrieve live sperm to be used in assisted reproductive techniques."
+            ]
+        }
     ]
 }

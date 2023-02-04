@@ -1,0 +1,90 @@
+.blog-more-main .header {
+  height: 300px;
+  width: 100%;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../assests//Photos/blogbackg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 40px;
+}
+.blog-more-main .header h5 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 13px;
+}
+.blog-more-main .header h2 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 20px;
+  color: #ffffff;
+  margin: 10px 0px;
+}
+.blog-more-main .header p {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #ffffff;
+}
+.up-containt {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  position: relative;
+  top: 60%;
+  width: 70%;
+  padding: 0px 40px 0px 40px;
+}
+.up-containt p {
+  padding: 7px 0px;
+}
+
+.blog-more-middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 40px 0px 40px;
+}
+.blog-more-middle p {
+  padding: 20px 70px 0px 0px;
+}
+.middle-containt {
+  flex: 60%;
+}
+.middle-image {
+  flex: 40%;
+}
+.middle-image img {
+  height: 514px;
+  width: 410px;
+  border-radius: 5px;
+}
+.card-up-side img {
+  height: 250px;
+  width: 411px;
+  border-radius: 5px;
+}
+.down-side-date {
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+}
+.down-side-que {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: left;
+}
+.down-card {
+  padding: 20px 40px 0px 40px;
+}
+.card-down-side p {
+  width: 400px;
+  padding: 7px 0px;
+}

@@ -8,9 +8,10 @@ import Slider from "react-slick";
 
 const Blogpage = () => {
   var settings = {
-    dots: true,
+    dots: false,
     infinite: true,
-    speed: 500,
+    autoplaySpeed: 2000,
+    autoplay: true,
     slidesToShow: 1,
     slidesToScroll: 1,
     arrows: false,
@@ -30,7 +31,7 @@ const Blogpage = () => {
               return (
                 <div key={index} className="blogSlide">
                   <img
-                    src={require("../assests/Photos/blogbackg.jpg")}
+                    src={require("../assests/Photos/" + blog.img)}
                     alt=""
                     className="blogImg"
                   />

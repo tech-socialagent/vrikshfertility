@@ -21,6 +21,7 @@ import FaqPage from './components/FaqPage';
 import AboutVriksh from './components/AboutVriksh';
 import TeamValue from './components/TeamValue';
 import ContactPage from './components/ContactPage';
+import BlogMore from "./components/Blogmore";
 
 function App() {
   useEffect(() => {
@@ -46,7 +47,7 @@ function App() {
             <Home />
             <About />
             <Benefits />
-            <Services />
+            {/* <Services /> */}
             <Choose />
             <Testimonials />
             <Articles />
@@ -82,18 +83,26 @@ function App() {
             <FaqPage/>
             <Footer/>
           </Route>
+          <Route path={"/blogmore"}>
+            <BlogMore/>
+            <Footer/>
+          </Route>
           {Data.treatments.map((item, index) => {
-            console.log(item.treatment_name.toLowerCase().toString());
+            console.log(item.treatment_name.toLowerCase().split(" ").join().toLowerCase().toString());
             return (
               <Route
                 key={index}
-                path={`/${item.treatment_name.toLowerCase().toString()}`}
+                path={`/${item.treatment_name.split(" ").join("").toLowerCase().toString()}`}
               >
                 <Treatments data={item} />
-                <Footer/>
+                {/* <Footer/> */}
               </Route>
             );
           })}
+          {/* blogs */}
+          <Route path={"/blog1"}>
+            <BlogMore/>
+          </Route>
         </Switch>
       </div>
     </BrowserRouter>

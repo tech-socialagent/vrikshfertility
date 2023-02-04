@@ -34,8 +34,9 @@
   color: #787575;
   scroll-behavior: smooth;
 }
-.treatments-list li a {
+.treatments-list a {
   text-decoration: none;
+  color: #787575;
   display: grid;
   grid-template-columns: 0.5fr 9.5fr;
   align-items: center;

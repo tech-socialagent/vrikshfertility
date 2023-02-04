@@ -26,6 +26,8 @@
 .article_card img{
     width: 350px;
     height: auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 }
 .article_time,.article_by,.article_desc{
     font-weight: 300;
