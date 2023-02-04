@@ -338,7 +338,10 @@
                         {
                             "sub_service_name": "OI-TI",
                             "sub_service_title": "When is OI-TI advised?",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "A delay in conception can sometimes be explained by no significant reason after evaluation. At times, infertility may be unexplained. The doctors determine the optimal time for intercourse during those times to maximize the chances of conception. An ovulation specialist tracks a couple's ovulation cycle and advises them how to get pregnant naturally.",
+                                "A specialist determines the appropriate course of treatment after conducting a thorough examination. Young patients with healthy eggs and sperm can benefit from this simple procedure."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -348,8 +351,11 @@
                         },
                         {
                             "sub_service_name": "IUI",
-                            "sub_service_title": "What is the difference between IUI and IVF?",
-                            "sub_service_desc": "IUI involves fertilisation inside the uterus, whereas IVF involves fertilisation outside the uterus in a lab. It involves taking fertility medication to stimulate the ovaries, followed by a minor surgery to retrieve the mature eggs. Fertilised eggs are fertilised in the lab with prepared sperm. Transferring the embryos into the uterus or freezing them for later use can then be done. The cost and time associated with IUI are usually lower than those associated with IVF.",
+                            "sub_service_title": "What is IUI?",
+                            "sub_service_desc": [
+                                "An intrauterine sperm insemination (IUI) is a laboratory procedure in which the fast moving sperm is separated from the slower moving sperm and deposited at the ovulation time in the woman's womb. Artificial insemination uses husband's sperm (AIH).",
+                                "A woman with patent fallopian tubes can enhance her fertility through intrauterine insemination (IUI), the first step in fertility treatment."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -359,8 +365,11 @@
                         },
                         {
                             "sub_service_name": "IVF",
-                            "sub_service_title": "What should I expect?",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_title": "What is IVF?",
+                            "sub_service_desc": [
+                                "In vitro fertilisation (IVF) is an assisted reproductive technology that begins by collecting a woman’s eggs and a man’s sperm and combining them together outside the woman’s body in a laboratory dish for fertilisation. In vitro is Latin for “in glass” and refers to the laboratory Petri dish in which the egg and sperm are combined. When the eggs are fertilised and become embryos, the physician determines which embryos to transfer to the woman.",
+                                "The treatment of IVF is deemed successful, if the embryo gets implanted in the uterus which results in a positive pregnancy. Any remaining embryos can be frozen and stored for future use or donated to other couples. In vitro fertilization can overcome most causes of male and female infertility."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -370,8 +379,11 @@
                         },
                         {
                             "sub_service_name": "ICSI",
-                            "sub_service_title": "Guidelines for Post Procedure",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_title": "What is Intracytoplasmic Sperm Injection?",
+                            "sub_service_desc": [
+                                "The sperm head must attach to the outside of the egg before the sperm can fertilize the egg.  In order to fertilize the egg, the sperm must penetrate the outer layer of the egg (cytoplasm) to reach the inside.",
+                                "A variety of reasons can prevent sperm from penetrating the outer layer. The sperm may be unable to swim because the egg's outer layer is thick or hard to penetrate. In these cases, intracytoplasmic sperm injection (ICSI) can be used along with in vitro fertilization (IVF) to fertilize the egg. ICSI involves injecting a single sperm directly into the egg's cytoplasm."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -386,8 +398,13 @@
                     "sub_services": [
                         {
                             "sub_service_name": "ERA",
-                            "sub_service_title": "When is OI-TI advised?1",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_title": "What is ERA?",
+                            "sub_service_desc": [
+                                "ERA (endometrial receptivity array) is a diagnostic test used to determine whether the endometrium is ready to implant embryos.",
+                                "Endometrial biopsy is a relatively new procedure that involves biopsying a small sample of the lining of the uterus, the endometrium, for molecular analysis.",
+                                "In women with multiple failed in vitro fertilization (IVF) attempts or recurrent pregnancy loss, problems with the endometrial lining can cause infertility.",
+                                "A recurrent pregnancy loss or multiple miscarriages may warrant an ERA biopsy for women who have undergone IVF cycles with unsuccessful implantation. A recurrent pregnancy loss or multiple miscarriages may warrant an ERA biopsy for women who have undergone IVF cycles with unsuccessful implantation."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -397,8 +414,13 @@
                         },
                         {
                             "sub_service_name": "PGT",
-                            "sub_service_title": "When is OI-TI advised?2",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_title": "What is Preimplantation genetic testing?",
+                            "sub_service_desc": [
+                                "Preimplantation genetic testing (PGT) during in vitro fertilisation (IVF) screens embryos for a variety of genetic issues that can cause implantation failure, miscarriage, and birth abnormalities in a child.",
+                                "Birth abnormalities or pregnancy loss can result from a variety of genetic illnesses, such as extra chromosomes in the embryo (like Down syndrome), single gene diseases (like sickle cell anaemia), or gene rearrangements.",
+                                "Using PGT, embryologists can identify genetic flaws in an embryo prior to IVF, preventing those embryos from being implanted into the woman's uterus.",
+                                ""
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -408,19 +430,10 @@
                         },
                         {
                             "sub_service_name": "Blastocyst Culture",
-                            "sub_service_title": "When is OI-TI advised?3",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                            "sub_service_keypoints": [
-                                "Lorem Ipsum",
-                                "Lorem Ipsum",
-                                "Lorem Ipsum"
+                            "sub_service_title": "What is Blastocyst Culture?",
+                            "sub_service_desc": [
+                                "Blastocyst culture is a procedure used in assisted reproductive technologies (ART) to culture an embryo until it reaches the blastocyst stage of development, usually around day 5 or 6 after fertilization. This allows for a more advanced assessment of the embryo's viability and selection of the best embryos for transfer, increasing the chance of successful implantation and pregnancy. The culture medium used provides a more supportive environment for the embryo than traditional two-day culture methods, helping to mimic the natural environment of the uterus."
                             ],
-                            "sub_service_image": ""
-                        },
-                        {
-                            "sub_service_name": "OI-TI4",
-                            "sub_service_title": "When is OI-TI advised?4",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -435,8 +448,10 @@
                     "sub_services": [
                         {
                             "sub_service_name": "Ovarian PRP",
-                            "sub_service_title": "When is OI-TI advised?1",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_title": "What is Ovarian PRP",
+                            "sub_service_desc": [
+                                "PRP stands for Platelet-Rich Plasma, and Ovarian PRP refers to the use of plasma enriched with platelets for the treatment of ovarian disorders. The platelets contain growth factors that may promote the growth of new blood vessels and tissue, which could potentially improve ovarian function and stimulate ovulation. Ovarian PRP is considered an experimental treatment, and its effectiveness has not been fully established. Further research is needed to determine its safety and efficacy for the treatment of ovarian disorders. It's important to note that not all medical experts agree on the benefits of PRP treatment for reproductive health and some may recommend more established and proven treatments."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -446,8 +461,10 @@
                         },
                         {
                             "sub_service_name": "Endometrial PRP",
-                            "sub_service_title": "When is OI-TI advised?2",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_title": "What is Endometrial PRP?",
+                            "sub_service_desc": [
+                                "Endometrial PRP, or Platelet-Rich Plasma therapy of the endometrium, is a type of treatment for endometrial disorders, such as infertility, recurrent pregnancy loss, and thin endometrial lining. It involves the injection of a concentrated solution of the patient's own platelets into the endometrial lining. The growth factors in the platelets are believed to improve blood flow and tissue regeneration in the endometrium, potentially increasing the chances of successful implantation and pregnancy. Endometrial PRP is considered experimental and its efficacy has not been firmly established. Further research is needed to determine its safety and effectiveness for the treatment of endometrial disorders. As with all experimental treatments, it's important to discuss the risks and benefits with a healthcare provider and to consider alternative, more proven treatments."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -457,19 +474,11 @@
                         },
                         {
                             "sub_service_name": "Testicular PRP",
-                            "sub_service_title": "When is OI-TI advised?3",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                            "sub_service_keypoints": [
-                                "Lorem Ipsum",
-                                "Lorem Ipsum",
-                                "Lorem Ipsum"
+                            "sub_service_title": "When   is Testicular PRP used for?",
+                            "sub_service_desc": [
+                                "Testicular PRP is mainly used for the treatment of male infertility, although it may also be considered for other testicular disorders. Men with decreased sperm count, poor sperm motility, or low sperm quality may benefit from Testicular PRP. However, it's important to note that the efficacy of this treatment has not been firmly established, and further research is needed to determine its safety and effectiveness.",
+                                "Before considering Testicular PRP, it's advisable to have a thorough evaluation by a specialist in reproductive medicine to determine the cause of the infertility. In some cases, the underlying cause may be treatable with other, more proven methods. A healthcare provider should be consulted to determine if Testicular PRP is a suitable option for the individual."
                             ],
-                            "sub_service_image": ""
-                        },
-                        {
-                            "sub_service_name": "OI-TI4",
-                            "sub_service_title": "When is OI-TI advised?4",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -485,7 +494,11 @@
                         {
                             "sub_service_name": "PGT-SR",
                             "sub_service_title": "When is OI-TI advised?1",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "",
+                                "",
+                                ""
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -496,7 +509,9 @@
                         {
                             "sub_service_name": "PGT-M",
                             "sub_service_title": "When is OI-TI advised?2",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -507,7 +522,9 @@
                         {
                             "sub_service_name": "PGT-A",
                             "sub_service_title": "When is OI-TI advised?3",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -518,7 +535,9 @@
                         {
                             "sub_service_name": "Chromosomal Karyotyping",
                             "sub_service_title": "When is OI-TI advised?4",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -534,7 +553,9 @@
                         {
                             "sub_service_name": "Polycystic Ovary Syndrome",
                             "sub_service_title": "When is OI-TI advised?1",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -545,7 +566,9 @@
                         {
                             "sub_service_name": "Recurrent Miscarriage",
                             "sub_service_title": "When is OI-TI advised?2",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -556,7 +579,9 @@
                         {
                             "sub_service_name": "Ectopic Pregnancy",
                             "sub_service_title": "When is OI-TI advised?3",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -567,7 +592,9 @@
                         {
                             "sub_service_name": "Ovulation Problems",
                             "sub_service_title": "When is OI-TI advised?4",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -583,7 +610,9 @@
                         {
                             "sub_service_name": "Varicocele",
                             "sub_service_title": "When is OI-TI advised?1",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -594,7 +623,9 @@
                         {
                             "sub_service_name": "Azoospermia",
                             "sub_service_title": "When is OI-TI advised?2",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -605,7 +636,9 @@
                         {
                             "sub_service_name": "Retrograde Ejaculation",
                             "sub_service_title": "When is OI-TI advised?3",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -616,7 +649,9 @@
                         {
                             "sub_service_name": "Ejaculation Problems",
                             "sub_service_title": "When is OI-TI advised?4",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -632,7 +667,9 @@
                         {
                             "sub_service_name": "Thyroid Disorders",
                             "sub_service_title": "When is OI-TI advised?1",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -643,7 +680,9 @@
                         {
                             "sub_service_name": "Genetic Disorders",
                             "sub_service_title": "When is OI-TI advised?2",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -654,7 +693,9 @@
                         {
                             "sub_service_name": "Hormone Level Imbalance",
                             "sub_service_title": "When is OI-TI advised?3",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -665,7 +706,9 @@
                         {
                             "sub_service_name": "Auto Immune Disease",
                             "sub_service_title": "When is OI-TI advised?4",
-                            "sub_service_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                            "sub_service_desc": [
+                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
                                 "Lorem Ipsum",
@@ -844,47 +887,36 @@
     "treatments": [
         {
             "treatment_name": "OI-TI",
+            "treatment_desc": [
+                "It is the first step in the management of infertility to induce ovulation and time intercourse (OI- TI). In this technique, the woman receives medicines to develop one or more mature follicles in her ovaries. The most likely day for a woman to ovulate is determined by blood tests and other scans performed at specific times during her cycle.",
+                "A specialist determines the appropriate course of treatment after conducting a thorough examination. Young patients with healthy eggs and sperm can benefit from this simple procedure."
+            ],
             "sub_data": [
-                {
-                    "sub-title": "Ovulation Induction",
-                    "desc": [
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    ]
-                },
                 {
                     "sub-title": "When is OI-TI advised?",
                     "desc": [
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        "A delay in conception can sometimes be explained by no significant reason after evaluation. At times, infertility may be unexplained. The doctors determine the optimal time for intercourse during those times to maximize the chances of conception. An ovulation specialist tracks a couple's ovulation cycle and advises them how to get pregnant naturally.",
+                        "Induce ovulation by stimulating the development of eggs with medication prescribed by your doctor. Increased chances of conception"
                     ]
                 },
                 {
                     "sub-title": "What should I expect?",
                     "desc": [
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        "A woman would begin ovulation induction on her second menstrual cycle. A fertility specialist will examine you through an ultraviolet scan and recommend the right medicines to stimulate ovulation.",
+                        "An ovulation monitoring doctor identifies the right days for a couple to have intercourse in order to help with conception. For eight to fourteen days, tablets or injections are recommended to stimulate ovulation."
                     ]
                 },
                 {
                     "sub-title": "Guidelines for Post Procedure",
                     "desc": [
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        "Before considering more advanced assisted reproduction techniques, OI-TI cycles are usually tested for 2-3 cycles"
                     ]
                 },
                 {
                     "sub-title": "Are There Any Risks?",
                     "desc": [
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        "It is not necessary to worry if results are negative. Currently, infertility techniques are highly advanced, and this is only the first step. There is no guarantee that assisted fertility techniques will work for everyone. Therefore, you should not be discouraged if you receive a negative result. Natural conception is achieved through this simple and basic procedure.",
+                        "In 1 out of 1000 people, the prescribed medications tend to cause a strong reaction. There are multiple follicles in the ovaries instead of one or two. Such cases are managed by doctors through regular scans and IUI or IVF may be recommended."
                     ]
                 },
                 {
@@ -914,45 +946,68 @@
         },
         {
             "treatment_name": "IUI",
+            "treatment_desc": [
+                "the woman's womb. Artificial insemination uses husband's sperm (AIH).",
+                "A woman with patent fallopian tubes can enhance her fertility through intrauterine insemination (IUI), the first step in fertility treatment."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "What is the difference between IUI and IVF?",
+                    "sub-title": "Female Partner",
                     "desc": [
-                        "IUI involves fertilisation inside the uterus, whereas IVF involves fertilisation outside the uterus in a lab. It involves taking fertility medication to stimulate the ovaries, followed by a minor surgery to retrieve the mature eggs. Fertilised eggs are fertilised in the lab with prepared sperm. Transferring the embryos into the uterus or freezing them for later use can then be done. The cost and time associated with IUI are usually lower than those associated with IVF."
+                        "Ovarian Stimulation :",
+                        "● Stimulation medications are given for development of one or more mature follicles in a woman’s ovaries.",
+                        "Control:",
+                        "● Pelvic ultrasound scans are used to access the endometrium (lining of the womb) and to determine how the follicles are developing. Blood tests may also be carried out to measure hormone levels and help to determine when a woman is most likely to ovulate (a woman’s most fertile time)."
                     ]
                 },
                 {
-                    "sub-title": "Is IUI painful?",
+                    "sub-title": "Male Partner",
                     "desc": [
-                        "It may feel uncomfortable, but IUI is relatively painless and does not require anaesthesia. Cramping can feel similar to having a Pap smear. As a result of irritation of the delicate cervix lining, you may also experience spotting afterward. After a few days, this should go away. After the procedure, you can resume your normal activities, but you should avoid strenuous exercise."
+                        "Semen Collection:",
+                        "A semen specimen is collected from the male partner after 2-5 days of abstinence from ejaculation.",
+                        "Sperm Selection:",
+                        "● The semen is “washed” in the laboratory (called sperm processing or sperm washing). The sperm is separated from the other components of the semen and concentrated in a small volume. Various media and techniques can be used for the washing and separation. Sperm processing takes about 30-60 minutes.",
+                        "● The more morphologically normal and motile sperm are selected for insemination."
                     ]
                 },
                 {
-                    "sub-title": "IUI: What are the risks?",
+                    "sub-title": "IUI Process",
                     "desc": [
-                        "IUI is a low-risk procedure, but there are a few concerns to keep in mind. Among them are:",
-                        "Injectable fertility medications can cause ovaries to respond too well and a large number of eggs mature and may be released simultaneously, resulting in ovarian hyperstimulation syndrome (OHSS). As a result, the ovaries become swollen and painful. OHSS can cause fluid accumulation in the abdomen, and it can even be fatal in some cases."
+                        "IntraUterine Insemination:",
+                        "-A speculum is placed in the vagina and the cervical area is gently cleaned. The washed specimen of highly motile sperm is placed higher in the uterine cavity using a sterile, flexible catheter."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Who should consider IUI?",
                             "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "There are several situations in which IUI can be beneficial, including:",
+                                "● Infertility due to a mild male factor",
+                                "● Concerns regarding cervical mucous or cervical cancer",
+                                "● Unexplained infertility",
+                                "● A mild case of endometriosis",
+                                "● Donor sperm users"
                             ]
                         },
                         {
-                            "title": "Do you do residential work?",
+                            "title": "What is the difference between IUI and IVF?",
                             "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "IUI involves fertilisation inside the uterus, whereas IVF involves fertilisation outside the uterus in a lab. It involves taking fertility medication to stimulate the ovaries, followed by a minor surgery to retrieve the mature eggs. Fertilised eggs are fertilised in the lab with prepared sperm. Transferring the embryos into the uterus or freezing them for later use can then be done. The cost and time associated with IUI are usually lower than those associated with IVF."
                             ]
                         },
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Is IUI painful?",
                             "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "It may feel uncomfortable, but IUI is relatively painless and does not require anaesthesia. Cramping can feel similar to having a Pap smear. As a result of irritation of the delicate cervix lining, you may also experience spotting afterward. After a few days, this should go away. After the procedure, you can resume your normal activities, but you should avoid strenuous exercise."
+                            ]
+                        },
+                        {
+                            "title": "IUI: What are the risks?",
+                            "fdesc": [
+                                "IUI is a low-risk procedure, but there are a few concerns to keep in mind. Among them are:",
+                                "Injectable fertility medications can cause ovaries to respond too well and a large number of eggs mature and may be released simultaneously, resulting in ovarian hyperstimulation syndrome (OHSS). As a result, the ovaries become swollen and painful. OHSS can cause fluid accumulation in the abdomen, and it can even be fatal in some cases."
                             ]
                         }
                     ]
@@ -960,7 +1015,10 @@
             ]
         },
         {
-            "treatment_name": "ivf",
+            "treatment_name": "IVF",
+            "treatment_desc": [
+                ""
+            ],
             "sub_data": [
                 {
                     "sub-title": "What is IVF?",
@@ -973,23 +1031,23 @@
                     ]
                 },
                 {
-                    "sub-title": "The technique involves five basic steps",
+                    "sub-title": "The technique involves five basic steps:",
                     "desc": [
-                        "In superovulation, a woman is stimulated to release multiple healthy eggs, as opposed to the single egg a woman normally ovulates.",
-                        "The retrieval of eggs and the collection of sperm.",
-                        "During insemination, the sperm fertilizes the eggs.",
-                        "Development of embryos and genetic testing (if needed).",
-                        "The transfer of an embryo into the uterus of a woman. "
+                        "1. In superovulation, a woman is stimulated to release multiple healthy eggs, as opposed to the single egg a woman normally ovulates.",
+                        "2. The retrieval of eggs and the collection of sperm.",
+                        "3. During insemination, the sperm fertilizes the eggs.",
+                        "4. Development of embryos and genetic testing (if needed).",
+                        "5. The transfer of an embryo into the uterus of a woman. "
                     ]
                 },
                 {
                     "sub-title": "In vitro fertilization is suitable for whom?",
                     "desc": [
-                        "Overall, IVF can help some patients experience pregnancy and parenthood who would otherwise not be able to.",
-                        "Age-related infertility affects women in their 30s or early 40s (see age-related infertility below), ovulatory problems, anatomical problems, male infertility factors, as well as couples seeking donor sperm.",
-                        "Usually, IVF is recommended for women with nonfunctional or missing fallopian tubes and for men with poor sperm quality.",
-                        "In some instances, a doctor may first recommend alternative  treatments for infertility like intrauterine insemination (IUI), prior to IVF. However, if these are not successful,IVF is often the next step.",
-                        "IVF treatment is also beneficial when one or both parents carries potential genetic defects because it allows for preimplantation genetic diagnosis (PGD) or preimplantation genetic screening (PGS) on embryos prior to uterus implantation. PGD and PGS can help increase the chances of a live birth because these forms of genetic testing can identify embryos with chromosomal and genetic defects. Such defects are a major cause of both failure of an embryo to implant and miscarriage. Embryos identified through PGD or PGS as carrying these conditions are not chosen for implantation."
+                        "- Overall, IVF can help some patients experience pregnancy and parenthood who would otherwise not be able to.",
+                        "- Age-related infertility affects women in their 30s or early 40s (see age-related infertility below), ovulatory problems, anatomical problems, male infertility factors, as well as couples seeking donor sperm.",
+                        "- Usually, IVF is recommended for women with nonfunctional or missing fallopian tubes and for men with poor sperm quality.",
+                        "- In some instances, a doctor may first recommend alternative  treatments for infertility like intrauterine insemination (IUI), prior to IVF. However, if these are not successful,IVF is often the next step.",
+                        "- IVF treatment is also beneficial when one or both parents carries potential genetic defects because it allows for preimplantation genetic diagnosis (PGD) or preimplantation genetic screening (PGS) on embryos prior to uterus implantation. PGD and PGS can help increase the chances of a live birth because these forms of genetic testing can identify embryos with chromosomal and genetic defects. Such defects are a major cause of both failure of an embryo to implant and miscarriage. Embryos identified through PGD or PGS as carrying these conditions are not chosen for implantation."
                     ]
                 },
                 {
@@ -1015,30 +1073,43 @@
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "IVF: how painful is it?",
+                            "fdesc": [
+                                "The use of injectable medications in IVF may cause some discomfort. To minimize pain, some patients find it helpful to ice the area before injection. In response to the medications, your ovaries may grow multiple follicles, causing discomfort and bloating",
+                                "In the process of retrieving the eggs, you will be anesthetized. It is a quick and painless procedure. After your egg retrieval, you may experience some soreness, abdominal bloating, and cramping for a day or two. In most cases, embryo transfer is painless, similar to a pap smear."
+                            ]
+                        },
+                        {
+                            "title": "Can IVF be expensive?",
                             "fdesc": [
                                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                             ]
                         },
                         {
-                            "title": "Do you do residential work?",
+                            "title": "What Is The Risk Of Twins Or Multiples?",
                             "fdesc": [
                                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                             ]
                         },
                         {
-                            "title": "Do you do residential work?",
+                            "title": "What Are The Side Effects Of IVF?",
                             "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "● Mild bruising or pain at the injection site (using different injection sites can help)",
+                                "● Breast tenderness",
+                                "● Hot flashes",
+                                "● Bloating"
+                            ]
+                        },
+                        {
+                            "title": "How Successful Is IVF?",
+                            "fdesc": [
+                                "IVF success depends on many factors, including your age, your clinic, and if you or your partner have a health condition that affects your reproductive system. ",
+                                "CCRM has some of the highest IVF with comprehensive chromosome screening (CCS) live birth rates in the nation. ",
+                                "You can increase your chances of success by working with an experienced fertility specialist, and maintaining a healthy lifestyle.",
+                                "If you’re ready to take the next steps to grow your family with IVF, meet with one of our CCRM Fertility specialists by making an appointment today."
                             ]
                         }
                     ]
@@ -1047,6 +1118,7 @@
         },
         {
             "treatment_name": "ERA",
+            "treatment_desc": [],
             "sub_data": [
                 {
                     "sub-title": "An overview of endometrial receptivity",
@@ -1077,21 +1149,22 @@
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Is an ERA biopsy right for you? ",
                             "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "It is typically recommended for women who have experienced miscarriage, recurrent pregnancy loss, or who have had previous IVF cycle failures to undergo ERA biopsy.",
+                                "For first-time IVF patients, the ERA endometrial biopsy is not usually recommended as part of a female fertility evaluation. Women should always discuss their personal situation with their doctor."
                             ]
                         },
                         {
-                            "title": "Do you do residential work?",
+                            "title": "How does an ERA biopsy work?",
                             "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                            ]
-                        },
-                        {
-                            "title": "Do you do residential work?",
-                            "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "The endometrial receptivity array procedure typically begins 1-12 months before a frozen embryo transfer. As with a frozen embryo transfer, the woman will begin taking hormones in advance of the procedure, including oestrogen and progesterone. On the day of the scheduled embryo transfer, when the implantation window is likely to occur, an endometrial biopsy is performed.",
+                                "There is little discomfort associated with the biopsy, which is an outpatient procedure. The biopsy involves inserting a small instrument called a pipelle through the vagina. To obtain tissue for testing, the doctor will scratch the uterine lining with a pipelle. The procedure may cause cramping or light bleeding in some women.",
+                                "A molecular analysis will be performed on the sample to determine the best time to attempt embryo implantation during a future IVF cycle. Three possible outcomes are possible.",
+                                "Pre-receptive:- Embryo implantation is less likely because the lining is not yet ready to receive one.   ",
+                                "Receptive:- Embryos are likely to implant in the lining when it is ready.",
+                                "Post-receptive:- Despite reaching the optimal stage for embryo implantation, the lining is no longer in that stage. At this point, the embryo is less likely to implant.",
+                                "Research suggests that scratching or disturbing the uterine lining in this manner reduces an embryo's ability to implant. In addition, it does not increase the chances of implantation. In order to determine which patients may benefit from ERA endometrial biopsy, our physicians follow all new information about this technology."
                             ]
                         }
                     ]
@@ -1163,15 +1236,17 @@
             ]
         },
         {
-            "treatment_name": "PGT-A REWRITTEN",
+            "treatment_name": "PGT-A",
+            "treatment_desc": [
+                "Preimplantation genetic testing (PGT) during in vitro fertilisation (IVF) screens embryos for a variety of genetic issues that can cause implantation failure, miscarriage, and birth abnormalities in a child. ",
+                "Birth abnormalities or pregnancy loss can result from a variety of genetic illnesses, such as extra chromosomes in the embryo (like Down syndrome), single gene diseases (like sickle cell anaemia), or gene rearrangements.",
+                "There are three different kinds of PGTs, which perform the same tasks as the well-known PGD and PGS tests for preimplantation genetic diagnosis and screening, respectively.",
+                "Using PGT, embryologists can identify genetic flaws in an embryo prior to IVF, preventing those embryos from being implanted into the woman's uterus."
+            ],
             "sub_data": [
                 {
                     "sub_title": "An overview of genetic testing for preimplantation embryos",
                     "desc": [
-                        "Preimplantation genetic testing (PGT) during in vitro fertilisation (IVF) screens embryos for a variety of genetic issues that can cause implantation failure, miscarriage, and birth abnormalities in a child. ",
-                        "Birth abnormalities or pregnancy loss can result from a variety of genetic illnesses, such as extra chromosomes in the embryo (like Down syndrome), single gene diseases (like sickle cell anaemia), or gene rearrangements.",
-                        "There are three different kinds of PGTs, which perform the same tasks as the well-known PGD and PGS tests for preimplantation genetic diagnosis and screening, respectively.",
-                        "Using PGT, embryologists can identify genetic flaws in an embryo prior to IVF, preventing those embryos from being implanted into the woman's uterus.",
                         "To predict the ideal implantation window for the above patients, an ERA biopsy is performed. "
                     ]
                 },
@@ -1179,13 +1254,9 @@
                     "sub_title": "For embryos, what is preimplantation genetic testing (PGT)?",
                     "desc": [
                         "Preimplantation genetic testing on embryos during IVF is possible in three ways:",
-                        "examining chromosomal counts during preimplantation genetic testing to look for abnormalities (PGT-A)"
-                    ]
-                },
-                {
-                    "sub_title": "Preimplantation genetic testing for single-gene disorders, or PGT-M  ",
-                    "desc": [
-                        "Prior to implantation, a PGT-SR can find known chromosome mis-arrangements such as inversions and translocations.",
+                        "- Examining chromosomal counts during preimplantation genetic testing to look for abnormalities (PGT-A)",
+                        "- Preimplantation genetic testing for single-gene disorders, or PGT-M",
+                        "- Prior to implantation, a PGT-SR can find known chromosome mis-arrangements such as inversions and translocations.",
                         "These tests are performed by reproductive specialists for two key reasons. The first step is to see if there are any genetic abnormalities in the embryos that might hinder implantation or miscarriage, leading to unsuccessful IVF. In the second scenario, genetic flaws in embryos might induce the inheritance of inheritable diseases like muscular dystrophy or fatal genetic abnormalities.",
                         "Such faults prevent an embryo from being placed in a mother's womb for conception. Live births and unsuccessful pregnancies can be caused by genetic mistakes in embryos. If a couple is interested in PGT testing, they can talk about their possibilities with a fertility doctor.",
                         "Preimplantation genetic testing (PGT), also known as preimplantation genetic screening (PGS), preimplantation genetic diagnosis (PGD), and preimplantation genetic testing (PGT), is a new term that has replaced the old terminologies in the medical world. PGS executes its duties via PGT-A. PGT-M or PGT-SR are now both capable of performing the duties of PGD. The tests themselves continue to be administered in a similar or identical manner."
@@ -1228,25 +1299,23 @@
         },
         {
             "treatment_name": "Assisted Hatching",
+            "treatment_desc": [
+                "IVF with Assisted Hatching for Higher Implantation Rates: ",
+                "- IVF failure is a frustrating experience for both individuals and couples, and it frequently results from an embryo that does not successfully implant in the uterus.",
+                "- Your fertility specialist could suggest aided hatching if you've had multiple unsuccessful IVF cycles or have a poor prognosis for IVF."
+            ],
             "sub_data": [
                 {
-                    "sub_title": "IVF with Assisted Hatching for Higher Implantation Rates ",
+                    "sub-title": "What exactly is aided hatching? ",
                     "desc": [
-                        "IVF failure is a frustrating experience for both individuals and couples, and it frequently results from an embryo that does not successfully implant in the uterus.",
-                        "Your fertility specialist could suggest aided hatching if you've had multiple unsuccessful IVF cycles or have a poor prognosis for IVF."
+                        "The cells start to divide after a laboratory-fertilized egg. The zona pellicuda, a layer of proteins, surrounds the embryo during these early stages of development. An embryo must emerge through the zona pellucida and adhere to the uterine walls in order to properly implant into the uterine lining.",
+                        "A more recent laboratory procedure called assisted hatching was created after fertility specialists noticed that embryos with a thin zona pellucida had a better likelihood of implantation during IVF. Under a microscope, an embryologist can manipulate the zona pellucida to make a tiny hole for aided hatching. This occurs on the third day of embryo development, when there are typically six to eight cells per embryo.",
+                        "An embryo stabilisation pipette is used. A tiny laser on the opposing side slightly damages the zona pellucida. The embryos are then placed back in the incubator to continue to develop."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
-                        {
-                            "title": "What exactly is aided hatching? ",
-                            "fdesc": [
-                                "The cells start to divide after a laboratory-fertilized egg. The zona pellicuda, a layer of proteins, surrounds the embryo during these early stages of development. An embryo must emerge through the zona pellucida and adhere to the uterine walls in order to properly implant into the uterine lining.",
-                                "A more recent laboratory procedure called assisted hatching was created after fertility specialists noticed that embryos with a thin zona pellucida had a better likelihood of implantation during IVF. Under a microscope, an embryologist can manipulate the zona pellucida to make a tiny hole for aided hatching. This occurs on the third day of embryo development, when there are typically six to eight cells per embryo.",
-                                "An embryo stabilisation pipette is used. A tiny laser on the opposing side slightly damages the zona pellucida. The embryos are then placed back in the incubator to continue to develop."
-                            ]
-                        },
                         {
                             "title": "Who ought to use IVF and assisted hatching?",
                             "fdesc": [
@@ -1267,13 +1336,33 @@
             ]
         },
         {
-            "treatment_name": "Blastocyst Culture ",
+            "treatment_name": "Blastocyst Culture",
+            "treatment_desc": [
+                "It is now possible to accomplish so many things that were previously unthinkable due to the advancement of medical knowledge. The embryo can now be grown for longer than the customary three days thanks to changes made to the liquid used for in vitro cultivation. The final stage of the embryo's development before it leaves the egg by rupturing the zona pellucida and embeds itself in the uterine wall is the blastocyst, which may now be cultured in vitro for up to 5 days.",
+                "Your fertility specialist could suggest aided hatching if you've had multiple unsuccessful IVF cycles or have a poor prognosis for IVF."
+            ],
             "sub_data": [
                 {
-                    "sub_title": "Blastocyst Culture & Transfer ",
+                    "sub-title": "Who ought to use IVF and assisted hatching?",
                     "desc": [
-                        "It is now possible to accomplish so many things that were previously unthinkable due to the advancement of medical knowledge. The embryo can now be grown for longer than the customary three days thanks to changes made to the liquid used for in vitro cultivation. The final stage of the embryo's development before it leaves the egg by rupturing the zona pellucida and embeds itself in the uterine wall is the blastocyst, which may now be cultured in vitro for up to 5 days.",
-                        "Your fertility specialist could suggest aided hatching if you've had multiple unsuccessful IVF cycles or have a poor prognosis for IVF."
+                        "Some couples with a poor prognosis may benefit from assisted hatching since their embryos may not have the energy to finish the hatching process.",
+                        "According to the American Society for Reproductive Medicine, women with the following conditions may benefit from assisted hatching:",
+                        "Mother's advanced age (older than 38) Two or more IVF cycles that failed A bad quality embryo",
+                        "Fundamentally, the likelihood of potentially hazardous twin or triplet birth is reduced by blastocyst transfer. Higher implantation rates allow doctors to exchange fewer blastocysts, possibly just one, reducing or avoiding multiple births and the problems they bring. With the help of vitrification, extra blastocysts can also be successfully cryopreserved so that pregnancies can be carried out in the future."
+                    ]
+                },
+                {
+                    "sub-title": "Advantages of the blastocyst method over traditional embryo transfer techniques ",
+                    "desc": [
+                        "- The majority of embryo transfers in the past took place on days two or three. In any event, the majority of excellent clinics have moved on to routinely performing day five (blastocyst) transfers. Tragically, many IVF clinics in India still transfer embryos on the second or third day because this is not yet the common option. This is primarily due to their lack of tremendous confidence in the capabilities of their research facility and their embryologist's ability to culture eggs up to day five. They justify this by telling the patient that it's preferable for the embryo to hatch inside the uterus earlier, which is why they lean toward transferring the embryo into the uterus. However, there are a lot of disadvantages to this, therefore you should request that your doctor perform a blastocyst transfer on your behalf.",
+                        "- When compared to Day 2 or Day 3 transfer, blastocysts have a higher possibility of implanting, hence the success percentage is higher with blastocyst transfer. They are more  likely since they are more developed and have more cells. When compared to transferring three or four Day 3 embryos, the specialist can reduce the number of embryos to be transferred and exchange only a few blastocysts while still having a high pregnancy rate.",
+                        "- Additionally, since the expert is only exchanging 1–2 blastocysts, you can freeze the extra blastocysts, giving you the chance to complete multiple cycles in the future. In light of the fact that the overall pregnancy rate is increasing, this makes it more useful. ",
+                        "- The final and most important reason to request a blastocyst transfer is that you won't have to endure the scary 2-week wait during which you won't know whether you will become pregnant or not if you have poor quality embryos. Therefore, if the IVF cycle fails after exchanging Day 3 embryos, it is impossible to determine if the problem was that the foetus did not develop further or whether there was some other reason why the implantation failed. Even more so, you're uncertain as to whether your embryo will live for five days or not.",
+                        "- This is especially true for older women with fewer eggs. Such women are more likely to experience a failed IVF because their embryos are more likely to halt and not develop into blastocysts. Many of the embryos can be genetically abnormal.",
+                        "- These are the patients who might benefit most greatly from a blastocyst transfer. However, because they typically have poor ovarian response, the doctor is reluctant to develop the embryos all the way to the blastocyst stage when just 3–4 eggs are collected. The patient will blame them if it doesn't work out. For this reason, they would much rather transfer the embryos back into the uterus, where they could claim \"implantation failure\" if the cycle did not succeed.",
+                        "- However, following the embryo swap, the patient is duped into believing that \"Amazingly, possibly this embryo may implant and grow into a baby,\" which is why they are so optimistic during the waiting period.",
+                        "- This false expectation is hurting. They believe that their uterus rejected the embryo at the time when the cycle ends prematurely, which is when they are persuaded to pursue surrogacy. This is dreadful advise which is absolutely imperfect on the grounds that the issue is with the egg and not with the uterus.",
+                        "- Aveya IVF maintains an honest approach with all the patients and gives the best potential outcome in each situation. This is combined with our highly skilled and informed specialists who can assist you in getting the greatest outcome from your IVF operation. Consult with our skilled fertility doctors to know more about this process and discuss your alternatives."
                     ]
                 },
                 {
@@ -1286,41 +1375,96 @@
                                 "In the beginning, transferring the blastocyst to the uterus may be more medically suitable because it closely mimics nature, increasing the likelihood that the embryo will implant.",
                                 "Furthermore, waiting until the blastocyst stage allows the expert to select the best embryo because undesired babies are likely to terminate before they get to this stage."
                             ]
-                        },
-                        {
-                            "title": "Who ought to use IVF and assisted hatching?",
-                            "fdesc": [
-                                "Some couples with a poor prognosis may benefit from assisted hatching since their embryos may not have the energy to finish the hatching process.",
-                                "According to the American Society for Reproductive Medicine, women with the following conditions may benefit from assisted hatching:",
-                                "Mother's advanced age (older than 38) Two or more IVF cycles that failed A bad quality embryo",
-                                "Fundamentally, the likelihood of potentially hazardous twin or triplet birth is reduced by blastocyst transfer. Higher implantation rates allow doctors to exchange fewer blastocysts, possibly just one, reducing or avoiding multiple births and the problems they bring. With the help of vitrification, extra blastocysts can also be successfully cryopreserved so that pregnancies can be carried out in the future."
-                            ]
-                        },
-                        {
-                            "title": "Advantages of the blastocyst method over traditional embryo transfer techniques ",
-                            "fdesc": [
-                                "The majority of embryo transfers in the past took place on days two or three. In any event, the majority of excellent clinics have moved on to routinely performing day five (blastocyst) transfers. Tragically, many IVF clinics in India still transfer embryos on the second or third day because this is not yet the common option. This is primarily due to their lack of tremendous confidence in the capabilities of their research facility and their embryologist's ability to culture eggs up to day five. They justify this by telling the patient that it's preferable for the embryo to hatch inside the uterus earlier, which is why they lean toward transferring the embryo into the uterus. However, there are a lot of disadvantages to this, therefore you should request that your doctor perform a blastocyst transfer on your behalf.",
-                                "When compared to Day 2 or Day 3 transfer, blastocysts have a higher possibility of implanting, hence the success percentage is higher with blastocyst transfer. They are more  likely since they are more developed and have more cells. When compared to transferring three or four Day 3 embryos, the specialist can reduce the number of embryos to be transferred and exchange only a few blastocysts while still having a high pregnancy rate.",
-                                "Additionally, since the expert is only exchanging 1–2 blastocysts, you can freeze the extra blastocysts, giving you the chance to complete multiple cycles in the future. In light of the fact that the overall pregnancy rate is increasing, this makes it more useful. ",
-                                "The final and most important reason to request a blastocyst transfer is that you won't have to endure the scary 2-week wait during which you won't know whether you will become pregnant or not if you have poor quality embryos. Therefore, if the IVF cycle fails after exchanging Day 3 embryos, it is impossible to determine if the problem was that the foetus did not develop further or whether there was some other reason why the implantation failed. Even more so, you're uncertain as to whether your embryo will live for five days or not.",
-                                "This is especially true for older women with fewer eggs. Such women are more likely to experience a failed IVF because their embryos are more likely to halt and not develop into blastocysts. Many of the embryos can be genetically abnormal.",
-                                "These are the patients who might benefit most greatly from a blastocyst transfer. However, because they typically have poor ovarian response, the doctor is reluctant to develop the embryos all the way to the blastocyst stage when just 3–4 eggs are collected. The patient will blame them if it doesn't work out. For this reason, they would much rather transfer the embryos back into the uterus, where they could claim \"implantation failure\" if the cycle did not succeed.",
-                                "However, following the embryo swap, the patient is duped into believing that \"Amazingly, possibly this embryo may implant and grow into a baby,\" which is why they are so optimistic during the waiting period.",
-                                "This false expectation is hurting. They believe that their uterus rejected the embryo at the time when the cycle ends prematurely, which is when they are persuaded to pursue surrogacy. This is dreadful advise which is absolutely imperfect on the grounds that the issue is with the egg and not with the uterus.",
-                                "Aveya IVF maintains an honest approach with all the patients and gives the best potential outcome in each situation. This is combined with our highly skilled and informed specialists who can assist you in getting the greatest outcome from your IVF operation. Consult with our skilled fertility doctors to know more about this process and discuss your alternatives."
-                            ]
                         }
                     ]
                 }
             ]
         },
         {
-            "treatment_name": "AzooSpermia Treatment ",
+            "treatment_name": "AzooSpermia",
+            "treatment_desc": [
+                "Azoospermia means there’s no sperm in a man’s ejaculate. Its causes include a blockage along the reproductive tract, hormonal problems, ejaculation problems or issues with testicular structure or function. Many causes are treatable and fertility can be restored. For other causes it may be possible to retrieve live sperm to be used in assisted reproductive techniques."
+            ],
             "sub_data": [
                 {
-                    "sub_title": "AzooSpermia",
+                    "sub-title": "What are the parts of the male reproductive system?",
                     "desc": [
-                        "Azoospermia means there’s no sperm in a man’s ejaculate. Its causes include a blockage along the reproductive tract, hormonal problems, ejaculation problems or issues with testicular structure or function. Many causes are treatable and fertility can be restored. For other causes it may be possible to retrieve live sperm to be used in assisted reproductive techniques. Male reproductive anatomy."
+                        "- The male reproductive system is made up of the following:",
+                        "- Testes, or testicles produce sperm (male reproductive cells) in a process called spermatogenesis.",
+                        "- Seminiferous tubules are tiny tubes that make up most of the tissue of the testes. ",
+                        "- Epididymis is the structure on the back of each testicle into which mature  sperm are moved and stored. ",
+                        "- It is the muscular tube that passes from the epididymis into the pelvis then curves around and enters the seminal vesicle.",
+                        "- Seminal vesicle is a tubular gland that produces and stores most of the fluid ingredients of semen. The vesicle narrows to form a straight duct, the seminal duct, which joins with the vas deferens",
+                        "- Ejaculatory duct is created when the seminal vesicle duct merges with the vas deferens. The ejaculatory duct passes into the prostate gland and connects with the urethra.",
+                        "- Urethra is the tube that runs through the penis to eliminate urine from the bladder and semen from the vas deferens.",
+                        "- During ejaculation, sperm move from the testes and the epididymis into the vas deferens. Tightening (contraction) of the vas deferens moves the sperm along. Secretions from the seminal vesicle are added and the seminal fluid continues to move forward toward the urethra. Before reaching the urethra, the seminal fluid passes by the prostate gland, which adds a milky fluid to the sperm to form semen. Lastly, the semen is ejaculated (released) through the penis through the urethra. </br></br>A normal sperm count is considered to be 15 million/mL or more. Men with low sperm counts (oligozoospermia or oligospermia) have a sperm concentration of less than 15 million/mL. If you have azoospermia, you have no measurable sperm in your ejaculate."
+                    ]
+                },
+                {
+                    "sub-title": "Different types of Azoospermia",
+                    "desc": [
+                        "There are two main types of azoospermia:",
+                        "Obstructive azoospermia: This type of azoospermia means that there is a blockage or missing connection in the epididymis, vas deferens, or elsewhere along your reproductive tract. You are producing sperm but it’s getting blocked from exit so there’s no measurable amount of sperm in your semen.",
+                        "Nonobstructive azoospermia: This type of azoospermia means you have poor or no sperm production due to defects in the structure or function of the testicles or other causes."
+                    ]
+                },
+                {
+                    "sub-title": "What are the causes of azoospermia?",
+                    "desc": [
+                        "The causes of azoospermia relate directly to the types of azoospermia. In other words, causes can be due to an obstruction or nonobstructive sources. ",
+                        "Obstructions that result in azoospermia most commonly occur in the vas deferens, the epididymus or ejaculatory ducts. Problems that can cause blockages in these areas include: ",
+                        "1. Trauma or injury to these areas.",
+                        "2. Infections.",
+                        "3. Inflammation.",
+                        "4. Previous surgeries in the pelvic area.",
+                        "5. Development of a cyst.",
+                        "6. Vasectomy (planned permanent contraceptive procedure in which the vas deferens are cut or clamped to prevent the flow of sperm). ",
+                        "7. Cystic fibrosis gene mutation, which causes either the vas deferens not to form or causes abnormal development such that semen gets blocked by a buildup of thick secretions in the vas deferens.  ",
+                        "Nonobstructive causes of azoospermia include:",
+                        "Genetic causes. Certain genetic mutations can result in infertility, including:",
+                        " a. Kallmann syndrome: A genetic (inherited) disorder carried on the X chromosome and that if left untreated can result in infertility.",
+                        " b. Klinefelter’s syndrome: A male carries an extra X chromosome (making his chromosomal makeup XXY instead of XY). The result is often infertility, along with lack of sexual or physical maturity, and learning difficulties.",
+                        " c. Y chromosome deletion: Critical sections of genes on the Y chromosome (the male chromosome) that are responsible for sperm production are missing, resulting in infertility.",
+                        "8. Hormone imbalances/endocrine disorders, including hypogonadotropic hypogonadism. hyperprolactinemia and androgen resistance.",
+                        "9. Ejaculation problems such as retrograde ejaculation where the semen goes in to the bladder",
+                        "10. Testicular causes include:",
+                        " a. Anorchia (absence of the testicles).",
+                        " b. Cyptorchidism (testicles have not dropped into the scrotum).",
+                        " c. Sertoli cell-only syndrome (testicles fail to produce living sperm cells).",
+                        " d. Spermatogenic arrest (testicles fail to produce fully mature sperm cells).",
+                        " e. Mumps orchitis (inflamed testicles caused by mumps in late puberty). ",
+                        " f. Testicular torsion. ",
+                        " g. Tumors.",
+                        " h. Reactions to certain medications that harm sperm production.",
+                        " i. Radiation treatments.",
+                        " j. Diseases such as diabetes, cirrhosis, or kidney failure. ",
+                        " k. Varicocele (veins coming from the testicle are dilated or widened impeding sperm production). "
+                    ]
+                },
+                {
+                    "sub-title": "How is azoospermia diagnosed?",
+                    "desc": [
+                        "Azoospermia is diagnosed when, on two separate occasions, your sperm sample reveals no sperm when examined under a high-powered microscope following a spin in a centrifuge. A centrifuge is a laboratory instrument that spins a test sample at a high speed to separate it into its various parts. In the case of centrifuged seminal fluid, if sperm cells are present, they separate from the fluid around them and can be viewed under a microscope.",
+                        "As part of the diagnosis, your healthcare provider will take your medical history, including asking you about the following:",
+                        "1. Fertility success or failure in the past (your ability to have children). ",
+                        "2. Childhood illnesses.",
+                        "3. Injuries or surgeries in the pelvic area (these could cause duct blockage or poor blood supply to the testicles).",
+                        "4. Urinary or reproductive tract infections. ",
+                        "5. History of sexually transmitted diseases. ",
+                        "6. Exposure to radiation or chemotherapy. ",
+                        "7. Your current and past medications. ",
+                        "8. Any abuse of alcohol, marijuana or other drugs.",
+                        "9. Recent fevers or exposure to heat, including frequent saunas or steam baths (heat kills sperm cells).",
+                        "10. Family history of birth defects, learning disabilities, reproductive failure or cystic fibrosis.",
+                        "Your healthcare provider will also conduct a physical examination, and will check:",
+                        "11. Your entire body in terms of signs of/lack of maturation of your body and reproductive organs.",
+                        "12. Your penis and scrotum, checking for the presence of your vas deferens, tenderness or swelling of your epididymis, size of the testicles, the presence or absence of a varicocele, and any blockage of the ejaculatory duct (via exam through the rectum) as evidenced by enlarged seminal vesicles.",
+                        "Your healthcare provider may also order the following tests:",
+                        "13. Measurement of testosterone and follicle-stimulating hormone (FSH) levels.",
+                        "14. Genetic testing. ",
+                        "15.X-rays or ultrasound of the reproductive organs to see if there are any problems with the shape and size, and to see if there are tumors, blockages or an inadequate blood supply.",
+                        "16. Imaging of the brain to identify disorders of the hypothalamus or pituitary gland.",
+                        "17. Biopsy (tissue sampling) of the testes. A normal biopsy would mean a blockage is probable at some point in the sperm transport system. Sometimes, any sperm found in the testes is frozen for future analysis or can be used in assisted pregnancy."
                     ]
                 },
                 {
@@ -1336,87 +1480,6 @@
                             "title": "How common is azoospermia?",
                             "fdesc": [
                                 "About 1% of all men and 10% to 15% of infertile men have azoospermia."
-                            ]
-                        },
-                        {
-                            "title": "What are the parts of the male reproductive system?",
-                            "fdesc": [
-                                "The male reproductive system is made up of the following:",
-                                "Testes, or testicles produce sperm (male reproductive cells) in a process called spermatogenesis.",
-                                "Seminiferous tubules are tiny tubes that make up most of the tissue of the testes. ",
-                                "Epididymis is the structure on the back of each testicle into which mature  sperm are moved and stored. ",
-                                "It is the muscular tube that passes from the epididymis into the pelvis then curves around and enters the seminal vesicle.",
-                                "Seminal vesicle is a tubular gland that produces and stores most of the fluid ingredients of semen. The vesicle narrows to form a straight duct, the seminal duct, which joins with the vas deferens",
-                                "Ejaculatory duct is created when the seminal vesicle duct merges with the vas deferens. The ejaculatory duct passes into the prostate gland and connects with the urethra.",
-                                "Urethra is the tube that runs through the penis to eliminate urine from the bladder and semen from the vas deferens.",
-                                "During ejaculation, sperm move from the testes and the epididymis into the vas deferens. Tightening (contraction) of the vas deferens moves the sperm along. Secretions from the seminal vesicle are added and the seminal fluid continues to move forward toward the urethra. Before reaching the urethra, the seminal fluid passes by the prostate gland, which adds a milky fluid to the sperm to form semen. Lastly, the semen is ejaculated (released) through the penis through the urethra. </br></br>A normal sperm count is considered to be 15 million/mL or more. Men with low sperm counts (oligozoospermia or oligospermia) have a sperm concentration of less than 15 million/mL. If you have azoospermia, you have no measurable sperm in your ejaculate."
-                            ]
-                        },
-                        {
-                            "title": "Are there different types of azoospermia?",
-                            "fdesc": [
-                                "There are two main types of azoospermia:",
-                                "Obstructive azoospermia: This type of azoospermia means that there is a blockage or missing connection in the epididymis, vas deferens, or elsewhere along your reproductive tract. You are producing sperm but it’s getting blocked from exit so there’s no measurable amount of sperm in your semen.",
-                                "Nonobstructive azoospermia: This type of azoospermia means you have poor or no sperm production due to defects in the structure or function of the testicles or other causes."
-                            ]
-                        },
-                        {
-                            "title": "What are the causes of azoospermia?",
-                            "fdesc": [
-                                "The causes of azoospermia relate directly to the types of azoospermia. In other words, causes can be due to an obstruction or nonobstructive sources. ",
-                                "Obstructions that result in azoospermia most commonly occur in the vas deferens, the epididymus or ejaculatory ducts. Problems that can cause blockages in these areas include: ",
-                                "1. Trauma or injury to these areas.",
-                                "2. Infections.",
-                                "3. Inflammation.",
-                                "4. Previous surgeries in the pelvic area.",
-                                "5. Development of a cyst.",
-                                "6. Vasectomy (planned permanent contraceptive procedure in which the vas deferens are cut or clamped to prevent the flow of sperm). ",
-                                "7. Cystic fibrosis gene mutation, which causes either the vas deferens not to form or causes abnormal development such that semen gets blocked by a buildup of thick secretions in the vas deferens.  ",
-                                "Nonobstructive causes of azoospermia include:",
-                                "Genetic causes. Certain genetic mutations can result in infertility, including:",
-                                "a.Kallmann syndrome: A genetic (inherited) disorder carried on the X chromosome and that if left untreated can result in infertility.",
-                                "b.Klinefelter’s syndrome: A male carries an extra X chromosome (making his chromosomal makeup XXY instead of XY). The result is often infertility, along with lack of sexual or physical maturity, and learning difficulties.",
-                                "c.Y chromosome deletion: Critical sections of genes on the Y chromosome (the male chromosome) that are responsible for sperm production are missing, resulting in infertility.",
-                                "8. Hormone imbalances/endocrine disorders, including hypogonadotropic hypogonadism. hyperprolactinemia and androgen resistance.",
-                                "9. Ejaculation problems such as retrograde ejaculation where the semen goes in to the bladder",
-                                "10. Testicular causes include:",
-                                "a.Anorchia (absence of the testicles).",
-                                "b.Cyptorchidism (testicles have not dropped into the scrotum).",
-                                "c.Sertoli cell-only syndrome (testicles fail to produce living sperm cells).",
-                                "d.Spermatogenic arrest (testicles fail to produce fully mature sperm cells).",
-                                "e.Mumps orchitis (inflamed testicles caused by mumps in late puberty). ",
-                                "f.Testicular torsion. ",
-                                "g.Tumors.",
-                                "h.Reactions to certain medications that harm sperm production.",
-                                "i.Radiation treatments.",
-                                "j.Diseases such as diabetes, cirrhosis, or kidney failure. ",
-                                "k. Varicocele (veins coming from the testicle are dilated or widened impeding sperm production). "
-                            ]
-                        },
-                        {
-                            "title": "How is azoospermia diagnosed?",
-                            "fdesc": [
-                                "Azoospermia is diagnosed when, on two separate occasions, your sperm sample reveals no sperm when examined under a high-powered microscope following a spin in a centrifuge. A centrifuge is a laboratory instrument that spins a test sample at a high speed to separate it into its various parts. In the case of centrifuged seminal fluid, if sperm cells are present, they separate from the fluid around them and can be viewed under a microscope.",
-                                "As part of the diagnosis, your healthcare provider will take your medical history, including asking you about the following:",
-                                "1. Fertility success or failure in the past (your ability to have children). ",
-                                "2. Childhood illnesses.",
-                                "3. Injuries or surgeries in the pelvic area (these could cause duct blockage or poor blood supply to the testicles).",
-                                "4. Urinary or reproductive tract infections. ",
-                                "5. History of sexually transmitted diseases. ",
-                                "6. Exposure to radiation or chemotherapy. ",
-                                "7. Your current and past medications. ",
-                                "8. Any abuse of alcohol, marijuana or other drugs.",
-                                "9. Recent fevers or exposure to heat, including frequent saunas or steam baths (heat kills sperm cells).",
-                                "10. Family history of birth defects, learning disabilities, reproductive failure or cystic fibrosis.",
-                                "Your healthcare provider will also conduct a physical examination, and will check:",
-                                "11. Your entire body in terms of signs of/lack of maturation of your body and reproductive organs.",
-                                "12. Your penis and scrotum, checking for the presence of your vas deferens, tenderness or swelling of your epididymis, size of the testicles, the presence or absence of a varicocele, and any blockage of the ejaculatory duct (via exam through the rectum) as evidenced by enlarged seminal vesicles.",
-                                "Your healthcare provider may also order the following tests:",
-                                "13. Measurement of testosterone and follicle-stimulating hormone (FSH) levels.",
-                                "14. Genetic testing. ",
-                                "15.X-rays or ultrasound of the reproductive organs to see if there are any problems with the shape and size, and to see if there are tumors, blockages or an inadequate blood supply.",
-                                "16. Imaging of the brain to identify disorders of the hypothalamus or pituitary gland.",
-                                "17. Biopsy (tissue sampling) of the testes. A normal biopsy would mean a blockage is probable at some point in the sperm transport system. Sometimes, any sperm found in the testes is frozen for future analysis or can be used in assisted pregnancy."
                             ]
                         },
                         {
@@ -1451,24 +1514,27 @@
             ]
         },
         {
-            "treatment_name": "Donor Egg ",
+            "treatment_name": "Donor Egg",
+            "treatment_desc": [
+                ""
+            ],
             "sub_data": [
+                {
+                    "sub-title": "What does egg donation entail?",
+                    "desc": [
+                        "When a woman gives her eggs (or oocytes), she is assisting another woman in getting pregnant. The male partner's sperm or donor sperm may be used to fertilise donor eggs.",
+                        "If there are no medical reasons why a woman shouldn't carry a pregnancy, donor egg IVF may be a viable choice for those who are unable to conceive with their own eggs. Advanced age, a decreased ovarian reserve, early ovarian failure that is either undiagnosed or brought on by autoimmune diseases, chemotherapy, or surgical menopause are all indications for donor egg IVF. IVF with donor eggs is also suitable for women who have genetic mutations."
+                    ]
+                },
+                {
+                    "sub-title": "The egg donation procedure",
+                    "desc": [
+                        "According to ICMR rules, egg donation is a private practise. Donors of eggs are typically young, healthy women with one or more kids. Infections like HIV and hepatitis are screened for, and a full medical and psychological evaluation is also performed. The ICMR's recommended tests are carried out, and its rules are properly adhered to. An egg donor will be added to the programme once the application and legal documents have been finished."
+                    ]
+                },
                 {
                     "sub-title": "FAQs",
                     "desc": [
-                        {
-                            "title": "What does egg donation entail??",
-                            "fdesc": [
-                                "When a woman gives her eggs (or oocytes), she is assisting another woman in getting pregnant. The male partner's sperm or donor sperm may be used to fertilise donor eggs.",
-                                "If there are no medical reasons why a woman shouldn't carry a pregnancy, donor egg IVF may be a viable choice for those who are unable to conceive with their own eggs. Advanced age, a decreased ovarian reserve, early ovarian failure that is either undiagnosed or brought on by autoimmune diseases, chemotherapy, or surgical menopause are all indications for donor egg IVF. IVF with donor eggs is also suitable for women who have genetic mutations."
-                            ]
-                        },
-                        {
-                            "title": "The egg donation procedure",
-                            "fdesc": [
-                                "According to ICMR rules, egg donation is a private practise. Donors of eggs are typically young, healthy women with one or more kids. Infections like HIV and hepatitis are screened for, and a full medical and psychological evaluation is also performed. The ICMR's recommended tests are carried out, and its rules are properly adhered to. An egg donor will be added to the programme once the application and legal documents have been finished."
-                            ]
-                        },
                         {
                             "title": "How is donor egg IVF carried out?",
                             "fdesc": [
@@ -1480,7 +1546,10 @@
             ]
         },
         {
-            "treatment_name": "Donor Sperm ",
+            "treatment_name": "Donor Sperm",
+            "treatment_desc": [
+                ""
+            ],
             "sub_data": [
                 {
                     "sub_title": "Donation of sperm",
@@ -1507,343 +1576,6 @@
                             "title": "Do you do residential work?",
                             "fdesc": [
                                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "treatment_name": "Assisted Hatching",
-            "sub_data": [
-                {
-                    "sub_title": "IVF with Assisted Hatching for Higher Implantation Rates ",
-                    "desc": [
-                        "IVF failure is a frustrating experience for both individuals and couples, and it frequently results from an embryo that does not successfully implant in the uterus.",
-                        "Your fertility specialist could suggest aided hatching if you've had multiple unsuccessful IVF cycles or have a poor prognosis for IVF."
-                    ]
-                },
-                {
-                    "sub-title": "FAQs",
-                    "desc": [
-                        {
-                            "title": "What exactly is aided hatching? ",
-                            "fdesc": [
-                                "The cells start to divide after a laboratory-fertilized egg. The zona pellicuda, a layer of proteins, surrounds the embryo during these early stages of development. An embryo must emerge through the zona pellucida and adhere to the uterine walls in order to properly implant into the uterine lining.",
-                                "A more recent laboratory procedure called assisted hatching was created after fertility specialists noticed that embryos with a thin zona pellucida had a better likelihood of implantation during IVF. Under a microscope, an embryologist can manipulate the zona pellucida to make a tiny hole for aided hatching. This occurs on the third day of embryo development, when there are typically six to eight cells per embryo.",
-                                "An embryo stabilisation pipette is used. A tiny laser on the opposing side slightly damages the zona pellucida. The embryos are then placed back in the incubator to continue to develop."
-                            ]
-                        },
-                        {
-                            "title": "Who ought to use IVF and assisted hatching?",
-                            "fdesc": [
-                                "Some couples with a poor prognosis may benefit from assisted hatching since their embryos may not have the energy to finish the hatching process.",
-                                "According to the American Society for Reproductive Medicine, women with the following conditions may benefit from assisted hatching:",
-                                "Mother's advanced age (older than 38) Two or more IVF cycles that failed A bad quality embryo"
-                            ]
-                        },
-                        {
-                            "title": "IVF-assisted hatching: Is it secure?",
-                            "fdesc": [
-                                "Complications from assisted hatching are possible. It may be linked to a decrease in the viability of the embryo as well as harm to the embryo and individual blastomeres.",
-                                "Furthermore, aided hatching has been linked to a higher incidence of twin pregnancies. "
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "treatment_name": "Azoospermia",
-            "sub_data": [
-                {
-                    "sub-title": "AzooSpermia",
-                    "desc": [
-                        "Azoospermia means there’s no sperm in a man’s ejaculate. Its causes include a blockage along the reproductive tract, hormonal problems, ejaculation problems or issues with testicular structure or function. Many causes are treatable and fertility can be restored. For other causes it may be possible to retrieve live sperm to be used in assisted reproductive techniques. Male reproductive anatomy."
-                    ]
-                },
-                {
-                    "sub-title": "What is azoospermia?",
-                    "desc": [
-                        "Azoospermia is a condition in which there’s no measurable sperm in a man’s ejaculate (semen). Azoospermia leads to male infertility."
-                    ]
-                },
-                {
-                    "sub-title": "How common is azoospermia?",
-                    "desc": [
-                        "About 1% of all men and 10% to 15% of infertile men have azoospermia."
-                    ]
-                },
-                {
-                    "sub-title": "What are the parts of the male reproductive system?",
-                    "desc": [
-                        "The male reproductive system is made up of the following:",
-                        "Testes, or testicles produce sperm (male reproductive cells) in a process called spermatogenesis.",
-                        "Seminiferous tubules are tiny tubes that make up most of the tissue of the testes. ",
-                        "Epididymis is the structure on the back of each testicle into which mature  sperm are moved and stored. ",
-                        "It is the muscular tube that passes from the epididymis into the pelvis then curves around and enters the seminal vesicle.",
-                        "Seminal vesicle is a tubular gland that produces and stores most of the fluid ingredients of semen. The vesicle narrows to form a straight duct, the seminal duct, which joins with the vas deferens",
-                        "Ejaculatory duct is created when the seminal vesicle duct merges with the vas deferens. The ejaculatory duct passes into the prostate gland and connects with the urethra.",
-                        "Urethra is the tube that runs through the penis to eliminate urine from the bladder and semen from the vas deferens.",
-                        "During ejaculation, sperm move from the testes and the epididymis into the vas deferens. Tightening (contraction) of the vas deferens moves the sperm along. Secretions from the seminal vesicle are added and the seminal fluid continues to move forward toward the urethra. Before reaching the urethra, the seminal fluid passes by the prostate gland, which adds a milky fluid to the sperm to form semen. Lastly, the semen is ejaculated (released) through the penis through the urethra. </br></br>A normal sperm count is considered to be 15 million/mL or more. Men with low sperm counts (oligozoospermia or oligospermia) have a sperm concentration of less than 15 million/mL. If you have azoospermia, you have no measurable sperm in your ejaculate."
-                    ]
-                },
-                {
-                    "sub-title": "Are there different types of azoospermia?",
-                    "desc": [
-                        "There are two main types of azoospermia:",
-                        "Obstructive azoospermia: This type of azoospermia means that there is a blockage or missing connection in the epididymis, vas deferens, or elsewhere along your reproductive tract. You are producing sperm but it’s getting blocked from exit so there’s no measurable amount of sperm in your semen.",
-                        "Nonobstructive azoospermia: This type of azoospermia means you have poor or no sperm production due to defects in the structure or function of the testicles or other causes."
-                    ]
-                },
-                {
-                    "sub-title": "What are the causes of azoospermia?",
-                    "desc": [
-                        "The causes of azoospermia relate directly to the types of azoospermia. In other words, causes can be due to an obstruction or nonobstructive sources. ",
-                        "Obstructions that result in azoospermia most commonly occur in the vas deferens, the epididymus or ejaculatory ducts. Problems that can cause blockages in these areas include: ",
-                        "1. Trauma or injury to these areas.",
-                        "2. Infections.",
-                        "3. Inflammation.",
-                        "4. Previous surgeries in the pelvic area.",
-                        "5. Development of a cyst.",
-                        "6. Vasectomy (planned permanent contraceptive procedure in which the vas deferens are cut or clamped to prevent the flow of sperm). ",
-                        "7. Cystic fibrosis gene mutation, which causes either the vas deferens not to form or causes abnormal development such that semen gets blocked by a buildup of thick secretions in the vas deferens.  ",
-                        "Nonobstructive causes of azoospermia include:",
-                        "Genetic causes. Certain genetic mutations can result in infertility, including:",
-                        "a.Kallmann syndrome: A genetic (inherited) disorder carried on the X chromosome and that if left untreated can result in infertility.",
-                        "b.Klinefelter’s syndrome: A male carries an extra X chromosome (making his chromosomal makeup XXY instead of XY). The result is often infertility, along with lack of sexual or physical maturity, and learning difficulties.",
-                        "c.Y chromosome deletion: Critical sections of genes on the Y chromosome (the male chromosome) that are responsible for sperm production are missing, resulting in infertility.",
-                        "8. Hormone imbalances/endocrine disorders, including hypogonadotropic hypogonadism. hyperprolactinemia and androgen resistance.",
-                        "9. Ejaculation problems such as retrograde ejaculation where the semen goes in to the bladder",
-                        "10. Testicular causes include:",
-                        "a.Anorchia (absence of the testicles).",
-                        "b.Cyptorchidism (testicles have not dropped into the scrotum).",
-                        "c.Sertoli cell-only syndrome (testicles fail to produce living sperm cells).",
-                        "d.Spermatogenic arrest (testicles fail to produce fully mature sperm cells).",
-                        "e.Mumps orchitis (inflamed testicles caused by mumps in late puberty). ",
-                        "f.Testicular torsion. ",
-                        "g.Tumors.",
-                        "h.Reactions to certain medications that harm sperm production.",
-                        "i.Radiation treatments.",
-                        "j.Diseases such as diabetes, cirrhosis, or kidney failure. ",
-                        "k. Varicocele (veins coming from the testicle are dilated or widened impeding sperm production). "
-                    ]
-                },
-                {
-                    "sub-title": "How is azoospermia diagnosed?",
-                    "desc": [
-                        "Azoospermia is diagnosed when, on two separate occasions, your sperm sample reveals no sperm when examined under a high-powered microscope following a spin in a centrifuge. A centrifuge is a laboratory instrument that spins a test sample at a high speed to separate it into its various parts. In the case of centrifuged seminal fluid, if sperm cells are present, they separate from the fluid around them and can be viewed under a microscope.",
-                        "As part of the diagnosis, your healthcare provider will take your medical history, including asking you about the following:",
-                        "1. Fertility success or failure in the past (your ability to have children). ",
-                        "2. Childhood illnesses.",
-                        "3. Injuries or surgeries in the pelvic area (these could cause duct blockage or poor blood supply to the testicles).",
-                        "4. Urinary or reproductive tract infections. ",
-                        "5. History of sexually transmitted diseases. ",
-                        "6. Exposure to radiation or chemotherapy. ",
-                        "7. Your current and past medications. ",
-                        "8. Any abuse of alcohol, marijuana or other drugs.",
-                        "9. Recent fevers or exposure to heat, including frequent saunas or steam baths (heat kills sperm cells).",
-                        "10. Family history of birth defects, learning disabilities, reproductive failure or cystic fibrosis.",
-                        "Your healthcare provider will also conduct a physical examination, and will check:",
-                        "11. Your entire body in terms of signs of/lack of maturation of your body and reproductive organs.",
-                        "12. Your penis and scrotum, checking for the presence of your vas deferens, tenderness or swelling of your epididymis, size of the testicles, the presence or absence of a varicocele, and any blockage of the ejaculatory duct (via exam through the rectum) as evidenced by enlarged seminal vesicles.",
-                        "Your healthcare provider may also order the following tests:",
-                        "13. Measurement of testosterone and follicle-stimulating hormone (FSH) levels.",
-                        "14. Genetic testing. ",
-                        "15.X-rays or ultrasound of the reproductive organs to see if there are any problems with the shape and size, and to see if there are tumors, blockages or an inadequate blood supply.",
-                        "16. Imaging of the brain to identify disorders of the hypothalamus or pituitary gland.",
-                        "17. Biopsy (tissue sampling) of the testes. A normal biopsy would mean a blockage is probable at some point in the sperm transport system. Sometimes, any sperm found in the testes is frozen for future analysis or can be used in assisted pregnancy."
-                    ]
-                },
-                {
-                    "sub-title": "How is azoospermia treated?",
-                    "desc": [
-                        "Treatment of azoospermia depends on the cause. Genetic testing and counselling are often an important part of understanding and treating azoospermia. Treatment approaches include:",
-                        "If a blockage is the cause of your azoospermia, surgery can unblock tubes or reconstruct and connect abnormal or never developed tubes.",
-                        "If low hormone production is the main cause, you may be given hormone treatments. Hormones include follicle-stimulating hormone (FSH), human chorionic gonadotropin (HCG), clomiphene, anastrazole and letrozole.",
-                        "If a varicocele is the cause of poor sperm production, the problem veins can be tied off in a surgical procedure, keeping surrounding structures preserved.",
-                        "Sperm can be retrieved directly from the testicle with an extensive biopsy in some men",
-                        "If living sperm are present, they can be retrieved from the testes, epididymis or vas deferens for assisted pregnancy procedures such as in vitro fertilization or intracytoplasmic sperm injection (the injection of one sperm into one egg). If the cause of azoospermia is thought to be something that could be passed on to children, your healthcare provider may recommend genetic analysis of your sperm before assisted fertilization procedures are considered."
-                    ]
-                },
-                {
-                    "sub-title": "How can azoospermia be prevented?",
-                    "desc": [
-                        "There is no known way to prevent the genetic problems that cause azoospermia. If your azoospermia is not a genetic problem, doing the following can help lessen the chance of azoospermia:",
-                        "1. Avoid activities that could injure the reproductive organs. ",
-                        "2. Avoid exposure to radiation. ",
-                        "3. Know the risks and benefits of medications that could harm sperm production.",
-                        "4. Avoid lengthy exposure of your testes to hot temperatures."
-                    ]
-                },
-                {
-                    "sub-title": "What is the long-term outlook for those with azoospermia?",
-                    "desc": [
-                        "Every cause of azoospermia has a different prognosis. Many causes of azoospermia can be reversed. You and your healthcare team will work together to determine the cause of your azoospermia and treatment options. Hormonal problems and obstructive causes of azoospermia are usually treatable and fertility can potentially be restored. If testicular disorders are the cause, it’s still possible to retrieve live sperm to be used in assisted reproductive techniques."
-                    ]
-                },
-                {
-                    "sub-title": "FAQs",
-                    "desc": [
-                        {
-                            "title": "Do you do residential work?",
-                            "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                            ]
-                        },
-                        {
-                            "title": "Do you do residential work?",
-                            "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                            ]
-                        },
-                        {
-                            "title": "Do you do residential work?",
-                            "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "treatment_name": "Donor Egg ",
-            "sub_data": [
-                {
-                    "sub-title": "How can azoospermia be prevented?",
-                    "desc": [
-                        "There is no known way to prevent the genetic problems that cause azoospermia. If your azoospermia is not a genetic problem, doing the following can help lessen the chance of azoospermia:",
-                        "1. Avoid activities that could injure the reproductive organs. ",
-                        "2. Avoid exposure to radiation. ",
-                        "3. Know the risks and benefits of medications that could harm sperm production.",
-                        "4. Avoid lengthy exposure of your testes to hot temperatures."
-                    ]
-                },
-                {
-                    "sub-title": "FAQs",
-                    "desc": [
-                        {
-                            "title": "What does egg donation entail??",
-                            "fdesc": [
-                                "When a woman gives her eggs (or oocytes), she is assisting another woman in getting pregnant. The male partner's sperm or donor sperm may be used to fertilise donor eggs.",
-                                "If there are no medical reasons why a woman shouldn't carry a pregnancy, donor egg IVF may be a viable choice for those who are unable to conceive with their own eggs. Advanced age, a decreased ovarian reserve, early ovarian failure that is either undiagnosed or brought on by autoimmune diseases, chemotherapy, or surgical menopause are all indications for donor egg IVF. IVF with donor eggs is also suitable for women who have genetic mutations."
-                            ]
-                        },
-                        {
-                            "title": "The egg donation procedure",
-                            "fdesc": [
-                                "According to ICMR rules, egg donation is a private practise. Donors of eggs are typically young, healthy women with one or more kids. Infections like HIV and hepatitis are screened for, and a full medical and psychological evaluation is also performed. The ICMR's recommended tests are carried out, and its rules are properly adhered to. An egg donor will be added to the programme once the application and legal documents have been finished."
-                            ]
-                        },
-                        {
-                            "title": "How is donor egg IVF carried out?",
-                            "fdesc": [
-                                "IVF donor egg cycles mix the recipient and donor egg cycles. The menstrual cycle of the egg donor and the recipient's use of birth control tablets are often coordinated. On the second day of menstruation, the receiver starts taking estradiol tablets to prepare her uterus, while the donor starts receiving injections to stimulate her ovaries. Once the donor's follicles are prepared, which typically takes 11–12 days, the egg retrieval operation is carried out under anaesthetic and ultrasound monitoring. The recipient's partner gives a sample of his semen on the day of egg retrieval. The gametes are then fertilised in a laboratory setting. The recipient is given luteal support medicines. Three to five days later, a USG directs the transfer of one to two embryos into the recipient's uterus. If there are extra embryos, they can be stored in the freezer for later use."
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "treatment_name": "Blastocyst Culture & Transfer ",
-            "sub_data": [
-                {
-                    "sub-title": "Blastocyst Culture & Transfer ",
-                    "desc": [
-                        "It is now possible to accomplish so many things that were previously unthinkable due to the advancement of medical knowledge. The embryo can now be grown for longer than the customary three days thanks to changes made to the liquid used for in vitro cultivation. The final stage of the embryo's development before it leaves the egg by rupturing the zona pellucida and embeds itself in the uterine wall is the blastocyst, which may now be cultured in vitro for up to 5 days."
-                    ]
-                },
-                {
-                    "sub-title": "Why Is It Performed?",
-                    "desc": [
-                        "Pregnancy rates are greater after blastocyst-stage embryo transfer on the fifth day. There are potentially two plausible explanations for this:",
-                        "In the beginning, transferring the blastocyst to the uterus may be more medically suitable because it closely mimics nature, increasing the likelihood that the embryo will implant.",
-                        "Furthermore, waiting until the blastocyst stage allows the expert to select the best embryo because undesired babies are likely to terminate before they get to this stage.",
-                        "Fundamentally, the likelihood of potentially hazardous twin or triplet birth is reduced by blastocyst transfer. Higher implantation rates allow doctors to exchange fewer blastocysts, possibly just one, reducing or avoiding multiple births and the problems they bring. With the help of vitrification, extra blastocysts can also be successfully cryopreserved so that pregnancies can be carried out in the future."
-                    ]
-                },
-                {
-                    "sub-title": "Advantages of the blastocyst method over traditional embryo transfer techniques ",
-                    "desc": [
-                        "The majority of embryo transfers in the past took place on days two or three. In any event, the majority of excellent clinics have moved on to routinely performing day five (blastocyst) transfers. Tragically, many IVF clinics in India still transfer embryos on the second or third day because this is not yet the common option. This is primarily due to their lack of tremendous confidence in the capabilities of their research facility and their embryologist's ability to culture eggs up to day five. They justify this by telling the patient that it's preferable for the embryo to hatch inside the uterus earlier, which is why they lean toward transferring the embryo into the uterus. However, there are a lot of disadvantages to this, therefore you should request that your doctor perform a blastocyst transfer on your behalf.",
-                        "When compared to Day 2 or Day 3 transfer, blastocysts have a higher possibility of implanting, hence the success percentage is higher with blastocyst transfer. They are more likely since they are more developed and have more cells. When compared to transferring three or four Day 3 embryos, the specialist can reduce the number of embryos to be transferred and exchange only a few blastocysts while still having a high pregnancy rate.",
-                        "Additionally, since the expert is only exchanging 1–2 blastocysts, you can freeze the extra blastocysts, giving you the chance to complete multiple cycles in the future. In light of the fact that the overall pregnancy rate is increasing, this makes it more useful.",
-                        "The final and most important reason to request a blastocyst transfer is that you won't have to endure the scary 2-week wait during which you won't know whether you will become pregnant or not if you have poor quality embryos. Therefore, if the IVF cycle fails after exchanging Day 3 embryos, it is impossible to determine if the problem was that the foetus did not develop further or whether there was some other reason why the implantation failed. Even more so, you're uncertain as to whether your embryo will live for five days or not.",
-                        "This is especially true for older women with fewer eggs. Such women are more likely to experience a failed IVF because their embryos are more likely to halt and not develop into blastocysts. Many of the embryos can be genetically abnormal.",
-                        "These are the patients who might benefit most greatly from a blastocyst transfer. However, because they typically have poor ovarian response, the doctor is reluctant to develop the embryos all the way to the blastocyst stage when just 3–4 eggs are collected. The patient will blame them if it doesn't work out. For this reason, they would much rather transfer the embryos back into the uterus, where they could claim  \"implantation failure\" if the cycle did not succeed.",
-                        "However, following the embryo swap, the patient is duped into believing that \"Amazingly, possibly this embryo may implant and grow into a baby,\" which is why they are so optimistic during the waiting period.",
-                        "This false expectation is hurting. They believe that their uterus rejected the embryo at the time when the cycle ends prematurely, which is when they are persuaded to pursue surrogacy. This is dreadful advise which is absolutely imperfect on the grounds that the issue is with the egg and not with the uterus.",
-                        "Aveya IVF maintains an honest approach with all the patients and gives the best potential outcome in each situation. This is combined with our highly skilled and informed specialists who can assist you in getting the greatest outcome from your IVF operation. Consult with our skilled fertility doctors to know more about this process and discuss your alternatives."
-                    ]
-                }
-            ]
-        },
-        {
-            "treatment_name": "PGT -A ",
-            "sub_data": [
-                {
-                    "sub-title": "An overview of genetic testing for preimplantation embryos",
-                    "desc": [
-                        "Preimplantation genetic testing (PGT) during in vitro fertilisation (IVF) screens embryos for a variety of genetic issues that can cause implantation failure, miscarriage, and birth abnormalities in a child.",
-                        "Birth abnormalities or pregnancy loss can result from a variety of genetic illnesses, such as extra chromosomes in the embryo (like Down syndrome), single gene diseases (like sickle cell anaemia), or gene rearrangements.",
-                        "There are three different kinds of PGTs, which perform the same tasks as the well-known PGD and PGS tests for preimplantation genetic diagnosis and screening, respectively.",
-                        "Using PGT, embryologists can identify genetic flaws in an embryo prior to IVF, preventing those embryos from being implanted into the woman's uterus."
-                    ]
-                },
-                {
-                    "sub-title": "For embryos, what is preimplantation genetic testing (PGT)?",
-                    "desc": [
-                        "Preimplantation genetic testing on embryos during IVF is possible in three ways:",
-                        "examining chromosomal counts during preimplantation genetic testing to look for abnormalities (PGT-A)",
-                        "In PGT-A, the chromosome count of embryonic cells is examined to see if it is normal. An uneven division of either sperm or egg cells can result in an embryo having either too few or too many chromosomes.",
-                        "People typically have 46 chromosomes since each parent contributes 23 chromosomes to each child. An embryo or cell is said to be aneuploid if it has an additional chromosome or if one is missing altogether. When one chromosome is absent, the condition is known as monosomy; when one chromosome has two copies, it is known as trisomy.",
-                        "Turner syndrome, which results from the lack of an X chromosome, is the only monosomy that can survive in a child. Trisomy 21 (Down syndrome), Turner syndrome, and other conditions can occur from an extra chromosome in pair 21 of normal chromosomes. Aneuploidy is one of the leading causes of miscarriage and unsuccessful pregnancy implantation."
-                    ]
-                },
-                {
-                    "sub-title": "FAQs",
-                    "desc": [
-                        {
-                            "title": "The PGT-A test looks for what kinds of chromosomal abnormalities?",
-                            "fdesc": [
-                                "The main goal of a PGT-A embryo is to guarantee that it is euploid, or having the appropriate amount of chromosomes. PGT-A can identify monosomies (incomplete chromosomes) and trisomies (incomplete chromosomes) in embryos. PGT-A also checks for chromosomal duplications and deletions. Large deletions and duplications are necessary for their detection. In some versions, but not all, the PGT-A may also pick up on mosaicism and uniparental disomy (UPD). Our genetic counsellor will go over the different kinds of outcomes that can be discovered during your session."
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "treatment_name": "PGT-A ",
-            "sub_data": [
-                {
-                    "sub-title": "An overview of genetic testing for preimplantation embryos",
-                    "desc": [
-                        "Preimplantation genetic testing (PGT) during in vitro fertilisation (IVF) screens embryos for a variety of genetic issues that can cause implantation failure, miscarriage, and birth abnormalities in a child.",
-                        "Birth abnormalities or pregnancy loss can result from a variety of genetic illnesses, such as extra chromosomes in the embryo (like Down syndrome), single gene diseases (like sickle cell anaemia), or gene rearrangements.",
-                        "There are three different kinds of PGTs, which perform the same tasks as the well-known PGD and PGS tests for preimplantation genetic diagnosis and screening, respectively.",
-                        "Using PGT, embryologists can identify genetic flaws in an embryo prior to IVF, preventing those embryos from being implanted into the woman's uterus."
-                    ]
-                },
-                {
-                    "sub-title": "For embryos, what is preimplantation genetic testing (PGT)?",
-                    "desc": [
-                        "Preimplantation genetic testing on embryos during IVF is possible in three ways:",
-                        "examining chromosomal counts during preimplantation genetic testing to look for abnormalities (PGT-A)",
-                        "In PGT-A, the chromosome count of embryonic cells is examined to see if it is normal. An uneven division of either sperm or egg cells can result in an embryo having either too few or too many chromosomes.",
-                        "People typically have 46 chromosomes since each parent contributes 23 chromosomes to each child. An embryo or cell is said to be aneuploid if it has an additional chromosome or if one is missing altogether. When one chromosome is absent, the condition is known as monosomy; when one chromosome has two copies, it is known as trisomy.",
-                        "Turner syndrome, which results from the lack of an X chromosome, is the only monosomy that can survive in a child. Trisomy 21 (Down syndrome), Turner syndrome, and other conditions can occur from an extra chromosome in pair 21 of normal chromosomes. Aneuploidy is one of the leading causes of miscarriage and unsuccessful pregnancy implantation."
-                    ]
-                },
-                {
-                    "sub-title": "FAQs",
-                    "desc": [
-                        {
-                            "title": "The PGT-A test looks for what kinds of chromosomal abnormalities?",
-                            "fdesc": [
-                                "The main goal of a PGT-A embryo is to guarantee that it is euploid, or having the appropriate amount of chromosomes. PGT-A can identify monosomies (incomplete chromosomes) and trisomies (incomplete chromosomes) in embryos. PGT-A also checks for chromosomal duplications and deletions. Large deletions and duplications are necessary for their detection. In some versions, but not all, the PGT-A may also pick up on mosaicism and uniparental disomy (UPD). Our genetic counsellor will go over the different kinds of outcomes that can be discovered during your session."
                             ]
                         }
                     ]

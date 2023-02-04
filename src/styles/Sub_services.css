@@ -17,12 +17,13 @@
   font-weight: 500;
   font-size: 30px;
   color: #ffffff;
-  margin: 20px 0px;
+  margin: 10px 0px;
 }
 .compo_desc,
 .compo_keyfactors li {
   font-weight: 300;
   font-size: 18px;
+  margin: 5px 0px;
 }
 .compo_keyfactors {
   color: #ffffff;

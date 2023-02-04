@@ -1,172 +1,185 @@
-.home_section{
-    display: grid;
-    grid-template-columns: 1.5fr 1fr;
-    height: 100vh;
+.home_section {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  height: 100vh;
 }
-.home_content{
-    display: flex;
-    flex-direction: column;
-    
-    justify-content: center;
-    align-items: flex-start;
-    padding: 50px;
+.home_content {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: flex-start;
+  padding: 50px;
 }
-.home_icons img{
-    height: 60px;
-    width: 60px;
-    margin: 0px 10px 0px 0px;
+.home_icons img {
+  height: 60px;
+  width: 60px;
+  margin: 0px 10px 0px 0px;
 }
-.home_brandname{
-    font-weight: 500;
-    font-size: 24px;
-    line-height: 22px;
-    color: var(--primary-color);
+.home_brandname {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 22px;
+  color: var(--primary-color);
 }
-.home_content h2{
-    font-weight: 500;
-    color: var(--secondary-color-light);
-    font-size: 42px;
-    margin: 20px 0px;
+.home_content h2 {
+  font-weight: 500;
+  color: var(--secondary-color-light);
+  font-size: 42px;
+  margin: 20px 0px;
 }
-.home_content p{
-    font-size: 18px;
-    line-height: 22px;
-    font-weight: 400;
-    margin: 10px 0px;
-    color: var(--black-color);
+.home_content p {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  margin: 10px 0px;
+  color: var(--black-color);
 }
-.home_book_app{
-    
+.home_book_app {
 }
 .home_book_app a {
-    text-decoration: none;
-    display: block;
-    border-radius: 30px;
-    color: var(--white-color);
-    background-color: var(--primary-color);
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 20px;
-    align-items: center;
-    padding: 10px 60px;
-    width: fit-content;
-    margin: 30px 0px;
-    transition: all 0.5s;
+  text-decoration: none;
+  display: block;
+  border-radius: 30px;
+  color: var(--white-color);
+  background-color: var(--primary-color);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  align-items: center;
+  padding: 10px 60px;
+  width: fit-content;
+  margin: 30px 0px;
+  transition: all 0.5s;
 }
-.home_book_app a:hover{
-    transform: scale(1.1,1.1);
-    color: var(--secondary-color-light);
+.home_book_app a:hover {
+  transform: scale(1.1, 1.1);
+  color: var(--secondary-color-light);
 }
 
-.home_banner_img img{
-    height: 100%;
-    width: 100%;
+.home_banner_img img {
+  height: 100%;
+  width: 100%;
 }
-.titleclr{
-    color: var(--black-color);
+.titleclr {
+  color: var(--black-color);
 }
-.floatingIcons img{
-    height: 60px;
-    width: 60px;
-    position: relative;
-    margin: 30px;
-    opacity: 0.8;
-    animation-name: roundN;
-    animation-duration: 10s;
-    animation-iteration-count: infinite;
+.floatingIcons img {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  margin: 30px;
+  opacity: 0.8;
+  animation-name: roundN;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-delay: 0s;
+  animation-timing-function: linear;
+}
+.floatingIcons {
+}
+.floatIcon1 {
+  top: -40px;
+  left: 80px;
+}
+.floatIcon2 {
+  top: 30px;
+  left: 200px;
+}
+.home_brandname,.home_icons,.home_title,.home_desc,.home_content .home_book_app{
+    animation: blinkshow;
+    animation-duration: 3s;
     animation-delay: 0s;
     animation-timing-function: linear;
 }
-.floatingIcons{
-    
-}
-.floatIcon1{
-    top: -40px;
-    left: 80px;
-}
-.floatIcon2{
-    top: 30px;
-    left: 200px;
-}
 @keyframes roundN {
-    0%{
-      transform: rotate(0deg);
-    }
-    /* 25%{
+  0% {
+    transform: rotate(0deg);
+  }
+  /* 25%{
       transform: rotate(90deg);
     } */
-    50%{
-      transform: rotate(180deg);
-    }
-    /* 75%{
+  50% {
+    transform: rotate(180deg);
+  }
+  /* 75%{
       transform: rotate(270deg);
     } */
-    100%{
-      transform: rotate(360deg);
-    }
+  100% {
+    transform: rotate(360deg);
   }
-@media only screen and (max-width: 480px){
-    .home_section{
-        display: flex;
-        flex-direction: column-reverse;
-        /* height: 95vh; */
-    }
-    .home_content{
-        padding: 15px;
-    }
-    .floatingIcons img{
-        display: none;
-    }
-    .home_brandname{
-        font-size: 16px;
-    }
-    .home_content h2{
-        font-size: 22px;
-       margin: 10px 0px;
-    }
-    .home_content p{
-        font-size: 14px;
-        line-height: 18px;
-    }
-    .home_icons{
-        display: none;
-    }
-    .home_book_app{
-        margin: 10px auto;
-    }
-   
 }
-@media only screen and (min-width:490px) and (max-width: 850px){
-    .home_section{
-        display: flex;
-        flex-direction: column-reverse;
-        /* height: 95vh; */
+@keyframes blinkshow {
+    0%{
+        opacity: 0;
     }
-    .home_banner_img img{
-        width: 80vw; 
+    50%{
+        opacity: 50%;
     }
-    .home_content{
-        padding: 15px;
+    100%{
+        opacity: 100%;
     }
-    .floatingIcons img{
-        display: none;
-    }
-    .home_brandname{
-        font-size: 24px;
-    }
-    .home_content h2{
-        font-size: 40px;
-       margin: 10px 0px;
-    }
-    .home_content p{
-        font-size: 16px;
-        line-height: 18px;
-    }
-    .home_icons{
-        display: none;
-    }
-    .home_book_app{
-        margin: 10px auto;
-    }
-   
+}
+@media only screen and (max-width: 480px) {
+  .home_section {
+    display: flex;
+    flex-direction: column-reverse;
+    /* height: 95vh; */
+  }
+  .home_content {
+    padding: 15px;
+  }
+  .floatingIcons img {
+    display: none;
+  }
+  .home_brandname {
+    font-size: 16px;
+  }
+  .home_content h2 {
+    font-size: 22px;
+    margin: 10px 0px;
+  }
+  .home_content p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .home_icons {
+    display: none;
+  }
+  .home_book_app {
+    margin: 10px auto;
+  }
+}
+@media only screen and (min-width: 490px) and (max-width: 850px) {
+  .home_section {
+    display: flex;
+    flex-direction: column-reverse;
+    /* height: 95vh; */
+  }
+  .home_banner_img img {
+    width: 80vw;
+  }
+  .home_content {
+    padding: 15px;
+  }
+  .floatingIcons img {
+    display: none;
+  }
+  .home_brandname {
+    font-size: 24px;
+  }
+  .home_content h2 {
+    font-size: 40px;
+    margin: 10px 0px;
+  }
+  .home_content p {
+    font-size: 16px;
+    line-height: 18px;
+  }
+  .home_icons {
+    display: none;
+  }
+  .home_book_app {
+    margin: 10px auto;
+  }
 }

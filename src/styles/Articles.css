@@ -10,8 +10,8 @@
     color: var(--white-color);
     padding: 10px;
 }
-.articles .section_body{
-    margin: 20px 0px;
+.articles .section_body .single{
+    margin: 00px 0px;
 }
 .article_items{
     display: flex;
@@ -26,10 +26,11 @@
 .single{
     display: block;
 }
-.slick-list{
+.single .slick-list{
     padding: 20px 0px;
 }
 .arItems{
+ margin: 30px 0px   ;
  width: 350px;   
 }
 

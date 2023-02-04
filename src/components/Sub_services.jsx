@@ -37,14 +37,17 @@ const Sub_services = ({ ser_data }) => {
             <div className="ser_slide" key={index}>
               <div className="compo_heading">{item.sub_service_name}</div>
               <div className="compo_title">{item.sub_service_title}</div>
-              <div className="compo_desc">{item.sub_service_desc}</div>
-              <div className="compo_keyfactors">
+              {item.sub_service_desc.map((item,index)=>{
+                return<div className="compo_desc" key={index}>{item}</div>
+              })}
+              
+              {/* <div className="compo_keyfactors">
                 <ul>
                   {item.sub_service_keypoints.map((item, index) => {
                     return <li className="key_item" key={index}>{item}</li>;
                   })}
                 </ul>
-              </div>
+              </div> */}
             </div>
           );
         })}

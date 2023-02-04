@@ -23,6 +23,9 @@
 .article_card:hover{
     transform: translateY(-20px)
 }
+.article_card:hover a{
+    color:red
+}
 .article_card img{
     width: 350px;
     height: auto;
@@ -44,6 +47,8 @@
     padding: 10px 0px;
 }
 .article_readmore a{
+    text-decoration: none;
+    color: var(--primary-color);
     font-weight: 500;
     text-decoration: none;
 }

@@ -3,7 +3,7 @@ import "../styles/Choose.css";
 function Choose() {
   return (
     <section className="section choose" id="choose">
-      <img src={require("../assests/Photos/"+Data.landingPage.choose_us_section.section_image)} alt="" className="choose_back_vdo" />
+      {/* <img src={require("../assests/Photos/"+Data.landingPage.choose_us_section.section_image)} alt="" className="choose_back_vdo" /> */}
       <div className="choose_body">
       <img
             className="backicons bi4"

@@ -33,7 +33,7 @@
   font-weight: 300;
   line-height: 22px;
   margin-bottom: 20px;
-  width: 350px;
+  width: 30%;
   color: #787575;
   scroll-behavior: smooth;
 }
@@ -64,10 +64,11 @@
   font-weight: 600;
   line-height: 29px;
   letter-spacing: 0px;
+  margin: 20px 0px 10px 0px;
   /* padding-top: 100px; */
 }
 .treatments-subtitle p {
-  margin: 20px 0px 10px 0px;
+  margin: 10px 0px;
   font-size: 20px;
   font-weight: 200;
   line-height: 25px;
