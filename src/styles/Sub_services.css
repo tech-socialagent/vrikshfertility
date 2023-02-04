@@ -1,54 +1,33 @@
-.sub_compo{
-    background-color: var(--secondary-color);
-    border-radius: 20px;
-    padding: 40px 40px 0 40px;
+.service_slides{
+    width: 60vw;
 }
-.sub_compo .sub_service{
-    position: relative;
-    top: -80px;
+.ser_slide {
+  background: #dbb13b;
+  border-radius: 20px;
+  padding: 30px;
+  min-height: 450px;
 }
-.compo_header{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+.service_slides .compo_heading{
+    font-weight: 600px;
+    font-size: 40px;
+    color: #ffffff;
     text-align: center;
-    column-gap: 50px;
 }
-.compo_nav_items{
-    background-color: #121820;
-    border-radius: 20px;
-    font-size: 22px;
-    font-weight: 500;
-    padding: 40px 20px ;   
-    position: relative;
+.compo_title {
+  font-weight: 500;
+  font-size: 30px;
+  color: #ffffff;
+  margin: 20px 0px;
 }
-
-.active .sqbar{
-    position: absolute;
-    height: 20px;
-    width: 20px;
-    display: block;
-    background-color: #6DBCA4;
-    bottom: -10%;
-    left: 45%;
-    transform: rotate(45deg);
-    border: 1px solid #171818;
+.compo_desc,
+.compo_keyfactors li {
+  font-weight: 300;
+  font-size: 18px;
 }
-.compo_nav_items .sub_item{
-    color: var(--white-color);
-    cursor: pointer;
+.compo_keyfactors {
+  color: #ffffff;
+  margin: 30px 20px;
 }
-
-.compo_title{
-    font-weight: 500;
-    font-size: 30px;
-    color: #ffffff;
-    margin: 20px 0px;
-}
-.compo_desc,.compo_keyfactors li{
-    font-weight: 300;
-    font-size: 18px;
-}
-.compo_keyfactors{
-    color: #ffffff;
-    margin: 30px 20px;
+.slick-list{
+    padding: 0 !important;
 }

@@ -2,10 +2,11 @@ import Data from "../Data.json";
 import "../styles/Services.css";
 import Sub_services from "./Sub_services";
 import { useEffect, useState } from "react";
-import {FaAngleRight} from "react-icons/fa";
+import { FaAngleRight } from "react-icons/fa";
 
 const Services = () => {
-  const [cr_service, setCr_service] = useState("fertilitytreatment");
+  // "fertilitytreatment"
+  const [cr_service, setCr_service] = useState(Data.landingPage.services_section.services[0]);
   const [ser, setSer] = useState(false);
   const [subSer, setSubSer] = useState(false);
 
@@ -18,18 +19,24 @@ const Services = () => {
 
     e.currentTarget.classList.add("active");
   };
-  const serHandler1= (e)=>{
-    document.querySelectorAll(".heading1").forEach(item=>{item.classList.remove("vactive")})
+  const serHandler1 = (e) => {
+    document.querySelectorAll(".heading1").forEach((item) => {
+      item.classList.remove("vactive");
+    });
     e.currentTarget.classList.add("vactive");
-  }
-  const serHandler2 = (e) => {
-    document.querySelectorAll(".sub-ser-view").forEach(item=>{item.classList.remove("sactive")})
-    e.currentTarget.classList.add("sactive");
-
   };
-useEffect(()=>{
-  document.querySelector(".services_items:first-child").classList.add("active")
-},[])
+  const serHandler2 = (e) => {
+    document.querySelectorAll(".sub-ser-view").forEach((item) => {
+      item.classList.remove("sactive");
+    });
+    e.currentTarget.classList.add("sactive");
+  };
+  useEffect(() => {
+    document
+      .querySelector(".services_items:first-child")
+      .classList.add("active");
+  }, []);
+
   return (
     <section className="section services" id="services">
       <h2 className="section_title">
@@ -46,14 +53,7 @@ useEffect(()=>{
                   onClick={(e) => handler(e)}
                 >
                   <div className="bar"></div>
-                  <div
-                    className="ser_item"
-                    onClick={() =>
-                      setCr_service(
-                        item.service_title.split(" ").join("").toLowerCase()
-                      )
-                    }
-                  >
+                  <div className="ser_item" onClick={() => setCr_service(item)}>
                     {item.service_title}
                   </div>
                 </div>
@@ -62,7 +62,8 @@ useEffect(()=>{
           </div>
 
           <div className="services_details">
-            {Data.landingPage.services_section.services.map((item, index) => {
+            <Sub_services ser_data={cr_service}/>
+            {/* {Data.landingPage.services_section.services.map((item, index) => {
               return (
                 <div key={index}>
                   {cr_service ===
@@ -73,29 +74,36 @@ useEffect(()=>{
                   )}
                 </div>
               );
-            })}
+            })} */}
           </div>
         </div>
         {/* mobile */}
         <div className="phoneService">
           {Data.landingPage.services_section.services.map((item, index) => {
             return (
-              <div className="heading1" onClick={(e) =>serHandler1(e)}>
+              <div className="heading1" onClick={(e) => serHandler1(e)}>
                 <div className="ser-mob-h1" key={index}>
-                  {item.service_title} <span className="dropicon1"><FaAngleRight/></span>
+                  {item.service_title}{" "}
+                  <span className="dropicon1">
+                    <FaAngleRight />
+                  </span>
                 </div>
 
                 <div className="submob-ser">
                   {item.sub_services.map((item, index) => {
                     return (
                       <div
+                      key={index}
                         className="sub-ser-view"
                         onClick={(e) => {
                           serHandler2(e);
                         }}
                       >
-                        <div className="sub-mob-ser-h2" key={index}>
-                          {item.sub_service_name} <span className="dropicon2"><FaAngleRight/></span>
+                        <div className="sub-mob-ser-h2" >
+                          {item.sub_service_name}{" "}
+                          <span className="dropicon2">
+                            <FaAngleRight />
+                          </span>
                         </div>
 
                         <div className="sub-ser-body">
@@ -126,3 +134,4 @@ useEffect(()=>{
 };
 
 export default Services;
+// .service_title.split(" ").join("").toLowerCase()

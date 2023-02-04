@@ -1,73 +1,54 @@
-import { useEffect, useState } from "react";
-import Data from "../Data.json";
 import "../styles/Sub_services.css";
+import Slider from "react-slick";
 
 const Sub_services = ({ ser_data }) => {
-  const [sub, setSub] = useState(
-    ser_data.sub_services[0].sub_service_name.split(" ").join("").toLowerCase()
-  );
-
-  const tabHandler = (e, item) => {
-    document.querySelectorAll(".compo_nav_items").forEach((item) => {
-      item.classList.remove("active");
-    });
-    e.currentTarget.classList.add("active");
-
-    setSub(item.sub_service_name.split(" ").join("").toLowerCase());
+  const settings = {
+    dots: true,
+    infinite: true,
+    speed: 800,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    arrows: false,
+    autoplaySpeed: 2000,
+    autoplay: true,
+    fade:true
+    // responsive: [
+    //   {
+    //     breakpoint: 1024,
+    //     settings: {
+    //       slidesToShow: 2,
+    //       slidesToScroll: 2,
+    //     },
+    //   },
+    //   {
+    //     breakpoint: 600,
+    //     settings: {
+    //       slidesToShow: 1,
+    //       slidesToScroll: 1,
+    //     },
+    //   },
+    // ],
   };
-
-  useEffect(() => {
-    document.querySelector(".compo_nav_items:first-child").classList.add("active");
-    
-  },[]);
-  // console.log(sub);
   return (
-    <div className="sub_compo">
-      <div className="sub_service">
-        <div className="compo_header">
-          {ser_data.sub_services.map((item, index) => {
-            return (
-              <div
-                key={index}
-                className="compo_nav_items"
-                onClick={(e) => tabHandler(e, item)}
-              >
-                <div className="sub_item">{item.sub_service_name} </div>
-                <div className="sqbar"></div>
+    <div className="service_slides" >
+      <Slider {...settings}>
+        {ser_data.sub_services.map((item, index) => {
+          return (
+            <div className="ser_slide" key={index}>
+              <div className="compo_heading">{item.sub_service_name}</div>
+              <div className="compo_title">{item.sub_service_title}</div>
+              <div className="compo_desc">{item.sub_service_desc}</div>
+              <div className="compo_keyfactors">
+                <ul>
+                  {item.sub_service_keypoints.map((item, index) => {
+                    return <li className="key_item" key={index}>{item}</li>;
+                  })}
+                </ul>
               </div>
-            );
-          })}
-        </div>
-
-        <div className="compo_body">
-          {ser_data.sub_services.map((item, index) => {
-            return (
-              <div key={index}>
-                {sub ===
-                item.sub_service_name.split(" ").join("").toLowerCase() ? (
-                  <>
-                    <div className="compo_title">{item.sub_service_title}</div>
-                    <div className="compo_desc">{item.sub_service_desc}</div>
-                    <div className="compo_keyfactors">
-                      <ul>
-                        {item.sub_service_keypoints.map((item, index) => {
-                          return (
-                            <li className="key_item" key={index}>
-                              {item}
-                            </li>
-                          );
-                        })}
-                      </ul>
-                    </div>
-                  </>
-                ) : (
-                  ""
-                )}
-              </div>
-            );
-          })}
-        </div>
-      </div>
+            </div>
+          );
+        })}
+      </Slider>
     </div>
   );
 };
