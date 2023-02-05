@@ -54,23 +54,24 @@
   /* line-height: 43px; */
 }
 .treatments-title p {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   margin-bottom: 20px;
   color: #6e3173;
+  margin-left: 5px;
 }
 .treatments-subtitle h1 {
   font-size: 32px;
   font-weight: 600;
-  line-height: 29px;
+  line-height: 32px;
   letter-spacing: 0px;
   margin: 20px 0px 10px 0px;
   /* padding-top: 100px; */
 }
 .treatments-subtitle p {
-  margin: 10px 0px;
-  font-size: 20px;
-  font-weight: 200;
+  margin: 10px 0 0 10px;
+  font-size: 18px;
+  font-weight: 300;
   line-height: 25px;
 }
 .liactive a {
@@ -101,9 +102,10 @@ select {
 .dropbtn {
   background-color: #dbb13b;
   height: 60px;
-  width: 500px;
+  width: 100%;
+  /* width: max-content; */
   border-radius: 10px;
-  font-size: 22px;
+  font-size: 18px;
   font-weight: 600;
   color: white;
   border: none;
@@ -119,6 +121,7 @@ select {
 }
 .faqdrop {
   margin: 10px 0px;
+  width: 80%;
 }
 .faqdrop p {
   font-size: 14px;
@@ -131,13 +134,16 @@ select {
   overflow: auto;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: -1;
-  width: 500px;
+  width: 100%;
   border-radius: 10px;
-  padding: 10px;
+  padding: 15px;
 }
 
 .dropdown-content p {
   color: black;
+  font-size: 16px;
+  line-height: 18px;
+  margin: 5px 0px;
 }
 
 .dropdowntt a:hover {

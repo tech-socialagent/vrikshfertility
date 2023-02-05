@@ -102,10 +102,10 @@
                         "title": "Female Fertility Treatments",
                         "submenu": [
                             {
-                                "title": "Polycystic Ovary Syndrome (PCOS)"
+                                "title": "Polycystic Ovary Syndrome"
                             },
                             {
-                                "title": "Endometriosis & Adenomyosis"
+                                "title": "Endometriosis and Adenomyosis"
                             },
                             {
                                 "title": "Recurrent Miscarriage"
@@ -1017,19 +1017,13 @@
         {
             "treatment_name": "IVF",
             "treatment_desc": [
-                ""
+                "In vitro fertilisation (IVF) is an assisted reproductive technology that begins by collecting a woman’s eggs and a man’s sperm and combining them together outside the woman’s body in a laboratory dish for fertilisation. In vitro is Latin for “in glass” and refers to the laboratory Petri dish in which the egg and sperm are combined. When the eggs are fertilised and become embryos, the physician determines which embryos to transfer to the woman.",
+                "The treatment of IVF is deemed successful, if the embryo gets implanted in the uterus which results in a positive pregnancy. Any remaining embryos can be frozen and stored for future use or donated to other couples. In vitro fertilization can overcome most causes of male and female infertility.",
+                "In vitro fertilization is highly successful due to its controlled interaction of eggs and sperm. Medications ensure that the woman can produce an increased number of mature eggs a single time. Doctors can then determine all the developed  embryos to determine which ones are most likely to result in pregnancy.",
+                "While not appropriate for all couples or individuals, IVF offers a high chance of pregnancy in a short period of time.",
+                "The first IVF baby was born in 1978."
             ],
             "sub_data": [
-                {
-                    "sub-title": "What is IVF?",
-                    "desc": [
-                        "In vitro fertilisation (IVF) is an assisted reproductive technology that begins by collecting a woman’s eggs and a man’s sperm and combining them together outside the woman’s body in a laboratory dish for fertilisation. In vitro is Latin for “in glass” and refers to the laboratory Petri dish in which the egg and sperm are combined. When the eggs are fertilised and become embryos, the physician determines which embryos to transfer to the woman.",
-                        "The treatment of IVF is deemed successful, if the embryo gets implanted in the uterus which results in a positive pregnancy. Any remaining embryos can be frozen and stored for future use or donated to other couples. In vitro fertilization can overcome most causes of male and female infertility.",
-                        "In vitro fertilization is highly successful due to its controlled interaction of eggs and sperm. Medications ensure that the woman can produce an increased number of mature eggs a single time. Doctors can then determine all the developed  embryos to determine which ones are most likely to result in pregnancy.",
-                        "While not appropriate for all couples or individuals, IVF offers a high chance of pregnancy in a short period of time.",
-                        "The first IVF baby was born in 1978."
-                    ]
-                },
                 {
                     "sub-title": "The technique involves five basic steps:",
                     "desc": [
@@ -1245,13 +1239,13 @@
             ],
             "sub_data": [
                 {
-                    "sub_title": "An overview of genetic testing for preimplantation embryos",
+                    "sub-title": "An overview of genetic testing for preimplantation embryos",
                     "desc": [
                         "To predict the ideal implantation window for the above patients, an ERA biopsy is performed. "
                     ]
                 },
                 {
-                    "sub_title": "For embryos, what is preimplantation genetic testing (PGT)?",
+                    "sub-title": "For embryos, what is preimplantation genetic testing (PGT)?",
                     "desc": [
                         "Preimplantation genetic testing on embryos during IVF is possible in three ways:",
                         "- Examining chromosomal counts during preimplantation genetic testing to look for abnormalities (PGT-A)",
@@ -1263,7 +1257,7 @@
                     ]
                 },
                 {
-                    "sub_title": "Aneuploidy tests before implantation (PGT-A)",
+                    "sub-title": "Aneuploidy tests before implantation (PGT-A)",
                     "desc": [
                         "In PGT-A, the chromosome count of embryonic cells is examined to see if it is normal. An uneven division of either sperm or egg cells can result in an embryo having either too few or too many chromosomes.",
                         "People typically have 46 chromosomes since each parent contributes 23 chromosomes to each child. An embryo or cell is said to be aneuploid if it has an additional chromosome or if one is missing altogether. When one chromosome is absent, the condition is known as monosomy; when one chromosome has two copies, it is known as trisomy.",
@@ -1369,7 +1363,7 @@
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Why Is It Performed? ",
+                            "title": "Why Is It Performed?",
                             "fdesc": [
                                 "Pregnancy rates are greater after blastocyst-stage embryo transfer on the fifth day. There are potentially two plausible explanations for this:",
                                 "In the beginning, transferring the blastocyst to the uterus may be more medically suitable because it closely mimics nature, increasing the likelihood that the embryo will implant.",
@@ -1563,19 +1557,1785 @@
                         {
                             "title": "Do you do residential work?",
                             "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Recurrent Miscarriage",
+            "treatment_desc": [
+                "Many women have a miscarriage at one time or another. Miscarriages can happen for many reasons. Having a miscarriage doesn’t mean a woman will have another miscarriage if she tries again. But some women suffer more than one miscarriage. This is called recurrent pregnancy loss (RPL). Women and families often grieve these losses deeply. Women may also worry that they are sick or did something to cause the losses. RPL, however, is often a natural process. Less than half of recurrent miscarriages have an obvious or treatable cause. Almost two-thirds of women with RPL will eventually have a healthy pregnancy — often without any extra treatment. If you have suffered two or more miscarriages, you should talk with your health-care provider. Often, women decide to continue trying to get pregnant naturally. However, in certain situations, your doctor might suggest treatments to help reduce your risk for miscarriage."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Surgery",
+                    "desc": [
+                        "Surgery can fix some problems in the uterus (womb), like extra tissue that divides the uterus (septum), some fibroids (benign tumors), or scar tissue. Correcting the shape of the inside of the uterus can often lower the chance for miscarriage. The surgeon uses a tool with a camera (hysteroscope) passed through the vagina to repair the inside of the uterus. This is usually a 1-day procedure and recovery time is a few days to a week."
+                    ]
+                },
+                {
+                    "sub-title": "Blood-thinning medicines:",
+                    "desc": [
+                        "Women with autoimmune or clotting (thrombophilia) problems may be treated with low-dose aspirin and heparin. These medicines can be taken during pregnancy to lower the risk of miscarriage. You should talk to a healthcare provider before using these medicines because they increase the chances of serious bleeding problems (such as stomach ulcers)."
+                    ]
+                },
+                {
+                    "sub-title": "Correcting other medical problems",
+                    "desc": [
+                        "Recurrent pregnancy loss may be related to some medical problems. These include abnormal blood sugar levels, an over- or underactive thyroid gland, or high levels of the hormone prolactin. Treating medical conditions such as diabetes, thyroid dysfunction, or high prolactin levels can improve the chances of having a healthy, full-term pregnancy. Genetic screening In about 5% of couples with RPL, one of the parents has a rearrangement (translocation) of their chromosomes. If one parent has a translocation, this can cause foetuses with chromosome imbalances that are more likely to miscarry. The parents’ blood can be studied (karyotyped) to see if they have a translocation. If a chromosomal problem is found, the doctor might recommend"
+                    ]
+                },
+                {
+                    "sub-title": "Genetic Screening:",
+                    "desc": [
+                        "While many couples with translocations eventually conceive a healthy pregnancy naturally, your doctor might suggest fertility treatments, such as in vitro fertilisation (IVF). During IVF, eggs and sperm are mixed outside of the body in a laboratory. After IVF, before the embryos are returned to the uterus, they can be tested (preimplantation genetic screening). This allows embryos without translocations to be chosen to increase the chance of a healthy pregnancy."
+                    ]
+                },
+                {
+                    "sub-title": "Lifestyle Choices",
+                    "desc": [
+                        "In general, whatever is healthy for a woman improves the chance of a healthy pregnancy. Stopping cigarette smoking and stopping illicit drug use (such as cocaine) will lower the risk for miscarriage. Limiting alcohol and caffeine intake may also help. Being overweight has been linked with increased risk of miscarriage, so healthy weight loss might also help pregnancy outcomes. There is no proof that stress, anxiety, or mild depression causes RPL. However, these are important problems that go along with RPL. Psychological support and counseling can help couples cope with the emotional pain of miscarriage and create a healthy environment for a pregnancy."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Polycystic Ovary Syndrome",
+            "treatment_desc": [
+                "Hormones are impacted by the prevalent illness known as polycystic ovarian syndrome (PCOS). It results in infertility, excessive hair growth, acne, and irregular menstrual cycles. Whether or not you want to get pregnant will affect your PCOS treatment. PCOS sufferers may be more susceptible to diseases like diabetes and high blood pressure."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "A typical ovarian and an ovary from a person with PCOS are contrasted. What is polycystic ovarian syndrome?",
+                    "desc": [
+                        "The condition known as polycystic ovarian syndrome (PCOS) is brought on by an excess of male hormones produced by the ovaries, which is the organ responsible for producing and releasing eggs. Your ovaries produce exceptionally high levels of androgens if you have PCOS.",
+                        "Your reproductive hormones fall out of balance as a result. People with PCOS frequently experience irregular menstrual cycles, missed periods, and unexpected ovulation as a result. Due to a lack of ovulation, small cysts (fluid-filled sacs) may form on your ovaries (anovulation). Nevertheless, despite the moniker \"polycystic,\" PCOS does not require ovarian cysts.",
+                        "One of the most prevalent factors in female infertility is PCOS. It may also raise your risk of developing additional medical problems. Based on your symptoms and whether you intend to have children, your doctor can choose the best course of treatment for PCOS."
+                    ]
+                },
+                {
+                    "sub-title": "Who may develop PCOS?",
+                    "desc": [
+                        "After puberty, a woman can develop PCOS at any time. When a person is attempting to get pregnant in their 20s or 30s, they are typically diagnosed. If you are obese or overweight, have a family history of PCOS, or are overweight, your risk of developing the condition may be increased."
+                    ]
+                },
+                {
+                    "sub-title": "How widespread is PCOS?",
+                    "desc": [
+                        "Up to 15% of women of reproductive age have PCOS, making it a highly common condition."
+                    ]
+                },
+                {
+                    "sub-title": "What causes polycystic ovarian syndrome primarily?",
+                    "desc": [
+                        "There is no recognised cause for PCOS. There is proof that genetics are involved. The following other factors may also contribute to PCOS:",
+                        "higher concentrations of androgens, the male hormones: Ovulation is prevented by high amounts of testosterone, which results in irregular menstrual cycles. Small, fluid-filled sacs can also form in the ovaries as a result of irregular ovulation. Acne and excessive hair growth are further effects of high androgen in women.",
+                        "Insulin resistance: The ovaries produce and release male hormone as a result of elevated insulin levels (androgens). Increased levels of male hormone subsequently prevent ovulation and worsen other PCOS symptoms. Your body uses glucose (sugar) for energy with the aid of insulin. Because of improper insulin processing, which results in insulin resistance, your blood glucose levels are elevated. Although not all people with insulin resistance have diabetes or high blood sugar, insulin resistance can cause diabetes. Insulin resistance can also be exacerbated by being obese. Even if your blood glucose is normal, a high insulin level may be a sign of insulin resistance.",
+                        "Low-grade inflammation: PCOS sufferers frequently have low-grade inflammation. C-reactive protein (CRP) and white blood cell measurements can be done through blood tests by your doctor to determine how much inflammation is present in your body."
+                    ]
+                },
+                {
+                    "sub-title": "How does polycystic ovarian syndrome manifest?",
+                    "desc": [
+                        "PCOS's most typical signs and symptoms include:",
+                        "Regular intervals: ",
+                        "Missing periods or not having any periods at all are signs of abnormal menstruation. It could also result in significant bleeding during period",
+                        "Atypical hair growth:",
+                        "significant hair development on the arms, chest, and abdomen as well as excessive facial hair (hirsutism). Up to 70% of women with PCOS are impacted by this.",
+                        "Acne:",
+                        "Acne can be brought on by PCOS, particularly on the back, chest, and face. Acne may persist throughout the teen years and be challenging to treat.",
+                        "Overweight: ",
+                        "Approximately 80% of women with PCOS are overweight or obese and struggle with weight loss.",
+                        "Skin tannification: ",
+                        "Patches of black skin, particularly in the breasts, groyne, armpits, and creases of your neck. Acanthosis nigricans is the term for this.",
+                        "Cysts",
+                        "Small pockets of fluid are prevalent in the ovaries of PCOS patients.",
+                        "Skin identifiers:",
+                        "Skin tags are tiny skin flaps that protrude. In PCOS-afflicted women, they are frequently located on the neck or in the armpits.",
+                        "Hair thinning: ",
+                        "People who have PCOS may begin to bald or experience patches of hair loss on their heads.",
+                        "Infertility:",
+                        "The most frequent reason for female infertility is PCOS. Lack of ovulation or decreased ovulation frequency can prevent conception."
+                    ]
+                },
+                {
+                    "sub-title": "Can PCOS exist without any symptoms in me?",
+                    "desc": [
+                        "Yes, PCOS can exist without any obvious symptoms. Many individuals don't even recognise they have the illness until they experience difficulties getting pregnant or start accumulating weight for unexplained reasons. It's also possible to have moderate PCOS, in which case your symptoms would go unnoticed."
+                    ]
+                },
+                {
+                    "sub-title": "The diagnosis of polycystic ovarian syndrome is how?",
+                    "desc": [
+                        "The majority of the time, a physical examination is all that is required to determine PCOS. To assist with the diagnosis, they could do an ultrasound or order blood tests.",
+                        "Your medical professional will:",
+                        "Discuss your symptoms and medical background with you.",
+                        "Inquire about the medical history of your family.",
+                        "Consider your blood pressure and weight.",
+                        "Examine yourself physically, paying close attention to any skin tags, hair loss, acne, or abundant facial hair.",
+                        "To check for enlarged ovaries or other growths in your uterus, perform a pelvic exam.",
+                        "Request blood tests to examine your glucose and hormone levels.",
+                        "Use a pelvic ultrasound to assess the thickness of your uterus' lining and look for cysts in your ovaries.",
+                        "Typically, PCOS is diagnosed if at least two of the following are present:",
+                        "missing or irregular periods When they do get their period, some people with PCOS bleed a lot.",
+                        "acne or excessive hair growth are symptoms of too much androgen. Or, a blood test demonstrating elevated amounts of androgen.",
+                        "one or both ovaries with cysts. Cysts do not develop in many persons."
+                    ]
+                },
+                {
+                    "sub-title": "The way that polycystic ovarian syndrome is handled?",
+                    "desc": [
+                        "Based on your symptoms, medical history, other health concerns, and whether you wish to get pregnant, your healthcare professional will decide on the best course of action. Medication, lifestyle modifications, or a mix of the two may be used as treatments. Treatment options if you don't want to get pregnant include:",
+                        "Hormonal birth control methods include oral pills, vaginal rings, patches, shots, and intrauterine devices (IUD). Hormonal birth control aids in acne improvement, excess hair growth reduction, and menstrual cycle regulation.",
+                        "Drugs that make insulin more sensitive: The medication metformin is used to treat diabetes. It functions by aiding insulin metabolism in your body. Some PCOS sufferers experience improvements in their menstrual cycles once insulin is under control.",
+                        "Drugs that block androgens: Some medications can prevent androgens from working. This aids in reducing acne or hair development brought on by PCOS. Find out if they are a good fit for you by speaking with your healthcare physician.",
+                        "alterations in way of life Having a balanced diet and losing weight can help lower insulin levels.",
+                        "Treatment for PCOS involves the following if you wish to get pregnant now or in the future:",
+                        "Drugs that cause ovulation, or the release of an egg: The first stage of a healthy pregnancy is ovulation. It has been demonstrated that several medications can cause ovulation in PCOS women. While gonadotropins are administered intravenously, the medicines clomiphene and letrozole must be taken orally.",
+                        "Surgery: By eliminating structures in the ovaries that are releasing androgen hormones, ovarian drilling surgery can cause ovulation to occur. Surgeons now infrequently conduct this operation due to the availability of newer drugs.",
+                        "With in vitro fertilisation (IVF), your partner's sperm fertilises your egg in a laboratory before being transported to your uterus. When taking medicine doesn't help with ovulation, PCOS women have this option."
+                    ]
+                },
+                {
+                    "sub-title": "Can PCOS or its effects be avoided?",
+                    "desc": [
+                        "Although there is no known way to stop PCOS, you can take simple measures to lessen your symptoms. For instance, eating healthily, working out frequently, and maintaining a healthy weight can all help you prevent the consequences of PCOS."
+                    ]
+                },
+                {
+                    "sub-title": "Is there ever a cure for polycystic ovarian syndrome?",
+                    "desc": [
+                        "Your PCOS may go away as a result of the hormone changes brought on by menopause, but not always. Sometimes a hormonal imbalance persists into menopause, so while you get older, your imbalance does not. Speak with your healthcare practitioner if your symptoms disturb you or reduce your quality of life so they can make treatment recommendations.",
+                        "Does PCOS increase my risk of developing other medical conditions? There is evidence that having PCOS increases your chance of developing a number of illnesses, including:",
+                        "Diabetes: Disease of the cardiovascular system. Hyperplasia of the endometrium. ",
+                        "Endometrial cancer, Various sleep disorders, including sleep apnea. both depression and anxiety. To be sure you comprehend the risks of acquiring these disorders, speak with your healthcare professional."
+                    ]
+                },
+                {
+                    "sub-title": "How can I manage my PCOS symptoms?",
+                    "desc": [
+                        "Losing weight through a healthy diet and consistent exercise is one of the greatest strategies to manage PCOS. Even a slight weight loss can have an impact on hormone levels, regulate your menstrual cycle, and lessen discomfort.",
+                        "Finally, remember that you are not alone if you have PCOS and are trying to get pregnant. With your cooperation, your doctor will assist you in getting pregnant. You can effectively control PCOS by eating well and reducing your stress levels."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Does polycystic ovary syndrome run in families?",
+                            "fdesc": [
+                                "The reasons of PCOS are still the subject of extensive research. Evidence suggests that PCOS has a genetic or inherited component, nevertheless."
                             ]
                         },
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Can someone with PCOS become pregnant?",
                             "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "If you have PCOS, you can still become pregnant. PCOS can make it difficult to get pregnant and raise your risk for some pregnancy issues. Together with you, your healthcare physician will create a treatment strategy to assist you in ovulating. You could use medicine or assisted reproductive methods like IVF as part of your treatment plan (In Vitro Fertilization).",
+                                "To make sure you comprehend your treatment plan and how to improve your chances of a safe and successful pregnancy, speak with your healthcare practitioner."
                             ]
                         },
                         {
+                            "title": "What hormones are impacted by PCOS?",
+                            "fdesc": [
+                                "A hormonal imbalance in women with PCOS causes disruptions in the menstrual cycle, ovulation, and maybe pregnancy. The balance of these hormones, which form a complicated web, is crucial for the female reproductive system to work properly. The following hormones are involved in PCOS:",
+                                "Androgens (such testosterone and androstenedione) (like testosterone and androstenedione).",
+                                " Vitamin D hormone (LH).",
+                                " FSH stands for folicle-stimulating hormone.",
+                                " Estroge Progesterone.",
+                                "Insulin."
+                            ]
+                        },
+                        {
+                            "title": "What distinguishes PCOS from endometriosis?",
+                            "fdesc": [
+                                "Despite being distinct diseases, ovarian cysts and infertility are associated with both PCOS and endometriosis. When you have endometriosis, the lining of your uterus (endometrium) begins to grow in other locations, such as your ovaries, vagina, or fallopian tubes. Usually, it results in severe menstrual cramps or pelvic pain. Due to an excess of male hormones, women with PCOS experience irregular periods, unexpected ovulation, and other physical side effects.",
+                                "Infertility is frequently brought on by PCOS, which has been related to other illnesses. If you think you might have PCOS, discuss your symptoms with your doctor. You can control the symptoms, reduce your risk of developing additional health concerns, and get pregnant with the support of lifestyle modifications and medication therapies."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Fertility and fibroids",
+            "treatment_desc": [
+                "In the uterus, fibroids are benign (noncancerous) tumors of muscle tissue. They are also known as myomas or leiomyomas. The formation of fibroids occurs when a single muscle cell in the wall of the uterus multiplies and grows to form a noncancerous tumor. It is possible for fibroids to change the shape or size of the uterus, as well as the lower part of the uterus called the cervix. The majority of women have more than one fibroid tumor, but single fibroids are also possible. Fibroids may cause symptoms or require treatment depending on their location, size, and number.",
+                "In most cases, fibroids occur in or around the uterus, but they can also occur in the cervix. Fibroids can be classified into three types, depending on where they occur:",
+                "●There are 55 percent of subserosal cells in the outer wall of the uterus",
+                "●The intraamural layer of the uterine wall (40%) contains these cells",
+                "●Protrusions of the submucosa into the uterine cavity (5%)",
+                "Also, fibroids can be attached to nearby ligaments or organs, such as the bladder and bowel, by a stalk (pedunculated). Outside the pelvis, fibroids are rare."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Also, fibroids can be attached to nearby ligaments or organs, such as the bladder and bowel, by a stalk (pedunculated). Outside the pelvis, fibroids are rare.",
+                    "desc": [
+                        "Approximately 20% of women of reproductive age have fibroids, but African-American women are more likely to have them (50% to 80%). Fibroids are unclear in their exact cause, but there is evidence that they may be caused by a combination of genetic, hormonal, and environmental factors."
+                    ]
+                },
+                {
+                    "sub-title": "Is it possible for fibroids to decrease fertility?",
+                    "desc": [
+                        "Fibroids occur in approximately 5% - 10% of infertile women. Fertility is affected by fibroids based on their size and location. Submucosal fibroids and large fibroids (greater than 6 cm in diameter) inside the uterus' wall are examples of submucosal fibroids.",
+                        "Fibroids do not usually cause infertility in women. It is important for women with fibroids and their partners to be thoroughly evaluated to determine if there are other problems with fertility before fibroids are treated. It is possible for fibroids to hinder conception if they are not treated by a fertility specialist."
+                    ]
+                },
+                {
+                    "sub-title": "Fibroids and infertility: How do they relate?",
+                    "desc": [
+                        "Uterine fibroids can reduce fertility in several ways:",
+                        "●Sperm can enter the uterus more easily if the shape of the cervix changes.",
+                        "●It is possible for changes in the shape of the uterus to interfere with the movement of the sperm or embryo.",
+                        "●It is possible for fibroids to block fallopian tubes.",
+                        "●They can damage uterine linings.",
+                        "●During pregnancy, there can be a reduction in blood flow to the uterus. This may make it difficult for embryos to stick to the uterine wall (implant) or develop properly."
+                    ]
+                },
+                {
+                    "sub-title": "During pregnancy, what happens to fibroids?",
+                    "desc": [
+                        "It is estimated that 2% to 12% of pregnant women have fibroids, but not all fibroids become large or cause problems during pregnancy. Fibroids usually grow during the first 12 weeks of pregnancy."
+                    ]
+                },
+                {
+                    "sub-title": "Pregnancy and fibroids: what can happen?",
+                    "desc": [
+                        "The biggest concern in pregnancy is whether the fibroid will increase the chances of preterm birth or miscarriage. Fibroids can cause severe pain if their blood supply outgrows. There is a possibility of hospitalisation. In addition, fibroids can change the position of the baby in the uterus. This increases the risk of miscarriage, preterm delivery, and cesarean section. Fibroid management depends on your unique situation and the recommendations of your doctor. During pregnancy, surgery is rarely necessary or performed.",
+                        "An obstetrician who will deliver the baby should be informed if a woman conceives after having a fibroid removed. It may be necessary to perform a caesarean section."
+                    ]
+                },
+                {
+                    "sub-title": "A brief summary",
+                    "desc": [
+                        "Fertility can be affected in many ways by uterine fibroids. As a result, their effects can affect the chance of sperm and egg meeting, the chance of an embryo implanting, the chance of a pregnancy continuing, as well as the baby's growth and positioning.",
+                        "Case-by-case treatment decisions are made. It may improve overall fertility based on the symptoms of fibroids. The extent of your symptoms and the recommendation of your doctor will determine how and whether you treat your fibroids."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "",
+                            "fdesc": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Endometriosis and Adenomyosis",
+            "treatment_desc": [
+                "In endometriosis, tissue similar to the uterine lining grows outside the uterus. It is possible for these growths to damage surrounding reproductive organs, affecting fertility as the condition progresses.",
+                "Endometrium is a type of tissue that lines the inside of the uterus. Before ovulation, the lining is at its thickest, and it gets thicker throughout each month.",
+                "Endometriosis is characterized by abnormal tissue that grows outside the uterus. Menstruation causes it to swell and bleed into areas that shouldn't be bleed. It thickens before ovulation.",
+                "An individual may have difficulty getting pregnant if this swollen tissue blocks their fallopian tubes or grows into their ovaries. Find out more about endometriosis and infertility, how to treat the condition, and fertility treatment options."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Endometriosis and infertility: what you need to know ",
+                    "desc": [
+                        "●Is it a cause of infertility?",
+                        "●Fertility and type",
+                        "●Treatments for infertility"
+                    ]
+                },
+                {
+                    "sub-title": "Is endometriosis a cause of infertility?",
+                    "desc": [
+                        "Infertility is not necessarily caused by endometriosis, but it can be reduced by it It doesn't mean people with endometriosis can't become pregnant - it just means it may be more difficult for them.",
+                        "Women make up about half of the population, according to experts ",
+                        "Endometriosis is also associated with infertility. ",
+                        "Endometriosis is a progressive condition, meaning it can gradually worsen over time. As endometriosis patches grow in the pelvic and abdominal areas, they can block the reproductive organs. As a result, sperm have a harder time reaching the egg.",
+                        "It is also possible for these growths to damage the reproductive organs, preventing them from functioning properly.",
+                        "Endometriosis can also affect fertility by",
+                        "● Preventing the implanting of an embryo  ",
+                        "● Scarring of the fallopian tubes ",
+                        "● Affecting the growth of eggs ",
+                        "● Inducing hormonal imbalances",
+                        "● Chronic pelvic inflammation  "
+                    ]
+                },
+                {
+                    "sub-title": "Types of endometriosis and fertility",
+                    "desc": [
+                        "There are three main types",
+                        "There are three types of endometriosis: superficial peritoneal, endometriomas, and deep infiltrating. A person's body is classified according to the location of the endometriosis patches.",
+                        "A person can have one or multiple types. Additionally, medical professionals divide endometriosis into stages. They range from I–IV, with stage I being the least severe and stage IV the most severe."
+                    ]
+                },
+                {
+                    "sub-title": "Superficial peritoneal",
+                    "desc": [
+                        "The peritoneum is a thin film lining the abdomen. When a person has a peritoneal lesion, they may have growths or cysts in the peritoneum.",
+                        "Doctors usually class superficial peritoneal lesions as stage I or II endometriosis. Despite superficial peritoneal lesion being the least severe form of endometriosis, some people may find conceiving difficult."
+                    ]
+                },
+                {
+                    "sub-title": "Endometriomas",
+                    "desc": [
+                        "Endometriomas are cysts that grow on the surface of or inside the ovaries. They are dark, fluid-filled sacs that doctors sometimes refer to as chocolate cysts.",
+                        "When a person has endometrioma, they usually have stage III or IV Trusted Source",
+                        "endometriosis. This means they may begin developing scar tissue on the fallopian tubes and ovaries.",
+                        "Endometriomas can greatly impact a person’s fertility due to their damaging effect on ovarian tissue, which may lead to ovulation issues."
+                    ]
+                },
+                {
+                    "sub-title": "Deeply infiltrating",
+                    "desc": [
+                        "In deeply infiltrating endometriosis, endometrial-like tissue grows on organs near the uterus, such as the vagina, bladder, and bowel. It is the most severe form of the condition.",
+                        "Doctors usually classify deeply infiltrating endometriosis as stage IV because a person has growths or lesions that extend 5mm below Trusted Source the peritoneum.",
+                        "In addition to endometriomas, a person with stage IV endometriosis may have extensive scarring in the ovaries, uterus, and rectum.",
+                        "If a person has already undergone previous cyst removal surgeries, they may have also lost a significant number of eggs.",
+                        "It is important to note that while a person may no longer be able to conceive naturally at this stage, they may become pregnant with IVF treatment."
+                    ]
+                },
+                {
+                    "sub-title": "The endometriosis fertility index",
+                    "desc": [
+                        "If a person with endometriosis wants to conceive, a doctor may evaluate their condition using the endometriosis fertility index (EFI).",
+                        "The EFI is a 10-point scale that can tell a doctor how likely a person is to get pregnant without medical intervention. The scale considers factors including Trusted Source",
+                        "● Age",
+                        "● Endometriosis stage",
+                        "● Least function score (measures fallopian tube and ovarian function)",
+                        "● Length of infertility",
+                        "● Medical history",
+                        "● Prior pregnancies",
+                        "A person’s score can predict their likelihood of getting pregnant, and it can help individuals and doctors make the best decisions for their fertility.",
+                        "Although recommendations vary from person to person, a 2021 study Trusted Source concluded that people with scores of 5 or higher might be able to try conceiving naturally for 24 months before medical intervention. The authors said that those with scores of 4 or lower should be referred for artificial reproductive treatments more quickly."
+                    ]
+                },
+                {
+                    "sub-title": "Endometriosis fertility treatment options",
+                    "desc": [
+                        "If you have not become pregnant after trying for 6–12 months with endometriosis, there are several treatment options available.",
+                        "Depending on the type and stage of endometriosis, a doctor will recommend a treatment."
+                    ]
+                },
+                {
+                    "sub-title": "Stages I-II treatments",
+                    "desc": [
+                        "An individual with early endometriosis might be able to get pregnant without medical assistance.",
+                        "A doctor may perform an IVF procedure if a woman has difficulty conceiving Trusted Source a laparoscopy.",
+                        "This is a simple procedure where a medical professional inserts a camera through a small incision in the stomach. A doctor can use this to assess how many lesions a person has and surgically remove them if necessary.",
+                        "Although laparoscopy is a simple surgery, it comes with some risks. If a doctor removes lesions from an ovary, they can decrease the number of eggs a person has.",
+                        "For people who are 35 or older, doctors may recommend a combination of the drug clomiphene with intrauterine insemination (IUI) instead of surgery.",
+                        "During this treatment, a person takes clomiphene citrate to trigger ovulation. When they are ovulating, a doctor will place sperm into the uterus with a thin tube.",
+                        "If this treatment is unsuccessful, a doctor may suggest injectable fertility medications or IVF."
+                    ]
+                },
+                {
+                    "sub-title": "Treatments for stages III–IV",
+                    "desc": [
+                        "In the later stages of endometriosis, a doctor will likely recommend IVF. ",
+                        "This treatment requires a person to inject fertility medication that promotes egg growth. Once a person has enough eggs, a doctor harvests them. After selecting the best eggs, they fertilize each with sperm to create embryos.",
+                        "The doctor then implants embryos into the uterus. "
+                    ]
+                },
+                {
+                    "sub-title": "Support for endometriosis and infertility",
+                    "desc": [
+                        "Endometriosis is a painful, progressive condition that can be difficult to cope with. People struggling to get pregnant with the condition may feel isolated and discouraged, especially if they have been trying for a number of years without success.",
+                        "If someone needs additional resources, be it support groups or advice, they can try:",
+                        "● Endometriosis Association (EA) ",
+                        "● Endometriosis Foundation of America ",
+                        "● The InterNational Council on Infertility Information Dissemination (INCIID)",
+                        "● RESOLVE "
+                    ]
+                },
+                {
+                    "sub-title": "Summary",
+                    "desc": [
+                        "Endometriosis is a condition where endometrial-like tissue grows outside the uterus. It can impact a person’s fertility, making it harder to get pregnant.",
+                        "People in the early stages of the disease may be able to conceive without medical assistance, but they are likely to need medication, IUI, or IVF in the later stages.",
+                        "Living with endometriosis can be difficult, and support groups and resources can help those who are struggling."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "ICSI",
+            "treatment_desc": [
+                "Intracytoplasmic Sperm Injection (ICSI) is a type of assisted reproductive technology (ART) used to treat infertility. It involves the injection of a single sperm directly into the cytoplasm of an egg to fertilize it."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "ICSI Used for?",
+                    "desc": [
+                        "ICSI is used for various reasons including low sperm count, poor sperm quality, or for couples who have failed to conceive with traditional in vitro fertilization (IVF)."
+                    ]
+                },
+                {
+                    "sub-title": "Process",
+                    "desc": [
+                        "The process begi/ns with stimulating the growth of multiple eggs in a woman's ovaries through the use of fertility drugs. The eggs are then removed through a minor surgical procedure called follicular aspiration.",
+                        "The sperm sample is prepared, and a single sperm is selected and injected into each mature egg using a microscopic needle. The fertilized eggs are then cultured in a laboratory for several days and monitored for proper development.",
+                        "If the embryos reach a certain stage of development, they are then transferred into the woman's uterus with the goal of implantation and pregnancy."
+                    ]
+                },
+                {
+                    "sub-title": "Summary",
+                    "desc": [
+                        "Overall, ICSI is a highly effective treatment for infertility and has helped many couples achieve their goal of starting a family. However, as with any medical procedure, there are potential risks and side effects, which should be discussed with a fertility specialist."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What is the success rate of ICSI?",
+                            "fdesc": [
+                                "The success rate of ICSI varies depending on a variety of factors such as the woman's age, the cause of infertility, and the quality of the sperm and eggs. On average, the success rate of ICSI is around 40-50%."
+                            ]
+                        },
+                        {
+                            "title": "Who is a candidate for ICSI?",
+                            "fdesc": [
+                                "Couples who have failed to conceive with traditional in vitro fertilization (IVF) or have issues with sperm quality or quantity may be candidates for ICSI."
+                            ]
+                        },
+                        {
+                            "title": "Are there any risks or side effects associated with ICSI?",
+                            "fdesc": [
+                                "As with any medical procedure, there are potential risks and side effects associated with ICSI. Some common side effects include ovarian hyperstimulation syndrome (OHSS), multiple pregnancies, and a small risk of birth defects."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "PGT",
+            "treatment_desc": [
+                "Preimplantation Genetic Testing (PGT) is a type of genetic screening used during assisted reproductive technology (ART) treatments such as in vitro fertilization (IVF). It is performed on embryos before they are implanted into the uterus to detect any genetic or chromosomal abnormalities."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Types of PGT",
+                    "desc": [
+                        "There are two main types of PGT: PGT-A (for aneuploidy) and PGT-M (for monogenic/single gene disorders). PGT-A screens for chromosomes that are missing or have extra copies, while PGT-M screens for specific genetic disorders such as cystic fibrosis or sickle cell anemia."
+                    ]
+                },
+                {
+                    "sub-title": "Process",
+                    "desc": [
+                        "The process of PGT involves removing one or two cells from an eight-cell embryo, which is then tested for any genetic abnormalities. The results of the test can then be used to determine the best embryos to transfer for maximum chances of a successful pregnancy."
+                    ]
+                },
+                {
+                    "sub-title": "Benefits",
+                    "desc": [
+                        "PGT can increase the chances of having a healthy baby, reduce the risk of miscarriage, and minimize the chance of passing on genetic disorders to the child. It is particularly useful for older women or couples with a history of genetic disorders."
+                    ]
+                },
+                {
+                    "sub-title": "Summary",
+                    "desc": [
+                        "Overall, PGT is a valuable tool in the field of reproductive medicine and can greatly enhance the success of ART treatments. However, it is important to discuss the potential benefits and risks of PGT with a fertility specialist before making a decision."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What is PGT and how does it work?",
+                            "fdesc": [
+                                "Preimplantation Genetic Testing (PGT) is a type of genetic screening performed during assisted reproductive technology (ART) treatments such as in vitro fertilization (IVF). It is used to detect any genetic or chromosomal abnormalities in embryos before they are implanted into the uterus."
+                            ]
+                        },
+                        {
+                            "title": "Who is a candidate for PGT?",
+                            "fdesc": [
+                                "PGT is recommended for couples who have a history of genetic disorders, older women, or those who have experienced recurrent miscarriages. It can increase the chances of having a healthy baby, reduce the risk of miscarriage, and minimize the chance of passing on genetic disorders to the child."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Ovarion PRP",
+            "treatment_desc": [
+                "Ovarian PRP (Platelet-Rich Plasma) Treatment is a cutting-edge procedure used to promote fertility and improve egg quality in women. It is a minimally invasive procedure that uses a woman's own blood plasma to stimulate the growth of new blood vessels and promote healing in the ovaries."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Process",
+                    "desc": [
+                        "The process involves drawing a small sample of the woman's blood, which is then processed to isolate the platelets and growth factors. This platelet-rich plasma is then injected into the ovaries, where it promotes the growth of new blood vessels and the release of growth factors, leading to improved egg quality and increased fertility."
+                    ]
+                },
+                {
+                    "sub-title": "Side Effects",
+                    "desc": [
+                        "Ovarian PRP treatment is often used in combination with other fertility treatments such as in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI) to enhance their effectiveness. It is a safe and effective procedure with minimal risks or side effects."
+                    ]
+                },
+                {
+                    "sub-title": "Summary",
+                    "desc": [
+                        "Overall, Ovarian PRP treatment is a promising option for women who are struggling with infertility or wish to improve their egg quality. It is important to discuss the potential benefits and risks of this procedure with a fertility specialist before making a decision. With the right combination of treatments and support, many women are able to achieve their goal of starting a family."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Is Ovation PRP safe?",
+                            "fdesc": [
+                                "Ovation PRP is considered a safe and effective treatment for hair loss. The procedure uses a patient's own blood, so there is no risk of rejection or reaction. The treatment has been used for many years in various medical fields and has a proven track record of safety and effectiveness."
+                            ]
+                        },
+                        {
+                            "title": "How many Ovation PRP treatments are needed for optimal results?",
+                            "fdesc": [
+                                "The number of Ovation PRP treatments needed for optimal results can vary from patient to patient. Typically, a series of 3-5 treatments are recommended, with each treatment spaced 4-6 weeks apart. After the initial series of treatments, maintenance treatments may be needed every 6-12 months to maintain the results. The exact number of treatments needed will depend on the individual's specific hair loss condition and their desired results.Regenerate response"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Endometrial PRP",
+            "treatment_desc": [
+                "Endometrial PRP (Platelet-Rich Plasma) Treatment is a cutting-edge, non-surgical procedure that uses the patient's own blood plasma to promote healing and rejuvenation in the endometrium, the inner lining of the uterus. The treatment involves a simple blood draw and centrifugation process to isolate and concentrate the growth factors in the plasma, which is then re-injected into the endometrial tissue."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Procedure",
+                    "desc": [
+                        "This procedure has been shown to provide a number of benefits for women experiencing menstrual problems, fertility issues, and endometrial damage. By delivering high concentrations of growth factors and nutrients directly to the endometrial tissue, Endometrial PRP Treatment can stimulate the growth of new blood vessels, increase blood flow, and promote the growth of healthy endometrial cells.",
+                        "The treatment is minimally invasive, with no incisions or scarring, and can be performed in a doctor's office with little to no downtime for the patient. Additionally, because the treatment uses the patient's own blood, there is no risk of allergic reactions or disease transmission."
+                    ]
+                },
+                {
+                    "sub-title": "Summary",
+                    "desc": [
+                        "If you're looking for a safe and effective way to improve your endometrial health and address menstrual or fertility problems, Endometrial PRP Treatment may be right for you. Consult with your doctor to determine if this innovative treatment can help you achieve your desired outcomes."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "How is Endometrial PRP performed?",
+                            "fdesc": [
+                                "Endometrial PRP is performed by drawing a small sample of the patient's blood and then processing it to concentrate the platelets. The concentrated platelets are then inserted into the uterus through a small catheter. The procedure is typically performed in a medical office and takes 30 minutes to an hour."
+                            ]
+                        },
+                        {
+                            "title": "What conditions does Endometrial PRP?",
+                            "fdesc": [
+                                "Endometrial PRP has been used to treat a variety of conditions related to the endometrium, including thin endometrial lining, poor endometrial growth, and repeated implantation failures. The treatment has shown to be effective in promoting endometrial growth and increasing the chances of successful implantation and pregnancy. It is important to note that Endometrial PRP is not a guarantee for pregnancy and the results may vary from patient to patient."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Testicular PRP",
+            "treatment_desc": [
+                "Testicular PRP (Platelet-Rich Plasma) Treatment is a revolutionary, non-surgical procedure that uses the patient's own blood plasma to promote healing and rejuvenation in the testicles. The treatment involves a simple blood draw and centrifugation process to isolate and concentrate the growth factors in the plasma, which is then re-injected into the testicular tissue."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Procedure",
+                    "desc": [
+                        "This procedure has been shown to provide a number of benefits for men experiencing infertility, low testosterone levels, and testicular damage. By delivering high concentrations of growth factors and nutrients directly to the testicular tissue, Testicular PRP Treatment can stimulate the growth of new blood vessels, increase blood flow, and promote the growth of healthy sperm-producing cells.",
+                        "The treatment is minimally invasive, with no incisions or scarring, and can be performed in a doctor's office with little to no downtime for the patient. Additionally, because the treatment uses the patient's own blood, there is no risk of allergic reactions or disease transmission."
+                    ]
+                },
+                {
+                    "sub-title": "Summary",
+                    "desc": [
+                        "If you're looking for a safe and effective way to improve your testicular health and address infertility or low testosterone problems, Testicular PRP Treatment may be right for you. Consult with your doctor to determine if this innovative treatment can help you achieve your desired outcomes."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "How is Testicular PRP performed?",
+                            "fdesc": [
+                                "Testicular PRP is performed by drawing a small sample of the patient's blood and processing it to concentrate the platelets. The concentrated platelets are then injected into the testicles using a fine needle. The procedure is performed in a medical office and typically takes 30 minutes to an hour."
+                            ]
+                        },
+                        {
+                            "title": "What conditions does Testicular PRP treat?",
+                            "fdesc": [
+                                "Testicular PRP has been used to treat a variety of conditions related to the testicles, including low sperm count, poor sperm quality, and testicular atrophy. The treatment has shown to be effective in improving testicular function and increasing sperm count and quality. It is important to note that Testicular PRP is not a guarantee for pregnancy and the results may vary from patient to patient. It is recommended to seek the advice of a medical professional for an evaluation and personalized treatment plan."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "PGT-SR",
+            "treatment_desc": [
+                "PGT-SR (Preimplantation Genetic Screening for Structural Rearrangements) Treatment is a cutting-edge, in-vitro fertilization (IVF) procedure that uses advanced genetic testing to screen embryos for structural rearrangements, which can cause infertility, miscarriage, and genetic disorders. This type of genetic testing is used to identify and select embryos that are free of these structural rearrangements, increasing the chances of successful implantation and pregnancy."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "How Does PGT-SR Work?",
+                    "desc": [
+                        "The process begins with IVF to create embryos. A few days later, a small cell sample is taken from each embryo and analyzed for structural rearrangements. Embryos that are free of these genetic abnormalities are then selected for transfer to the uterus."
+                    ]
+                },
+                {
+                    "sub-title": "What are the Benefits of PGT-SR?",
+                    "desc": [
+                        "PGT-SR has been shown to significantly increase the chances of successful implantation and pregnancy, particularly in couples who have a history of infertility, recurrent miscarriages, or genetic disorders. Additionally, PGT-SR can also help to reduce the risk of having a child with a genetic disorder and can provide peace of mind for couples who are looking to start a family."
+                    ]
+                },
+                {
+                    "sub-title": "Who Should Consider PGT-SR?",
+                    "desc": [
+                        "If you're looking to increase your chances of having a successful pregnancy and a healthy baby, PGT-SR may be right for you. Consult with your fertility specialist to determine if this innovative treatment can help you achieve your desired outcomes."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "How is PGT-SR performed?",
+                            "fdesc": [
+                                "PGT-SR is performed by taking a sample of cells from the blastomeres (cells in the early-stage embryo) and analyzing them for the presence of structural chromosomal rearrangements. This can be done through a variety of methods, including fluorescence in situ hybridization (FISH), comparative genomic hybridization (CGH), and next-generation sequencing (NGS)."
+                            ]
+                        },
+                        {
+                            "title": "What are the benefits of PGT-SR?",
+                            "fdesc": [
+                                "The benefits of PGT-SR include the ability to identify embryos that are likely to lead to a successful pregnancy and reduce the risk of chromosomal disorders in the child. It can also increase the chances of having a healthy baby by selecting only genetically normal embryos for transfer to the uterus. PGT-SR can also help to reduce the number of unsuccessful IVF cycles and minimize the emotional stress associated with repeated failed attempts at pregnancy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "PGT-M",
+            "treatment_desc": ["PGT-M (Preimplantation Genetic Testing for Monogenic/Single Gene Disorders) is a cutting-edge, in-vitro fertilization (IVF) procedure that uses advanced genetic testing to screen embryos for monogenic or single gene disorders."],
+            "sub_data": [
+                {
+                    "sub-title": "How Does PGT-M Work?",
+                    "desc": [
+                        "The process begins with IVF to create embryos. A few days later, a small cell sample is taken from each embryo and analyzed for monogenic or single gene disorders. Embryos that are free of these genetic abnormalities are then selected for transfer to the uterus."
+                    ]
+                },
+                {
+                    "sub-title": "What are the Benefits of PGT-M?",
+                    "desc": [
+                        "PGT-M can help couples who are at risk of passing on a monogenic or single gene disorder to their child to have a healthy pregnancy and baby. This type of genetic testing can also provide peace of mind for couples who are looking to start a family."
+                    ]
+                },
+                {
+                    "sub-title": "Who Should Consider PGT-M?",
+                    "desc": [
+                        "If you or your partner are carriers of a monogenic or single gene disorder, or have a family history of these disorders, PGT-M may be right for you. Consult with your fertility specialist to determine if this innovative treatment can help you achieve your desired outcomes."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "How is PGT-M performed?",
+                            "fdesc": [
+                                "PGT-M is performed by taking a sample of cells from the blastomeres (cells in the early-stage embryo) and analyzing them for the presence of specific mutations or variations in the genes of interest. This can be done through a variety of methods, including polymerase chain reaction (PCR), sequencing, and next-generation sequencing (NGS)."
+                            ]
+                        },
+                        {
+                            "title": "What are the benefits of PGT-M?",
+                            "fdesc": [
+                                "The benefits of PGT-M include the ability to identify embryos that are free of the specific genetic mutations or variations associated with monogenic disorders, increasing the chances of a successful pregnancy and the birth of a healthy baby. PGT-M can also reduce the risk of passing on genetic disorders to the child and minimize the emotional stress associated with the uncertainty of whether a genetic disorder will be present in the child. Additionally, by only transferring genetically normal embryos to the uterus, PGT-M can also help to reduce the number of unsuccessful IVF cycles."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Chromosomal Karyotyping",
+            "treatment_desc": ["Chromosomal Karyotyping is a genetic test that analyzes the number and structure of chromosomes in a cell. It is used to diagnose genetic disorders, such as Down syndrome, and to understand the causes of infertility and miscarriage."],
+            "sub_data": [
+                {
+                    "sub-title": "How Does Chromosomal Karyotyping Work?",
+                    "desc": [
+                        "The test is performed on cells, such as blood or skin cells, which are taken from the patient. The cells are then grown in a laboratory and treated with chemicals that make the chromosomes visible under a microscope. The chromosomes are then photographed and analyzed to identify any abnormalities."
+                    ]
+                },
+                {
+                    "sub-title": "What are the Benefits of Chromosomal Karyotyping?",
+                    "desc": [
+                        "Chromosomal karyotyping can provide important information about the genetic makeup of a patient, including the presence of genetic disorders and the cause of infertility or miscarriage. This information can be used to make informed decisions about treatment and can provide peace of mind for couples who are looking to start a family."
+                    ]
+                },
+                {
+                    "sub-title": "Who Should Consider Chromosomal Karyotyping?",
+                    "desc": [
+                        "If you or your partner have a family history of genetic disorders, have experienced infertility or recurrent miscarriages, or are at increased risk for these conditions, chromosomal karyotyping may be right for you. Consult with your doctor to determine if this test can help diagnose and treat your condition."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "How is Chromosomal Karyotyping performed?",
+                            "fdesc": [
+                                "Chromosomal Karyotyping is performed by taking cells, such as blood or skin cells, from the patient. The cells are then grown in a laboratory and treated with chemicals that make the chromosomes visible under a microscope. The chromosomes are then photographed and analyzed to identify any abnormalities."
+                            ]
+                        },
+                        {
+                            "title": "What are the benefits of Chromosomal Karyotyping?",
+                            "fdesc": [
+                                "The benefits of Chromosomal Karyotyping include the ability to diagnose genetic disorders, understand the cause of infertility and miscarriage, and make informed decisions about treatment. This information can provide peace of mind for couples who are looking to start a family."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Sperm Aneuploidy Screening",
+            "treatment_desc": ["Sperm Aneuploidy Screening (SAS) is a genetic test that analyzes the chromosomes in sperm to determine if they are carrying the correct number of chromosomes. SAS is used to detect chromosomal abnormalities in sperm, which can cause infertility and increase the risk of genetic disorders in offspring."],
+            "sub_data": [
+                {
+                    "sub-title": "How Does SAS Work?",
+                    "desc": [
+                        "SAS involves analyzing a small sample of sperm for chromosomal abnormalities using a technique known as fluorescence in situ hybridization (FISH). FISH uses fluorescent probes to identify specific chromosomes and determine if they are present in the correct number."
+                    ]
+                },
+                {
+                    "sub-title": "What are the Benefits of SAS?",
+                    "desc": [
+                        "SAS can provide important information about the genetic health of sperm and can help identify if chromosomal abnormalities are present, which can cause infertility or increase the risk of genetic disorders in offspring. This information can be used to make informed decisions about treatment and can provide peace of mind for couples who are looking to start a family."
+                    ]
+                },
+                {
+                    "sub-title": "Who Should Consider SAS?",
+                    "desc": [
+                        "If you or your partner are experiencing infertility, or if there is a family history of genetic disorders, SAS may be right for you. Consult with your fertility specialist to determine if this test can help diagnose and treat your condition."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Who should consider sperm aneuploidy screening?",
+                            "fdesc": [
+                                "Sperm aneuploidy screening may be recommended for couples who are planning to have children and have a history of infertility, repeated failed IVF cycles, or a family history of chromosomal disorders. It may also be recommended for couples who are older or have a higher risk of having a baby with a chromosomal disorder due to advanced maternal age."
+                            ]
+                        },
+                        {
+                            "title": "How is sperm aneuploidy screening performed?",
+                            "fdesc": [
+                                "Sperm aneuploidy screening is typically performed by analyzing a sample of sperm for the presence of abnormal chromosomes. This can be done through a variety of methods, including fluorescence in situ hybridization (FISH), comparative genomic hybridization (CGH), and next-generation sequencing (NGS)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Endometrial Microbiota Analysis (Emma/Alice)",
+            "treatment_desc": ["Endometrial Microbiota Analysis is a laboratory test that analyzes the microbiome within the endometrial cavity. This test is used to determine the presence of healthy or harmful bacteria within the endometrial cavity, which can impact fertility and the success of in vitro fertilization (IVF) treatment."],
+            "sub_data": [
+                {
+                    "sub-title": "How Does Endometrial Microbiota Analysis Work?",
+                    "desc": [
+                        "Endometrial Microbiota Analysis is performed by collecting a sample of fluid from the endometrial cavity during a procedure called an endometrial biopsy. The fluid sample is then analyzed in a laboratory to identify the presence and type of bacteria within the endometrial cavity."
+                    ]
+                },
+                {
+                    "sub-title": "What are the Benefits of Endometrial Microbiota Analysis?",
+                    "desc": [
+                        "Endometrial Microbiota Analysis can provide important information about the health of the endometrial cavity, including the presence of harmful bacteria that can impact fertility and the success of IVF treatment. This information can be used to develop personalized treatment plans to optimize fertility outcomes."
+                    ]
+                },
+                {
+                    "sub-title": "Who Should Consider Endometrial Microbiota Analysis?",
+                    "desc": [
+                        "If you or your partner are experiencing infertility, undergoing IVF treatment, or have a history of recurrent pregnancy loss, Endometrial Microbiota Analysis may be right for you. Consult with your fertility specialist to determine if this test can help diagnose and treat your condition."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What is endometrial microbiota analysis?",
+                            "fdesc": [
+                                "A test to assess the microbiome of the endometrium (uterine lining)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Genetic Tests",
+            "treatment_desc": ["Genetic Tests are laboratory tests that analyze an individual's DNA to identify changes or variations that may be associated with genetic disorders, disease, or predisposition to specific conditions. There are many different types of genetic tests available, including carrier testing, prenatal testing, and cancer gene testing."],
+            "sub_data": [
+                {
+                    "sub-title": "How Do Genetic Tests Work?",
+                    "desc": [
+                        "Genetic tests can be performed on a sample of blood, saliva, or other bodily fluid, and the DNA is then analyzed to identify any changes or variations. The results of the test are then interpreted to determine if there is an increased risk for a specific condition or disease."
+                    ]
+                },
+                {
+                    "sub-title": "What are the Benefits of Genetic Tests?",
+                    "desc": [
+                        "The benefits of genetic tests include the ability to identify an individual's risk for certain diseases or conditions, make informed decisions about family planning, and inform treatment and management decisions. Genetic tests can also provide peace of mind and help individuals and families understand their health status and plan for the future."
+                    ]
+                },
+                {
+                    "sub-title": "Who Should Consider Genetic Tests?",
+                    "desc": [
+                        "Anyone can consider genetic testing, but it is particularly recommended for individuals with a family history of a specific genetic disorder, those who are planning to start a family, or those with a personal or family history of cancer. Consulting with a genetic counselor or healthcare provider can help determine if genetic testing is appropriate for you."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "How do I decide whether to be tested?",
+                            "fdesc": [
+                                "There are many reasons that people might get genetic testing. Doctors might suggest a genetic test if patients or their families have certain patterns of disease. Genetic testing is voluntary and the decision about whether to have genetic testing is complex.",
+                                "A geneticist or genetic counselor can help families think about the benefits and limitations of a particular genetic test. Genetic counselors help individuals and families understand the scientific, emotional, and ethical factors surrounding the decision to have genetic testing and how to deal with the results of those tests."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Genetic Disorders",
+            "treatment_desc": ["Genetic Disorders are conditions caused by changes or mutations in an individual's DNA. These changes can impact the function of genes and result in physical, intellectual, or developmental disorders. There are many different types of genetic disorders, including chromosomal abnormalities, single gene disorders, and multifactorial disorders."],
+            "sub_data": [
+                {
+                    "sub-title": "What Causes Genetic Disorders?",
+                    "desc": [
+                        "Genetic Disorders can be caused by changes or mutations in a single gene, multiple genes, or changes in chromosome structure or number. These mutations can be inherited from a parent or occur spontaneously."
+                    ]
+                },
+                {
+                    "sub-title": "How are Genetic Disorders Diagnosed?",
+                    "desc": [
+                        "Genetic Disorders can be diagnosed through a variety of methods, including physical exams, family medical history, and genetic testing. The type of testing used will depend on the specific disorder and the symptoms being experienced."
+                    ]
+                },
+                {
+                    "sub-title": "How are Genetic Disorders Treated?",
+                    "desc": [
+                        "The treatment of genetic disorders will depend on the specific condition and may include medications, surgery, or other therapies. In some cases, there is no cure for a genetic disorder, but treatment can help manage symptoms and improve quality of life."
+                    ]
+                },
+                {
+                    "sub-title": "Who is at Risk for Genetic Disorders?",
+                    "desc": [
+                        "Anyone can be at risk for a genetic disorder, but some individuals may have a higher risk due to a family history of the condition or personal or family history of chromosomal abnormalities. Consulting with a genetic counselor or healthcare provider can help determine an individual's risk for genetic disorders."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "How is genetic information used to treat disease?",
+                            "fdesc": [
+                                "A person's genetic makeup affects how their body breaks down certain medicines. Genetic testing can examine certain liver enzymes in a person to find out how their body breaks down and removes medicines from the body. Because these liver enzymes are less active in some people, they are less able to break down and get rid of some medicines. This can lead to serious side effects. This type of testing is being used to find the right dose of certain medicines, such as antidepressants that are used to treat some mental illnesses."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Ectopic pregnancy",
+            "treatment_desc": [
+                "An ectopic pregnancy is a serious condition in which a fertilized egg implants outside of the uterus, usually in the fallopian tubes. This can cause the pregnancy to grow in the wrong location and can be life-threatening if left untreated."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "What Causes an Ectopic Pregnancy?",
+                    "desc": [
+                        "An ectopic pregnancy can occur due to a variety of factors, including damage to the fallopian tubes, pelvic inflammatory disease, previous tubal surgeries, and the use of assisted reproductive technology."
+                    ]
+                },
+                {
+                    "sub-title": "How is an Ectopic Pregnancy Diagnosed?",
+                    "desc": [
+                        "An ectopic pregnancy can be diagnosed through a combination of symptoms, physical examination, and imaging tests such as an ultrasound or pelvic MRI."
+                    ]
+                },
+                {
+                    "sub-title": "How is an Ectopic Pregnancy Treated?",
+                    "desc": [
+                        "Treatment for an ectopic pregnancy will depend on the size and location of the pregnancy, as well as the overall health of the mother. In some cases, medication may be used to end the pregnancy, while in other cases, surgery may be necessary to remove the pregnancy and repair any damage to the fallopian tubes."
+                    ]
+                }
+                ,
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Who is at Risk for an Ectopic Pregnancy?",
+                            "fdesc": [
+                                "Anyone can be at risk for an ectopic pregnancy, but the risk is higher for women over the age of 35, women who have had a previous ectopic pregnancy, and women with a history of infertility or pelvic inflammatory disease. Women who use assisted reproductive technology may also be at increased risk. It is important to receive prompt medical attention if you suspect you may have an ectopic pregnancy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Ovulation Problems",
+            "treatment_desc": ["Ovulation problems refer to a difficulty or inability to ovulate, or release an egg, during a menstrual cycle. This can impact a woman's ability to conceive and have a successful pregnancy."],
+            "sub_data": [
+                {
+                    "sub-title": "What Causes Ovulation Problems?",
+                    "desc": [
+                        "There are many factors that can contribute to ovulation problems, including hormonal imbalances, thyroid disorders, polycystic ovary syndrome (PCOS), and age-related factors. Certain lifestyle factors, such as stress, weight fluctuations, and certain medications, can also impact ovulation."
+                    ]
+                },
+                {
+                    "sub-title": "How are Ovulation Problems Diagnosed?",
+                    "desc": [
+                        "Ovulation problems can be diagnosed through a combination of a physical examination, medical history review, and laboratory tests, such as hormonal blood tests and ultrasound."
+                    ]
+                },
+                {
+                    "sub-title": "How are Ovulation Problems Treated?",
+                    "desc": [
+                        "Treatment for ovulation problems will depend on the underlying cause of the condition. Hormonal imbalances can be treated with medications such as clomiphene citrate, while lifestyle changes, such as weight loss or stress management, may also help improve ovulation. In some cases, assisted reproductive technologies, such as in vitro fertilization, may be necessary."
+                    ]
+                },
+                
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Who is at Risk for Ovulation Problems?",
+                            "fdesc": [
+                                "Anyone can develop ovulation problems, but the risk is higher for women over the age of 35, women with a history of hormonal imbalances or thyroid disorders, and women with a family history of infertility. Women with PCOS may also be at increased risk. It is important to consult with a healthcare provider if you are experiencing difficulty conceiving or suspect you may have an ovulation problem."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Ovarian Cysts",
+            "treatment_desc": ["Ovarian cysts are fluid-filled sacs that develop within the ovaries. They are a common occurrence and can vary in size and severity."],
+            "sub_data": [
+                {
+                    "sub-title": "What Causes Ovarian Cysts?",
+                    "desc": [
+                        "Ovarian cysts can be caused by a variety of factors, including the normal functioning of the ovaries, hormonal imbalances, endocrine disorders, and pelvic inflammatory disease. Certain medications and fertility treatments can also increase the risk of developing ovarian cysts."
+                    ]
+                },
+                {
+                    "sub-title": "How are Ovarian Cysts Diagnosed?",
+                    "desc": [
+                        "Ovarian cysts can be diagnosed through a physical examination, medical history review, and imaging tests such as an ultrasound or pelvic MRI."
+                    ]
+                },
+                {
+                    "sub-title": "How are Ovarian Cysts Treated?",
+                    "desc": [
+                        "Treatment for ovarian cysts will depend on the size and type of the cyst, as well as the overall health of the woman. In some cases, medication may be used to shrink the cyst, while in other cases, surgery may be necessary to remove the cyst and any damaged tissue."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Who is at Risk for Ovarian Cysts?",
+                            "fdesc": [
+                                "Anyone can develop ovarian cysts, but the risk is higher for women who are approaching menopause, women with a history of hormonal imbalances or endocrine disorders, and women who have a family history of ovarian cysts. Women who use assisted reproductive technologies may also be at increased risk. It is important to consult with a healthcare provider if you suspect you may have an ovarian cyst."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Menstrual disorders",
+            "treatment_desc": ["Menstrual disorders refer to a group of conditions that affect a woman's menstrual cycle, including irregular periods, heavy bleeding, and painful periods."],
+            "sub_data": [
+                {
+                    "sub-title": "What Causes Menstrual Disorders?",
+                    "desc": [
+                        "There are many factors that can contribute to menstrual disorders, including hormonal imbalances, thyroid disorders, endocrine disorders, and pelvic inflammatory disease. Certain lifestyle factors, such as stress, weight fluctuations, and certain medications, can also impact menstrual health."
+                    ]
+                },
+                {
+                    "sub-title": "How are Menstrual Disorders Diagnosed?",
+                    "desc": [
+                        "Menstrual disorders can be diagnosed through a combination of a physical examination, medical history review, and laboratory tests, such as hormonal blood tests and ultrasound."
+                    ]
+                },
+                {
+                    "sub-title": "How are Menstrual Disorders Treated?",
+                    "desc": [
+                        "Treatment for menstrual disorders will depend on the underlying cause of the condition. Hormonal imbalances can be treated with medications such as hormonal birth control, while lifestyle changes, such as weight loss or stress management, may also help improve menstrual health. In some cases, surgery may be necessary to remove any damaged tissue or address any underlying conditions."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Who is at Risk for Menstrual Disorders?",
+                            "fdesc": [
+                                "Anyone can develop menstrual disorders, but the risk is higher for women over the age of 35, women with a history of hormonal imbalances or thyroid disorders, and women with a family history of menstrual disorders. Women who use assisted reproductive technologies may also be at increased risk. It is important to consult with a healthcare provider if you are experiencing menstrual problems."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Fallopian Tube Obstruction",
+            "treatment_desc": ["Fallopian tube obstruction refers to a blockage in the fallopian tubes, which are the tubes that transport an egg from the ovary to the uterus. When the tubes are obstructed, it can prevent the egg and sperm from meeting, making it difficult to conceive."],
+            "sub_data": [
+                {
+                    "sub-title": "What Causes Fallopian Tube Obstruction?",
+                    "desc": [
+                        "Fallopian tube obstruction can be caused by a variety of factors, including pelvic inflammatory disease, endometriosis, previous surgeries, and pelvic tumors. Scarring from infections such as chlamydia and gonorrhea can also cause fallopian tube blockage."
+                    ]
+                },
+                {
+                    "sub-title": "How is Fallopian Tube Obstruction Diagnosed?",
+                    "desc": [
+                        "Fallopian tube obstruction can be diagnosed through a combination of a physical examination, medical history review, and imaging tests such as a hysterosalpingogram (HSG), laparoscopy, or pelvic ultrasound."
+                    ]
+                },
+                {
+                    "sub-title": "How is Fallopian Tube Obstruction Treated?",
+                    "desc": [
+                        "Treatment for fallopian tube obstruction will depend on the underlying cause of the blockage. In some cases, surgery may be necessary to remove any damaged tissue or address any underlying conditions. In other cases, fertility treatments, such as in vitro fertilization (IVF), can help overcome the effects of the obstruction."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Who is at Risk for Fallopian Tube Obstruction?",
+                            "fdesc": [
+                                "Anyone can develop fallopian tube obstruction, but the risk is higher for women with a history of pelvic inflammatory disease, endometriosis, or previous surgeries. Women who have a family history of fallopian tube obstruction or infertility may also be at increased risk. It is important to consult with a healthcare provider if you suspect you may have fallopian tube obstruction."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
                             "title": "Do you do residential work?",
                             "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "fff",
+            "treatment_desc": [],
+            "sub_data": [
+                {
+                    "sub-title": "Ovulation Induction",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "When is OI-TI advised?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "What should I expect?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Are There Any Risks?",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Guidelines for Post Procedure",
+                    "desc": [
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Do you do residential work?",
+                            "fdesc": [
+                                ""
                             ]
                         }
                     ]

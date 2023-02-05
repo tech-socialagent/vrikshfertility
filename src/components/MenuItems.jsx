@@ -63,7 +63,7 @@ const MenuItems = ({ items, depthLevel }) => {
           />
         </>
       ) : (
-        <Link to={`/${items.title.split(" ").join("").toLowerCase()}`}> {items.title} </Link>
+        <Link to={`/${items.title.replace(/[^a-zA-Z0-9 ]/g,' ').split(" ").join("_").toLowerCase()}`}> {items.title} </Link>
       )}
     </li>
   );

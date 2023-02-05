@@ -88,11 +88,11 @@ function App() {
             <Footer/>
           </Route>
           {Data.treatments.map((item, index) => {
-            console.log(item.treatment_name.toLowerCase().split(" ").join().toLowerCase().toString());
+            console.log(item.treatment_name.split(" ").join("_").toLowerCase().toString());
             return (
               <Route
                 key={index}
-                path={`/${item.treatment_name.split(" ").join("").toLowerCase().toString()}`}
+                path={`/${item.treatment_name.replace(/[^a-zA-Z0-9 ]/g,' ').split(" ").join("_").toLowerCase().toString()}`}
               >
                 <Treatments data={item} />
                 {/* <Footer/> */}

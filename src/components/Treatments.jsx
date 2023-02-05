@@ -56,7 +56,12 @@ function Treatments({ data }) {
         <div className="Treatments-right">
           <div className="treatments-title">
             <h1>{data.treatment_name} Treatments</h1>
-            <p>Our Services {data.treatment_name}</p>
+            {data.treatment_desc.map((item,index)=>{
+              return(
+                <p>{item}</p>
+              )
+            })}
+            
           </div>
           <div className="treatments-subtitle">
             {data.sub_data.slice(0, -1).map((item, index) => {
@@ -99,10 +104,6 @@ function Treatments({ data }) {
                     )}
                   </div>
                 </div>
-                {/* <div className="FAQ-right">
-                  <img src={FAQImg} alt="" className="FAQ-right-baby-img1" />
-                  <img src={FAQImg} alt="" className="FAQ-right-baby-img2" />
-                </div> */}
               </div>
             </section>
           </div>
