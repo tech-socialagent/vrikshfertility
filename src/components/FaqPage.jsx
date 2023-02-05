@@ -2,13 +2,35 @@ import "../styles/FaqPage.css";
 import { FiSearch } from "react-icons/fi";
 import { FaAngleDown } from "react-icons/fa";
 import Data from "../Data.json";
+import { useEffect, useState,useRef } from "react";
 
 const FaqPage = () => {
+  const [faqs, setFaqs] = useState([]);
+  const [searchData, setSearchData] = useState([]);
+  const inputdata=useRef()
 
+  const updateData = () => {
+    setFaqs([...Data.faqpage]);
+  };
+  useEffect(() => {
+    updateData();
+  }, []);
+
+  const searchFunc = (words) => {
+    if (words.trim().length > 0) {
+      const res = faqs.filter((item) =>
+        Object.values(item).join(" ").toLocaleLowerCase().includes(words)
+      );
+      setSearchData(res);
+    }
+  };
   const fqdropHandler = (e) => {
     e.currentTarget.classList.toggle("factive");
   };
 
+  const search=()=>{
+    searchFunc(inputdata.current.value.toLowerCase())
+  }
   return (
     <section className="faqPage">
       <div className="header">
@@ -18,7 +40,7 @@ const FaqPage = () => {
             <h3>Top Questions about Treatments</h3>
             <div className="searchBar">
               <FiSearch />
-              <input type="text" placeholder="Search here" />
+              <input ref={inputdata} type="text" placeholder="Search here" onChange={search} />
             </div>
           </div>
         </div>
@@ -30,10 +52,11 @@ const FaqPage = () => {
         </div>
       </div>
       <div className="faqpage_body">
-        {Data.faqpage.map((item, index) => {
-          return (
-            <div 
-            key={index}
+        {faq.length>0 && searchData.length>0?
+          searchData.map((item,index)=>{
+            return(
+              <div
+              key={index}
               className="faqItem"
               onClick={(e) => {
                 fqdropHandler(e);
@@ -43,9 +66,24 @@ const FaqPage = () => {
                 <div className="faq_title">{item.title}</div>
                 <FaAngleDown />
               </div>
-              <div className="faq_desc">
-                {item.fdesc}
+              <div className="faq_desc">{item.fdesc}</div>
+            </div>
+            )
+          })
+        : faqs.map((item, index) => {
+          return (
+            <div
+              key={index}
+              className="faqItem"
+              onClick={(e) => {
+                fqdropHandler(e);
+              }}
+            >
+              <div className="faqItem_head">
+                <div className="faq_title">{item.title}</div>
+                <FaAngleDown />
               </div>
+              <div className="faq_desc">{item.fdesc}</div>
             </div>
           );
         })}

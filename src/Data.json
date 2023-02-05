@@ -12,7 +12,6 @@
                     {
                         "title": "Team Value"
                     }
-                   
                 ]
             },
             {
@@ -100,7 +99,7 @@
                         "title": "Female Fertility Treatments",
                         "submenu": [
                             {
-                                "title": "Polycystic Ovary Syndrome"
+                                "title": "Polycystic Ovary Syndrome (PCOS)"
                             },
                             {
                                 "title": "Endometriosis and Adenomyosis"
@@ -416,8 +415,7 @@
                             "sub_service_desc": [
                                 "Preimplantation genetic testing (PGT) during in vitro fertilisation (IVF) screens embryos for a variety of genetic issues that can cause implantation failure, miscarriage, and birth abnormalities in a child.",
                                 "Birth abnormalities or pregnancy loss can result from a variety of genetic illnesses, such as extra chromosomes in the embryo (like Down syndrome), single gene diseases (like sickle cell anaemia), or gene rearrangements.",
-                                "Using PGT, embryologists can identify genetic flaws in an embryo prior to IVF, preventing those embryos from being implanted into the woman's uterus.",
-                                ""
+                                "Using PGT, embryologists can identify genetic flaws in an embryo prior to IVF, preventing those embryos from being implanted into the woman's uterus."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -472,7 +470,7 @@
                         },
                         {
                             "sub_service_name": "Testicular PRP",
-                            "sub_service_title": "When   is Testicular PRP used for?",
+                            "sub_service_title": "When is Testicular PRP used for?",
                             "sub_service_desc": [
                                 "Testicular PRP is mainly used for the treatment of male infertility, although it may also be considered for other testicular disorders. Men with decreased sperm count, poor sperm motility, or low sperm quality may benefit from Testicular PRP. However, it's important to note that the efficacy of this treatment has not been firmly established, and further research is needed to determine its safety and effectiveness.",
                                 "Before considering Testicular PRP, it's advisable to have a thorough evaluation by a specialist in reproductive medicine to determine the cause of the infertility. In some cases, the underlying cause may be treatable with other, more proven methods. A healthcare provider should be consulted to determine if Testicular PRP is a suitable option for the individual."
@@ -491,11 +489,9 @@
                     "sub_services": [
                         {
                             "sub_service_name": "PGT-SR",
-                            "sub_service_title": "When is OI-TI advised?1",
+                            "sub_service_title": "WHow Does PGT-SR Work?",
                             "sub_service_desc": [
-                                "",
-                                "",
-                                ""
+                                "The process begins with IVF to create embryos. A few days later, a small cell sample is taken from each embryo and analyzed for structural rearrangements. Embryos that are free of these genetic abnormalities are then selected for transfer to the uterus."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -506,9 +502,9 @@
                         },
                         {
                             "sub_service_name": "PGT-M",
-                            "sub_service_title": "When is OI-TI advised?2",
+                            "sub_service_title": "What are the Benefits of PGT-M?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "PGT-M can help couples who are at risk of passing on a monogenic or single gene disorder to their child to have a healthy pregnancy and baby. This type of genetic testing can also provide peace of mind for couples who are looking to start a family."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -519,9 +515,9 @@
                         },
                         {
                             "sub_service_name": "PGT-A",
-                            "sub_service_title": "When is OI-TI advised?3",
+                            "sub_service_title": "The PGT-A test looks for what kinds of chromosomal abnormalities? ",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "The main goal of a PGT-A embryo is to guarantee that it is euploid, or having the appropriate amount of chromosomes. PGT-A can identify monosomies (incomplete chromosomes) and trisomies (incomplete chromosomes) in embryos. PGT-A also checks for chromosomal duplications and deletions. Large deletions and duplications are necessary for their detection. In some versions, but not all, the PGT-A may also pick up on mosaicism and uniparental disomy (UPD). Our genetic counsellor will go over the different kinds of outcomes that can be discovered during your session."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -532,9 +528,9 @@
                         },
                         {
                             "sub_service_name": "Chromosomal Karyotyping",
-                            "sub_service_title": "When is OI-TI advised?4",
+                            "sub_service_title": "How Does Chromosomal Karyotyping Work?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "The test is performed on cells, such as blood or skin cells, which are taken from the patient. The cells are then grown in a laboratory and treated with chemicals that make the chromosomes visible under a microscope. The chromosomes are then photographed and analyzed to identify any abnormalities."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -550,9 +546,9 @@
                     "sub_services": [
                         {
                             "sub_service_name": "Polycystic Ovary Syndrome",
-                            "sub_service_title": "When is OI-TI advised?1",
+                            "sub_service_title": "Who may develop PCOS?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "After puberty, a woman can develop PCOS at any time. When a person is attempting to get pregnant in their 20s or 30s, they are typically diagnosed. If you are obese or overweight, have a family history of PCOS, or are overweight, your risk of developing the condition may be increased."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -563,9 +559,9 @@
                         },
                         {
                             "sub_service_name": "Recurrent Miscarriage",
-                            "sub_service_title": "When is OI-TI advised?2",
+                            "sub_service_title": "What is Recurrent Miscarriage?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "Many women have a miscarriage at one time or another. Miscarriages can happen for many reasons. Having a miscarriage doesn’t mean a woman will have another miscarriage if she tries again. But some women suffer more than one miscarriage. This is called recurrent pregnancy loss (RPL). Women and families often grieve these losses deeply. Women may also worry that they are sick or did something to cause the losses. RPL, however, is often a natural process. Less than half of recurrent miscarriages have an obvious or treatable cause. Almost two-thirds of women with RPL will eventually have a healthy pregnancy — often without any extra treatment. If you have suffered two or more miscarriages, you should talk with your health-care provider. Often, women decide to continue trying to get pregnant naturally. However, in certain situations, your doctor might suggest treatments to help reduce your risk for miscarriage."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -576,9 +572,9 @@
                         },
                         {
                             "sub_service_name": "Ectopic Pregnancy",
-                            "sub_service_title": "When is OI-TI advised?3",
+                            "sub_service_title": "What is Ectopic Pregnancy?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "An ectopic pregnancy is a serious condition in which a fertilized egg implants outside of the uterus, usually in the fallopian tubes. This can cause the pregnancy to grow in the wrong location and can be life-threatening if left untreated."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -589,9 +585,9 @@
                         },
                         {
                             "sub_service_name": "Ovulation Problems",
-                            "sub_service_title": "When is OI-TI advised?4",
+                            "sub_service_title": "What Causes Ovulation Problems?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "There are many factors that can contribute to ovulation problems, including hormonal imbalances, thyroid disorders, polycystic ovary syndrome (PCOS), and age-related factors. Certain lifestyle factors, such as stress, weight fluctuations, and certain medications, can also impact ovulation."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -607,9 +603,9 @@
                     "sub_services": [
                         {
                             "sub_service_name": "Varicocele",
-                            "sub_service_title": "When is OI-TI advised?1",
+                            "sub_service_title": "What Causes Varicoceles?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "The exact cause of varicoceles is unknown, but they are thought to be related to a problem with the valves in the veins that control blood flow. Varicoceles are most common in men between the ages of 15 and 25 and are often asymptomatic."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -620,9 +616,9 @@
                         },
                         {
                             "sub_service_name": "Azoospermia",
-                            "sub_service_title": "When is OI-TI advised?2",
+                            "sub_service_title": "what is Azoospermia?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "Azoospermia means there’s no sperm in a man’s ejaculate. Its causes include a blockage along the reproductive tract, hormonal problems, ejaculation problems or issues with testicular structure or function. Many causes are treatable and fertility can be restored. For other causes it may be possible to retrieve live sperm to be used in assisted reproductive techniques."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -633,9 +629,9 @@
                         },
                         {
                             "sub_service_name": "Retrograde Ejaculation",
-                            "sub_service_title": "When is OI-TI advised?3",
+                            "sub_service_title": "What Causes Retrograde Ejaculation?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "Retrograde ejaculation is caused by a variety of factors, including nerve damage, spinal cord injuries, certain medications, and surgery to the bladder, prostate, or urethra."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -646,9 +642,9 @@
                         },
                         {
                             "sub_service_name": "Ejaculation Problems",
-                            "sub_service_title": "When is OI-TI advised?4",
+                            "sub_service_title": "What Causes Ejaculation Problems?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "Ejaculation problems can be caused by a variety of factors, including nerve damage, spinal cord injuries, certain medications, and surgery to the prostate, bladder or urethra. Psychological factors such as stress, anxiety and depression can also contribute to ejaculation problems."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -664,9 +660,9 @@
                     "sub_services": [
                         {
                             "sub_service_name": "Thyroid Disorders",
-                            "sub_service_title": "When is OI-TI advised?1",
+                            "sub_service_title": "What is Thyroid Disorders?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "Thyroid disorders are a common condition that affects the thyroid gland, a small butterfly-shaped gland in the neck. This gland plays an essential role in regulating the body's metabolism, which affects the heart rate, body temperature, and weight. The two most common thyroid disorders are hypothyroidism (underactive thyroid) and hyperthyroidism (overactive thyroid)."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -677,9 +673,9 @@
                         },
                         {
                             "sub_service_name": "Genetic Disorders",
-                            "sub_service_title": "When is OI-TI advised?2",
+                            "sub_service_title": "What Causes Genetic Disorders?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "Genetic Disorders can be caused by changes or mutations in a single gene, multiple genes, or changes in chromosome structure or number. These mutations can be inherited from a parent or occur spontaneously."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -690,9 +686,9 @@
                         },
                         {
                             "sub_service_name": "Hormone Level Imbalance",
-                            "sub_service_title": "When is OI-TI advised?3",
+                            "sub_service_title": "What is Hormone Level Imbalance?",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "Hormone level imbalance is a common condition in which the levels of hormones in the body are not in their normal range. Hormones play a crucial role in regulating various bodily processes and imbalanced levels can result in various symptoms and health conditions. Hormone level imbalances can occur due to a variety of reasons including aging, lifestyle factors, and medical conditions."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -703,9 +699,10 @@
                         },
                         {
                             "sub_service_name": "Auto Immune Disease",
-                            "sub_service_title": "When is OI-TI advised?4",
+                            "sub_service_title": "Symptoms and Diagnosis of Auto-immune Diseases",
                             "sub_service_desc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "The symptoms of auto-immune diseases vary depending on the type of disease, but common symptoms include fatigue, joint pain and swelling, skin rashes, and fever. Some auto-immune diseases may also cause internal organ damage and affect the central nervous system.",
+                                "Diagnosis of auto-immune diseases is often challenging and may involve a combination of physical exams, blood tests, and imaging studies."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -1602,9 +1599,15 @@
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "",
+                            "title": "How is recurrent miscarriage diagnosed?",
                             "fdesc": [
-                                ""
+                                "Diagnosis of recurrent miscarriage typically involves a thorough evaluation of the individual's medical history, a physical examination, and various diagnostic tests, such as an ultrasound, blood tests, and genetic testing."
+                            ]
+                        },
+                        {
+                            "title": "Can recurrent miscarriage be prevented?",
+                            "fdesc": [
+                                "Preventing recurrent miscarriage is not always possible, but making lifestyle changes, such as quitting smoking, maintaining a healthy weight, and managing stress, may help reduce the risk of recurrent miscarriage. Seeking prompt and thorough evaluation and treatment for any underlying causes is also important."
                             ]
                         }
                     ]
@@ -1612,7 +1615,7 @@
             ]
         },
         {
-            "treatment_name": "Polycystic Ovary Syndrome",
+            "treatment_name": "Polycystic Ovary Syndrome (PCOS)",
             "treatment_desc": [
                 "Hormones are impacted by the prevalent illness known as polycystic ovarian syndrome (PCOS). It results in infertility, excessive hair growth, acne, and irregular menstrual cycles. Whether or not you want to get pregnant will affect your PCOS treatment. PCOS sufferers may be more susceptible to diseases like diabetes and high blood pressure."
             ],
@@ -1966,9 +1969,15 @@
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "",
+                            "title": "How are endometriosis and adenomyosis diagnosed?",
                             "fdesc": [
-                                ""
+                                "Diagnosis of endometriosis and adenomyosis is typically made through a combination of a thorough medical history, physical examination, and imaging tests such as ultrasound or MRI."
+                            ]
+                        },
+                        {
+                            "title": "What is the treatment for endometriosis and adenomyosis?",
+                            "fdesc": [
+                                "Treatment for endometriosis and adenomyosis may include pain management, hormonal therapy, surgery, or a combination of these approaches. The best course of treatment will depend on the individual's symptoms and the severity of the condition."
                             ]
                         }
                     ]
@@ -3261,7 +3270,6 @@
                 }
             ]
         },
-        
         {
             "treatment_name": "Hormone Level Imbalance",
             "treatment_desc": [
@@ -3298,15 +3306,21 @@
                     "desc": [
                         {
                             "title": "Can a hormonal imbalance cause infertility?",
-                            "fdesc":[ "Yes, hormonal imbalances can cause infertility by affecting the production and regulation of reproductive hormones."]
+                            "fdesc": [
+                                "Yes, hormonal imbalances can cause infertility by affecting the production and regulation of reproductive hormones."
+                            ]
                         },
                         {
                             "title": "What are hormones?",
-                            "fdesc": ["Hormones are chemical messengers produced by the endocrine glands that regulate various bodily functions such as growth, metabolism, and reproductive processes."]
+                            "fdesc": [
+                                "Hormones are chemical messengers produced by the endocrine glands that regulate various bodily functions such as growth, metabolism, and reproductive processes."
+                            ]
                         },
                         {
                             "title": "How is a hormonal imbalance treated?",
-                            "fdesc": ["Treatment for a hormonal imbalance depends on the specific cause and type of hormone involved. Hormonal imbalances can be treated with medication, lifestyle changes, or hormone replacement therapy."]
+                            "fdesc": [
+                                "Treatment for a hormonal imbalance depends on the specific cause and type of hormone involved. Hormonal imbalances can be treated with medication, lifestyle changes, or hormone replacement therapy."
+                            ]
                         }
                     ]
                 }
@@ -3350,15 +3364,21 @@
                     "desc": [
                         {
                             "title": "What are the health consequences of obesity?",
-                            "fdesc": ["Obesity can lead to various health problems, including heart disease, stroke, type 2 diabetes, high blood pressure, sleep apnea, and certain types of cancer."]
+                            "fdesc": [
+                                "Obesity can lead to various health problems, including heart disease, stroke, type 2 diabetes, high blood pressure, sleep apnea, and certain types of cancer."
+                            ]
                         },
                         {
                             "title": "How is obesity treated?",
-                            "fdesc": ["Treatment for obesity typically involves a combination of lifestyle changes, such as healthy eating and increased physical activity, and in some cases, medication or bariatric surgery."]
+                            "fdesc": [
+                                "Treatment for obesity typically involves a combination of lifestyle changes, such as healthy eating and increased physical activity, and in some cases, medication or bariatric surgery."
+                            ]
                         },
                         {
                             "title": "Can diet and exercise help with weight loss?",
-                            "fdesc": ["Weight loss supplements and diet pills may help with short-term weight loss, but they are not a long-term solution and can have negative side effects. It is important to discuss any weight loss supplements or pills with a doctor before starting to use them."]
+                            "fdesc": [
+                                "Weight loss supplements and diet pills may help with short-term weight loss, but they are not a long-term solution and can have negative side effects. It is important to discuss any weight loss supplements or pills with a doctor before starting to use them."
+                            ]
                         }
                     ]
                 }
@@ -3383,9 +3403,7 @@
                     "sub-title": "Symptoms and Diagnosis of Auto-immune Diseases",
                     "desc": [
                         "The symptoms of auto-immune diseases vary depending on the type of disease, but common symptoms include fatigue, joint pain and swelling, skin rashes, and fever. Some auto-immune diseases may also cause internal organ damage and affect the central nervous system.",
-                        "Diagnosis of auto-immune diseases is often challenging and may involve a combination of physical exams, blood tests, and imaging studies.",
-                        "",
-                        ""
+                        "Diagnosis of auto-immune diseases is often challenging and may involve a combination of physical exams, blood tests, and imaging studies."
                     ]
                 },
                 {
@@ -3403,19 +3421,27 @@
                     "desc": [
                         {
                             "title": "What is an autoimmune disease?",
-                            "fdesc": ["An autoimmune disease is a condition in which the immune system mistakenly attacks the body's own healthy tissues, causing inflammation and damage."]
+                            "fdesc": [
+                                "An autoimmune disease is a condition in which the immune system mistakenly attacks the body's own healthy tissues, causing inflammation and damage."
+                            ]
                         },
                         {
                             "title": "What causes autoimmune diseases?",
-                            "fdesc": ["The exact cause of autoimmune diseases is not known, but a combination of genetic, environmental, and lifestyle factors is thought to play a role."]
+                            "fdesc": [
+                                "The exact cause of autoimmune diseases is not known, but a combination of genetic, environmental, and lifestyle factors is thought to play a role."
+                            ]
                         },
                         {
                             "title": "Can autoimmune diseases be prevented?",
-                            "fdesc": ["There is no known way to prevent autoimmune diseases, but early diagnosis and treatment can help reduce the risk of long-term complications and improve quality of life."]
+                            "fdesc": [
+                                "There is no known way to prevent autoimmune diseases, but early diagnosis and treatment can help reduce the risk of long-term complications and improve quality of life."
+                            ]
                         },
                         {
                             "title": "Are autoimmune diseases hereditary?",
-                            "fdesc": ["Autoimmune diseases can run in families, suggesting a genetic component, but not all autoimmune diseases are necessarily hereditary."]
+                            "fdesc": [
+                                "Autoimmune diseases can run in families, suggesting a genetic component, but not all autoimmune diseases are necessarily hereditary."
+                            ]
                         }
                     ]
                 }
@@ -3444,22 +3470,29 @@
                     "sub-title": "Other Diabetes Treatments",
                     "desc": [
                         "Other treatments for diabetes may include regular monitoring of blood sugar levels, taking medications to lower blood pressure and cholesterol, and participating in diabetes education programs.",
-                        "It is important for individuals with diabetes to work closely with their healthcare provider to develop a comprehensive treatment plan that is tailored to their specific needs and goals. With the right treatment, support, and self-care, people with diabetes can lead healthy and fulfilling lives."                    ]
+                        "It is important for individuals with diabetes to work closely with their healthcare provider to develop a comprehensive treatment plan that is tailored to their specific needs and goals. With the right treatment, support, and self-care, people with diabetes can lead healthy and fulfilling lives."
+                    ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
                             "title": "What causes diabetes?",
-                            "fdesc":["Type 1 diabetes is caused by the destruction of insulin-producing cells in the pancreas. Type 2 diabetes is caused by the body's inability to effectively use insulin. Risk factors for type 2 diabetes include obesity, family history, and age."]
+                            "fdesc": [
+                                "Type 1 diabetes is caused by the destruction of insulin-producing cells in the pancreas. Type 2 diabetes is caused by the body's inability to effectively use insulin. Risk factors for type 2 diabetes include obesity, family history, and age."
+                            ]
                         },
                         {
                             "title": "What are the symptoms of diabetes?",
-                            "fdesc":["Symptoms of diabetes can include increased thirst, frequent urination, blurred vision, and fatigue. In severe cases, it can lead to serious health complications such as heart disease, nerve damage, and kidney disease."]
+                            "fdesc": [
+                                "Symptoms of diabetes can include increased thirst, frequent urination, blurred vision, and fatigue. In severe cases, it can lead to serious health complications such as heart disease, nerve damage, and kidney disease."
+                            ]
                         },
                         {
                             "title": "How is diabetes diagnosed?",
-                            "fdesc":["Diabetes is diagnosed through a combination of a fasting plasma glucose test, an oral glucose tolerance test, or an A1C test."]
+                            "fdesc": [
+                                "Diabetes is diagnosed through a combination of a fasting plasma glucose test, an oral glucose tolerance test, or an A1C test."
+                            ]
                         }
                     ]
                 }
@@ -3510,15 +3543,21 @@
                     "desc": [
                         {
                             "title": "How successful is egg freezing?",
-                            "fdesc": ["The success rate of egg freezing can vary, but recent advancements in freezing techniques have improved the chances of a successful pregnancy."]
+                            "fdesc": [
+                                "The success rate of egg freezing can vary, but recent advancements in freezing techniques have improved the chances of a successful pregnancy."
+                            ]
                         },
                         {
                             "title": "Is egg freezing safe?",
-                            "fdesc": ["Egg freezing is generally considered safe, but like any medical procedure, it carries some risks, such as ovarian hyperstimulation syndrome, bleeding, and infection."]
+                            "fdesc": [
+                                "Egg freezing is generally considered safe, but like any medical procedure, it carries some risks, such as ovarian hyperstimulation syndrome, bleeding, and infection."
+                            ]
                         },
                         {
                             "title": "How long can eggs be stored?",
-                            "fdesc": ["Eggs can be stored for an indefinite amount of time, but the length of storage and quality of the eggs can impact their viability for use in fertility treatment."]
+                            "fdesc": [
+                                "Eggs can be stored for an indefinite amount of time, but the length of storage and quality of the eggs can impact their viability for use in fertility treatment."
+                            ]
                         }
                     ]
                 }
@@ -3551,19 +3590,27 @@
                     "desc": [
                         {
                             "title": "Why would someone choose to freeze their sperm?",
-                            "fdesc": ["Sperm freezing is often chosen by men who want to preserve their fertility for personal or medical reasons, such as in preparation for medical treatments that may impact their fertility or as a form of contraception."]
+                            "fdesc": [
+                                "Sperm freezing is often chosen by men who want to preserve their fertility for personal or medical reasons, such as in preparation for medical treatments that may impact their fertility or as a form of contraception."
+                            ]
                         },
                         {
                             "title": "How successful is sperm freezing?",
-                            "fdesc": ["The success rate of sperm freezing is high, with a large number of successful pregnancies achieved with thawed sperm"]
+                            "fdesc": [
+                                "The success rate of sperm freezing is high, with a large number of successful pregnancies achieved with thawed sperm"
+                            ]
                         },
                         {
                             "title": "Is sperm freezing safe?",
-                            "fdesc": ["Sperm freezing is generally considered safe, but like any medical procedure, it carries some risks, such as infection."]
+                            "fdesc": [
+                                "Sperm freezing is generally considered safe, but like any medical procedure, it carries some risks, such as infection."
+                            ]
                         },
                         {
                             "title": "How long can sperm be stored?",
-                            "fdesc": ["Sperm can be stored for an indefinite amount of time, but the length of storage and quality of the sperm can impact its viability for use in fertility treatment."]
+                            "fdesc": [
+                                "Sperm can be stored for an indefinite amount of time, but the length of storage and quality of the sperm can impact its viability for use in fertility treatment."
+                            ]
                         }
                     ]
                 }
@@ -3588,7 +3635,6 @@
                         "Women who want to preserve their fertility for later use",
                         "Women who are undergoing cancer treatment or other medical procedures that may affect their fertility",
                         "Couples who have undergone in vitro fertilization (IVF) and have unused embryos from their cycle"
-                        
                     ]
                 },
                 {
@@ -3612,15 +3658,21 @@
                     "desc": [
                         {
                             "title": "Why freeze embryos?",
-                            "fdesc": ["Embryos can be frozen to allow couples to preserve their fertility for later use, such as if they are undergoing cancer treatment or waiting to start a family."]
+                            "fdesc": [
+                                "Embryos can be frozen to allow couples to preserve their fertility for later use, such as if they are undergoing cancer treatment or waiting to start a family."
+                            ]
                         },
                         {
                             "title": "How long can embryos be frozen?",
-                            "fdesc": ["Embryos can be stored for many years and still remain viable for future use."]
+                            "fdesc": [
+                                "Embryos can be stored for many years and still remain viable for future use."
+                            ]
                         },
                         {
                             "title": "What are the success rates of embryo thawing and transfer?",
-                            "fdesc": ["The success rates of embryo thawing and transfer can vary, but studies have shown that the success rates are similar to those of fresh embryos. The success of the procedure depends on many factors, including the age of the woman, the quality of the embryos, and the reason for freezing."]
+                            "fdesc": [
+                                "The success rates of embryo thawing and transfer can vary, but studies have shown that the success rates are similar to those of fresh embryos. The success of the procedure depends on many factors, including the age of the woman, the quality of the embryos, and the reason for freezing."
+                            ]
                         }
                     ]
                 }
@@ -3676,15 +3728,21 @@
                     "desc": [
                         {
                             "title": "What conditions can Laparoscopy treat?",
-                            "fdesc": ["Laparoscopy can be used to treat a variety of conditions, including endometriosis, fibroids, ovarian cysts, and pelvic pain."]
+                            "fdesc": [
+                                "Laparoscopy can be used to treat a variety of conditions, including endometriosis, fibroids, ovarian cysts, and pelvic pain."
+                            ]
                         },
                         {
                             "title": "Is Laparoscopy safe?",
-                            "fdesc": ["Laparoscopy is generally considered a safe procedure, but like any surgery, there are risks involved such as infection, bleeding, and damage to internal organs. Your doctor will be able to discuss the risks and benefits with you."]
+                            "fdesc": [
+                                "Laparoscopy is generally considered a safe procedure, but like any surgery, there are risks involved such as infection, bleeding, and damage to internal organs. Your doctor will be able to discuss the risks and benefits with you."
+                            ]
                         },
                         {
                             "title": "What conditions can Laparoscopy treat?",
-                            "fdesc": ["Laparoscopy can be used to treat a variety of conditions, including endometriosis, fibroids, ovarian cysts, and pelvic pain."]
+                            "fdesc": [
+                                "Laparoscopy can be used to treat a variety of conditions, including endometriosis, fibroids, ovarian cysts, and pelvic pain."
+                            ]
                         }
                     ]
                 }
@@ -3731,15 +3789,21 @@
                     "desc": [
                         {
                             "title": "is Hysteroscopy safe?",
-                            "fdesc": ["Hysteroscopy is a safe and effective diagnostic procedure that helps doctors diagnose and treat various gynecological conditions. If you have any questions or concerns about this procedure, be sure to talk to your doctor."]
+                            "fdesc": [
+                                "Hysteroscopy is a safe and effective diagnostic procedure that helps doctors diagnose and treat various gynecological conditions. If you have any questions or concerns about this procedure, be sure to talk to your doctor."
+                            ]
                         },
                         {
                             "title": "Why is Uterine Septal Resection performed?",
-                            "fdesc": ["The procedure is performed to treat uterine malformations, such as a septate uterus, which can cause fertility problems, recurrent miscarriages, or problems during pregnancy."]
+                            "fdesc": [
+                                "The procedure is performed to treat uterine malformations, such as a septate uterus, which can cause fertility problems, recurrent miscarriages, or problems during pregnancy."
+                            ]
                         },
                         {
                             "title": "What is the recovery time for Uterine Septal Resection?",
-                            "fdesc": ["ecovery time can vary, but most patients can return to normal activities within 1-2 weeks."]
+                            "fdesc": [
+                                "ecovery time can vary, but most patients can return to normal activities within 1-2 weeks."
+                            ]
                         }
                     ]
                 }
@@ -3782,16 +3846,16 @@
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "",
-                            "fdesc": [""]
+                            "title": "Why is USR performed?",
+                            "fdesc": [
+                                "USR is performed to treat infertility and recurrent pregnancy loss caused by a uterine septum."
+                            ]
                         },
                         {
-                            "title": "",
-                            "fdesc": [""]
-                        },
-                        {
-                            "title": "",
-                            "fdesc": [""]
+                            "title": "What are the risks and side effects of USR?",
+                            "fdesc": [
+                                "Like all surgical procedures, USR carries a risk of bleeding, infection, and scarring. Additionally, there may be temporary side effects such as cramping and spotting after the procedure."
+                            ]
                         }
                     ]
                 }
@@ -3834,15 +3898,21 @@
                     "desc": [
                         {
                             "title": "What are the symptoms of uterine fibroids?",
-                            "fdesc": ["Common symptoms of uterine fibroids include heavy menstrual bleeding, pelvic pain or pressure, frequent urination, constipation and lower back pain."]
+                            "fdesc": [
+                                "Common symptoms of uterine fibroids include heavy menstrual bleeding, pelvic pain or pressure, frequent urination, constipation and lower back pain."
+                            ]
                         },
                         {
                             "title": "What is the purpose of Myomectomy?",
-                            "fdesc": ["The purpose of Myomectomy is to remove uterine fibroids and preserve the uterus, allowing women to have children in the future if they so desire."]
+                            "fdesc": [
+                                "The purpose of Myomectomy is to remove uterine fibroids and preserve the uterus, allowing women to have children in the future if they so desire."
+                            ]
                         },
                         {
                             "title": "Is Myomectomy a permanent solution for uterine fibroids?",
-                            "fdesc": ["Myomectomy can be an effective treatment for uterine fibroids, but it is not a guarantee that they will not grow back. Regular follow-up and monitoring is recommended to ensure the best outcomes."]
+                            "fdesc": [
+                                "Myomectomy can be an effective treatment for uterine fibroids, but it is not a guarantee that they will not grow back. Regular follow-up and monitoring is recommended to ensure the best outcomes."
+                            ]
                         }
                     ]
                 }
@@ -3883,11 +3953,15 @@
                     "desc": [
                         {
                             "title": "Is Endometrial/Dermoid Cystectomy effective?",
-                            "fdesc": ["Endometrial/Dermoid Cystectomy is generally considered to be an effective treatment for endometrial and dermoid cysts, providing relief from symptoms and reducing the risk of complications. The success of the procedure depends on various factors, including the size and location of the cysts and the overall health of the patient."]
+                            "fdesc": [
+                                "Endometrial/Dermoid Cystectomy is generally considered to be an effective treatment for endometrial and dermoid cysts, providing relief from symptoms and reducing the risk of complications. The success of the procedure depends on various factors, including the size and location of the cysts and the overall health of the patient."
+                            ]
                         },
                         {
                             "title": "Is Endometrial/Dermoid Cystectomy safe?",
-                            "fdesc": ["Endometrial/Dermoid Cystectomy is a safe and effective treatment option for women with endometrial or dermoid cysts that are causing symptoms or are suspicious on imaging tests. "]
+                            "fdesc": [
+                                "Endometrial/Dermoid Cystectomy is a safe and effective treatment option for women with endometrial or dermoid cysts that are causing symptoms or are suspicious on imaging tests. "
+                            ]
                         }
                     ]
                 }
@@ -4046,7 +4120,7 @@
             ]
         },
         {
-            "title": "What does egg donation entail??",
+            "title": "What does egg donation entail?",
             "fdesc": [
                 "When a woman gives her eggs (or oocytes), she is assisting another woman in getting pregnant. The male partner's sperm or donor sperm may be used to fertilise donor eggs.",
                 "If there are no medical reasons why a woman shouldn't carry a pregnancy, donor egg IVF may be a viable choice for those who are unable to conceive with their own eggs. Advanced age, a decreased ovarian reserve, early ovarian failure that is either undiagnosed or brought on by autoimmune diseases, chemotherapy, or surgical menopause are all indications for donor egg IVF. IVF with donor eggs is also suitable for women who have genetic mutations."
@@ -4182,6 +4256,526 @@
             "title": "What is the long-term outlook for those with azoospermia?",
             "fdesc": [
                 "Every cause of azoospermia has a different prognosis. Many causes of azoospermia can be reversed. You and your healthcare team will work together to determine the cause of your azoospermia and treatment options. Hormonal problems and obstructive causes of azoospermia are usually treatable and fertility can potentially be restored. If testicular disorders are the cause, it’s still possible to retrieve live sperm to be used in assisted reproductive techniques."
+            ]
+        },
+        {
+            "title": "How is recurrent miscarriage diagnosed?",
+            "fdesc": [
+                "Diagnosis of recurrent miscarriage typically involves a thorough evaluation of the individual's medical history, a physical examination, and various diagnostic tests, such as an ultrasound, blood tests, and genetic testing."
+            ]
+        },
+        {
+            "title": "Can recurrent miscarriage be prevented?",
+            "fdesc": [
+                "Preventing recurrent miscarriage is not always possible, but making lifestyle changes, such as quitting smoking, maintaining a healthy weight, and managing stress, may help reduce the risk of recurrent miscarriage. Seeking prompt and thorough evaluation and treatment for any underlying causes is also important."
+            ]
+        },
+        {
+            "title": "Does polycystic ovary syndrome run in families?",
+            "fdesc": [
+                "The reasons of PCOS are still the subject of extensive research. Evidence suggests that PCOS has a genetic or inherited component, nevertheless."
+            ]
+        },
+        {
+            "title": "Can someone with PCOS become pregnant?",
+            "fdesc": [
+                "If you have PCOS, you can still become pregnant. PCOS can make it difficult to get pregnant and raise your risk for some pregnancy issues. Together with you, your healthcare physician will create a treatment strategy to assist you in ovulating. You could use medicine or assisted reproductive methods like IVF as part of your treatment plan (In Vitro Fertilization).",
+                "To make sure you comprehend your treatment plan and how to improve your chances of a safe and successful pregnancy, speak with your healthcare practitioner."
+            ]
+        },
+        {
+            "title": "What hormones are impacted by PCOS?",
+            "fdesc": [
+                "A hormonal imbalance in women with PCOS causes disruptions in the menstrual cycle, ovulation, and maybe pregnancy. The balance of these hormones, which form a complicated web, is crucial for the female reproductive system to work properly. The following hormones are involved in PCOS:",
+                "Androgens (such testosterone and androstenedione) (like testosterone and androstenedione).",
+                " Vitamin D hormone (LH).",
+                " FSH stands for folicle-stimulating hormone.",
+                " Estroge Progesterone.",
+                "Insulin."
+            ]
+        },
+        {
+            "title": "What distinguishes PCOS from endometriosis?",
+            "fdesc": [
+                "Despite being distinct diseases, ovarian cysts and infertility are associated with both PCOS and endometriosis. When you have endometriosis, the lining of your uterus (endometrium) begins to grow in other locations, such as your ovaries, vagina, or fallopian tubes. Usually, it results in severe menstrual cramps or pelvic pain. Due to an excess of male hormones, women with PCOS experience irregular periods, unexpected ovulation, and other physical side effects.",
+                "Infertility is frequently brought on by PCOS, which has been related to other illnesses. If you think you might have PCOS, discuss your symptoms with your doctor. You can control the symptoms, reduce your risk of developing additional health concerns, and get pregnant with the support of lifestyle modifications and medication therapies."
+            ]
+        },
+        {
+            "title": "How are endometriosis and adenomyosis diagnosed?",
+            "fdesc": [
+                "Diagnosis of endometriosis and adenomyosis is typically made through a combination of a thorough medical history, physical examination, and imaging tests such as ultrasound or MRI."
+            ]
+        },
+        {
+            "title": "What is the treatment for endometriosis and adenomyosis?",
+            "fdesc": [
+                "Treatment for endometriosis and adenomyosis may include pain management, hormonal therapy, surgery, or a combination of these approaches. The best course of treatment will depend on the individual's symptoms and the severity of the condition."
+            ]
+        },
+        {
+            "title": "What is the success rate of ICSI?",
+            "fdesc": [
+                "The success rate of ICSI varies depending on a variety of factors such as the woman's age, the cause of infertility, and the quality of the sperm and eggs. On average, the success rate of ICSI is around 40-50%."
+            ]
+        },
+        {
+            "title": "Who is a candidate for ICSI?",
+            "fdesc": [
+                "Couples who have failed to conceive with traditional in vitro fertilization (IVF) or have issues with sperm quality or quantity may be candidates for ICSI."
+            ]
+        },
+        {
+            "title": "Are there any risks or side effects associated with ICSI?",
+            "fdesc": [
+                "As with any medical procedure, there are potential risks and side effects associated with ICSI. Some common side effects include ovarian hyperstimulation syndrome (OHSS), multiple pregnancies, and a small risk of birth defects."
+            ]
+        },
+        {
+            "title": "What is PGT and how does it work?",
+            "fdesc": [
+                "Preimplantation Genetic Testing (PGT) is a type of genetic screening performed during assisted reproductive technology (ART) treatments such as in vitro fertilization (IVF). It is used to detect any genetic or chromosomal abnormalities in embryos before they are implanted into the uterus."
+            ]
+        },
+        {
+            "title": "Who is a candidate for PGT?",
+            "fdesc": [
+                "PGT is recommended for couples who have a history of genetic disorders, older women, or those who have experienced recurrent miscarriages. It can increase the chances of having a healthy baby, reduce the risk of miscarriage, and minimize the chance of passing on genetic disorders to the child."
+            ]
+        },
+        {
+            "title": "Is Ovation PRP safe?",
+            "fdesc": [
+                "Ovation PRP is considered a safe and effective treatment for hair loss. The procedure uses a patient's own blood, so there is no risk of rejection or reaction. The treatment has been used for many years in various medical fields and has a proven track record of safety and effectiveness."
+            ]
+        },
+        {
+            "title": "How many Ovation PRP treatments are needed for optimal results?",
+            "fdesc": [
+                "The number of Ovation PRP treatments needed for optimal results can vary from patient to patient. Typically, a series of 3-5 treatments are recommended, with each treatment spaced 4-6 weeks apart. After the initial series of treatments, maintenance treatments may be needed every 6-12 months to maintain the results. The exact number of treatments needed will depend on the individual's specific hair loss condition and their desired results.Regenerate response"
+            ]
+        },
+        {
+            "title": "How is Endometrial PRP performed?",
+            "fdesc": [
+                "Endometrial PRP is performed by drawing a small sample of the patient's blood and then processing it to concentrate the platelets. The concentrated platelets are then inserted into the uterus through a small catheter. The procedure is typically performed in a medical office and takes 30 minutes to an hour."
+            ]
+        },
+        {
+            "title": "What conditions does Endometrial PRP?",
+            "fdesc": [
+                "Endometrial PRP has been used to treat a variety of conditions related to the endometrium, including thin endometrial lining, poor endometrial growth, and repeated implantation failures. The treatment has shown to be effective in promoting endometrial growth and increasing the chances of successful implantation and pregnancy. It is important to note that Endometrial PRP is not a guarantee for pregnancy and the results may vary from patient to patient."
+            ]
+        },
+        {
+            "title": "How is Testicular PRP performed?",
+            "fdesc": [
+                "Testicular PRP is performed by drawing a small sample of the patient's blood and processing it to concentrate the platelets. The concentrated platelets are then injected into the testicles using a fine needle. The procedure is performed in a medical office and typically takes 30 minutes to an hour."
+            ]
+        },
+        {
+            "title": "What conditions does Testicular PRP treat?",
+            "fdesc": [
+                "Testicular PRP has been used to treat a variety of conditions related to the testicles, including low sperm count, poor sperm quality, and testicular atrophy. The treatment has shown to be effective in improving testicular function and increasing sperm count and quality. It is important to note that Testicular PRP is not a guarantee for pregnancy and the results may vary from patient to patient. It is recommended to seek the advice of a medical professional for an evaluation and personalized treatment plan."
+            ]
+        },
+        {
+            "title": "How is PGT-SR performed?",
+            "fdesc": [
+                "PGT-SR is performed by taking a sample of cells from the blastomeres (cells in the early-stage embryo) and analyzing them for the presence of structural chromosomal rearrangements. This can be done through a variety of methods, including fluorescence in situ hybridization (FISH), comparative genomic hybridization (CGH), and next-generation sequencing (NGS)."
+            ]
+        },
+        {
+            "title": "What are the benefits of PGT-SR?",
+            "fdesc": [
+                "The benefits of PGT-SR include the ability to identify embryos that are likely to lead to a successful pregnancy and reduce the risk of chromosomal disorders in the child. It can also increase the chances of having a healthy baby by selecting only genetically normal embryos for transfer to the uterus. PGT-SR can also help to reduce the number of unsuccessful IVF cycles and minimize the emotional stress associated with repeated failed attempts at pregnancy."
+            ]
+        },
+        {
+            "title": "How is PGT-M performed?",
+            "fdesc": [
+                "PGT-M is performed by taking a sample of cells from the blastomeres (cells in the early-stage embryo) and analyzing them for the presence of specific mutations or variations in the genes of interest. This can be done through a variety of methods, including polymerase chain reaction (PCR), sequencing, and next-generation sequencing (NGS)."
+            ]
+        },
+        {
+            "title": "What are the benefits of PGT-M?",
+            "fdesc": [
+                "The benefits of PGT-M include the ability to identify embryos that are free of the specific genetic mutations or variations associated with monogenic disorders, increasing the chances of a successful pregnancy and the birth of a healthy baby. PGT-M can also reduce the risk of passing on genetic disorders to the child and minimize the emotional stress associated with the uncertainty of whether a genetic disorder will be present in the child. Additionally, by only transferring genetically normal embryos to the uterus, PGT-M can also help to reduce the number of unsuccessful IVF cycles."
+            ]
+        },
+        {
+            "title": "How is Chromosomal Karyotyping performed?",
+            "fdesc": [
+                "Chromosomal Karyotyping is performed by taking cells, such as blood or skin cells, from the patient. The cells are then grown in a laboratory and treated with chemicals that make the chromosomes visible under a microscope. The chromosomes are then photographed and analyzed to identify any abnormalities."
+            ]
+        },
+        {
+            "title": "What are the benefits of Chromosomal Karyotyping?",
+            "fdesc": [
+                "The benefits of Chromosomal Karyotyping include the ability to diagnose genetic disorders, understand the cause of infertility and miscarriage, and make informed decisions about treatment. This information can provide peace of mind for couples who are looking to start a family."
+            ]
+        },
+        {
+            "title": "Who should consider sperm aneuploidy screening?",
+            "fdesc": [
+                "Sperm aneuploidy screening may be recommended for couples who are planning to have children and have a history of infertility, repeated failed IVF cycles, or a family history of chromosomal disorders. It may also be recommended for couples who are older or have a higher risk of having a baby with a chromosomal disorder due to advanced maternal age."
+            ]
+        },
+        {
+            "title": "How is sperm aneuploidy screening performed?",
+            "fdesc": [
+                "Sperm aneuploidy screening is typically performed by analyzing a sample of sperm for the presence of abnormal chromosomes. This can be done through a variety of methods, including fluorescence in situ hybridization (FISH), comparative genomic hybridization (CGH), and next-generation sequencing (NGS)."
+            ]
+        },
+        {
+            "title": "What is endometrial microbiota analysis?",
+            "fdesc": [
+                "A test to assess the microbiome of the endometrium (uterine lining)."
+            ]
+        },
+        {
+            "title": "How do I decide whether to be tested?",
+            "fdesc": [
+                "There are many reasons that people might get genetic testing. Doctors might suggest a genetic test if patients or their families have certain patterns of disease. Genetic testing is voluntary and the decision about whether to have genetic testing is complex.",
+                "A geneticist or genetic counselor can help families think about the benefits and limitations of a particular genetic test. Genetic counselors help individuals and families understand the scientific, emotional, and ethical factors surrounding the decision to have genetic testing and how to deal with the results of those tests."
+            ]
+        },
+        {
+            "title": "Who is at Risk for Retrograde Ejaculation?",
+            "fdesc": [
+                "Retrograde ejaculation can affect men of any age and is most commonly caused by nerve damage, spinal cord injuries, and certain medications. If you are experiencing symptoms of retrograde ejaculation, it is important to consult with a healthcare provider for proper diagnosis and treatment."
+            ]
+        },
+        {
+            "title": "How is genetic information used to treat disease?",
+            "fdesc": [
+                "A person's genetic makeup affects how their body breaks down certain medicines. Genetic testing can examine certain liver enzymes in a person to find out how their body breaks down and removes medicines from the body. Because these liver enzymes are less active in some people, they are less able to break down and get rid of some medicines. This can lead to serious side effects. This type of testing is being used to find the right dose of certain medicines, such as antidepressants that are used to treat some mental illnesses."
+            ]
+        },
+        {
+            "title": "Who is at Risk for an Ectopic Pregnancy?",
+            "fdesc": [
+                "Anyone can be at risk for an ectopic pregnancy, but the risk is higher for women over the age of 35, women who have had a previous ectopic pregnancy, and women with a history of infertility or pelvic inflammatory disease. Women who use assisted reproductive technology may also be at increased risk. It is important to receive prompt medical attention if you suspect you may have an ectopic pregnancy."
+            ]
+        },
+
+        {
+            "title": "Who is at Risk for Ovulation Problems?",
+            "fdesc": [
+                "Anyone can develop ovulation problems, but the risk is higher for women over the age of 35, women with a history of hormonal imbalances or thyroid disorders, and women with a family history of infertility. Women with PCOS may also be at increased risk. It is important to consult with a healthcare provider if you are experiencing difficulty conceiving or suspect you may have an ovulation problem."
+            ]
+        },
+        {
+            "title": "Who is at Risk for Ovarian Cysts?",
+            "fdesc": [
+                "Anyone can develop ovarian cysts, but the risk is higher for women who are approaching menopause, women with a history of hormonal imbalances or endocrine disorders, and women who have a family history of ovarian cysts. Women who use assisted reproductive technologies may also be at increased risk. It is important to consult with a healthcare provider if you suspect you may have an ovarian cyst."
+            ]
+        },
+        {
+            "title": "Who is at Risk for Menstrual Disorders?",
+            "fdesc": [
+                "Anyone can develop menstrual disorders, but the risk is higher for women over the age of 35, women with a history of hormonal imbalances or thyroid disorders, and women with a family history of menstrual disorders. Women who use assisted reproductive technologies may also be at increased risk. It is important to consult with a healthcare provider if you are experiencing menstrual problems."
+            ]
+        },
+        {
+            "title": "Who is at Risk for Varicoceles?",
+            "fdesc": [
+                "Varicoceles are most common in men between the ages of 15 and 25, but can occur at any age. Men who have a family history of varicoceles or who have had previous testicular surgery are at increased risk for the condition. If you suspect you may have a varicocele, it is important to consult with a healthcare provider for proper diagnosis and treatment."
+            ]
+        },
+        {
+            "title": "What are the common types of chromosomal disorders?",
+            "fdesc": [
+                "Some of the most common chromosomal disorders include Down syndrome, Turner syndrome, and Klinefelter syndrome."
+            ]
+        },
+        {
+            "title": "Is medical management the only option for treating chromosomal disorders?",
+            "fdesc": [
+                " No, medical management is only one of several options for treating chromosomal disorders. The appropriate treatment plan may also include surgery, therapy, and genetic counseling."
+            ]
+        },
+        {
+            "title": "Can therapy help individuals with chromosomal disorders?",
+            "fdesc": [
+                "Yes, therapy, such as physical, occupational, and speech therapy, can help individuals with chromosomal disorders to develop their physical and communication skills."
+            ]
+        },
+        {
+            "title": "Who is at Risk for Erectile Dysfunction?",
+            "fdesc": [
+                "Erectile dysfunction can affect men of any age, but is most common in older men. If you are experiencing symptoms of ED, it is important to consult with a healthcare provider for proper diagnosis and treatment. Early treatment can help improve ED and prevent future complications."
+            ]
+        },
+        {
+            "title": "Who is at Risk for Abnormal Semen Analysis Results?",
+            "fdesc": [
+                "Abnormal semen analysis results can affect men of any age, but are more common in older men and men with underlying health conditions. If you are experiencing symptoms of infertility or are concerned about your semen analysis results, it is important to consult with a healthcare provider for proper diagnosis and treatment."
+            ]
+        },
+        {
+            "title": "What are the potential risks of TESA?",
+            "fdesc": [
+                "As with any medical procedure, TESA does carry a small risk of complications, including infection, bleeding, and pain. Your doctor will discuss any potential risks with you before the procedure."
+            ]
+        },
+        {
+            "title": "Who is a good candidate for micro TESE?",
+            "fdesc": [
+                "Micro TESE is typically recommended for men with non-obstructive azoospermia, where the cause of sperm absence is unknown or related to testicular failure. It may also be recommended for men who have had unsuccessful sperm retrieval with a previous TESE procedure."
+            ]
+        },
+        {
+            "title": "Are there any risks associated with micro TESE?",
+            "fdesc": [
+                "As with any surgical procedure, there is a risk of bleeding, infection, and pain. Additionally, there is a small chance that micro TESE may result in damage to the testicles, leading to decreased sperm production or testicular injury. It is important to discuss the potential risks and benefits with a fertility specialist before undergoing micro TESE."
+            ]
+        },
+        {
+            "title": "What is the thyroid gland?",
+            "fdesc": [
+                "The thyroid is a butterfly-shaped gland located in the neck that produces hormones that regulate metabolism."
+            ]
+        },
+        {
+            "title": "What is hypothyroidism?",
+            "fdesc": [
+                "Hypothyroidism is a condition where the thyroid gland does not produce enough hormones, leading to a slowdown of the body's metabolism."
+            ]
+        },
+        {
+            "title": "What are the symptoms of hypothyroidism?",
+            "fdesc": [
+                "Common symptoms of hypothyroidism include fatigue, weight gain, cold intolerance, constipation, and depression."
+            ]
+        },
+        {
+            "title": "What causes Vitamin D deficiency?",
+            "fdesc": [
+                "Lack of sun exposure: Vitamin D is produced in the body through exposure to sunlight. If you don't get enough sun, you may become deficient in Vitamin D.",
+                "Dietary restrictions: Vitamin D is found in limited amounts in food sources, so people who follow a restricted diet or have food allergies may be at risk of deficiency."
+            ]
+        },
+        {
+            "title": "Are there any side effects to Vitamin D supplementation?",
+            "fdesc": [
+                "Yes, there can be side effects associated with Vitamin D supplementation. Although, in most cases, these side effects are mild and temporary. Some of the common side effects include: Nausea and upset stomach,Loss of appetite,Headache,Muscle or bone pain,Weakness or fatigue"
+            ]
+        },
+        {
+            "title": "Can a hormonal imbalance cause infertility?",
+            "fdesc": [
+                "Yes, hormonal imbalances can cause infertility by affecting the production and regulation of reproductive hormones."
+            ]
+        },
+        {
+            "title": "What are hormones?",
+            "fdesc": [
+                "Hormones are chemical messengers produced by the endocrine glands that regulate various bodily functions such as growth, metabolism, and reproductive processes."
+            ]
+        },
+        {
+            "title": "How is a hormonal imbalance treated?",
+            "fdesc": [
+                "Treatment for a hormonal imbalance depends on the specific cause and type of hormone involved. Hormonal imbalances can be treated with medication, lifestyle changes, or hormone replacement therapy."
+            ]
+        },
+        {
+            "title": "What are the health consequences of obesity?",
+            "fdesc": [
+                "Obesity can lead to various health problems, including heart disease, stroke, type 2 diabetes, high blood pressure, sleep apnea, and certain types of cancer."
+            ]
+        },
+        {
+            "title": "How is obesity treated?",
+            "fdesc": [
+                "Treatment for obesity typically involves a combination of lifestyle changes, such as healthy eating and increased physical activity, and in some cases, medication or bariatric surgery."
+            ]
+        },
+        {
+            "title": "Can diet and exercise help with weight loss?",
+            "fdesc": [
+                "Weight loss supplements and diet pills may help with short-term weight loss, but they are not a long-term solution and can have negative side effects. It is important to discuss any weight loss supplements or pills with a doctor before starting to use them."
+            ]
+        },
+        {
+            "title": "What is an autoimmune disease?",
+            "fdesc": [
+                "An autoimmune disease is a condition in which the immune system mistakenly attacks the body's own healthy tissues, causing inflammation and damage."
+            ]
+        },
+        {
+            "title": "What causes autoimmune diseases?",
+            "fdesc": [
+                "The exact cause of autoimmune diseases is not known, but a combination of genetic, environmental, and lifestyle factors is thought to play a role."
+            ]
+        },
+        {
+            "title": "Can autoimmune diseases be prevented?",
+            "fdesc": [
+                "There is no known way to prevent autoimmune diseases, but early diagnosis and treatment can help reduce the risk of long-term complications and improve quality of life."
+            ]
+        },
+        {
+            "title": "Are autoimmune diseases hereditary?",
+            "fdesc": [
+                "Autoimmune diseases can run in families, suggesting a genetic component, but not all autoimmune diseases are necessarily hereditary."
+            ]
+        },
+        {
+            "title": "What causes diabetes?",
+            "fdesc": [
+                "Type 1 diabetes is caused by the destruction of insulin-producing cells in the pancreas. Type 2 diabetes is caused by the body's inability to effectively use insulin. Risk factors for type 2 diabetes include obesity, family history, and age."
+            ]
+        },
+        {
+            "title": "What are the symptoms of diabetes?",
+            "fdesc": [
+                "Symptoms of diabetes can include increased thirst, frequent urination, blurred vision, and fatigue. In severe cases, it can lead to serious health complications such as heart disease, nerve damage, and kidney disease."
+            ]
+        },
+        {
+            "title": "How is diabetes diagnosed?",
+            "fdesc": [
+                "Diabetes is diagnosed through a combination of a fasting plasma glucose test, an oral glucose tolerance test, or an A1C test."
+            ]
+        },
+        {
+            "title": "How successful is egg freezing?",
+            "fdesc": [
+                "The success rate of egg freezing can vary, but recent advancements in freezing techniques have improved the chances of a successful pregnancy."
+            ]
+        },
+        {
+            "title": "Is egg freezing safe?",
+            "fdesc": [
+                "Egg freezing is generally considered safe, but like any medical procedure, it carries some risks, such as ovarian hyperstimulation syndrome, bleeding, and infection."
+            ]
+        },
+        {
+            "title": "How long can eggs be stored?",
+            "fdesc": [
+                "Eggs can be stored for an indefinite amount of time, but the length of storage and quality of the eggs can impact their viability for use in fertility treatment."
+            ]
+        },
+        {
+            "title": "Why would someone choose to freeze their sperm?",
+            "fdesc": [
+                "Sperm freezing is often chosen by men who want to preserve their fertility for personal or medical reasons, such as in preparation for medical treatments that may impact their fertility or as a form of contraception."
+            ]
+        },
+        {
+            "title": "How successful is sperm freezing?",
+            "fdesc": [
+                "The success rate of sperm freezing is high, with a large number of successful pregnancies achieved with thawed sperm"
+            ]
+        },
+        {
+            "title": "Is sperm freezing safe?",
+            "fdesc": [
+                "Sperm freezing is generally considered safe, but like any medical procedure, it carries some risks, such as infection."
+            ]
+        },
+        {
+            "title": "How long can sperm be stored?",
+            "fdesc": [
+                "Sperm can be stored for an indefinite amount of time, but the length of storage and quality of the sperm can impact its viability for use in fertility treatment."
+            ]
+        },
+        {
+            "title": "Why freeze embryos?",
+            "fdesc": [
+                "Embryos can be frozen to allow couples to preserve their fertility for later use, such as if they are undergoing cancer treatment or waiting to start a family."
+            ]
+        },
+        {
+            "title": "How long can embryos be frozen?",
+            "fdesc": [
+                "Embryos can be stored for many years and still remain viable for future use."
+            ]
+        },
+        {
+            "title": "What are the success rates of embryo thawing and transfer?",
+            "fdesc": [
+                "The success rates of embryo thawing and transfer can vary, but studies have shown that the success rates are similar to those of fresh embryos. The success of the procedure depends on many factors, including the age of the woman, the quality of the embryos, and the reason for freezing."
+            ]
+        },
+        {
+            "title": "What conditions can Laparoscopy treat?",
+            "fdesc": [
+                "Laparoscopy can be used to treat a variety of conditions, including endometriosis, fibroids, ovarian cysts, and pelvic pain."
+            ]
+        },
+        {
+            "title": "Is Laparoscopy safe?",
+            "fdesc": [
+                "Laparoscopy is generally considered a safe procedure, but like any surgery, there are risks involved such as infection, bleeding, and damage to internal organs. Your doctor will be able to discuss the risks and benefits with you."
+            ]
+        },
+        {
+            "title": "What conditions can Laparoscopy treat?",
+            "fdesc": [
+                "Laparoscopy can be used to treat a variety of conditions, including endometriosis, fibroids, ovarian cysts, and pelvic pain."
+            ]
+        },
+        {
+            "title": "is Hysteroscopy safe?",
+            "fdesc": [
+                "Hysteroscopy is a safe and effective diagnostic procedure that helps doctors diagnose and treat various gynecological conditions. If you have any questions or concerns about this procedure, be sure to talk to your doctor."
+            ]
+        },
+        {
+            "title": "Why is Uterine Septal Resection performed?",
+            "fdesc": [
+                "The procedure is performed to treat uterine malformations, such as a septate uterus, which can cause fertility problems, recurrent miscarriages, or problems during pregnancy."
+            ]
+        },
+        {
+            "title": "What is the recovery time for Uterine Septal Resection?",
+            "fdesc": [
+                "ecovery time can vary, but most patients can return to normal activities within 1-2 weeks."
+            ]
+        },
+        {
+            "title": "Why is USR performed?",
+            "fdesc": [
+                "USR is performed to treat infertility and recurrent pregnancy loss caused by a uterine septum."
+            ]
+        },
+        {
+            "title": "What are the risks and side effects of USR?",
+            "fdesc": [
+                "Like all surgical procedures, USR carries a risk of bleeding, infection, and scarring. Additionally, there may be temporary side effects such as cramping and spotting after the procedure."
+            ]
+        },
+        {
+            "title": "What are the symptoms of uterine fibroids?",
+            "fdesc": [
+                "Common symptoms of uterine fibroids include heavy menstrual bleeding, pelvic pain or pressure, frequent urination, constipation and lower back pain."
+            ]
+        },
+        {
+            "title": "What is the purpose of Myomectomy?",
+            "fdesc": [
+                "The purpose of Myomectomy is to remove uterine fibroids and preserve the uterus, allowing women to have children in the future if they so desire."
+            ]
+        },
+        {
+            "title": "Is Myomectomy a permanent solution for uterine fibroids?",
+            "fdesc": [
+                "Myomectomy can be an effective treatment for uterine fibroids, but it is not a guarantee that they will not grow back. Regular follow-up and monitoring is recommended to ensure the best outcomes."
+            ]
+        },
+        {
+            "title": "Is Endometrial/Dermoid Cystectomy effective?",
+            "fdesc": [
+                "Endometrial/Dermoid Cystectomy is generally considered to be an effective treatment for endometrial and dermoid cysts, providing relief from symptoms and reducing the risk of complications. The success of the procedure depends on various factors, including the size and location of the cysts and the overall health of the patient."
+            ]
+        },
+        {
+            "title": "Is Endometrial/Dermoid Cystectomy safe?",
+            "fdesc": [
+                "Endometrial/Dermoid Cystectomy is a safe and effective treatment option for women with endometrial or dermoid cysts that are causing symptoms or are suspicious on imaging tests. "
             ]
         }
     ]
