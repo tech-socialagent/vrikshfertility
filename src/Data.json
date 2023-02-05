@@ -11,10 +11,8 @@
                     },
                     {
                         "title": "Team Value"
-                    },
-                    {
-                        "title": "Contact Us"
                     }
+                   
                 ]
             },
             {
@@ -149,7 +147,7 @@
                                         "title": "Ejaculation Problems"
                                     },
                                     {
-                                        "title": "Erectile Dysfuntion"
+                                        "title": "Erectile Dysfunction"
                                     },
                                     {
                                         "title": "Abnormal semen analysis"
@@ -2241,7 +2239,9 @@
         },
         {
             "treatment_name": "PGT-M",
-            "treatment_desc": ["PGT-M (Preimplantation Genetic Testing for Monogenic/Single Gene Disorders) is a cutting-edge, in-vitro fertilization (IVF) procedure that uses advanced genetic testing to screen embryos for monogenic or single gene disorders."],
+            "treatment_desc": [
+                "PGT-M (Preimplantation Genetic Testing for Monogenic/Single Gene Disorders) is a cutting-edge, in-vitro fertilization (IVF) procedure that uses advanced genetic testing to screen embryos for monogenic or single gene disorders."
+            ],
             "sub_data": [
                 {
                     "sub-title": "How Does PGT-M Work?",
@@ -2282,7 +2282,9 @@
         },
         {
             "treatment_name": "Chromosomal Karyotyping",
-            "treatment_desc": ["Chromosomal Karyotyping is a genetic test that analyzes the number and structure of chromosomes in a cell. It is used to diagnose genetic disorders, such as Down syndrome, and to understand the causes of infertility and miscarriage."],
+            "treatment_desc": [
+                "Chromosomal Karyotyping is a genetic test that analyzes the number and structure of chromosomes in a cell. It is used to diagnose genetic disorders, such as Down syndrome, and to understand the causes of infertility and miscarriage."
+            ],
             "sub_data": [
                 {
                     "sub-title": "How Does Chromosomal Karyotyping Work?",
@@ -2323,7 +2325,9 @@
         },
         {
             "treatment_name": "Sperm Aneuploidy Screening",
-            "treatment_desc": ["Sperm Aneuploidy Screening (SAS) is a genetic test that analyzes the chromosomes in sperm to determine if they are carrying the correct number of chromosomes. SAS is used to detect chromosomal abnormalities in sperm, which can cause infertility and increase the risk of genetic disorders in offspring."],
+            "treatment_desc": [
+                "Sperm Aneuploidy Screening (SAS) is a genetic test that analyzes the chromosomes in sperm to determine if they are carrying the correct number of chromosomes. SAS is used to detect chromosomal abnormalities in sperm, which can cause infertility and increase the risk of genetic disorders in offspring."
+            ],
             "sub_data": [
                 {
                     "sub-title": "How Does SAS Work?",
@@ -2364,7 +2368,9 @@
         },
         {
             "treatment_name": "Endometrial Microbiota Analysis (Emma/Alice)",
-            "treatment_desc": ["Endometrial Microbiota Analysis is a laboratory test that analyzes the microbiome within the endometrial cavity. This test is used to determine the presence of healthy or harmful bacteria within the endometrial cavity, which can impact fertility and the success of in vitro fertilization (IVF) treatment."],
+            "treatment_desc": [
+                "Endometrial Microbiota Analysis is a laboratory test that analyzes the microbiome within the endometrial cavity. This test is used to determine the presence of healthy or harmful bacteria within the endometrial cavity, which can impact fertility and the success of in vitro fertilization (IVF) treatment."
+            ],
             "sub_data": [
                 {
                     "sub-title": "How Does Endometrial Microbiota Analysis Work?",
@@ -2399,7 +2405,9 @@
         },
         {
             "treatment_name": "Genetic Tests",
-            "treatment_desc": ["Genetic Tests are laboratory tests that analyze an individual's DNA to identify changes or variations that may be associated with genetic disorders, disease, or predisposition to specific conditions. There are many different types of genetic tests available, including carrier testing, prenatal testing, and cancer gene testing."],
+            "treatment_desc": [
+                "Genetic Tests are laboratory tests that analyze an individual's DNA to identify changes or variations that may be associated with genetic disorders, disease, or predisposition to specific conditions. There are many different types of genetic tests available, including carrier testing, prenatal testing, and cancer gene testing."
+            ],
             "sub_data": [
                 {
                     "sub-title": "How Do Genetic Tests Work?",
@@ -2435,7 +2443,9 @@
         },
         {
             "treatment_name": "Genetic Disorders",
-            "treatment_desc": ["Genetic Disorders are conditions caused by changes or mutations in an individual's DNA. These changes can impact the function of genes and result in physical, intellectual, or developmental disorders. There are many different types of genetic disorders, including chromosomal abnormalities, single gene disorders, and multifactorial disorders."],
+            "treatment_desc": [
+                "Genetic Disorders are conditions caused by changes or mutations in an individual's DNA. These changes can impact the function of genes and result in physical, intellectual, or developmental disorders. There are many different types of genetic disorders, including chromosomal abnormalities, single gene disorders, and multifactorial disorders."
+            ],
             "sub_data": [
                 {
                     "sub-title": "What Causes Genetic Disorders?",
@@ -2497,8 +2507,7 @@
                     "desc": [
                         "Treatment for an ectopic pregnancy will depend on the size and location of the pregnancy, as well as the overall health of the mother. In some cases, medication may be used to end the pregnancy, while in other cases, surgery may be necessary to remove the pregnancy and repair any damage to the fallopian tubes."
                     ]
-                }
-                ,
+                },
                 {
                     "sub-title": "FAQs",
                     "desc": [
@@ -2514,7 +2523,9 @@
         },
         {
             "treatment_name": "Ovulation Problems",
-            "treatment_desc": ["Ovulation problems refer to a difficulty or inability to ovulate, or release an egg, during a menstrual cycle. This can impact a woman's ability to conceive and have a successful pregnancy."],
+            "treatment_desc": [
+                "Ovulation problems refer to a difficulty or inability to ovulate, or release an egg, during a menstrual cycle. This can impact a woman's ability to conceive and have a successful pregnancy."
+            ],
             "sub_data": [
                 {
                     "sub-title": "What Causes Ovulation Problems?",
@@ -2534,7 +2545,6 @@
                         "Treatment for ovulation problems will depend on the underlying cause of the condition. Hormonal imbalances can be treated with medications such as clomiphene citrate, while lifestyle changes, such as weight loss or stress management, may also help improve ovulation. In some cases, assisted reproductive technologies, such as in vitro fertilization, may be necessary."
                     ]
                 },
-                
                 {
                     "sub-title": "FAQs",
                     "desc": [
@@ -2550,7 +2560,9 @@
         },
         {
             "treatment_name": "Ovarian Cysts",
-            "treatment_desc": ["Ovarian cysts are fluid-filled sacs that develop within the ovaries. They are a common occurrence and can vary in size and severity."],
+            "treatment_desc": [
+                "Ovarian cysts are fluid-filled sacs that develop within the ovaries. They are a common occurrence and can vary in size and severity."
+            ],
             "sub_data": [
                 {
                     "sub-title": "What Causes Ovarian Cysts?",
@@ -2585,7 +2597,9 @@
         },
         {
             "treatment_name": "Menstrual disorders",
-            "treatment_desc": ["Menstrual disorders refer to a group of conditions that affect a woman's menstrual cycle, including irregular periods, heavy bleeding, and painful periods."],
+            "treatment_desc": [
+                "Menstrual disorders refer to a group of conditions that affect a woman's menstrual cycle, including irregular periods, heavy bleeding, and painful periods."
+            ],
             "sub_data": [
                 {
                     "sub-title": "What Causes Menstrual Disorders?",
@@ -2620,7 +2634,9 @@
         },
         {
             "treatment_name": "Fallopian Tube Obstruction",
-            "treatment_desc": ["Fallopian tube obstruction refers to a blockage in the fallopian tubes, which are the tubes that transport an egg from the ovary to the uterus. When the tubes are obstructed, it can prevent the egg and sperm from meeting, making it difficult to conceive."],
+            "treatment_desc": [
+                "Fallopian tube obstruction refers to a blockage in the fallopian tubes, which are the tubes that transport an egg from the ovary to the uterus. When the tubes are obstructed, it can prevent the egg and sperm from meeting, making it difficult to conceive."
+            ],
             "sub_data": [
                 {
                     "sub-title": "What Causes Fallopian Tube Obstruction?",
@@ -2654,52 +2670,42 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "Cevical & Uterine Factors (Fibroids)",
+            "treatment_desc": [
+                "Fibroids are non-cancerous growths that develop within the uterus and can affect reproductive health. These growths can range in size from small, pea-sized tumors to large, bulky masses that can cause significant discomfort and health issues."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "What Causes Fibroids?",
                     "desc": [
-                        ""
+                        "The exact cause of fibroids is unknown, but they are thought to be related to hormonal imbalances and genetic factors. Women who have high levels of estrogen or progesterone are more likely to develop fibroids, as are those with a family history of the condition."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "What are the Symptoms of Fibroids?",
                     "desc": [
-                        ""
+                        "Fibroids can cause a range of symptoms, including heavy menstrual bleeding, pelvic pain and pressure, and frequent urination. In some cases, fibroids may cause infertility or pregnancy complications."
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "How are Fibroids Diagnosed?",
                     "desc": [
-                        ""
+                        "Fibroids can be diagnosed through a physical exam, pelvic ultrasound, or MRI. Your doctor may also perform a biopsy of the growth to determine if it is a fibroid."
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
+                    "sub-title": "How are Fibroids Treated?",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "The treatment of fibroids will depend on the size, location, and severity of the growth, as well as the symptoms it is causing. In some cases, medication or a minimally invasive procedure may be recommended. In other cases, surgery to remove the fibroid may be necessary."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Who is at Risk for Fibroids?",
                             "fdesc": [
-                                ""
+                                "Fibroids are most common in women between the ages of 30 and 40, and are more common in African American women. Women who are overweight or have high blood pressure are also at increased risk for fibroids. If you suspect you may have fibroids, it is important to consult with a healthcare provider for proper diagnosis and treatment."
                             ]
                         }
                     ]
@@ -2707,52 +2713,42 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "Varicocele",
+            "treatment_desc": [
+                "Varicocele is a condition that affects the veins in the scrotum and is a common cause of male infertility. It occurs when the veins become dilated and blood flow is compromised, leading to an increase in temperature and pressure in the scrotum."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "What Causes Varicoceles?",
                     "desc": [
-                        ""
+                        "The exact cause of varicoceles is unknown, but they are thought to be related to a problem with the valves in the veins that control blood flow. Varicoceles are most common in men between the ages of 15 and 25 and are often asymptomatic."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "What are the Symptoms of Varicoceles?",
                     "desc": [
-                        ""
+                        "Varicoceles may cause a range of symptoms, including pain or discomfort in the scrotum, a heavy or dragging sensation in the scrotum, or a lump or swelling in the scrotum. Some men may also experience infertility or decreased sperm quality as a result of varicoceles."
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "How are Varicoceles Diagnosed?",
                     "desc": [
-                        ""
+                        "Varicoceles are usually diagnosed through a physical exam, ultrasound, or MRI. Your doctor may also order blood tests or a semen analysis to evaluate the quality of your sperm."
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
+                    "sub-title": "How are Varicoceles Treated?",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "The treatment of varicoceles will depend on the size and severity of the veins, as well as any symptoms you are experiencing. In some cases, surgery to repair the veins may be recommended. In other cases, medication or lifestyle changes may be recommended to manage symptoms and improve blood flow."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Who is at Risk for Varicoceles?",
                             "fdesc": [
-                                ""
+                                "Varicoceles are most common in men between the ages of 15 and 25, but can occur at any age. Men who have a family history of varicoceles or who have had previous testicular surgery are at increased risk for the condition. If you suspect you may have a varicocele, it is important to consult with a healthcare provider for proper diagnosis and treatment."
                             ]
                         }
                     ]
@@ -2760,52 +2756,42 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "Retrograde Ejaculation",
+            "treatment_desc": [
+                "Retrograde ejaculation is a condition in which semen is ejaculated into the bladder instead of out of the penis during orgasm. This can lead to infertility and decreased sexual function."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "What Causes Retrograde Ejaculation?",
                     "desc": [
-                        ""
+                        "Retrograde ejaculation is caused by a variety of factors, including nerve damage, spinal cord injuries, certain medications, and surgery to the bladder, prostate, or urethra."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "What are the Symptoms of Retrograde Ejaculation?",
                     "desc": [
-                        ""
+                        "The main symptom of retrograde ejaculation is a decreased or absent semen during ejaculation. Some men may also experience pain or burning during ejaculation, urinary incontinence, or urinary tract infections."
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "How is Retrograde Ejaculation Diagnosed?",
                     "desc": [
-                        ""
+                        "Retrograde ejaculation is diagnosed through a semen analysis, which will show if semen is present in the urine after ejaculation. Your doctor may also order a urine test to evaluate the composition of the semen and rule out other conditions."
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
+                    "sub-title": "How is Retrograde Ejaculation Treated?",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "The treatment of retrograde ejaculation will depend on the underlying cause of the condition. In some cases, medications may be recommended to improve nerve function and restore normal ejaculation. In other cases, surgery or other treatments may be recommended to correct the underlying problem."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Who is at Risk for Retrograde Ejaculation?",
                             "fdesc": [
-                                ""
+                                "Retrograde ejaculation can affect men of any age and is most commonly caused by nerve damage, spinal cord injuries, and certain medications. If you are experiencing symptoms of retrograde ejaculation, it is important to consult with a healthcare provider for proper diagnosis and treatment."
                             ]
                         }
                     ]
@@ -2813,52 +2799,42 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "Ejaculation Problems",
+            "treatment_desc": [
+                "Ejaculation problems refer to issues with the release of semen from the penis during orgasm. These problems can cause infertility and decreased sexual function."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "What Causes Ejaculation Problems?",
                     "desc": [
-                        ""
+                        "Ejaculation problems can be caused by a variety of factors, including nerve damage, spinal cord injuries, certain medications, and surgery to the prostate, bladder or urethra. Psychological factors such as stress, anxiety and depression can also contribute to ejaculation problems."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "What are the Symptoms of Ejaculation Problems?",
                     "desc": [
-                        ""
+                        "The main symptoms of ejaculation problems include premature ejaculation, delayed ejaculation, and retrograde ejaculation. Other symptoms can include pain or discomfort during ejaculation, decreased sexual satisfaction, and infertility."
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "How is Ejaculation Problem Diagnosed?",
                     "desc": [
-                        ""
+                        "Ejaculation problems can be diagnosed through a physical exam and medical history, as well as through a semen analysis. Your doctor may also order tests to rule out other underlying conditions."
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
+                    "sub-title": "How is Ejaculation Problem Treated?",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "Treatment for ejaculation problems will depend on the underlying cause of the condition. In some cases, medications may be recommended to improve nerve function and restore normal ejaculation. In other cases, behavioral therapy, such as the squeeze technique, or counseling may be recommended to address psychological factors contributing to the problem. In some cases, surgery may be necessary to correct physical damage or abnormalities."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Who is at Risk for Ejaculation Problems?",
                             "fdesc": [
-                                ""
+                                "Ejaculation problems can affect men of any age, and are most commonly caused by nerve damage, spinal cord injuries, and certain medications. If you are experiencing symptoms of ejaculation problems, it is important to consult with a healthcare provider for proper diagnosis and treatment."
                             ]
                         }
                     ]
@@ -2866,52 +2842,42 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "Erectile Dysfunction",
+            "treatment_desc": [
+                "Erectile dysfunction (ED) refers to the inability to achieve or maintain an erection sufficient for sexual activity. It is a common condition that affects millions of men around the world."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "What Causes Erectile Dysfunction?",
                     "desc": [
-                        ""
+                        "Erectile dysfunction can be caused by a variety of factors, including physical issues like cardiovascular disease, high blood pressure, and diabetes, as well as psychological factors like stress, anxiety, and depression. In some cases, ED can also be a side effect of certain medications."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "What are the Symptoms of Erectile Dysfunction?",
                     "desc": [
-                        ""
+                        "The main symptom of ED is the inability to achieve or maintain an erection. Other symptoms can include decreased libido, difficulty achieving orgasm, and psychological distress."
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "How is Erectile Dysfunction Diagnosed?",
                     "desc": [
-                        ""
+                        "Erectile dysfunction can be diagnosed through a physical exam, medical history, and laboratory tests. Your doctor may also perform an ultrasound to assess blood flow to the penis and rule out other underlying conditions."
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
+                    "sub-title": "How is Erectile Dysfunction Treated?",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "Treatment for ED will depend on the underlying cause of the condition. In some cases, lifestyle changes like reducing stress and improving diet and exercise can help. Medications, such as phosphodiesterase type 5 (PDE5) inhibitors, can also be effective in improving ED. In severe cases, surgery or penile implants may be recommended."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Who is at Risk for Erectile Dysfunction?",
                             "fdesc": [
-                                ""
+                                "Erectile dysfunction can affect men of any age, but is most common in older men. If you are experiencing symptoms of ED, it is important to consult with a healthcare provider for proper diagnosis and treatment. Early treatment can help improve ED and prevent future complications."
                             ]
                         }
                     ]
@@ -2919,52 +2885,42 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "Abnormal Semen analysis",
+            "treatment_desc": [
+                "Semen analysis is a test used to evaluate the quality and quantity of a man's semen and sperm. Abnormal semen analysis results can indicate issues with fertility and may be a sign of underlying health problems."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "What Causes Abnormal Semen Analysis Results?",
                     "desc": [
-                        ""
+                        "There are a variety of factors that can contribute to abnormal semen analysis results, including hormonal imbalances, genetic disorders, infection, and exposure to certain toxins. In some cases, the cause of abnormal results may not be clear."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "What are the Symptoms of Abnormal Semen Analysis Results?",
                     "desc": [
-                        ""
+                        "In most cases, there are no specific symptoms of abnormal semen analysis results. However, symptoms of underlying conditions, such as infertility, decreased libido, or pain during ejaculation, may be present."
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "How is Abnormal Semen Analysis Diagnosed?",
                     "desc": [
-                        ""
+                        "Abnormal semen analysis results are typically identified during routine infertility testing. A doctor will perform a physical exam, medical history, and laboratory tests, including a semen analysis, to diagnose the cause of the abnormal results."
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
+                    "sub-title": "How is Abnormal Semen Analysis Treated?",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "Treatment for abnormal semen analysis will depend on the underlying cause of the condition. In some cases, medications or lifestyle changes may help improve sperm quality and quantity. In severe cases, assisted reproductive technologies (ART) may be recommended to help couples achieve pregnancy."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Who is at Risk for Abnormal Semen Analysis Results?",
                             "fdesc": [
-                                ""
+                                "Abnormal semen analysis results can affect men of any age, but are more common in older men and men with underlying health conditions. If you are experiencing symptoms of infertility or are concerned about your semen analysis results, it is important to consult with a healthcare provider for proper diagnosis and treatment."
                             ]
                         }
                     ]
@@ -2972,52 +2928,45 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "Chromosomal Disorders",
+            "treatment_desc": [
+                "Chromosomal disorders are genetic conditions that occur due to an abnormal number of chromosomes or structural changes in the chromosomes. Some of the most common chromosomal disorders include Down syndrome, Turner syndrome, and Klinefelter syndrome. The symptoms and severity of these disorders vary depending on the type and extent of the chromosomal abnormality."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "Treatment Options:",
                     "desc": [
-                        ""
+                        "1. Medical Management: In some cases, medical management may be all that is needed to manage the symptoms of a chromosomal disorder. This may include medications to manage specific symptoms, such as developmental delays, or physical abnormalities.",
+                        "2. Surgery: In some cases, surgery may be recommended to correct physical abnormalities caused by a chromosomal disorder. This may include procedures to correct heart defects, correct limb anomalies, or improve hearing or vision.",
+                        "3. Therapy: Physical, occupational, and speech therapies may be recommended to help individuals with chromosomal disorders to develop their physical and communication skills.",
+                        "4. Genetic Counseling: Genetic counseling can provide individuals and families with information about their risk of having a child with a chromosomal disorder and can help them make informed decisions about their future."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "Conclusion",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "What should I expect?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "Treatment for chromosomal disorders can vary depending on the type and extent of the disorder. A team of healthcare professionals, including a physician, genetic counselor, and therapists, can work together to develop an individualized treatment plan that meets the specific needs of each person with a chromosomal disorder."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "What are the common types of chromosomal disorders?",
                             "fdesc": [
-                                ""
+                                "Some of the most common chromosomal disorders include Down syndrome, Turner syndrome, and Klinefelter syndrome."
+                            ]
+                        },
+                        {
+                            "title": "Is medical management the only option for treating chromosomal disorders?",
+                            "fdesc": [
+                                " No, medical management is only one of several options for treating chromosomal disorders. The appropriate treatment plan may also include surgery, therapy, and genetic counseling."
+                            ]
+                        },
+                        {
+                            "title": "Can therapy help individuals with chromosomal disorders?",
+                            "fdesc": [
+                                "Yes, therapy, such as physical, occupational, and speech therapy, can help individuals with chromosomal disorders to develop their physical and communication skills."
                             ]
                         }
                     ]
@@ -3025,52 +2974,46 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "TESA",
+            "treatment_desc": [
+                "TESA (Testicular Sperm Aspiration) is a medical procedure used to retrieve sperm from the testicles for use in assisted reproductive technologies such as in vitro fertilization (IVF). The procedure is used for men with infertility due to a low sperm count or absence of sperm in the semen."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "What is TESA?",
                     "desc": [
-                        ""
+                        "TESA is a minimally invasive procedure that involves the use of a fine needle to aspirate (remove) sperm from the testicles. The procedure is performed under local anesthesia and typically takes about 30 minutes."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "How does TESA work?",
                     "desc": [
-                        ""
+                        "During TESA, a fine needle is inserted into the testicle through the scrotum, and sperm are aspirated from the testicular tissue. The collected sperm are then processed and used in assisted reproductive technologies such as IVF."
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "Who is a candidate for TESA?",
                     "desc": [
-                        ""
+                        "Men with infertility due to a low sperm count or absence of sperm in the semen may be candidates for TESA. The procedure may also be used for men with a history of vasectomy or men who have had a failed vasectomy reversal."
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
+                    "sub-title": "What are the benefits of TESA?",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "TESA offers several benefits, including:",
+                        " Minimally invasive procedure with minimal discomfort and risk",
+                        " High success rate in retrieving sperm",
+                        " Can be performed in a single outpatient visit",
+                        " High success rates in assisted reproductive technologies such as IVF when sperm is retrieved"
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "What are the potential risks of TESA?",
                             "fdesc": [
-                                ""
+                                "As with any medical procedure, TESA does carry a small risk of complications, including infection, bleeding, and pain. Your doctor will discuss any potential risks with you before the procedure."
                             ]
                         }
                     ]
@@ -3078,52 +3021,52 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "PESA",
+            "treatment_desc": [
+                "PESA (Percutaneous Epididymal Sperm Aspiration) is a minimally invasive technique used to extract sperm from the epididymis for use in assisted reproductive techniques such as IVF (In-Vitro Fertilization)."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "Purpose",
                     "desc": [
-                        ""
+                        "The procedure is performed for men who have a low sperm count or no sperm in their ejaculate, a condition known as azoospermia. This procedure can help couples who are struggling with infertility to conceive a child."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "Procedure",
                     "desc": [
-                        ""
+                        "The procedure is performed under local anesthesia and takes approximately 30 minutes to complete. During the procedure, a thin needle is inserted into the epididymis, and sperm is aspirated. The extracted sperm is then used for IVF or ICSI (Intracytoplasmic Sperm Injection)."
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "Benefits",
                     "desc": [
-                        ""
+                        "PESA is a minimally invasive procedure with minimal discomfort",
+                        "The procedure can be performed quickly and is less expensive than other sperm retrieval techniques.",
+                        "The procedure is effective in retrieving sperm in up to 60% of cases.",
+                        "PESA has a high success rate, with many couples achieving pregnancy after the procedure."
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
+                    "sub-title": "Recovery",
                     "desc": [
-                        ""
+                        "The recovery from the procedure is relatively quick, with patients usually able to return to their normal activities within a day or two."
                     ]
                 },
                 {
-                    "sub-title": "Are There Any Risks?",
+                    "sub-title": "Conclusion:",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "PESA is a minimally invasive procedure that can help couples who are struggling with infertility to conceive a child. The procedure is effective in retrieving sperm in up to 60% of cases and has a high success rate. If you are considering PESA, it is important to discuss the procedure with your doctor to determine if it is the right option for you."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Are There Any Risks?",
                             "fdesc": [
-                                ""
+                                "The procedure is associated with a low risk of complications, but there is a risk of bleeding, infection, and damage to the testicle or epididymis.",
+                                "In rare cases, the procedure may not result in the retrieval of sperm."
                             ]
                         }
                     ]
@@ -3131,52 +3074,45 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "Micro-TESE",
+            "treatment_desc": [
+                "Micro-TESE, or Microdissection Testicular Sperm Extraction, is a surgical procedure used to retrieve sperm from the testicles for use in assisted reproductive technologies (ART) such as in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI). Micro-TESE is a minimally invasive procedure that is performed under general or local anesthesia, and is often recommended for men with non-obstructive azoospermia, a condition in which there is no sperm present in the semen."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "How does Micro-TESE work?",
                     "desc": [
-                        ""
+                        "During a Micro-TESE procedure, a tiny incision is made in the scrotum, and the testicles are examined under a microscope to locate areas that contain sperm. Tissue samples are then carefully removed and evaluated for the presence of sperm. If viable sperm are found, they can be used immediately for ART or cryopreserved for future use."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "What are the benefits of Micro-TESE?",
                     "desc": [
-                        ""
+                        "High success rates: Micro-TESE has a high success rate in retrieving sperm, even in cases where other sperm retrieval methods have failed.",
+                        "Minimally invasive: Unlike traditional open-surgery sperm retrieval methods, Micro-TESE is minimally invasive and has a shorter recovery time.",
+                        "Increased chances of pregnancy: With the use of Micro-TESE, couples who have been unable to conceive due to male infertility can now increase their chances of pregnancy through ART.",
+                        "Improved sperm quality: The sperm retrieved through Micro-TESE are often of higher quality, making them more suitable for ART procedures."
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "Summary",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "Overall, Micro-TESE is a safe, effective, and minimally invasive way to retrieve sperm for use in ART, offering couples new hope for starting a family. If you have been diagnosed with non-obstructive azoospermia and are interested in exploring your fertility options, talk to your doctor about Micro-TESE and how it can help."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Who is a good candidate for micro TESE?",
                             "fdesc": [
-                                ""
+                                "Micro TESE is typically recommended for men with non-obstructive azoospermia, where the cause of sperm absence is unknown or related to testicular failure. It may also be recommended for men who have had unsuccessful sperm retrieval with a previous TESE procedure."
+                            ]
+                        },
+                        {
+                            "title": "Are there any risks associated with micro TESE?",
+                            "fdesc": [
+                                "As with any surgical procedure, there is a risk of bleeding, infection, and pain. Additionally, there is a small chance that micro TESE may result in damage to the testicles, leading to decreased sperm production or testicular injury. It is important to discuss the potential risks and benefits with a fertility specialist before undergoing micro TESE."
                             ]
                         }
                     ]
@@ -3184,52 +3120,50 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "Unexplained Infertility",
+            "treatment_desc": [
+                "Unexplained infertility refers to a situation where a couple is unable to conceive even after a year of trying and no underlying medical cause can be identified. This can be a frustrating and emotional experience for couples who want to start a family. However, advances in reproductive medicine have made it possible for couples to overcome unexplained infertility and achieve pregnancy."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "Causes of Unexplained Infertility:",
                     "desc": [
-                        ""
+                        "The exact cause of unexplained infertility is unknown, but there are several possible factors that can contribute to it, such as:",
+                        "Age",
+                        "Polycystic ovary syndrome (PCOS)",
+                        "Endocrine disorders",
+                        "Sperm abnormalities",
+                        "Implantation failure"
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "Treatment Options:",
                     "desc": [
-                        ""
+                        "Intrauterine Insemination (IUI): IUI involves placing sperm inside the uterus to increase the chances of fertilization. This procedure is recommended for couples with mild infertility.",
+                        "In vitro fertilization (IVF): IVF is a procedure where eggs are collected from the ovaries and fertilized with sperm in a laboratory. The resulting embryos are then transferred to the uterus. This procedure is recommended for couples with moderate to severe infertility.",
+                        "Assisted Reproductive Technologies (ARTs): ARTs include ICSI (Intracytoplasmic sperm injection), PICSI (Polar body Intracytoplasmic sperm injection), and Time-lapse incubation. These procedures can help couples overcome unexplained infertility by improving the chances of fertilization and embryo development.",
+                        "Lifestyle changes: Making changes to your lifestyle, such as reducing stress, maintaining a healthy weight, and following a balanced diet, can also help improve your chances of conception."
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "Conclusion:",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "Unexplained infertility can be a challenging experience for couples who want to start a family, but there are several effective treatment options available. If you are facing infertility, it's important to talk to your doctor and seek the right treatment plan that best suits your needs."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "How long does it take to treat unexplained infertility?",
                             "fdesc": [
-                                ""
+                                "he length of treatment for unexplained infertility depends on the severity of the condition and the treatment option chosen. It can take anywhere from a few weeks to several months."
+                            ]
+                        },
+                        {
+                            "title": "Can unexplained infertility be treated without medical intervention?",
+                            "fdesc": [
+                                "While making lifestyle changes can help improve the chances of conception, medical intervention is usually necessary for treating unexplained infertility."
                             ]
                         }
                     ]
@@ -3237,52 +3171,46 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "Thyroid Disorders",
+            "treatment_desc": [
+                "Thyroid disorders are a common condition that affects the thyroid gland, a small butterfly-shaped gland in the neck. This gland plays an essential role in regulating the body's metabolism, which affects the heart rate, body temperature, and weight. The two most common thyroid disorders are hypothyroidism (underactive thyroid) and hyperthyroidism (overactive thyroid)."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "Treatment Options:",
                     "desc": [
-                        ""
+                        "1. Medications: Thyroid hormones, such as levothyroxine, are used to treat hypothyroidism. Anti-thyroid medications, such as methimazole or propylthiouracil, are used to treat hyperthyroidism.",
+                        "2. Radioactive iodine: This treatment option is used to destroy overactive thyroid tissue, which reduces the symptoms of hyperthyroidism.",
+                        "3. Surgery: A total or partial thyroidectomy is an option for patients with thyroid nodules, goiter, or cancer.",
+                        "4. Thyroid hormone therapy: This treatment option is used to replace thyroid hormones for patients with an underactive thyroid.",
+                        "5. Lifestyle Changes: Making dietary and lifestyle changes, such as reducing stress, eating a balanced diet, and avoiding exposure to radiation, can help improve thyroid function."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "Conclusion:",
                     "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "What should I expect?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
+                        "Thyroid disorders can be effectively managed with the right treatment plan. It is essential to work with a healthcare professional to determine the best course of action, as each case is unique. With proper treatment, patients can manage their symptoms and maintain optimal health."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "What is the thyroid gland?",
                             "fdesc": [
-                                ""
+                                "The thyroid is a butterfly-shaped gland located in the neck that produces hormones that regulate metabolism."
+                            ]
+                        },
+                        {
+                            "title": "What is hypothyroidism?",
+                            "fdesc": [
+                                "Hypothyroidism is a condition where the thyroid gland does not produce enough hormones, leading to a slowdown of the body's metabolism."
+                            ]
+                        },
+                        {
+                            "title": "What are the symptoms of hypothyroidism?",
+                            "fdesc": [
+                                "Common symptoms of hypothyroidism include fatigue, weight gain, cold intolerance, constipation, and depression."
                             ]
                         }
                     ]
@@ -3290,41 +3218,707 @@
             ]
         },
         {
-            "treatment_name": "fff",
-            "treatment_desc": [],
+            "treatment_name": "Vitamin D Deficiency",
+            "treatment_desc": [
+                "Vitamin D is an essential nutrient that helps our bodies absorb calcium and maintain strong bones. It is produced by our skin when it's exposed to sunlight and can also be obtained through certain foods and supplements."
+            ],
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "Causes of Vitamin D Deficiency",
+                    "desc": [
+                        "A lack of exposure to sunlight, poor dietary intake, and certain medical conditions can all contribute to a deficiency in Vitamin D. People who have darker skin, are overweight, or have limited sun exposure are at a higher risk for a Vitamin D deficiency."
+                    ]
+                },
+                {
+                    "sub-title": "Symptoms of Vitamin D Deficiency",
+                    "desc": [
+                        "Some of the common symptoms of Vitamin D deficiency include tiredness, muscle weakness, and pain, as well as an increased risk of fractures and osteoporosis. In severe cases, Vitamin D deficiency can also lead to Rickets, a condition that affects the growth and development of bones."
+                    ]
+                },
+                {
+                    "sub-title": "Vitamin D Deficiency Treatment",
+                    "desc": [
+                        "The treatment of Vitamin D deficiency involves increasing your intake of Vitamin D through food, supplements, or increased exposure to sunlight. Your healthcare provider will be able to determine the right course of treatment for you, based on your individual needs and the severity of your deficiency."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What causes Vitamin D deficiency?",
+                            "fdesc": [
+                                "Lack of sun exposure: Vitamin D is produced in the body through exposure to sunlight. If you don't get enough sun, you may become deficient in Vitamin D.",
+                                "Dietary restrictions: Vitamin D is found in limited amounts in food sources, so people who follow a restricted diet or have food allergies may be at risk of deficiency."
+                            ]
+                        },
+                        {
+                            "title": "Are there any side effects to Vitamin D supplementation?",
+                            "fdesc": [
+                                "Yes, there can be side effects associated with Vitamin D supplementation. Although, in most cases, these side effects are mild and temporary. Some of the common side effects include: Nausea and upset stomach,Loss of appetite,Headache,Muscle or bone pain,Weakness or fatigue"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        
+        {
+            "treatment_name": "Hormone Level Imbalance",
+            "treatment_desc": [
+                "Hormone level imbalance is a common condition in which the levels of hormones in the body are not in their normal range. Hormones play a crucial role in regulating various bodily processes and imbalanced levels can result in various symptoms and health conditions. Hormone level imbalances can occur due to a variety of reasons including aging, lifestyle factors, and medical conditions."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Symptoms of Hormone Level Imbalance",
+                    "desc": [
+                        "The symptoms of hormone level imbalance can vary depending on the specific hormones involved. Some common symptoms include:",
+                        "Fatigue",
+                        "Mood swings and irritability",
+                        "Difficulty sleeping",
+                        "Weight changes",
+                        "Hot flashes and night sweats",
+                        "Reduced sex drive",
+                        "Decreased muscle mass",
+                        "Hair loss and dry skin",
+                        "Decreased bone density"
+                    ]
+                },
+                {
+                    "sub-title": "Treatment Options for Hormone Level Imbalance",
+                    "desc": [
+                        "The treatment for hormone level imbalance will depend on the specific hormones involved and the underlying cause of the imbalance. Some common treatment options include:",
+                        "Hormone replacement therapy (HRT): This involves the use of hormones, either in the form of pills, patches, injections, or pellets, to supplement the levels of hormones in the body.",
+                        "Lifestyle changes: Making changes to one's diet and exercise habits, as well as reducing stress, can help regulate hormone levels.",
+                        "Natural remedies: Some natural remedies, such as herbs and supplements, can help regulate hormone levels and reduce symptoms.",
+                        "Surgery: In some cases, surgery may be necessary to treat an underlying medical condition that is causing the hormone imbalance."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Can a hormonal imbalance cause infertility?",
+                            "fdesc":[ "Yes, hormonal imbalances can cause infertility by affecting the production and regulation of reproductive hormones."]
+                        },
+                        {
+                            "title": "What are hormones?",
+                            "fdesc": ["Hormones are chemical messengers produced by the endocrine glands that regulate various bodily functions such as growth, metabolism, and reproductive processes."]
+                        },
+                        {
+                            "title": "How is a hormonal imbalance treated?",
+                            "fdesc": ["Treatment for a hormonal imbalance depends on the specific cause and type of hormone involved. Hormonal imbalances can be treated with medication, lifestyle changes, or hormone replacement therapy."]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Obesity",
+            "treatment_desc": [
+                "Obesity is a condition characterized by excessive body fat that increases the risk of various health problems, including heart disease, diabetes, and certain cancers. The condition affects millions of people globally and is one of the leading causes of preventable death. Fortunately, obesity can be treated effectively with a combination of lifestyle changes and medical intervention."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Causes of Obesity",
+                    "desc": [
+                        "Obesity occurs when you consume more calories than your body can burn. The excess calories are stored as fat, leading to weight gain. Other factors that can contribute to obesity include:",
+                        "Poor diet: Consuming a diet high in unhealthy foods, such as processed foods, sugary drinks, and unhealthy fats, can contribute to weight gain and obesity.",
+                        "Lack of physical activity: A sedentary lifestyle can lead to weight gain and obesity. Regular physical activity is essential to maintain a healthy weight.",
+                        " Obesity can run in families, and certain genetic conditions can increase the risk of obesity.",
+                        " Certain medications, such as steroids and some antidepressants, can contribute to weight gain and obesity.",
+                        "Sleep disorders: Disruptions in sleep patterns, such as sleep apnea, can increase the risk of obesity."
+                    ]
+                },
+                {
+                    "sub-title": "Treatment Options for Obesity",
+                    "desc": [
+                        "The treatment of obesity depends on the individual's needs and goals, but typically involves a combination of lifestyle changes and medical intervention. The following are some of the most common treatments for obesity:",
+                        "Lifestyle changes: The cornerstone of obesity treatment is lifestyle changes, such as adopting a healthy diet and increasing physical activity.",
+                        " In some cases, prescription medications can help with weight loss. These medications work by reducing the appetite or increasing the metabolism.",
+                        "Bariatric surgery: For individuals with severe obesity, bariatric surgery may be an option. This type of surgery restricts the amount of food that can be eaten or reduces the absorption of nutrients, leading to weight loss.",
+                        "Behavioral therapy: Behavioral therapy can help individuals overcome the psychological and behavioral factors that contribute to obesity."
+                    ]
+                },
+                {
+                    "sub-title": "Conclusion",
+                    "desc": [
+                        "Obesity is a complex condition that requires a comprehensive approach to treatment. By working with a healthcare professional, individuals can develop a personalized plan to address their specific needs and achieve their weight loss goals. With the right combination of lifestyle changes and medical intervention, it is possible to effectively treat obesity and improve overall health and well-being."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What are the health consequences of obesity?",
+                            "fdesc": ["Obesity can lead to various health problems, including heart disease, stroke, type 2 diabetes, high blood pressure, sleep apnea, and certain types of cancer."]
+                        },
+                        {
+                            "title": "How is obesity treated?",
+                            "fdesc": ["Treatment for obesity typically involves a combination of lifestyle changes, such as healthy eating and increased physical activity, and in some cases, medication or bariatric surgery."]
+                        },
+                        {
+                            "title": "Can diet and exercise help with weight loss?",
+                            "fdesc": ["Weight loss supplements and diet pills may help with short-term weight loss, but they are not a long-term solution and can have negative side effects. It is important to discuss any weight loss supplements or pills with a doctor before starting to use them."]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Auto Immune Disease",
+            "treatment_desc": [
+                "Auto-immune diseases are a group of conditions where the body's immune system mistakenly attacks its own cells and tissues. The immune system, which is normally designed to protect the body from harmful invaders like bacteria and viruses, can mistakenly attack healthy cells and tissues, leading to chronic inflammation and tissue damage.",
+                "There is no cure for most auto-immune diseases, but treatment can help manage symptoms and prevent further damage to the body."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Treatment options for auto-immune diseases include:",
+                    "desc": [
+                        " There are several types of medications that can help manage the symptoms of auto-immune diseases, including nonsteroidal anti-inflammatory drugs (NSAIDs), corticosteroids, disease-modifying antirheumatic drugs (DMARDs), biologic response modifiers (biologics), and immunosuppressive drugs.",
+                        "Lifestyle changes: Making changes to your diet, exercise routine, and stress levels can also help manage the symptoms of auto-immune diseases",
+                        "Complementary and alternative therapies: Some people with auto-immune diseases find relief from complementary and alternative therapies, such as acupuncture, chiropractic care, and herbal remedies."
+                    ]
+                },
+                {
+                    "sub-title": "Symptoms and Diagnosis of Auto-immune Diseases",
+                    "desc": [
+                        "The symptoms of auto-immune diseases vary depending on the type of disease, but common symptoms include fatigue, joint pain and swelling, skin rashes, and fever. Some auto-immune diseases may also cause internal organ damage and affect the central nervous system.",
+                        "Diagnosis of auto-immune diseases is often challenging and may involve a combination of physical exams, blood tests, and imaging studies.",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "sub-title": "Managing Auto-immune Diseases",
+                    "desc": [
+                        "Working closely with your doctor: Regular doctor appointments and close communication with your healthcare team is essential for effective management of your auto-immune disease.",
+                        "Following your treatment plan: Taking your medications as prescribed and making any recommended lifestyle changes can help control your symptoms and prevent further damage to your body.",
+                        "Staying informed: Learning about your auto-immune disease, its causes, and how to manage it can help you feel more in control of your health.",
+                        "Building a support system: Connecting with others who have the same condition can be a great source of support and can provide you with tips for managing your disease.",
+                        "aking care of your mental health: Living with an auto-immune disease can be emotionally challenging, so it's important to take care of your mental health by seeking support from friends and family, practicing relaxation techniques, and talking to a counselor if needed."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What is an autoimmune disease?",
+                            "fdesc": ["An autoimmune disease is a condition in which the immune system mistakenly attacks the body's own healthy tissues, causing inflammation and damage."]
+                        },
+                        {
+                            "title": "What causes autoimmune diseases?",
+                            "fdesc": ["The exact cause of autoimmune diseases is not known, but a combination of genetic, environmental, and lifestyle factors is thought to play a role."]
+                        },
+                        {
+                            "title": "Can autoimmune diseases be prevented?",
+                            "fdesc": ["There is no known way to prevent autoimmune diseases, but early diagnosis and treatment can help reduce the risk of long-term complications and improve quality of life."]
+                        },
+                        {
+                            "title": "Are autoimmune diseases hereditary?",
+                            "fdesc": ["Autoimmune diseases can run in families, suggesting a genetic component, but not all autoimmune diseases are necessarily hereditary."]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Diabetes",
+            "treatment_desc": [
+                "Diabetes is a chronic health condition that affects the way the body processes blood sugar. People with diabetes have high blood sugar levels due to the body's inability to produce or properly use insulin, a hormone that regulates blood sugar levels. There are two main types of diabetes: type 1 and type 2."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Type 1 Diabetes Treatment",
+                    "desc": [
+                        "Type 1 diabetes is an autoimmune disease that occurs when the body's immune system attacks and destroys the cells in the pancreas that produce insulin. This type of diabetes typically develops in childhood or adolescence and requires daily insulin injections or the use of an insulin pump."
+                    ]
+                },
+                {
+                    "sub-title": "Type 2 Diabetes Treatment",
+                    "desc": [
+                        "Type 2 diabetes is a progressive condition that occurs when the body becomes resistant to insulin and is unable to produce enough insulin to regulate blood sugar levels effectively. Type 2 diabetes is often linked to lifestyle factors such as poor diet, lack of physical activity, and obesity.",
+                        "Treatment for type 2 diabetes typically includes lifestyle changes such as adopting a healthy diet, increasing physical activity, and losing weight. Additionally, medication such as metformin or sulfonylureas may be prescribed to help regulate blood sugar levels. In some cases, insulin therapy may also be required."
+                    ]
+                },
+                {
+                    "sub-title": "Other Diabetes Treatments",
+                    "desc": [
+                        "Other treatments for diabetes may include regular monitoring of blood sugar levels, taking medications to lower blood pressure and cholesterol, and participating in diabetes education programs.",
+                        "It is important for individuals with diabetes to work closely with their healthcare provider to develop a comprehensive treatment plan that is tailored to their specific needs and goals. With the right treatment, support, and self-care, people with diabetes can lead healthy and fulfilling lives."                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What causes diabetes?",
+                            "fdesc":["Type 1 diabetes is caused by the destruction of insulin-producing cells in the pancreas. Type 2 diabetes is caused by the body's inability to effectively use insulin. Risk factors for type 2 diabetes include obesity, family history, and age."]
+                        },
+                        {
+                            "title": "What are the symptoms of diabetes?",
+                            "fdesc":["Symptoms of diabetes can include increased thirst, frequent urination, blurred vision, and fatigue. In severe cases, it can lead to serious health complications such as heart disease, nerve damage, and kidney disease."]
+                        },
+                        {
+                            "title": "How is diabetes diagnosed?",
+                            "fdesc":["Diabetes is diagnosed through a combination of a fasting plasma glucose test, an oral glucose tolerance test, or an A1C test."]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Oocyte/Egg Freezing",
+            "treatment_desc": [
+                "Egg freezing, also known as oocyte cryopreservation, is a fertility preservation technique that involves retrieving and freezing a woman's eggs. The process is becoming increasingly popular among women who want to preserve their fertility, especially those who are facing medical treatments that may affect their reproductive system."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Understanding the Procedure",
+                    "desc": [
+                        "Oocyte/egg freezing typically involves several steps:",
+                        "1. Ovarian Stimulation: The first step is to stimulate the ovaries to produce multiple eggs. This is usually done using hormonal medications that increase the number of eggs that mature in a cycle.",
+                        "2. Egg Retrieval: Once the eggs are mature, they are retrieved through a minor surgical procedure known as transvaginal ultrasound-guided aspiration.",
+                        "3. The eggs are then frozen using a process called vitrification, which involves rapidly freezing the eggs to minimize the formation of ice crystals and damage to the eggs.",
+                        "4. When the woman is ready to use the eggs, they are thawed, and the best quality eggs are selected for fertilization."
+                    ]
+                },
+                {
+                    "sub-title": "Benefits of Oocyte/Egg Freezing",
+                    "desc": [
+                        "Fertility Preservation: The main advantage of oocyte/egg freezing is that it provides women with an opportunity to preserve their fertility and plan their pregnancy at a later stage.",
+                        "Medical Reasons: Women undergoing medical treatments such as chemotherapy or radiation therapy that can damage their eggs can benefit from this procedure.",
+                        "Career Choices: Women who are not yet ready to start a family but want to preserve their fertility can opt for this procedure, allowing them to focus on their careers.",
+                        "Personal Reasons: Women who are not in a stable relationship but still want to have children in the future can benefit from this procedure."
+                    ]
+                },
+                {
+                    "sub-title": "Risks and Considerations",
+                    "desc": [
+                        "As with any medical procedure, there are certain risks and considerations associated with oocyte/egg freezing. Some of the most common risks include:",
+                        "Ovarian Hyperstimulation Syndrome: Ovarian stimulation can result in a condition called Ovarian Hyperstimulation Syndrome, which can cause abdominal pain, bloating, and fluid buildup.",
+                        "Ectopic Pregnancy: There is a slight risk of ectopic pregnancy, which occurs when the fertilized egg implants outside the uterus.",
+                        "No Guarantee of Pregnancy: There is no guarantee that the frozen eggs will result in a pregnancy. The success rates of this procedure depend on several factors, including the age of the woman and the quality of the eggs."
+                    ]
+                },
+                {
+                    "sub-title": "Conclusion",
+                    "desc": [
+                        "In conclusion, oocyte/egg freezing is a valuable option for women who want to preserve their fertility, but it is important to consider the risks and benefits before deciding to undergo the procedure. It is recommended to consult with a fertility specialist who can provide personalized recommendations and guidance."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "How successful is egg freezing?",
+                            "fdesc": ["The success rate of egg freezing can vary, but recent advancements in freezing techniques have improved the chances of a successful pregnancy."]
+                        },
+                        {
+                            "title": "Is egg freezing safe?",
+                            "fdesc": ["Egg freezing is generally considered safe, but like any medical procedure, it carries some risks, such as ovarian hyperstimulation syndrome, bleeding, and infection."]
+                        },
+                        {
+                            "title": "How long can eggs be stored?",
+                            "fdesc": ["Eggs can be stored for an indefinite amount of time, but the length of storage and quality of the eggs can impact their viability for use in fertility treatment."]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Semen freezing",
+            "treatment_desc": [
+                "Semen freezing, also known as sperm cryopreservation, is a medical process where sperm cells are preserved at very low temperatures, typically -196°C, for future use. This process is often performed as part of infertility treatment or as a method of sperm banking."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "The Process of Semen Freezing",
+                    "desc": [
+                        "The process of semen freezing is a simple and straightforward procedure. A semen sample is collected through masturbation and processed to separate the sperm from the seminal fluid. The sperm cells are then frozen in a special cryopreservation solution and stored in a liquid nitrogen freezer."
+                    ]
+                },
+                {
+                    "sub-title": "Benefits of Semen Freezing",
+                    "desc": [
+                        "1. There are several benefits to semen freezing, including:",
+                        "2. Infertility Treatment: Semen freezing can be used as part of infertility treatment, such as in vitro fertilization (IVF), to preserve sperm for later use.",
+                        "3. Sperm Banking: Semen freezing can also be used for sperm banking, allowing individuals to preserve their sperm for future use in the event of infertility or a medical condition that may affect their fertility.",
+                        "4. Elective Sterilization: Semen freezing can also be performed before elective sterilization procedures, such as vasectomy, to preserve fertility.",
+                        "5. Cancer Treatment: Men undergoing cancer treatment, such as chemotherapy or radiation therapy, can also benefit from semen freezing as these treatments can temporarily or permanently affect fertility."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Why would someone choose to freeze their sperm?",
+                            "fdesc": ["Sperm freezing is often chosen by men who want to preserve their fertility for personal or medical reasons, such as in preparation for medical treatments that may impact their fertility or as a form of contraception."]
+                        },
+                        {
+                            "title": "How successful is sperm freezing?",
+                            "fdesc": ["The success rate of sperm freezing is high, with a large number of successful pregnancies achieved with thawed sperm"]
+                        },
+                        {
+                            "title": "Is sperm freezing safe?",
+                            "fdesc": ["Sperm freezing is generally considered safe, but like any medical procedure, it carries some risks, such as infection."]
+                        },
+                        {
+                            "title": "How long can sperm be stored?",
+                            "fdesc": ["Sperm can be stored for an indefinite amount of time, but the length of storage and quality of the sperm can impact its viability for use in fertility treatment."]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Embryo Freezing",
+            "treatment_desc": [
+                "Embryo freezing, also known as cryopreservation, is a fertility preservation method that involves storing embryos at low temperatures to preserve their viability. It is a commonly used method in assisted reproductive technology (ART) and is used to preserve embryos for later use."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "What is Embryo Freezing?",
+                    "desc": [
+                        "Embryo freezing is the process of preserving an embryo at low temperatures until it is needed for implantation. The procedure involves removing an egg from a woman's ovary, fertilizing it with sperm, and growing it in the laboratory for several days until it reaches the blastocyst stage. The blastocyst is then frozen and stored in a cryopreservation tank until it is needed."
+                    ]
+                },
+                {
+                    "sub-title": "Why is Embryo Freezing Done?",
+                    "desc": [
+                        "Embryo freezing is typically done to preserve embryos that are not immediately being used for implantation. The procedure can be used in a variety of circumstances, including:",
+                        "Women who want to preserve their fertility for later use",
+                        "Women who are undergoing cancer treatment or other medical procedures that may affect their fertility",
+                        "Couples who have undergone in vitro fertilization (IVF) and have unused embryos from their cycle"
+                        
+                    ]
+                },
+                {
+                    "sub-title": "Benefits of Embryo Freezing:",
+                    "desc": [
+                        "Embryo freezing provides several benefits for patients, including:",
+                        "It allows couples to preserve their fertility for later use",
+                        "It provides a backup option for couples who have unused embryos from their IVF cycle",
+                        "It reduces the risk of multiple pregnancies by allowing couples to transfer only one or two embryos at a time",
+                        "It can be a cost-effective option for couples who want to preserve their fertility, as they can use the same frozen embryos for multiple cycles without the need for additional fertilization procedures"
+                    ]
+                },
+                {
+                    "sub-title": "Conclusion:",
+                    "desc": [
+                        "Embryo freezing is a safe and effective method of preserving fertility for later use. It provides several benefits for patients, including the ability to preserve fertility for later use, a backup option for unused embryos, and cost-effectiveness. If you are considering preserving your fertility, it is important to discuss your options with a fertility specialist to determine if embryo freezing is right for you."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Why freeze embryos?",
+                            "fdesc": ["Embryos can be frozen to allow couples to preserve their fertility for later use, such as if they are undergoing cancer treatment or waiting to start a family."]
+                        },
+                        {
+                            "title": "How long can embryos be frozen?",
+                            "fdesc": ["Embryos can be stored for many years and still remain viable for future use."]
+                        },
+                        {
+                            "title": "What are the success rates of embryo thawing and transfer?",
+                            "fdesc": ["The success rates of embryo thawing and transfer can vary, but studies have shown that the success rates are similar to those of fresh embryos. The success of the procedure depends on many factors, including the age of the woman, the quality of the embryos, and the reason for freezing."]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Laparoscopy",
+            "treatment_desc": [
+                "Laparoscopy is a minimally invasive surgical procedure that involves the use of a laparoscope - a thin, lighted tube with a camera attached - to view the inside of the abdominal and pelvic cavities. The procedure is performed through small incisions in the abdominal wall, allowing the doctor to diagnose and treat various conditions affecting the reproductive organs, such as infertility, endometriosis, and fibroids."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Why is Laparoscopy Performed?",
+                    "desc": [
+                        "Laparoscopy is performed to diagnose and treat various conditions affecting the reproductive organs, such as:",
+                        "Infertility",
+                        "Endometriosis",
+                        "Ovarian cysts",
+                        "Ectopic pregnancy",
+                        "Pelvic inflammatory disease (PID)",
+                        "Fibroids",
+                        "Tubal ligation (female sterilization)"
+                    ]
+                },
+                {
+                    "sub-title": "Benefits of Laparoscopy",
+                    "desc": [
+                        "Laparoscopy offers several benefits compared to traditional open surgery, including:",
+                        "Minimal scarring",
+                        "Reduced pain and discomfort",
+                        "Quicker recovery time",
+                        "Less risk of complications"
+                    ]
+                },
+                {
+                    "sub-title": "Procedure Steps",
+                    "desc": [
+                        "The steps involved in a laparoscopy procedure include:",
+                        " The patient is given general or regional anesthesia.",
+                        "Insertion of Laparoscope: The laparoscope is inserted through a small incision in the abdominal wall, allowing the doctor to view the inside of the abdominal cavity.",
+                        "Diagnosis and Treatment: Depending on the condition being treated, the doctor may perform various diagnostic and treatment procedures, such as biopsy, removal of cysts, or removal of endometrial tissue.",
+                        "Closing Incisions: The small incisions are closed with sutures or staples."
+                    ]
+                },
+                {
+                    "sub-title": "Recovery Time",
+                    "desc": [
+                        "Most patients are able to return to their normal activities within a few days of the procedure, although the exact recovery time will depend on the extent of the procedure and the patient's overall health. It is important to follow the doctor's instructions for post-operative care to ensure a quick and healthy recovery."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What conditions can Laparoscopy treat?",
+                            "fdesc": ["Laparoscopy can be used to treat a variety of conditions, including endometriosis, fibroids, ovarian cysts, and pelvic pain."]
+                        },
+                        {
+                            "title": "Is Laparoscopy safe?",
+                            "fdesc": ["Laparoscopy is generally considered a safe procedure, but like any surgery, there are risks involved such as infection, bleeding, and damage to internal organs. Your doctor will be able to discuss the risks and benefits with you."]
+                        },
+                        {
+                            "title": "What conditions can Laparoscopy treat?",
+                            "fdesc": ["Laparoscopy can be used to treat a variety of conditions, including endometriosis, fibroids, ovarian cysts, and pelvic pain."]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Hysteroscopy",
+            "treatment_desc": [
+                "Hysteroscopy is a diagnostic procedure that allows a doctor to examine the inside of the uterus. It involves the insertion of a hysteroscope, a thin and lighted tube, through the vagina and cervix into the uterus. This procedure is used to identify the causes of various gynecological problems such as abnormal bleeding, infertility, and abnormal growths."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Purpose of Hysteroscopy",
+                    "desc": [
+                        "The main purpose of hysteroscopy is to diagnose and treat various uterine conditions. Some of the common conditions that can be diagnosed and treated through this procedure are:",
+                        "Abnormal uterine bleeding: Hysteroscopy can help identify the cause of abnormal bleeding, such as uterine fibroids, polyps, or adhesions.",
+                        " Hysteroscopy can help identify and treat any structural abnormalities in the uterus that may be causing infertility.",
+                        "Abnormal growths: Hysteroscopy can help identify and remove uterine fibroids, polyps, or adhesions."
+                    ]
+                },
+                {
+                    "sub-title": "Preparation for Hysteroscopy",
+                    "desc": [
+                        "Before the procedure, your doctor will give you specific instructions on how to prepare. This may include:",
+                        "Avoiding food and drink for several hours before the procedure",
+                        "Taking medications as directed by your doctor",
+                        "Notifying your doctor of any allergies or medical conditions"
+                    ]
+                },
+                {
+                    "sub-title": "During the Procedure",
+                    "desc": [
+                        "During the hysteroscopy procedure, the doctor will insert the hysteroscope through the vagina and cervix into the uterus. A saline solution may be used to expand the uterus and allow for better visualization. The doctor will then examine the inside of the uterus using the hysteroscope. If necessary, the doctor may also perform biopsy or remove any growths."
+                    ]
+                },
+                {
+                    "sub-title": "Recovery After Hysteroscopy",
+                    "desc": [
+                        "After the procedure, you will be monitored for a short period of time. You may experience some cramping and light bleeding, but these symptoms should resolve within a few days. Your doctor will give you specific instructions on when you can return to your normal activities and when you should follow up for your next appointment."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "is Hysteroscopy safe?",
+                            "fdesc": ["Hysteroscopy is a safe and effective diagnostic procedure that helps doctors diagnose and treat various gynecological conditions. If you have any questions or concerns about this procedure, be sure to talk to your doctor."]
+                        },
+                        {
+                            "title": "Why is Uterine Septal Resection performed?",
+                            "fdesc": ["The procedure is performed to treat uterine malformations, such as a septate uterus, which can cause fertility problems, recurrent miscarriages, or problems during pregnancy."]
+                        },
+                        {
+                            "title": "What is the recovery time for Uterine Septal Resection?",
+                            "fdesc": ["ecovery time can vary, but most patients can return to normal activities within 1-2 weeks."]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Uterine Septal Resection",
+            "treatment_desc": [
+                "Uterine septal resection, also known as hysteroscopic septum resection, is a minimally invasive procedure used to treat a uterine septum. A uterine septum is a partition of tissue within the uterus that can cause infertility, recurrent miscarriages, or abnormal uterine bleeding."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Purpose of Uterine Septal Resection",
+                    "desc": [
+                        "he purpose of uterine septal resection is to remove the partition of tissue within the uterus and restore the normal shape of the uterus. This can help to improve fertility and reduce the risk of recurrent miscarriages. It can also relieve symptoms of abnormal uterine bleeding."
+                    ]
+                },
+                {
+                    "sub-title": "Preparation for Uterine Septal Resection",
+                    "desc": [
+                        "Before the procedure, your doctor will give you specific instructions on how to prepare. This may include:",
+                        "Avoiding food and drink for several hours before the procedure",
+                        "Taking medications as directed by your doctor",
+                        "Notifying your doctor of any allergies or medical conditions"
+                    ]
+                },
+                {
+                    "sub-title": "During the Procedure",
+                    "desc": [
+                        "During the uterine septal resection procedure, the doctor will insert a hysteroscope, a thin and lighted tube, through the vagina and cervix into the uterus. A saline solution may be used to expand the uterus and allow for better visualization. The doctor will then use special instruments to remove the partition of tissue within the uterus."
+                    ]
+                },
+                {
+                    "sub-title": "Recovery After Uterine Septal Resection",
+                    "desc": [
+                        "After the procedure, you will be monitored for a short period of time. You may experience some cramping and light bleeding, but these symptoms should resolve within a few days. Your doctor will give you specific instructions on when you can return to your normal activities and when you should follow up for your next appointment."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "",
+                            "fdesc": [""]
+                        },
+                        {
+                            "title": "",
+                            "fdesc": [""]
+                        },
+                        {
+                            "title": "",
+                            "fdesc": [""]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Myomectomy (Fibroid Removal Surgery)",
+            "treatment_desc": [
+                "Myomectomy is a surgical procedure performed to remove uterine fibroids, which are noncancerous growths that can cause discomfort and infertility. There are several methods available to treat fibroids, and the best one for you will depend on the size, location, and number of fibroids, as well as your personal health and reproductive goals."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Types of Myomectomy",
+                    "desc": [
+                        "1. Laparoscopic Myomectomy",
+                        "This minimally invasive procedure is performed through small incisions in the abdomen, using a laparoscope to visualize the uterus and remove fibroids.",
+                        "2. Abdominal Myomectomy",
+                        "This traditional open surgery is performed through a larger incision in the abdomen and is typically recommended for larger or multiple fibroids.",
+                        "3. Hysteroscopic Myomectomy",
+                        "This procedure is performed through the vagina and cervix using a hysteroscope, a thin instrument with a light attached. It is only appropriate for fibroids that are located within the uterus and can be reached through the cervix."
+                    ]
+                },
+                {
+                    "sub-title": "Benefits of Myomectomy",
+                    "desc": [
+                        "1. Relief from Symptoms: Myomectomy can provide relief from symptoms such as heavy menstrual bleeding, pain, and pressure.",
+                        "2. Fertility Preservation: Myomectomy can help preserve fertility for women who wish to become pregnant in the future.",
+                        "3. Improved Quality of Life: By removing fibroids and improving symptoms, myomectomy can significantly improve a woman's quality of life."
+                    ]
+                },
+                {
+                    "sub-title": "Risks and Complications",
+                    "desc": [
+                        "As with any surgery, myomectomy carries certain risks and potential complications, including bleeding, infection, and damage to surrounding organs. However, the risk of these complications is low and depends on the type of myomectomy performed and the patient's overall health.",
+                        "It is important to discuss all potential risks and benefits of myomectomy with your doctor to determine if it is the right treatment option for you. Your doctor can also recommend lifestyle changes and medications to manage fibroids and minimize the need for surgery."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What are the symptoms of uterine fibroids?",
+                            "fdesc": ["Common symptoms of uterine fibroids include heavy menstrual bleeding, pelvic pain or pressure, frequent urination, constipation and lower back pain."]
+                        },
+                        {
+                            "title": "What is the purpose of Myomectomy?",
+                            "fdesc": ["The purpose of Myomectomy is to remove uterine fibroids and preserve the uterus, allowing women to have children in the future if they so desire."]
+                        },
+                        {
+                            "title": "Is Myomectomy a permanent solution for uterine fibroids?",
+                            "fdesc": ["Myomectomy can be an effective treatment for uterine fibroids, but it is not a guarantee that they will not grow back. Regular follow-up and monitoring is recommended to ensure the best outcomes."]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "Endometrial/ Dermoid Cystectomy",
+            "treatment_desc": [
+                "Endometrial/ Dermoid cysts are growths that develop in the ovaries and are typically benign, however, in some cases, they can become cancerous or lead to other health issues. A cystectomy is a surgical procedure that involves removing the cyst from the ovary. This procedure is performed through laparoscopy or open surgery and can be done as an outpatient procedure."
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "Why is Endometrial/Dermoid Cystectomy performed?",
+                    "desc": [
+                        "Endometrial/Dermoid Cystectomy is typically performed when cysts are causing symptoms, such as abdominal pain, bloating, and menstrual irregularities, or if they are found to be suspicious on ultrasound or other imaging tests."
+                    ]
+                },
+                {
+                    "sub-title": "What are the benefits of Endometrial/Dermoid Cystectomy?",
+                    "desc": [
+                        "Endometrial/Dermoid Cystectomy can alleviate symptoms caused by cysts and reduce the risk of complications such as torsion (twisting of the cyst), rupture, and malignancy. The procedure can also help to preserve fertility by removing the cysts and leaving the ovaries intact."
+                    ]
+                },
+                {
+                    "sub-title": "How is Endometrial/Dermoid Cystectomy performed?",
+                    "desc": [
+                        "Endometrial/Dermoid Cystectomy is typically performed using minimally invasive techniques, such as laparoscopy, which involves making small incisions and using a camera to visualize the ovaries and remove the cysts."
+                    ]
+                },
+                {
+                    "sub-title": "What is the recovery process like after Endometrial/Dermoid Cystectomy?",
+                    "desc": [
+                        "The recovery process following Endometrial/Dermoid Cystectomy typically involves a few days of rest and a gradual return to normal activities. Pain, swelling, and bloating are common after the procedure, but can be managed with medication. Most women can return to work within a week and resume normal activities within several weeks."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "Is Endometrial/Dermoid Cystectomy effective?",
+                            "fdesc": ["Endometrial/Dermoid Cystectomy is generally considered to be an effective treatment for endometrial and dermoid cysts, providing relief from symptoms and reducing the risk of complications. The success of the procedure depends on various factors, including the size and location of the cysts and the overall health of the patient."]
+                        },
+                        {
+                            "title": "Is Endometrial/Dermoid Cystectomy safe?",
+                            "fdesc": ["Endometrial/Dermoid Cystectomy is a safe and effective treatment option for women with endometrial or dermoid cysts that are causing symptoms or are suspicious on imaging tests. "]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "treatment_name": "",
+            "treatment_desc": [
+                ""
+            ],
+            "sub_data": [
+                {
+                    "sub-title": "",
                     "desc": [
                         ""
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "",
                     "desc": [
                         ""
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "",
                     "desc": [
                         ""
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Are There Any Risks?",
-                    "desc": [
-                        ""
-                    ]
-                },
-                {
-                    "sub-title": "Guidelines for Post Procedure",
+                    "sub-title": "",
                     "desc": [
                         ""
                     ]
@@ -3333,10 +3927,16 @@
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
-                            "fdesc": [
-                                ""
-                            ]
+                            "title": "",
+                            "fdesc": ""
+                        },
+                        {
+                            "title": "",
+                            "fdesc": ""
+                        },
+                        {
+                            "title": "",
+                            "fdesc": ""
                         }
                     ]
                 }
