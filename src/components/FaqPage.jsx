@@ -52,7 +52,7 @@ const FaqPage = () => {
         </div>
       </div>
       <div className="faqpage_body">
-        {faq.length>0 && searchData.length>0?
+        {faqs.length>0 && searchData.length>0?
           searchData.map((item,index)=>{
             return(
               <div

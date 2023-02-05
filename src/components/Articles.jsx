@@ -8,15 +8,13 @@ import Slider from "react-slick";
 import { useState } from "react";
 
 const Articles = () => {
-  
-
   var settings2 = {
     dots: true,
     infinite: true,
     speed: 500,
     slidesToShow: 3,
     slidesToScroll: 1,
-     
+
     responsive: [
       {
         breakpoint: 1024,
@@ -25,8 +23,8 @@ const Articles = () => {
           slidesToScroll: 1,
           infinite: true,
           dots: true,
-          centerPadding: "20px", 
-        }
+          centerPadding: "20px",
+        },
       },
       {
         breakpoint: 800,
@@ -34,8 +32,8 @@ const Articles = () => {
           slidesToShow: 2,
           slidesToScroll: 2,
           infinite: true,
-          dots: true
-        }
+          dots: true,
+        },
       },
       {
         breakpoint: 480,
@@ -44,10 +42,10 @@ const Articles = () => {
           slidesToScroll: 1,
           infinite: true,
           dots: true,
-          arrows:false
-        }
-      }
-    ]
+          arrows: false,
+        },
+      },
+    ],
   };
 
   return (
@@ -85,7 +83,7 @@ const Articles = () => {
                       title={item.title}
                       img={item.img}
                       user={item.postby}
-                      desc={item.desc}
+                      desc={item.desc[0].slice(0, 220) + " ..."}
                       time={item.date}
                       arlink={item.more_link}
                     />

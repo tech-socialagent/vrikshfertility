@@ -781,27 +781,50 @@
             "section_desc": "Resources To Keep You Informed With Our Blog",
             "articles": [
                 {
-                    "img": "pppp.png",
-                    "title": "How Do Inherited Retinal Diseases Happen?",
+                    "img": "blogpic1.jpg",
+                    "title": " How lifestyle factors affect fertility?",
                     "date": "June 7,2022",
                     "postby": "Admin",
-                    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "desc": [
+                        "Fertility is the ability to conceive and bear children. Many factors can affect a person's fertility, including lifestyle factors such as diet, exercise, stress levels, alcohol and tobacco use, and exposure to toxins. Understanding how these lifestyle factors can impact fertility can help individuals make informed decisions about their health and improve their chances of having a family.",
+                        "Diet: A healthy diet that is rich in nutrients, vitamins, and minerals can positively impact fertility. For example, consuming foods high in folic acid, iron, and zinc, such as leafy greens, legumes, and lean meats, can improve sperm and egg quality. On the other hand, a diet that is high in trans fats, processed foods, and sugar can reduce fertility and increase the risk of hormonal imbalances.",
+                        "Exercise: Regular exercise is essential for maintaining good health and can also improve fertility. However, excessive exercise can have a negative impact on fertility, particularly for women. Over-exercising can cause hormonal imbalances and disrupt the menstrual cycle, making it difficult to conceive. It is important to find a balance between regular exercise and adequate rest",
+                        "Stress: Chronic stress can have a negative impact on fertility by interfering with the hormonal balance necessary for ovulation and sperm production. In addition, stress can also affect the immune system, making it more difficult to conceive. Relaxation techniques, such as yoga, meditation, and deep breathing, can help reduce stress levels and improve fertility.",
+                        "Alcohol and tobacco use: Alcohol consumption can have a negative impact on both male and female fertility. Excessive alcohol consumption can reduce sperm quality and count, and can also disrupt the menstrual cycle, making it more difficult to conceive. Tobacco use can also reduce fertility by damaging sperm and eggs, and decreasing the chances of conception.",
+                        "can negatively impact fertility by altering hormonal balance and damaging sperm and eggs. Limiting exposure to these toxins and maintaining a healthy environment can help protect fertility.",
+                        "In conclusion, lifestyle factors play a significant role in fertility. Adopting a healthy lifestyle that includes a nutritious diet, regular exercise, stress management, limited alcohol and tobacco use, and reduced exposure to toxins can help improve fertility and increase the chances of conception. It is important to consult a healthcare professional for personalized recommendations and to address any concerns about fertility."
+                    ],
                     "more_link": "blog1"
                 },
                 {
-                    "img": "pppp.png",
-                    "title": "How Do Inherited Retinal Diseases Happen?",
+                    "img": "blogpic2.jpg",
+                    "title": "The latest advances in fertility treatments",
                     "date": "June 7,2022",
                     "postby": "Admin",
-                    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "desc": [
+                        "Fertility treatments have come a long way in recent years, with new technologies and techniques being developed to help couples who struggle with infertility. Here are some of the latest advances in this field",
+                        "In Vitro Fertilization (IVF): IVF is a common method for fertility treatment and has seen significant improvements in recent years. One of the latest advances is the use of time-lapse imaging technology, which allows embryologists to monitor the development of embryos in real-time, selecting the best ones for transfer with improved accuracy.",
+                        "Intracytoplasmic Sperm Injection (ICSI): ICSI is a procedure where a single sperm is injected directly into an egg, improving the chances of fertilization. The latest advancements include the use of a more advanced sperm selection technique known as \"micro-TESE\" that can identify the most viable sperm for use in ICSI, leading to higher success rates.",
+                        "Pre-implantation Genetic Testing (PGT): PGT is a test performed on embryos before they are implanted in the uterus to check for any genetic abnormalities. The latest advancements in PGT include \"PGT-A,\" which screens embryos for aneuploidy, or an abnormal number of chromosomes, and \"PGT-M,\" which screens for specific genetic disorders.",
+                        "Frozen Embryo Transfer (FET): FET involves transferring previously frozen embryos to the uterus, rather than fresh ones. The latest advancements in FET include the use of improved freezing techniques, such as vitrification, which reduces the risk of damage to the embryos and increases success rates.",
+                        "Ovarian Stimulation: Ovarian stimulation is a crucial part of many fertility treatments, as it increases the number of eggs produced by the ovaries. The latest advancements include the use of gentler stimulation protocols that minimize the risk of ovarian hyperstimulation syndrome (OHSS), a potentially serious condition.",
+                        "In conclusion, fertility treatments have seen significant advancements in recent years, offering couples new and improved methods to help them achieve their dream of starting a family. While success rates are not 100% and individual results may vary, these advances have brought hope and happiness to many families who otherwise may not have been able to have children."
+                ],
                     "more_link": "blog2"
                 },
                 {
-                    "img": "pppp.png",
-                    "title": "How Do Inherited Retinal Diseases Happen?",
+                    "img": "blogpic3.jpg",
+                    "title": "Fertility: The Journey to Parenthood",
                     "date": "June 7,2022",
                     "postby": "Admin",
-                    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "desc": [
+                        "Starting a family is a dream for many couples, but for some, it can be a challenging journey. Infertility affects one in six couples, and the road to parenthood can be filled with emotional ups and downs. If you're facing infertility, know that you're not alone and that there are options available to help you start the family you've always wanted.",
+                        "At our fertility clinic, we understand that infertility can be a sensitive and emotional subject. Our team of experienced doctors and staff are dedicated to providing personalized, compassionate care to help you navigate your journey to parenthood.",
+                        "Our clinic offers a wide range of fertility treatments, including artificial insemination, in vitro fertilization (IVF), and intracytoplasmic sperm injection (ICSI). We also offer state-of-the-art diagnostic tools and cutting-edge technologies, such as genetic testing and preimplantation genetic diagnosis (PGD), to help improve your chances of success.",
+                        "In addition to our medical expertise, we also provide emotional support to help you through the ups and downs of fertility treatment. Our patient care coordinators and mental health professionals are available to provide counseling and support throughout your journey.",
+                        "If you're ready to start your journey to parenthood, we encourage you to schedule a consultation with one of our fertility specialists. Together, we can create a customized treatment plan to help you achieve your dream of starting a family.",
+                        "Remember, the journey to parenthood is different for everyone, but with the right support and resources, it can be a rewarding and fulfilling experience. If you have any questions or concerns, our clinic is here to help. Contact us today to learn more about our fertility treatments and services."
+                    ],
                     "more_link": "blog3"
                 }
             ]
@@ -4458,7 +4481,6 @@
                 "Anyone can be at risk for an ectopic pregnancy, but the risk is higher for women over the age of 35, women who have had a previous ectopic pregnancy, and women with a history of infertility or pelvic inflammatory disease. Women who use assisted reproductive technology may also be at increased risk. It is important to receive prompt medical attention if you suspect you may have an ectopic pregnancy."
             ]
         },
-
         {
             "title": "Who is at Risk for Ovulation Problems?",
             "fdesc": [

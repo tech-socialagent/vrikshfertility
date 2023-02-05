@@ -2,17 +2,17 @@
   padding: 100px 50px 50px 50px;
 }
 .blogpage .section_title {
-    padding: 0;
-    line-height: 40px;
-    margin: 10px;
+  padding: 0;
+  line-height: 40px;
+  margin: 10px;
 }
-.blogpage .section_subtitle{
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 24px;
-    color: #dbb13b;
-    margin: 10px 0px;
-    text-align: center;
+.blogpage .section_subtitle {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  color: #dbb13b;
+  margin: 10px 0px;
+  text-align: center;
 }
 .blogs_cards {
   display: grid;
@@ -20,7 +20,7 @@
   column-gap: 50px;
   margin: 30px 0px;
 }
-.blogCard{
+.blogCard {
   max-width: 350px;
 }
 .blogUpload {
@@ -51,44 +51,53 @@
   color: #000000;
   margin-bottom: 10px;
 }
-.blogSlide{
-    position: relative;
-    padding: 0px 0px;
-    
+.blogSlide {
+  position: relative;
+  padding: 0px 0px;
 }
-.blogSlidebox{
+.blogSlidebox {
   margin: 20px 0px;
 }
-.blogSlide img{
-    height: 400px;
-    width: 100%;
-    border-radius: 10px;   
+.blogSlide img {
+  height: 400px;
+  width: 100%;
+  border-radius: 10px;
+  position: relative;
+  
 }
-.inData{
-    position: absolute;
-    bottom: 0px;
-    padding: 20px;
-    color: white;
-    
-    /* backdrop-filter: blur(2px); */
+.blogSlide img::after {
+  content: '';
+  position: absolute;
+  display: block;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7));
 }
-.inData .blogTitle,.inData .blogDesc{
-    color: white;
+.inData {
+  position: absolute;
+  bottom: 0px;
+  padding: 20px;
+  color: white;
+  /* background:  linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)); */
 }
-.inData a{
+.inData .blogTitle,
+.inData .blogDesc {
+  color: white;
+}
+.inData a {
   text-decoration: none;
   color: #ffffff;
   position: relative;
   bottom: -100px;
 }
-@media only screen and (max-width: 480px){
-  .blogpage{
+@media only screen and (max-width: 480px) {
+  .blogpage {
     padding: 100px 20px 20px 20px;
   }
-  .blogs_cards{
+  .blogs_cards {
     grid-template-columns: 1fr;
   }
-  .inData a{
+  .inData a {
     display: none;
   }
 }

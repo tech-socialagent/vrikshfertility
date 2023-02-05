@@ -45,7 +45,7 @@ const Blogpage = () => {
                       </a>
                     </div>
                     <div className="blogTitle">{blog.title}</div>
-                    <div className="blogDesc">{blog.desc}</div>
+                    <div className="blogDesc">{blog.desc[0]}</div>
                   </div>
                 </div>
               );
@@ -68,7 +68,7 @@ const Blogpage = () => {
                   </a>
                 </div>
                 <div className="blogTitle">{blog.title}</div>
-                <div className="blogDesc">{blog.desc}</div>
+                <div className="blogDesc">{blog.desc[0]}</div>
               </div>
             );
           })}
