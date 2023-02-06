@@ -35,7 +35,7 @@ select {
   width: 390px;
   border-radius: 10px;
   margin-top: 10px;
-  padding-left: 20px;
+  padding: 0 20px;
   border: 1px solid gray;
 }
 .consultion-form button {

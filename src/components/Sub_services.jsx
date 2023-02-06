@@ -1,5 +1,7 @@
 import "../styles/Sub_services.css";
 import Slider from "react-slick";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 const Sub_services = ({ ser_data }) => {
   const settings = {
@@ -11,7 +13,10 @@ const Sub_services = ({ ser_data }) => {
     arrows: false,
     autoplaySpeed: 2000,
     autoplay: true,
-    fade:true
+    fade:true,
+    dotClass:"customDots"
+    
+
     // responsive: [
     //   {
     //     breakpoint: 1024,
@@ -31,6 +36,7 @@ const Sub_services = ({ ser_data }) => {
   };
   return (
     <div className="service_slides" >
+
       <Slider {...settings}>
         {ser_data.sub_services.map((item, index) => {
           return (

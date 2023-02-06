@@ -6,6 +6,7 @@
 } */
 .choose{
   background-image: url("../assests/Photos/chooseus_background.jpg");
+  object-fit:scale-down;
   background-size: cover;
   background-repeat: no-repeat;
   background-position-x: 300px ;
@@ -25,7 +26,7 @@
 }
 .choose_body {
   display: grid;
-  grid-template-columns: 1.2fr 1fr;
+  grid-template-columns: 1.5fr 1fr;
   padding: 20px;
 }
 .keycards{

@@ -4,7 +4,7 @@ import ConsultationImg from "../assests/Photos/Frame 52.png";
 import { Link } from "react-router-dom";
 function Consultation() {
   const today=new Date();
-  console.log(today)
+
   return (
     <section className="consultation-main section" id="book">
       <div className="consultion">
@@ -20,8 +20,8 @@ function Consultation() {
           />
           <input
             type="date"
-            defaultValue={today.getDate()+"/"+today.getMonth()+"/"+today.getFullYear()}          
-            placeholder={today.getDate()+"/"+today.getMonth()+"/"+today.getFullYear()}
+            value={`${today.getFullYear()+'-'+today.getDate()+"-"+today.getMonth()}`}          
+            
           />
           <input
             type="time"

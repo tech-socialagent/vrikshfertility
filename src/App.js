@@ -17,10 +17,10 @@ import Treatments from "./components/Treatments";
 import Data from "./Data.json";
 import OnlineConsultation from "./components/OnlineConsultation";
 import Blogpage from "./components/Blogpage";
-import FaqPage from './components/FaqPage';
-import AboutVriksh from './components/AboutVriksh';
-import TeamValue from './components/TeamValue';
-import ContactPage from './components/ContactPage';
+import FaqPage from "./components/FaqPage";
+import AboutVriksh from "./components/AboutVriksh";
+import TeamValue from "./components/TeamValue";
+import ContactPage from "./components/ContactPage";
 import BlogMore from "./components/Blogmore";
 
 function App() {
@@ -57,42 +57,54 @@ function App() {
           </Route>
           <Route path={"/about_doctor"}>
             <AboutDr />
-            <Footer/>
+            <Footer />
           </Route>
           <Route path={"/onlineConsultation"}>
-            <OnlineConsultation/>
-            <Footer/>
+            <OnlineConsultation />
+            <Footer />
           </Route>
           <Route path={"/blogs"}>
-            <Blogpage/>
-            <Footer/>
+            <Blogpage />
+            <Footer />
           </Route>
           <Route path={"/aboutvriksh"}>
-            <AboutVriksh/>
-            <Footer/>
+            <AboutVriksh />
+            <Footer />
           </Route>
           <Route path={"/teamvalue"}>
-            <TeamValue/>
-            <Footer/>
+            <TeamValue />
+            <Footer />
           </Route>
           <Route path={"/contactus"}>
-            <ContactPage/>
-            <Footer/>
+            <ContactPage />
+            <Footer />
           </Route>
           <Route path={"/faqs"}>
-            <FaqPage/>
-            <Footer/>
+            <FaqPage />
+            <Footer />
           </Route>
-          <Route path={"/blogmore"}>
-            <BlogMore/>
-            <Footer/>
-          </Route>
+          {Data.landingPage.article_section.articles.map((item, index) => {
+            return (
+              <Route path={"/"+item.more_link}>
+                <BlogMore blogdata={item} />
+                <Footer />
+              </Route>
+            );
+          })}
+
           {Data.treatments.map((item, index) => {
-            console.log(item.treatment_name.split(" ").join("_").toLowerCase().toString());
+            console.log(
+              item.treatment_name.split(" ").join("_").toLowerCase().toString()
+            );
             return (
               <Route
                 key={index}
-                path={`/${item.treatment_name.replace(/[^a-zA-Z0-9 ]/g,' ').split(" ").join("_").toLowerCase().toString()}`}
+                path={`/${item.treatment_name
+                  .replace(/[^a-zA-Z0-9 ]/g, " ")
+                  .split(" ")
+                  .join("_")
+                  .toLowerCase()
+                  .toString()}`}
               >
                 <Treatments data={item} />
                 {/* <Footer/> */}
@@ -101,7 +113,7 @@ function App() {
           })}
           {/* blogs */}
           <Route path={"/blog1"}>
-            <BlogMore/>
+            <BlogMore />
           </Route>
         </Switch>
       </div>

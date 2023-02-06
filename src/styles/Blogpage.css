@@ -64,6 +64,7 @@
   border-radius: 10px;
   position: relative;
   
+  
 }
 .blogSlide img::after {
   content: '';

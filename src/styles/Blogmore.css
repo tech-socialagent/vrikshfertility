@@ -57,6 +57,7 @@
 }
 .middle-containt {
   flex: 60%;
+  margin-bottom: 20px;
 }
 .middle-image {
   flex: 40%;

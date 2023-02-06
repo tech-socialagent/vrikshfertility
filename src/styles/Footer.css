@@ -28,6 +28,11 @@
   line-height: 30px;
   color: #787575;
   margin: 5px 0px;
+  display: flex;
+  align-items: center;
+}
+.ft_con_data a{
+  margin-left: 10px;
 }
 .footer_sec_body a:hover{
   color: var(--primary-color);

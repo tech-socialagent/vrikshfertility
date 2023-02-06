@@ -185,3 +185,8 @@
     padding: 0px 30px;
   }
 }
+@media screen and (min-width:1025px) {
+  .section{
+    padding: 0px 60px 50px 60px;
+  }
+}

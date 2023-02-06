@@ -57,6 +57,13 @@
   color: var(--secondary-color-light);
 }
 
+.home_section .home_book_app a:hover{
+  transform: none;
+}
+.home_section .home_book_app a{
+  
+}
+
 .home_banner_img img {
   height: 100%;
   width: 100%;
@@ -87,9 +94,11 @@
   left: 200px;
 }
 .home_brandname,.home_icons,.home_title,.home_desc,.home_content .home_book_app{
+    position: relative;
+    /* left: -20px; */
     animation: blinkshow;
-    animation-duration: 3s;
-    animation-delay: 0s;
+    animation-duration: 1s;
+        animation-delay: 0s;
     animation-timing-function: linear;
 }
 @keyframes roundN {
