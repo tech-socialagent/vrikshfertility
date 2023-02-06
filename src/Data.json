@@ -334,10 +334,10 @@
                     "sub_services": [
                         {
                             "sub_service_name": "OI-TI",
-                            "sub_service_title": "When is OI-TI advised?",
+                            "sub_service_title": "What is OI-TI?",
                             "sub_service_desc": [
-                                "A delay in conception can sometimes be explained by no significant reason after evaluation. At times, infertility may be unexplained. The doctors determine the optimal time for intercourse during those times to maximize the chances of conception. An ovulation specialist tracks a couple's ovulation cycle and advises them how to get pregnant naturally.",
-                                "A specialist determines the appropriate course of treatment after conducting a thorough examination. Young patients with healthy eggs and sperm can benefit from this simple procedure."
+                                "Ovulation induction is a medical treatment used to help a woman to ovulate regularly. Timed intercourse refers to having sexual intercourse at a specific time during the menstrual cycle to increase the chances of pregnancy. The most likely day for a woman to ovulate is determined by blood tests and other scans performed at specific times during her cycle.",
+                                "In ovulation induction, medications are given to the woman to stimulate ovulation and increase the chances of conception. Timing intercourse during the time of ovulation can increase the chances of pregnancy as the egg is available for fertilization. This combination of ovulation induction and timed intercourse can be an effective fertility treatment for young patients with healthy eggs and sperms."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -489,7 +489,7 @@
                     "sub_services": [
                         {
                             "sub_service_name": "PGT-SR",
-                            "sub_service_title": "WHow Does PGT-SR Work?",
+                            "sub_service_title": "How Does PGT-SR Work?",
                             "sub_service_desc": [
                                 "The process begins with IVF to create embryos. A few days later, a small cell sample is taken from each embryo and analyzed for structural rearrangements. Embryos that are free of these genetic abnormalities are then selected for transfer to the uterus."
                             ],
@@ -809,7 +809,7 @@
                         "Frozen Embryo Transfer (FET): FET involves transferring previously frozen embryos to the uterus, rather than fresh ones. The latest advancements in FET include the use of improved freezing techniques, such as vitrification, which reduces the risk of damage to the embryos and increases success rates.",
                         "Ovarian Stimulation: Ovarian stimulation is a crucial part of many fertility treatments, as it increases the number of eggs produced by the ovaries. The latest advancements include the use of gentler stimulation protocols that minimize the risk of ovarian hyperstimulation syndrome (OHSS), a potentially serious condition.",
                         "In conclusion, fertility treatments have seen significant advancements in recent years, offering couples new and improved methods to help them achieve their dream of starting a family. While success rates are not 100% and individual results may vary, these advances have brought hope and happiness to many families who otherwise may not have been able to have children."
-                ],
+                    ],
                     "more_link": "blog2"
                 },
                 {
@@ -902,57 +902,53 @@
     "treatments": [
         {
             "treatment_name": "OI-TI",
+            "treatment_subdt": "Ovulation Induction - Timed Intercourse",
             "treatment_desc": [
-                "It is the first step in the management of infertility to induce ovulation and time intercourse (OI- TI). In this technique, the woman receives medicines to develop one or more mature follicles in her ovaries. The most likely day for a woman to ovulate is determined by blood tests and other scans performed at specific times during her cycle.",
-                "A specialist determines the appropriate course of treatment after conducting a thorough examination. Young patients with healthy eggs and sperm can benefit from this simple procedure."
+                "Ovulation induction is a medical treatment used to help a woman to ovulate regularly. Timed intercourse refers to having sexual intercourse at a specific time during the menstrual cycle to increase the chances of pregnancy. The most likely day for a woman to ovulate is determined by blood tests and other scans performed at specific times during her cycle.",
+                "In ovulation induction, medications are given to the woman to stimulate ovulation and increase the chances of conception. Timing intercourse during the time of ovulation can increase the chances of pregnancy as the egg is available for fertilization. This combination of ovulation induction and timed intercourse can be an effective fertility treatment for young patients with healthy eggs and sperms."
             ],
             "sub_data": [
                 {
                     "sub-title": "When is OI-TI advised?",
                     "desc": [
-                        "A delay in conception can sometimes be explained by no significant reason after evaluation. At times, infertility may be unexplained. The doctors determine the optimal time for intercourse during those times to maximize the chances of conception. An ovulation specialist tracks a couple's ovulation cycle and advises them how to get pregnant naturally.",
-                        "Induce ovulation by stimulating the development of eggs with medication prescribed by your doctor. Increased chances of conception"
+                        "A delay in conception can sometimes be explained by no significant reason after evaluation. Sometimes the cause of infertility may be unknown. A fertility specialist provides guidelines to a couple on the right window to conceive naturally."
                     ]
                 },
                 {
                     "sub-title": "What should I expect?",
                     "desc": [
-                        "A woman would begin ovulation induction on her second menstrual cycle. A fertility specialist will examine you through an ultraviolet scan and recommend the right medicines to stimulate ovulation.",
-                        "An ovulation monitoring doctor identifies the right days for a couple to have intercourse in order to help with conception. For eight to fourteen days, tablets or injections are recommended to stimulate ovulation."
+                        "The Process of OI-TI would usally commence on the second day of the menstrual cycle",
+                        "A fertility specialist would first examine you through a UV scan and advice you on the course of medications and frequency of scans. ",
+                        "A specialist will track the process of ovulation and advice the couple on the right days for intercourse so as to increase the chances of conception."
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
+                    "sub-title": "Post Procedure Guidelines",
                     "desc": [
-                        "Before considering more advanced assisted reproduction techniques, OI-TI cycles are usually tested for 2-3 cycles"
+                        "Upon the onset of the treatment, a specialist would advice the couple to check for pregnancy past the two weeks mark.",
+                        "Many fertility specialists advice testing the OI-TI treatment cycles 2-3 times before considering more advanced assisted reproductive techniques."
                     ]
                 },
                 {
                     "sub-title": "Are There Any Risks?",
                     "desc": [
-                        "It is not necessary to worry if results are negative. Currently, infertility techniques are highly advanced, and this is only the first step. There is no guarantee that assisted fertility techniques will work for everyone. Therefore, you should not be discouraged if you receive a negative result. Natural conception is achieved through this simple and basic procedure.",
-                        "In 1 out of 1000 people, the prescribed medications tend to cause a strong reaction. There are multiple follicles in the ovaries instead of one or two. Such cases are managed by doctors through regular scans and IUI or IVF may be recommended."
+                        "There is no guarantee that assisted fertility techniques will work for everyone. A negative result does not carry any alarming consequences as OI-TI treatment is the first step in the fertility process and the main aim of the treatment is to provide a chance to conceive naturally.",
+                        "In  very rare cases (1 out of 1000 people), the prescribed medications tend to cause a strong reaction. This would result in multiple follicles in the ovaries to come up rather than one or two. Such cases are managed by doctors through regular scans and IUI or IVF may be recommended."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Who can benefit from OITI treatment?",
                             "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "OITI treatment can be used by anyone looking to improve their communication skills, including individuals with language-related disabilities or those seeking to improve their language proficiency."
                             ]
                         },
                         {
-                            "title": "Do you do residential work?",
+                            "title": "Is a prescription required for OITI treatment?",
                             "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                            ]
-                        },
-                        {
-                            "title": "Do you do residential work?",
-                            "fdesc": [
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                                "No prescription is required for OITI treatment as it is a technology platform and not a medication. However, it is always recommended to consult with a healthcare professional before starting any new treatment."
                             ]
                         }
                     ]
@@ -961,28 +957,34 @@
         },
         {
             "treatment_name": "IUI",
+            "treatment_subdt": "Intrauterine Insemination",
             "treatment_desc": [
-                "the woman's womb. Artificial insemination uses husband's sperm (AIH).",
-                "A woman with patent fallopian tubes can enhance her fertility through intrauterine insemination (IUI), the first step in fertility treatment."
-            ],
+                "An intrauterine sperm insemination (IUI) is a laboratory procedure in which the fast moving sperm is separated from the slower moving sperm and deposited at the ovulation time in the woman's womb. Artificial insemination uses husband's sperm (AIH).",
+            "A woman with patent fallopian tubes can enhance her fertility through intrauterine insemination (IUI), the first step in fertility treatment."],
             "sub_data": [
+                {
+                    "sub-title": "What it means to the couple?",
+                    "desc": [
+                        ""
+                    ]
+                },
                 {
                     "sub-title": "Female Partner",
                     "desc": [
-                        "Ovarian Stimulation :",
-                        "● Stimulation medications are given for development of one or more mature follicles in a woman’s ovaries.",
-                        "Control:",
-                        "● Pelvic ultrasound scans are used to access the endometrium (lining of the womb) and to determine how the follicles are developing. Blood tests may also be carried out to measure hormone levels and help to determine when a woman is most likely to ovulate (a woman’s most fertile time)."
+                        "● Ovarian Stimulation :",
+                        "Before IUI, fertility medications are administered to help in the development of one or more mature follicles in a woman’s ovaries.",
+                        "● Control:",
+                        "Pelvic ultrasound scans are used to access the endometrium (lining of the womb) and to determine how the follicles are developing. Blood tests may also be carried out to measure hormone levels and help to determine when a woman is most likely to ovulate (a woman’s most fertile time)."
                     ]
                 },
                 {
                     "sub-title": "Male Partner",
                     "desc": [
-                        "Semen Collection:",
+                        "● Semen Collection:",
                         "A semen specimen is collected from the male partner after 2-5 days of abstinence from ejaculation.",
-                        "Sperm Selection:",
-                        "● The semen is “washed” in the laboratory (called sperm processing or sperm washing). The sperm is separated from the other components of the semen and concentrated in a small volume. Various media and techniques can be used for the washing and separation. Sperm processing takes about 30-60 minutes.",
-                        "● The more morphologically normal and motile sperm are selected for insemination."
+                        "● Sperm Selection:",
+                        "The semen is “washed” in the laboratory (called sperm processing or sperm washing). The sperm is separated from the other components of the semen and concentrated in a small volume. Various media and techniques can be used for the washing and separation. Sperm processing takes about 30-60 minutes.",
+                        "The more morphologically normal and motile sperm are selected for insemination."
                     ]
                 },
                 {
@@ -1050,7 +1052,7 @@
                     ]
                 },
                 {
-                    "sub-title": "In vitro fertilization is suitable for whom?",
+                    "sub-title": "IVF: Is it suitable for you?",
                     "desc": [
                         "- Overall, IVF can help some patients experience pregnancy and parenthood who would otherwise not be able to.",
                         "- Age-related infertility affects women in their 30s or early 40s (see age-related infertility below), ovulatory problems, anatomical problems, male infertility factors, as well as couples seeking donor sperm.",
@@ -1062,19 +1064,19 @@
                 {
                     "sub-title": "Common reasons to undergo IVF",
                     "desc": [
-                        "Age related infertility: A woman’s egg quality diminishes with age. IVF can give an older woman a better chance to conceive by increasing the number of eggs she produces, enhancing selection of good quality eggs, or by allowing her to use donor eggs to create embryos.",
-                        "Recurrent pregnancy loss/miscarriage: Depending upon the underlying issue for recurrent pregnancy loss, IVF may be an effective treatment in helping to begin a successful pregnancy by increasing the number of candidate embryos and possibly using PGD or PGS to enhance successful implantation.",
-                        "Recurrent pregnancy loss/miscarriage:Depending upon the underlying issue for recurrent pregnancy loss, IVF may be an effective treatment in helping to begin a successful pregnancy by increasing the number of candidate embryos and possibly using PGD or PGS to enhance successful implantation.",
-                        "Unexplained infertility:One fifth of infertile couples are diagnosed with unexplained infertility, and these couples often achieve pregnancy using IVF.",
-                        "If a woman is not ovulating (anovulation), ovulation- inducing pills often aid in achieving pregnancy. But if she is unable to achieve pregnancy with these conservative measures, IVF can be used, which has very high success rates.",
-                        "Damaged fallopian tubes:If significant tubal damage exists, the only fertility treatment options are surgical repair, which has a low success rate, and bypassing the fallopian tubes using IVF.",
-                        "Male infertility factors:Typically, male infertility factors involve low quantity or quality of sperm. In these cases physicians recommend IVF with intracytoplasmic sperm injection (ICSI).",
-                        "Endometriosis: Endometriosis can cause infertility but can be successfully treated using a combination of surgery and medication. If the first round of surgical or medical treatment fails, IVF is an appropriate next step.",
-                        "Low ovarian reserve:If a woman has a low number of eggs in her ovaries, the IVF process can be used to stimulate healthy eggs to develop, allowing the reproductive endocrinologist to collect mature eggs directly from the ovaries. In particular, younger women with low ovarian reserve who generally have good egg quality would have better success rates with IVF treatment."
+                        "● Age related infertility: A woman’s egg quality diminishes with age. IVF can give an older woman a better chance to conceive by increasing the number of eggs she produces, enhancing selection of good quality eggs, or by allowing her to use donor eggs to create embryos.",
+                        "● Recurrent pregnancy loss/miscarriage: Depending upon the underlying issue for recurrent pregnancy loss, IVF may be an effective treatment in helping to begin a successful pregnancy by increasing the number of candidate embryos and possibly using PGD or PGS to enhance successful implantation.",
+                        "● Recurrent pregnancy loss/miscarriage:Depending upon the underlying issue for recurrent pregnancy loss, IVF may be an effective treatment in helping to begin a successful pregnancy by increasing the number of candidate embryos and possibly using PGD or PGS to enhance successful implantation.",
+                        "● Unexplained infertility:One fifth of infertile couples are diagnosed with unexplained infertility, and these couples often achieve pregnancy using IVF.",
+                        "● If a woman is not ovulating (anovulation), ovulation- inducing pills often aid in achieving pregnancy. But if she is unable to achieve pregnancy with these conservative measures, IVF can be used, which has very high success rates.",
+                        "● Damaged fallopian tubes:If significant tubal damage exists, the only fertility treatment options are surgical repair, which has a low success rate, and bypassing the fallopian tubes using IVF.",
+                        "● Male infertility factors:Typically, male infertility factors involve low quantity or quality of sperm. In these cases physicians recommend IVF with intracytoplasmic sperm injection (ICSI).",
+                        "● Endometriosis: Endometriosis can cause infertility but can be successfully treated using a combination of surgery and medication. If the first round of surgical or medical treatment fails, IVF is an appropriate next step.",
+                        "● Low ovarian reserve:If a woman has a low number of eggs in her ovaries, the IVF process can be used to stimulate healthy eggs to develop, allowing the reproductive endocrinologist to collect mature eggs directly from the ovaries. In particular, younger women with low ovarian reserve who generally have good egg quality would have better success rates with IVF treatment."
                     ]
                 },
                 {
-                    "sub-title": "IVF: what are the risks?",
+                    "sub-title": "IVF: What are the risks?",
                     "desc": [
                         "Multiple births (twins or more) are the most commonly reported risk associated with  IVF. It can lead to complications during pregnancy and labour, premature delivery, and ongoing medical and developmental problems for the children. After IVF treatment, most women are able to resume normal activities within a day. ",
                         "There is always a risk of negative drug interactions and side effects with many medical treatments. The side effects of fertility medications can include headaches, mood swings, abdominal pain, hot flashes, and bloating. In addition to the risks associated with surgery, IVF carries the risks associated with anesthesia, blood loss, damage to tissue and organs, and infection.",
@@ -1127,7 +1129,7 @@
         },
         {
             "treatment_name": "ERA",
-            "treatment_desc": [],
+            "treatment_desc": [""],
             "sub_data": [
                 {
                     "sub-title": "An overview of endometrial receptivity",
@@ -1718,42 +1720,6 @@
                     ]
                 },
                 {
-                    "sub-title": "The way that polycystic ovarian syndrome is handled?",
-                    "desc": [
-                        "Based on your symptoms, medical history, other health concerns, and whether you wish to get pregnant, your healthcare professional will decide on the best course of action. Medication, lifestyle modifications, or a mix of the two may be used as treatments. Treatment options if you don't want to get pregnant include:",
-                        "Hormonal birth control methods include oral pills, vaginal rings, patches, shots, and intrauterine devices (IUD). Hormonal birth control aids in acne improvement, excess hair growth reduction, and menstrual cycle regulation.",
-                        "Drugs that make insulin more sensitive: The medication metformin is used to treat diabetes. It functions by aiding insulin metabolism in your body. Some PCOS sufferers experience improvements in their menstrual cycles once insulin is under control.",
-                        "Drugs that block androgens: Some medications can prevent androgens from working. This aids in reducing acne or hair development brought on by PCOS. Find out if they are a good fit for you by speaking with your healthcare physician.",
-                        "alterations in way of life Having a balanced diet and losing weight can help lower insulin levels.",
-                        "Treatment for PCOS involves the following if you wish to get pregnant now or in the future:",
-                        "Drugs that cause ovulation, or the release of an egg: The first stage of a healthy pregnancy is ovulation. It has been demonstrated that several medications can cause ovulation in PCOS women. While gonadotropins are administered intravenously, the medicines clomiphene and letrozole must be taken orally.",
-                        "Surgery: By eliminating structures in the ovaries that are releasing androgen hormones, ovarian drilling surgery can cause ovulation to occur. Surgeons now infrequently conduct this operation due to the availability of newer drugs.",
-                        "With in vitro fertilisation (IVF), your partner's sperm fertilises your egg in a laboratory before being transported to your uterus. When taking medicine doesn't help with ovulation, PCOS women have this option."
-                    ]
-                },
-                {
-                    "sub-title": "Can PCOS or its effects be avoided?",
-                    "desc": [
-                        "Although there is no known way to stop PCOS, you can take simple measures to lessen your symptoms. For instance, eating healthily, working out frequently, and maintaining a healthy weight can all help you prevent the consequences of PCOS."
-                    ]
-                },
-                {
-                    "sub-title": "Is there ever a cure for polycystic ovarian syndrome?",
-                    "desc": [
-                        "Your PCOS may go away as a result of the hormone changes brought on by menopause, but not always. Sometimes a hormonal imbalance persists into menopause, so while you get older, your imbalance does not. Speak with your healthcare practitioner if your symptoms disturb you or reduce your quality of life so they can make treatment recommendations.",
-                        "Does PCOS increase my risk of developing other medical conditions? There is evidence that having PCOS increases your chance of developing a number of illnesses, including:",
-                        "Diabetes: Disease of the cardiovascular system. Hyperplasia of the endometrium. ",
-                        "Endometrial cancer, Various sleep disorders, including sleep apnea. both depression and anxiety. To be sure you comprehend the risks of acquiring these disorders, speak with your healthcare professional."
-                    ]
-                },
-                {
-                    "sub-title": "How can I manage my PCOS symptoms?",
-                    "desc": [
-                        "Losing weight through a healthy diet and consistent exercise is one of the greatest strategies to manage PCOS. Even a slight weight loss can have an impact on hormone levels, regulate your menstrual cycle, and lessen discomfort.",
-                        "Finally, remember that you are not alone if you have PCOS and are trying to get pregnant. With your cooperation, your doctor will assist you in getting pregnant. You can effectively control PCOS by eating well and reducing your stress levels."
-                    ]
-                },
-                {
                     "sub-title": "FAQs",
                     "desc": [
                         {
@@ -1947,37 +1913,6 @@
                     ]
                 },
                 {
-                    "sub-title": "Stages I-II treatments",
-                    "desc": [
-                        "An individual with early endometriosis might be able to get pregnant without medical assistance.",
-                        "A doctor may perform an IVF procedure if a woman has difficulty conceiving Trusted Source a laparoscopy.",
-                        "This is a simple procedure where a medical professional inserts a camera through a small incision in the stomach. A doctor can use this to assess how many lesions a person has and surgically remove them if necessary.",
-                        "Although laparoscopy is a simple surgery, it comes with some risks. If a doctor removes lesions from an ovary, they can decrease the number of eggs a person has.",
-                        "For people who are 35 or older, doctors may recommend a combination of the drug clomiphene with intrauterine insemination (IUI) instead of surgery.",
-                        "During this treatment, a person takes clomiphene citrate to trigger ovulation. When they are ovulating, a doctor will place sperm into the uterus with a thin tube.",
-                        "If this treatment is unsuccessful, a doctor may suggest injectable fertility medications or IVF."
-                    ]
-                },
-                {
-                    "sub-title": "Treatments for stages III–IV",
-                    "desc": [
-                        "In the later stages of endometriosis, a doctor will likely recommend IVF. ",
-                        "This treatment requires a person to inject fertility medication that promotes egg growth. Once a person has enough eggs, a doctor harvests them. After selecting the best eggs, they fertilize each with sperm to create embryos.",
-                        "The doctor then implants embryos into the uterus. "
-                    ]
-                },
-                {
-                    "sub-title": "Support for endometriosis and infertility",
-                    "desc": [
-                        "Endometriosis is a painful, progressive condition that can be difficult to cope with. People struggling to get pregnant with the condition may feel isolated and discouraged, especially if they have been trying for a number of years without success.",
-                        "If someone needs additional resources, be it support groups or advice, they can try:",
-                        "● Endometriosis Association (EA) ",
-                        "● Endometriosis Foundation of America ",
-                        "● The InterNational Council on Infertility Information Dissemination (INCIID)",
-                        "● RESOLVE "
-                    ]
-                },
-                {
                     "sub-title": "Summary",
                     "desc": [
                         "Endometriosis is a condition where endometrial-like tissue grows outside the uterus. It can impact a person’s fertility, making it harder to get pregnant.",
@@ -2006,20 +1941,21 @@
         },
         {
             "treatment_name": "ICSI",
+            "treatment_subdt":"Intracytoplasmic Sperm Injection",
             "treatment_desc": [
                 "Intracytoplasmic Sperm Injection (ICSI) is a type of assisted reproductive technology (ART) used to treat infertility. It involves the injection of a single sperm directly into the cytoplasm of an egg to fertilize it."
             ],
             "sub_data": [
                 {
-                    "sub-title": "ICSI Used for?",
+                    "sub-title": "When is ICSI considered?",
                     "desc": [
                         "ICSI is used for various reasons including low sperm count, poor sperm quality, or for couples who have failed to conceive with traditional in vitro fertilization (IVF)."
                     ]
                 },
                 {
-                    "sub-title": "Process",
+                    "sub-title": "The Process",
                     "desc": [
-                        "The process begi/ns with stimulating the growth of multiple eggs in a woman's ovaries through the use of fertility drugs. The eggs are then removed through a minor surgical procedure called follicular aspiration.",
+                        "The process begins with stimulating the growth of multiple eggs in a woman's ovaries through the use of fertility drugs. The eggs are then removed through a minor surgical procedure called follicular aspiration.",
                         "The sperm sample is prepared, and a single sperm is selected and injected into each mature egg using a microscopic needle. The fertilized eggs are then cultured in a laboratory for several days and monitored for proper development.",
                         "If the embryos reach a certain stage of development, they are then transferred into the woman's uterus with the goal of implantation and pregnancy."
                     ]
@@ -3158,20 +3094,20 @@
                     "sub-title": "Causes of Unexplained Infertility:",
                     "desc": [
                         "The exact cause of unexplained infertility is unknown, but there are several possible factors that can contribute to it, such as:",
-                        "Age",
-                        "Polycystic ovary syndrome (PCOS)",
-                        "Endocrine disorders",
-                        "Sperm abnormalities",
-                        "Implantation failure"
+                        "● Age",
+                        "● Polycystic ovary syndrome (PCOS)",
+                        "● Endocrine disorders",
+                        "● Sperm abnormalities",
+                        "● Implantation failure"
                     ]
                 },
                 {
                     "sub-title": "Treatment Options:",
                     "desc": [
-                        "Intrauterine Insemination (IUI): IUI involves placing sperm inside the uterus to increase the chances of fertilization. This procedure is recommended for couples with mild infertility.",
-                        "In vitro fertilization (IVF): IVF is a procedure where eggs are collected from the ovaries and fertilized with sperm in a laboratory. The resulting embryos are then transferred to the uterus. This procedure is recommended for couples with moderate to severe infertility.",
-                        "Assisted Reproductive Technologies (ARTs): ARTs include ICSI (Intracytoplasmic sperm injection), PICSI (Polar body Intracytoplasmic sperm injection), and Time-lapse incubation. These procedures can help couples overcome unexplained infertility by improving the chances of fertilization and embryo development.",
-                        "Lifestyle changes: Making changes to your lifestyle, such as reducing stress, maintaining a healthy weight, and following a balanced diet, can also help improve your chances of conception."
+                        "● Intrauterine Insemination (IUI): IUI involves placing sperm inside the uterus to increase the chances of fertilization. This procedure is recommended for couples with mild infertility.",
+                        "● In vitro fertilization (IVF): IVF is a procedure where eggs are collected from the ovaries and fertilized with sperm in a laboratory. The resulting embryos are then transferred to the uterus. This procedure is recommended for couples with moderate to severe infertility.",
+                        "● Assisted Reproductive Technologies (ARTs): ARTs include ICSI (Intracytoplasmic sperm injection), PICSI (Polar body Intracytoplasmic sperm injection), and Time-lapse incubation. These procedures can help couples overcome unexplained infertility by improving the chances of fertilization and embryo development.",
+                        "● Lifestyle changes: Making changes to your lifestyle, such as reducing stress, maintaining a healthy weight, and following a balanced diet, can also help improve your chances of conception."
                     ]
                 },
                 {
@@ -3300,25 +3236,25 @@
                     "sub-title": "Symptoms of Hormone Level Imbalance",
                     "desc": [
                         "The symptoms of hormone level imbalance can vary depending on the specific hormones involved. Some common symptoms include:",
-                        "Fatigue",
-                        "Mood swings and irritability",
-                        "Difficulty sleeping",
-                        "Weight changes",
-                        "Hot flashes and night sweats",
-                        "Reduced sex drive",
-                        "Decreased muscle mass",
-                        "Hair loss and dry skin",
-                        "Decreased bone density"
+                        "● Fatigue",
+                        "● Mood swings and irritability",
+                        "● Difficulty sleeping",
+                        "● Weight changes",
+                        "● Hot flashes and night sweats",
+                        "● Reduced sex drive",
+                        "● Decreased muscle mass",
+                        "● Hair loss and dry skin",
+                        "● Decreased bone density"
                     ]
                 },
                 {
                     "sub-title": "Treatment Options for Hormone Level Imbalance",
                     "desc": [
                         "The treatment for hormone level imbalance will depend on the specific hormones involved and the underlying cause of the imbalance. Some common treatment options include:",
-                        "Hormone replacement therapy (HRT): This involves the use of hormones, either in the form of pills, patches, injections, or pellets, to supplement the levels of hormones in the body.",
-                        "Lifestyle changes: Making changes to one's diet and exercise habits, as well as reducing stress, can help regulate hormone levels.",
-                        "Natural remedies: Some natural remedies, such as herbs and supplements, can help regulate hormone levels and reduce symptoms.",
-                        "Surgery: In some cases, surgery may be necessary to treat an underlying medical condition that is causing the hormone imbalance."
+                        "1.Hormone replacement therapy (HRT): This involves the use of hormones, either in the form of pills, patches, injections, or pellets, to supplement the levels of hormones in the body.",
+                        "2.Lifestyle changes: Making changes to one's diet and exercise habits, as well as reducing stress, can help regulate hormone levels.",
+                        "3.Natural remedies: Some natural remedies, such as herbs and supplements, can help regulate hormone levels and reduce symptoms.",
+                        "4.Surgery: In some cases, surgery may be necessary to treat an underlying medical condition that is causing the hormone imbalance."
                     ]
                 },
                 {
@@ -3356,21 +3292,21 @@
                     "sub-title": "Causes of Obesity",
                     "desc": [
                         "Obesity occurs when you consume more calories than your body can burn. The excess calories are stored as fat, leading to weight gain. Other factors that can contribute to obesity include:",
-                        "Poor diet: Consuming a diet high in unhealthy foods, such as processed foods, sugary drinks, and unhealthy fats, can contribute to weight gain and obesity.",
-                        "Lack of physical activity: A sedentary lifestyle can lead to weight gain and obesity. Regular physical activity is essential to maintain a healthy weight.",
-                        " Obesity can run in families, and certain genetic conditions can increase the risk of obesity.",
-                        " Certain medications, such as steroids and some antidepressants, can contribute to weight gain and obesity.",
-                        "Sleep disorders: Disruptions in sleep patterns, such as sleep apnea, can increase the risk of obesity."
+                        "● Poor diet: Consuming a diet high in unhealthy foods, such as processed foods, sugary drinks, and unhealthy fats, can contribute to weight gain and obesity.",
+                        "● Lack of physical activity: A sedentary lifestyle can lead to weight gain and obesity. Regular physical activity is essential to maintain a healthy weight.",
+                        "● Obesity can run in families, and certain genetic conditions can increase the risk of obesity.",
+                        "● Certain medications, such as steroids and some antidepressants, can contribute to weight gain and obesity.",
+                        "● Sleep disorders: Disruptions in sleep patterns, such as sleep apnea, can increase the risk of obesity."
                     ]
                 },
                 {
                     "sub-title": "Treatment Options for Obesity",
                     "desc": [
                         "The treatment of obesity depends on the individual's needs and goals, but typically involves a combination of lifestyle changes and medical intervention. The following are some of the most common treatments for obesity:",
-                        "Lifestyle changes: The cornerstone of obesity treatment is lifestyle changes, such as adopting a healthy diet and increasing physical activity.",
-                        " In some cases, prescription medications can help with weight loss. These medications work by reducing the appetite or increasing the metabolism.",
-                        "Bariatric surgery: For individuals with severe obesity, bariatric surgery may be an option. This type of surgery restricts the amount of food that can be eaten or reduces the absorption of nutrients, leading to weight loss.",
-                        "Behavioral therapy: Behavioral therapy can help individuals overcome the psychological and behavioral factors that contribute to obesity."
+                        "1. Lifestyle changes: The cornerstone of obesity treatment is lifestyle changes, such as adopting a healthy diet and increasing physical activity.",
+                        "2. In some cases, prescription medications can help with weight loss. These medications work by reducing the appetite or increasing the metabolism.",
+                        "3. Bariatric surgery: For individuals with severe obesity, bariatric surgery may be an option. This type of surgery restricts the amount of food that can be eaten or reduces the absorption of nutrients, leading to weight loss.",
+                        "4. Behavioral therapy: Behavioral therapy can help individuals overcome the psychological and behavioral factors that contribute to obesity."
                     ]
                 },
                 {

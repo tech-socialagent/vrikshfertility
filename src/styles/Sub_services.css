@@ -14,7 +14,7 @@
     text-align: center;
 }
 .compo_title {
-  font-weight: 500;
+  font-weight: 400;
   font-size: 30px;
   color: #ffffff;
   margin: 10px 0px;
@@ -45,7 +45,15 @@
   display: flex;
   align-items: center;
 }
-.slick-dots li.slick-active button:before{
-  
+.ser_slide a .readarr{
+  margin: 0px 10px;
+  display: flex;
+  align-items: center;
+}
+.service_slides .slick-prev:before, .slick-next:before{
+  color: var(--primary-color);
+}
+.service_slides .slick-arrow{
+  background-color: transparent !important;
 }
 

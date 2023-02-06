@@ -109,6 +109,7 @@ function App() {
                 <Treatments data={item} />
                 {/* <Footer/> */}
               </Route>
+              
             );
           })}
           {/* blogs */}

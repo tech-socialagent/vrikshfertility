@@ -9,8 +9,10 @@ function Treatments({ data }) {
   const navLi = document.querySelectorAll(".treatments-list li");
 
   useEffect(() => {
+    window.scrollTo(0, 0);
+
     window.addEventListener("scroll", () => {
-      console.log(" scrolllll");   
+      console.log(" scrolllll");
       var current = "";
       sections.forEach((sec) => {
         const sectionTop = sec.offsetTop;
@@ -43,25 +45,27 @@ function Treatments({ data }) {
         <div className="Treatments-left">
           <ul className="treatments-list">
             {data.sub_data.map((item, index) => {
-             
               return (
                 <li key={index} className={`sec${++index}`}>
-                  <a href={`#sec${index}`}><div className="bar"></div>{item["sub-title"]}</a>
+                  <a href={`#sec${index}`}>
+                    <div className="bar"></div>
+                    {item["sub-title"]}
+                  </a>
                 </li>
               );
             })}
           </ul>
         </div>
-        <div className="mid"></div>
+        {/* <div className="mid"></div> */}
         <div className="Treatments-right">
           <div className="treatments-title">
-            <h1>{data.treatment_name}</h1>
-            {data.treatment_desc.map((item,index)=>{
-              return(
-                <p>{item}</p>
-              )
+            <h1>{
+              data.treatment_subdt ? data.treatment_subdt:data.treatment_name
+              }</h1>
+            {/* <h1>{data.treatment_name+" "}{data.treatment_subdt.length>=1 && data.treatment_subdt}</h1> */}
+            {data.treatment_desc.map((item, index) => {
+              return <p>{item}</p>;
             })}
-            
           </div>
           <div className="treatments-subtitle">
             {data.sub_data.slice(0, -1).map((item, index) => {
@@ -74,10 +78,9 @@ function Treatments({ data }) {
                 </section>
               );
             })}
-            
+
             <section id={`sec${data.sub_data.length}`}>
               <div className="FAQ-main" id="faq">
-                <div className="faq-text">FAQ's</div>
                 <h1 className="faq-heading">
                   FAQ's on {data.treatment_name} Treatment
                 </h1>
@@ -86,7 +89,11 @@ function Treatments({ data }) {
                     {data.sub_data[data.sub_data.length - 1].desc.map(
                       (item, index) => {
                         return (
-                          <div key={index} className="faqdrop " onClick={(e) => myfunc(e)}>
+                          <div
+                            key={index}
+                            className="faqdrop "
+                            onClick={(e) => myfunc(e)}
+                          >
                             <button className="dropbtn">
                               {item.title}
                               <span className="fqicon">
@@ -94,8 +101,8 @@ function Treatments({ data }) {
                               </span>
                             </button>
                             <div id="myDropdown" className="dropdown-content">
-                              {item.fdesc.map((item,index)=>{
-                                return <p key={index}>{item}</p>
+                              {item.fdesc.map((item, index) => {
+                                return <p key={index}>{item}</p>;
                               })}
                             </div>
                           </div>
