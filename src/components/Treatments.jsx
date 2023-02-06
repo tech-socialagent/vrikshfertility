@@ -55,7 +55,7 @@ function Treatments({ data }) {
         <div className="mid"></div>
         <div className="Treatments-right">
           <div className="treatments-title">
-            <h1>{data.treatment_name} Treatments</h1>
+            <h1>{data.treatment_name}</h1>
             {data.treatment_desc.map((item,index)=>{
               return(
                 <p>{item}</p>

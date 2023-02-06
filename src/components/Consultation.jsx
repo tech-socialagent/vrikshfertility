@@ -2,7 +2,7 @@ import "../styles/Consultation.css";
 import Data from "../Data.json";
 import ConsultationImg from "../assests/Photos/Frame 52.png";
 import { Link } from "react-router-dom";
-import { useEffect,useRef } from "react";
+import { useEffect, useRef } from "react";
 function Consultation() {
   const today = new Date();
   const videoEl = useRef(null);
@@ -10,7 +10,7 @@ function Consultation() {
   const attemptPlay = () => {
     videoEl &&
       videoEl.current &&
-      videoEl.current.play().catch(error => {
+      videoEl.current.play().catch((error) => {
         console.error("Error attempting to play", error);
       });
   };
@@ -21,7 +21,7 @@ function Consultation() {
 
   return (
     <section className="consultation-main section" id="book">
-      <div className="consultion">
+      {/* <div className="consultion">
         <form className="consultion-form">
           <h1>{Data.landingPage.consultation_section.section_title}</h1>
           <input
@@ -34,29 +34,30 @@ function Consultation() {
           />
           <input
             type="date"
-            // value={`${
-            //   today.getFullYear() +
-            //   "-" +
-            //   today.getDate() +
-            //   "-" +
-            //   today.getMonth()
-            // }`}
           />
           <input
             type="time"
             placeholder={Data.landingPage.consultation_section.form_items[3]}
           />
-          {/* <button>Book Appointment</button> */}
-          {/* <div to={"/about_doctor"} className="doc_knowmore_btn btn"><Link to={"/about_doctor"}>Book Appointment</Link></div> */}
+          
           <div className="home_book_app">
             <Link to="/about_doctor">Book Appointment</Link>
           </div>
         </form>
       </div>
       <div className="consultation-form-img">
-        <video className="vdo" autoPlay ref={videoEl} src={require("../assests/ConsoleVdo.mp4")} type="video/mp4" loop muted />
-        {/* <img src={ConsultationImg} alt="" /> */}
-      </div>
+        <video className="vdo" autoPlay ref={videoEl} src={require("../assests/ConsoleVdo.mp4")} type="video/mp4" loop muted />  
+      </div> */}
+
+      <iframe
+        width="100%"
+        height="500px"
+        src="https://harishetty-vrikshfertility.zohobookings.in/portal-embed#/customer/117018000000025066"
+        frameborder="0"
+        allowfullscreen=""
+      >
+        {" "}
+      </iframe>
     </section>
   );
 }
