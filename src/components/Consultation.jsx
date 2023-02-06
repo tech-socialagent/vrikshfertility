@@ -2,8 +2,22 @@ import "../styles/Consultation.css";
 import Data from "../Data.json";
 import ConsultationImg from "../assests/Photos/Frame 52.png";
 import { Link } from "react-router-dom";
+import { useEffect,useRef } from "react";
 function Consultation() {
-  const today=new Date();
+  const today = new Date();
+  const videoEl = useRef(null);
+
+  const attemptPlay = () => {
+    videoEl &&
+      videoEl.current &&
+      videoEl.current.play().catch(error => {
+        console.error("Error attempting to play", error);
+      });
+  };
+
+  useEffect(() => {
+    attemptPlay();
+  }, []);
 
   return (
     <section className="consultation-main section" id="book">
@@ -20,8 +34,13 @@ function Consultation() {
           />
           <input
             type="date"
-            value={`${today.getFullYear()+'-'+today.getDate()+"-"+today.getMonth()}`}          
-            
+            // value={`${
+            //   today.getFullYear() +
+            //   "-" +
+            //   today.getDate() +
+            //   "-" +
+            //   today.getMonth()
+            // }`}
           />
           <input
             type="time"
@@ -30,12 +49,13 @@ function Consultation() {
           {/* <button>Book Appointment</button> */}
           {/* <div to={"/about_doctor"} className="doc_knowmore_btn btn"><Link to={"/about_doctor"}>Book Appointment</Link></div> */}
           <div className="home_book_app">
-              <Link to="/about_doctor">Book Appointment</Link>
-            </div>
+            <Link to="/about_doctor">Book Appointment</Link>
+          </div>
         </form>
       </div>
       <div className="consultation-form-img">
-        <img src={ConsultationImg} alt="" />
+        <video className="vdo" autoPlay ref={videoEl} src={require("../assests/ConsoleVdo.mp4")} type="video/mp4" loop muted />
+        {/* <img src={ConsultationImg} alt="" /> */}
       </div>
     </section>
   );

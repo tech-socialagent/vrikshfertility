@@ -6,6 +6,7 @@ import Mail from "../assests/Icons/envelope.png";
 import { BsInstagram } from "react-icons/bs";
 import { IoLogoWhatsapp } from "react-icons/io";
 import { FaLinkedinIn } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -58,7 +59,7 @@ const Footer = () => {
               <div className="ft_ser_heading">Our Services</div>
               {Data.footer.services.map((item, index) => {
                 return (
-                  <a key={index} href="/">
+                  <a key={index} href="/#services">
                     {item}
                   </a>
                 );
@@ -68,50 +69,39 @@ const Footer = () => {
               <div className="ft_ser_heading">Fertility Preservation</div>
               {Data.footer.Fertility_Preservation.map((item, index) => {
                 return (
-                  <a key={index} href="/">
+                  <Link key={index} to={`/${item.replace(/[^a-zA-Z0-9 ]/g,' ').split(" ").join("_").toLowerCase()}`}>
                     {item}
-                  </a>
+                  </Link>
                 );
               })}
-
-              <div className="ft_services">
-                <div className="ft_ser_heading">Third Party Services</div>
-                {Data.footer.Third_Party_Services.map((item, index) => {
-                  return (
-                    <a key={index} href="/">
-                      {item}
-                    </a>
-                  );
-                })}
-              </div>
             </div>
             <div className="ft_services">
               <div className="ft_ser_heading">Surgeries</div>
               {Data.footer.Surgeries.map((item, index) => {
                 return (
-                  <a key={index} href="/">
+                  <Link key={index} to={`/${item.replace(/[^a-zA-Z0-9 ]/g,' ').split(" ").join("_").toLowerCase()}`}>
                     {item}
-                  </a>
+                  </Link>
                 );
               })}
             </div>
             <div className="ft_services">
-              <div className="ft_ser_heading">International Patients</div>
+              {/* <div className="ft_ser_heading">International Patients</div>
               {Data.footer.International_Patients.map((item, index) => {
                 return (
                   <a key={index} href="/">
                     {item}
                   </a>
                 );
-              })}
+              })} */}
 
               <div className="ft_services">
                 <div className="ft_ser_heading">Resources</div>
                 {Data.footer.Resources.map((item, index) => {
                   return (
-                    <a key={index} href="/">
+                    <Link key={index} to={`/${item}`}>
                       {item}
-                    </a>
+                    </Link>
                   );
                 })}
               </div>

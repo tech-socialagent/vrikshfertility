@@ -5,8 +5,23 @@ import { IoLogoWhatsapp } from "react-icons/io";
 import { FaLinkedinIn } from "react-icons/fa";
 import "../styles/About.css";
 import { Link } from "react-router-dom";
+import { useEffect,useRef } from "react";
 
 const Doctors = () => {
+  const videoEl = useRef(null);
+
+  const attemptPlay = () => {
+    videoEl &&
+      videoEl.current &&
+      videoEl.current.play().catch(error => {
+        console.error("Error attempting to play", error);
+      });
+  };
+
+  useEffect(() => {
+    attemptPlay();
+  }, []);
+
   return (
     <section className="meetDoctors about section" id="about">
       <img
@@ -20,11 +35,12 @@ const Doctors = () => {
         </h2>
         <div className="section_body">
           <div className="about_video">
-            <img
+          <video className="vdo" autoPlay ref={videoEl} src={require("../assests/DoctorInto.mp4")} type="video/mp4" loop muted />
+            {/* <img
               src={require("../assests/Photos/" +
                 Data.landingPage.Doctor_section.section_video)}
               alt=""
-            />
+            /> */}
           </div>
           <div className="about_doctor">
             <div className="doctor_detail">

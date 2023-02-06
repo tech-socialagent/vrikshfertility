@@ -48,10 +48,17 @@
 .aboutVriksh .body{
     background-image: url("../assests/Photos/aboutbackg.png");
     background-repeat: no-repeat;
-    background-position: top right;
-    
+    background-position: top right;   
 }
-
+.about_images{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about_images img{
+  width: auto;
+  height: 500px;
+}
 @media only screen and (max-width: 480px) {
   .aboutVriksh .header{
     height: 200px;

@@ -307,7 +307,7 @@
                 {
                     "item_image": "FEMALE EGGS shadow (80x80).png",
                     "item_title": "Qualified Doctors",
-                    "item_desc": "Good treatment begins from good diagnosis from experienced doctors"
+                    "item_desc": "Our doctors offer essential medical services to diagnose, treat, and care for patients, playing a critical role in healthcare delivery and public health."
                 },
                 {
                     "item_image": "SPERMS shadow (80x80).png",
@@ -882,12 +882,11 @@
             "Sperm Donation"
         ],
         "Surgeries": [
-            "Laparascopy",
+            "Laparoscopy",
             "Hysteroscopy",
-            "Myomectomy",
-            "Ulterine Septal Resection",
-            "Endometrial/Dermoid Cyctectomy",
-            "Surgical Sperm Retrieval"
+            "Myomectomy (Fibroid Removal Surgery)",
+            "Uterine Septal Resection",
+            "Endometrial/ Dermoid Cystectomy"
         ],
         "International_Patients": [
             "online Consultation",
@@ -896,9 +895,7 @@
             "Contact Details"
         ],
         "Resources": [
-            "Knowledge Base",
             "FAQs",
-            "Community",
             "Blogs"
         ]
     },

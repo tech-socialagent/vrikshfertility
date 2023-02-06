@@ -22,7 +22,7 @@ const Home = () => {
           {Data.landingPage.Banner_Section.section_brand_name}
         </div>
         <h2 className="home_title">
-          <span className="titleclr">Fertility Care</span> Your Journey Towards
+          <span className="titleclr">Fertility Care -</span> Your Journey Towards
           A Loving Parenthood
         </h2>
         <p className="home_desc">
@@ -40,6 +40,9 @@ const Home = () => {
         </div>
       </div>
       <div className="home_banner_img">
+        {/* <video autoPlay>
+          <source src={require('../assests/BannerVdo.mp4')} type="video/mp4"/>
+        </video> */}
         <img src={require("../assests/Photos/homeback2.png")} alt="" />
       </div>
     </section>

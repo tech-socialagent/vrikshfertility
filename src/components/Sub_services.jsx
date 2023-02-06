@@ -2,6 +2,8 @@ import "../styles/Sub_services.css";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import { Link } from "react-router-dom";
+import{BsFillArrowRightCircleFill} from "react-icons/bs"
 
 const Sub_services = ({ ser_data }) => {
   const settings = {
@@ -46,14 +48,7 @@ const Sub_services = ({ ser_data }) => {
               {item.sub_service_desc.map((item,index)=>{
                 return<div className="compo_desc" key={index}>{item}</div>
               })}
-              
-              {/* <div className="compo_keyfactors">
-                <ul>
-                  {item.sub_service_keypoints.map((item, index) => {
-                    return <li className="key_item" key={index}>{item}</li>;
-                  })}
-                </ul>
-              </div> */}
+              <Link to={item.sub_service_name.replace(/[^a-zA-Z0-9 ]/g,' ').split(" ").join("_").toLowerCase()}>Readmore <BsFillArrowRightCircleFill/></Link>
             </div>
           );
         })}

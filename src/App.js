@@ -67,11 +67,11 @@ function App() {
             <Blogpage />
             <Footer />
           </Route>
-          <Route path={"/aboutvriksh"}>
+          <Route path={"/about_vriksh"}>
             <AboutVriksh />
             <Footer />
           </Route>
-          <Route path={"/teamvalue"}>
+          <Route path={"/team_value"}>
             <TeamValue />
             <Footer />
           </Route>

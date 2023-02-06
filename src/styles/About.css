@@ -34,10 +34,15 @@
 }
 
 .about_video {
+ 
 }
-.about_video img {
+.about_video video {
   height: 400px;
   width: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+  border: 4.17414px solid #FFFFFF;
+  box-shadow: -2.73852px 7.30273px 13.6926px 3.65137px rgba(0, 0, 0, 0.35);
 }
 .doctor_detail {
   /* display: grid;

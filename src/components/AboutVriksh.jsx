@@ -47,7 +47,7 @@ const AboutVriksh = () => {
           </ul>
         </div>
         <div className="about_images">
-            
+            <img src={require("../assests/Photos/aboutImagev.jpg")} alt="" />
         </div>
       </div>
     </section>

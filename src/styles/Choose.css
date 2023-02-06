@@ -6,10 +6,11 @@
 } */
 .choose{
   background-image: url("../assests/Photos/chooseus_background.jpg");
-  object-fit:scale-down;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
-  background-position-x: 300px ;
+  background-position: right 0%;
+  /* object-fit:scale-down;
+  background-position-x: 300px ; */
 
 }
 .choose .section_title {
