@@ -4,7 +4,7 @@ const TeamValue = () => {
     <section className="teamvaluePage">
       <div className="header">
         <div>
-          <h2>Team Value</h2>
+          <h2>Team Values</h2>
         </div>
       </div>
       <div className="team_body">
@@ -13,10 +13,10 @@ const TeamValue = () => {
           While it comes naturally to some, it is a distant dream to many.”
         </h3>
         <h3>
-          “Vriksh Fertility has been started to help couples fulfil that dream
-          of parenthood! We are starting this institution with a clear dream of
+          “Vriksh Fertility was started to help couples fulfil that dream
+          of parenthood. We are started this institution with a clear purpose of
           being an ethical and trusted centre for advanced reproductive medicine
-          technology - thanks to the relentless efforts of a strong ,highly
+          technology - thanks to the relentless efforts of a strong, highly
           committed clinical and scientific team.”
         </h3>
         <h2>
@@ -26,9 +26,9 @@ const TeamValue = () => {
         <div className="team_desc">
           <div className="teamvalue_text">
             <h4 className="doc_detail">
-              Dr. Sneha Shetty , clinical Director & chief fertility specialist
-              of VRIKSH FERTILITY has more than a decade of experience in
-              medical field
+              Dr. Sneha Shetty , clinical director & chief fertility specialist
+              of VRIKSH FERTILITY has more than a decade of experience in the
+              medical field.
             </h4>
             <h4 className="doc_quote">
               {"\u201c"}We didn't want to start an organisation with routine fertility
@@ -41,28 +41,27 @@ const TeamValue = () => {
             <p className="team_text">
               Centre headed by Managing Director Mr. Hari Prasad Shetty, MBA
               Harvard university, has experience in the hospital industry
-              especially field of reproductive medicine for more than a decade
-              and has won many awards for the institutes he worked for as he
-              believes in changing Indian healthcare with introduction of
-              advanced treatments in the field of reproductive medicine to
-              increase the success rates.
+              especially in the field of reproductive medicine for more than a decade
+              and has won many awards for the institutions he has worked for. He
+              believes in changing the Indian healthcare system with the introduction of
+              advanced treatments in the field of reproductive medicine.
             </p>
             <p className="team_text">
-              With the vision of setting benchmark in field of reproductive
+              With the vision of setting a benchmark in the field of reproductive
               medicine by delivering the best possible outcomes for couples
-              looking to experience a wonderful world of parenthood he says “
+              looking to experience a wonderful world of parenthood, he says “
               There is quite a lot to look forward to when we are talking about
-              fertility treatments like regenerative medicine , genetic
-              advancements, AI based embryo monitoring , automated freezing of
-              embryos , advancing field of OMICS etc! Fertility is a field
-              wherein its the union of technology and medicine to bring anxious
+              fertility treatments like regenerative medicine, genetic
+              advancements, AI based embryo monitoring, automated freezing of
+              embryos, advancing the field of OMICS etc. Fertility is a field
+              wherein its the union of technology and medicine brings anxious
               couples closer to their dream of having a healthy baby! We at
               VRIKSH FERTILITY work towards a holistic approach towards a
               couples treatment as infertility can have a growing psychological
               impact - so we make sure that both partners are comfortable to
               start their fertility treatment journey! We have a team of highly
-              qualified and experienced doctors and embryologists , along with
-              the latest technologies , infrastructure , facilities and
+              qualified and experienced doctors and embryologists, along with
+              the latest technologies, infrastructure, facilities and
               excellent quality of services provided to patients! We have put in
               our best efforts to bring in the state-of-the-art equipment needed
               to effectively and efficiently manage infertility and give the

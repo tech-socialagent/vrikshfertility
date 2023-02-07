@@ -11,6 +11,7 @@
                     },
                     {
                         "title": "Team Value"
+                       
                     }
                 ]
             },
@@ -267,7 +268,7 @@
         "Banner_Section": {
             "section_brand_name": "Vriksh Fertility",
             "section_headline": "Fertility Care  Your Journey Towards A Loving Parenthood",
-            "section_desc": "We solve all your fertility core needs by providing personilised & holistic fertility care",
+            "section_desc": "We solve all your fertility care needs by providing a personalised & holistic fertility care system",
             "section_btn_text": "Book Appointment",
             "section_banner_image": "",
             "section_icons": [
