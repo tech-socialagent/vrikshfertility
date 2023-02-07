@@ -19,7 +19,7 @@
     border-radius: 20px;
     margin: 0;
     position: relative;
-    left: 35px;
+    left: 30px;
     transition: all 0.5s;
 }
 .article_card:hover{
@@ -42,7 +42,7 @@
     color: var(--black-color);
 }
 .article_desc{
-    font-weight: 400;
+    font-weight: 300;
 }
 .article_readmore{
     text-align: center;
@@ -53,4 +53,13 @@
     color: var(--primary-color);
     font-weight: 500;
     text-decoration: none;
+}
+
+@media only screen and (max-width:500px){
+    .article_card:hover{
+        transform: translateY(0px)
+    }
+    .article_card{
+        left: 0;
+    }
 }

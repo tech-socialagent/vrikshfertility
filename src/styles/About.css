@@ -22,11 +22,11 @@
   line-height: 40px;
   position: relative;
   z-index: 10;
-  color: var(--black-color);
+  color: #080111;
 }
 .about .section_body {
   display: grid;
-  column-gap: 20px;
+  column-gap: 50px;
   grid-template-columns: 1fr 1fr;
   align-items: center;
   position: relative;
@@ -163,7 +163,7 @@
   .doc_image {
     margin-top: 50px;
   }
-  .about_video img {
+  .about_video video {
     height: 200px;
     width: auto;
     margin: 10px 0px;
@@ -182,9 +182,9 @@
     width: 50%;
     height: 30%;
   }
-  .about_video img {
-    width: 100vw;
-    margin-top: 10px;
+  .about_video video {
+    width: 100%;
+    margin: 20px 10px;
   }
   .section {
     padding: 0px 30px;

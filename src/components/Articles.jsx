@@ -27,12 +27,13 @@ const Articles = () => {
         },
       },
       {
-        breakpoint: 800,
+        breakpoint: 850,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 2,
           infinite: true,
           dots: true,
+          arrows:false
         },
       },
       {
@@ -83,7 +84,7 @@ const Articles = () => {
                       title={item.title}
                       img={item.img}
                       user={item.postby}
-                      desc={item.desc[0].slice(0, 220) + " ..."}
+                      desc={item.desc[0].slice(0, 200) + " ..."}
                       time={item.date}
                       arlink={item.more_link}
                     />

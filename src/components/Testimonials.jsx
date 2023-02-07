@@ -14,15 +14,17 @@ function Testimonials() {
     autoplay: true,
     slidesToShow: 2,
     slidesToScroll: 1,
+    arrows:false
   };
   var settingsmob = {
     dots: true,
     infinite: true,
     speed: 500,
-    autoplaySpeed: 1000,
+    autoplaySpeed: 2000,
     autoplay: true,
     slidesToShow: 1,
     slidesToScroll: 1,
+    arrows:false
   };
 
   return (

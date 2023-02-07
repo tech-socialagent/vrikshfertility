@@ -114,11 +114,11 @@ const Services = () => {
                           <div className="msub-item-desc">
                             {item.sub_service_desc}
                           </div>
-                          <ul className="msub-item-keys">
+                          {/* <ul className="msub-item-keys">
                             {item.sub_service_keypoints.map((item, index) => {
                               return <li className="msub-key-pts">{item}</li>;
                             })}
-                          </ul>
+                          </ul> */}
                         </div>
                       </div>
                     );

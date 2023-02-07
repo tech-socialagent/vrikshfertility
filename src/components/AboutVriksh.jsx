@@ -18,33 +18,33 @@ const AboutVriksh = () => {
           </div>
           <ul>
             <li>
-              From their first visit to the entire treatment journey, all
-              patients are hand held to ensure emotional care along with medical
+              From the first visit to their entire treatment journey, all
+              patients are hand held to ensure emotional support along with medical
               care.
             </li>
             <li>
-              The centre is equipped with State of the ART equipments and
+              The center is equipped with state of the art equipments and
               infrastructure optimised for high success rate with a pleasing and
               calm ambience.
             </li>
             <li>
-              All the staff are experts in their concerned field and go through
+              All the members of staff are experts in their concerned field and go through
               regular training to hone their skills.
             </li>
             <li>
-              The SOPs at the centre are based on the latest ICMR standards and
+              The SOPs at the center are based on the latest ICMR standards and
               are updated regularly.
             </li>
           </ul>
-          <div className="desc_heading">Team Values</div>
-          <ul>
+          {/* <div className="desc_heading">Team Values</div> */}
+          {/* <ul>
             <li>
               Team Values At Vriksh, we place medical ethics and standards at
               the highest pedestal. All procedures and treatments are
               standardised and documented to ensure transparency throughout the
               patients journey.
             </li>
-          </ul>
+          </ul> */}
         </div>
         <div className="about_images">
             <img src={require("../assests/Photos/aboutImagev.jpg")} alt="" />
