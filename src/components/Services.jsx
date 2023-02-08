@@ -6,7 +6,9 @@ import { FaAngleRight } from "react-icons/fa";
 
 const Services = () => {
   // "fertilitytreatment"
-  const [cr_service, setCr_service] = useState(Data.landingPage.services_section.services[0]);
+  const [cr_service, setCr_service] = useState(
+    Data.landingPage.services_section.services[0]
+  );
   const [ser, setSer] = useState(false);
   const [subSer, setSubSer] = useState(false);
 
@@ -20,16 +22,35 @@ const Services = () => {
     e.currentTarget.classList.add("active");
   };
   const serHandler1 = (e) => {
-    document.querySelectorAll(".heading1").forEach((item) => {
-      item.classList.remove("vactive");
-    });
-    e.currentTarget.classList.add("vactive");
+    const head = e.currentTarget.classList;
+    if(head.value.split(" ").includes("vactive")){
+      head.remove("vactive")
+    }else{
+      document.querySelectorAll(".heading1").forEach((item) => {
+        item.classList.remove("vactive");
+      })
+      
+      head.add("vactive")
+    }
+      
   };
   const serHandler2 = (e) => {
-    document.querySelectorAll(".sub-ser-view").forEach((item) => {
-      item.classList.remove("sactive");
-    });
-    e.currentTarget.classList.add("sactive");
+    e.stopPropagation();
+    const subhead=e.currentTarget.classList;
+
+    if(subhead.value.split(" ").includes("sactive")){
+      subhead.remove("sactive")
+    }else{
+      document.querySelectorAll(".sub-ser-view").forEach((item) => {
+        item.classList.remove("sactive");
+      });
+
+      subhead.add("sactive")
+    }
+
+
+
+    
   };
   useEffect(() => {
     document
@@ -62,7 +83,7 @@ const Services = () => {
           </div>
 
           <div className="services_details">
-            <Sub_services ser_data={cr_service}/>
+            <Sub_services ser_data={cr_service} />
             {/* {Data.landingPage.services_section.services.map((item, index) => {
               return (
                 <div key={index}>
@@ -81,8 +102,8 @@ const Services = () => {
         <div className="phoneService">
           {Data.landingPage.services_section.services.map((item, index) => {
             return (
-              <div className="heading1" onClick={(e) => serHandler1(e)}>
-                <div className="ser-mob-h1" key={index}>
+              <div className="heading1" onClick={(e) => serHandler1(e)} key={index}>
+                <div className="ser-mob-h1" >
                   {item.service_title}{" "}
                   <span className="dropicon1">
                     <FaAngleRight />
@@ -93,13 +114,13 @@ const Services = () => {
                   {item.sub_services.map((item, index) => {
                     return (
                       <div
-                      key={index}
+                        key={index}
                         className="sub-ser-view"
                         onClick={(e) => {
                           serHandler2(e);
                         }}
                       >
-                        <div className="sub-mob-ser-h2" >
+                        <div className="sub-mob-ser-h2">
                           {item.sub_service_name}{" "}
                           <span className="dropicon2">
                             <FaAngleRight />

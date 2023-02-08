@@ -15,6 +15,7 @@ const Sub_services = ({ ser_data }) => {
     arrows: true,
     fade:true,
   };
+  
   return (
     <div className="service_slides" >
 

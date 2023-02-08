@@ -53,8 +53,8 @@ function Consultation() {
         width="100%"
         height="500px"
         src="https://harishetty-vrikshfertility.zohobookings.in/portal-embed#/customer/117018000000025066"
-        frameborder="0"
-        allowfullscreen=""
+        frameBorder="0"
+        // allowfullscreen=""
       >
         {" "}
       </iframe>

@@ -85,7 +85,7 @@ function App() {
           </Route>
           {Data.landingPage.article_section.articles.map((item, index) => {
             return (
-              <Route path={"/"+item.more_link}>
+              <Route path={"/"+item.more_link} key={index}>
                 <BlogMore blogdata={item} />
                 <Footer />
               </Route>

@@ -32,7 +32,11 @@ const MenuItems = ({ items, depthLevel }) => {
   const onMouseLeave = () => {
     window.innerWidth > 960 && setDropdown(false);
   };
-
+  const offmb=()=>{
+    if(window.innerWidth<800) {
+      document.querySelector(".nav_menu").classList.remove("to_right");
+    }
+  }
   return (
     <li
       className="menu-items"
@@ -63,7 +67,7 @@ const MenuItems = ({ items, depthLevel }) => {
           />
         </>
       ) : (
-        <Link to={`/${items.title.replace(/[^a-zA-Z0-9 ]/g,' ').split(" ").join("_").toLowerCase()}`}> {items.title} </Link>
+        <Link onClick={offmb} to={`/${items.title.replace(/[^a-zA-Z0-9 ]/g,' ').split(" ").join("_").toLowerCase()}`}> {items.title} </Link>
       )}
     </li>
   );

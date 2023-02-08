@@ -47,16 +47,6 @@ const Navbar = () => {
             );
           })}
         </ul>
-        {/* action buttons  */}
-
-        {/* <ul className="nav_items">
-          {Data.header.nav_items.map((item,index) => {
-            return (
-              <li key={index} className="nav_item">
-                <HashLink to={"/#"+item.id}>{item.title}</HashLink>
-              </li>
-            );
-          })} */}
       </div>
     </div>
   );
