@@ -38,10 +38,18 @@ const Navbar = () => {
               <MenuItems items={item} depthLevel={depthLevel} key={index} />
             );
           })}
-          
+
           {Data.header.nav_btns.map((item, index) => {
             return (
-              <li key={index} className="nav_item nav_btns get_quote_btn">
+              <li
+                key={index}
+                onClick={() => {
+                  document
+                    .querySelector(".nav_menu")
+                    .classList.toggle("to_right");
+                }}
+                className="nav_item nav_btns get_quote_btn"
+              >
                 <HashLink to={"/#" + item.id}>{item.title}</HashLink>
               </li>
             );
