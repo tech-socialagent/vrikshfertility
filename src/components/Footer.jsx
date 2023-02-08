@@ -37,17 +37,17 @@ const Footer = () => {
               <div className="ft_ser_heading">Social Media Links</div>
               <div className="social_media_links">
                 <div className="whatsapp">
-                  <a href="">
+                  <a href="/">
                     <IoLogoWhatsapp />
                   </a>
                 </div>
                 <div className="instagram">
-                  <a href="">
+                  <a href="/">
                     <BsInstagram />
                   </a>
                 </div>
                 <div className="linkedin">
-                  <a href="">
+                  <a href="/">
                     <FaLinkedinIn />
                   </a>
                 </div>
@@ -69,7 +69,14 @@ const Footer = () => {
               <div className="ft_ser_heading">Fertility Preservation</div>
               {Data.footer.Fertility_Preservation.map((item, index) => {
                 return (
-                  <Link key={index} to={`/${item.replace(/[^a-zA-Z0-9 ]/g,' ').split(" ").join("_").toLowerCase()}`}>
+                  <Link
+                    key={index}
+                    to={`/${item
+                      .replace(/[^a-zA-Z0-9 ]/g, " ")
+                      .split(" ")
+                      .join("_")
+                      .toLowerCase()}`}
+                  >
                     {item}
                   </Link>
                 );
@@ -79,7 +86,14 @@ const Footer = () => {
               <div className="ft_ser_heading">Surgeries</div>
               {Data.footer.Surgeries.map((item, index) => {
                 return (
-                  <Link key={index} to={`/${item.replace(/[^a-zA-Z0-9 ]/g,' ').split(" ").join("_").toLowerCase()}`}>
+                  <Link
+                    key={index}
+                    to={`/${item
+                      .replace(/[^a-zA-Z0-9 ]/g, " ")
+                      .split(" ")
+                      .join("_")
+                      .toLowerCase()}`}
+                  >
                     {item}
                   </Link>
                 );
@@ -109,7 +123,13 @@ const Footer = () => {
           </div>
         </div>
       </section>
-      <div className="ft_foot">Vriksh Fertility &copy; 2023 All Right Reserved.</div>
+      <div className="ft_foot">
+        <div>Vriksh Fertility &copy; 2023 All Right Reserved.</div>
+        <div>
+          <Link to={"termsandconditions"}>Terms and Conditions</Link>
+          <Link to={"privacyandpolicy"}>Privacy and Policy</Link>
+        </div>
+      </div>
     </>
   );
 };

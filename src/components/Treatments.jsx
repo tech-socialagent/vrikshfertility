@@ -5,11 +5,10 @@ import { useEffect } from "react";
 import { FaAngleDown } from "react-icons/fa";
 
 function Treatments({ data }) {
-  const sections = document.querySelectorAll(".treatments-subtitle section");
+  window.scrollTo(0, 0);
+  const sections = document.querySelectorAll(".treatments-subtitle .section");
   const navLi = document.querySelectorAll(".treatments-list li");
-
   useEffect(() => {
-    window.scrollTo(0, 0);
 
     window.addEventListener("scroll", () => {
       console.log(" scrolllll");
@@ -59,18 +58,20 @@ function Treatments({ data }) {
         {/* <div className="mid"></div> */}
         <div className="Treatments-right">
           <div className="treatments-title">
-            <h1>{
-              data.treatment_subdt ? data.treatment_subdt:data.treatment_name
-              }</h1>
+            <h1>
+              {data.treatment_subdt
+                ? data.treatment_subdt
+                : data.treatment_name}
+            </h1>
             {/* <h1>{data.treatment_name+" "}{data.treatment_subdt.length>=1 && data.treatment_subdt}</h1> */}
             {data.treatment_desc.map((item, index) => {
-              return <p>{item}</p>;
+              return <p key={index}>{item}</p>;
             })}
           </div>
           <div className="treatments-subtitle">
             {data.sub_data.slice(0, -1).map((item, index) => {
               return (
-                <section key={index} id={`sec${++index}`}>
+                <section key={index} id={`sec${++index} section`}>
                   <h1 id="treatments-subtitle-1">{item["sub-title"]}</h1>
                   {item.desc.map((des, index) => {
                     return <p key={index}>{des}</p>;

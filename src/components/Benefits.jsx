@@ -3,16 +3,16 @@ import Data from "../Data.json";
 import "../styles/Benefits.css";
 
 function Benefits() {
-  useEffect(()=>{
-    window.addEventListener("scroll",()=>{
-      const benefit=document.querySelector(".benefits");
-      if(document.documentElement.scrollTop+100 < benefit.offsetTop){
-        benefit.classList.add("focus");
-      }
+  // useEffect(()=>{
+    // window.addEventListener("scroll",()=>{
+    //   const benefit=document.querySelector(".benefits");
+    //   if(document.documentElement.scrollTop+100 < benefit.offsetTop){
+    //     benefit.classList.add("focus");
+    //   }
       // console.log(document.documentElement.scrollTop)
       // console.log(document.querySelector(".benefits").offsetTop)
-    })
-  },[])
+    // })
+  // },[])
   return (
     <section className="benefits section" id="benefits">
       <div className="benefit_body">

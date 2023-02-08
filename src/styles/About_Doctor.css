@@ -113,16 +113,18 @@
 }
 
 @media screen and (max-width: 480px) {
-  .about-doctor {
-    display: flex;
-    flex-direction: column;
+  .about-doctor{
+    padding: 100px  10px 10px 10px;
+  }
+  .about_doc_body{
+    grid-template-columns: 1fr;
   }
   .about-doc-left img {
     height: 326px;
     width: 326px;
   }
   .about-doc-name {
-    font-size: 32px;
+    font-size: 32 px;
     font-weight: 600;
   }
   .about-doc-desc {
@@ -137,7 +139,7 @@
     width: 24px;
   }
   .about-doctor-right {
-    padding: 0px 20px 0px 40px;
+    padding: 10px ;
   }
   .about-doc-title,
   .about-doc-subtitle {
@@ -157,13 +159,15 @@
     list-style: number;
     font-size: 16px;
     font-weight: 300;
-    padding-left: 0px;
+    padding-left: 20px;
     text-align: left;
   }
   .about-doctor-contact {
     display: flex;
     flex-direction: column-reverse;
-    margin: 0px 40px 0px 40px;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
   }
 
   .input-section {
@@ -173,6 +177,20 @@
   .input-section input {
     height: 40px;
     width: 327px;
+  }
+   .about-doctor-form-contact h1{
+    text-align: center;
+  }
+  .about-contact-form,.about-doc-contact-form-second{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .about-doctor-form-photo img {
+    height: 100%;
+    margin: 20px;
+    padding: 0 10px;
   }
   .about-doc-contact-form-second textarea {
     height: 160px;

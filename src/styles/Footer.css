@@ -68,6 +68,18 @@
   font-size: 16px;
   line-height: 25px;
 }
+.ft_foot {
+  background-color: var(--primary-color);
+  width: 100%;
+  height: 60px; 
+  display: flex;
+  align-items: center;
+}
+.ft_foot a{
+  color: #ffffff;
+  margin: 0px 5px;
+  font-weight: 300;
+}
 @media only screen and (max-width: 480px) {
   .footer {
     padding: 20px;
@@ -92,12 +104,14 @@
     font-size: 16px;
     line-height: 18px;
   }
+  .ft_foot{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }
-.ft_foot {
-  background-color: var(--primary-color);
-  width: 100%;
-  height: 40px;
-}
+
+
 @media only screen and (max-width: 850px) {
   .ft_con_data {
     display: block;

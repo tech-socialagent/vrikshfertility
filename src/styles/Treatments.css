@@ -38,12 +38,11 @@
 }
 
 .Treatments-right {
-  /* position: relative; */
   margin-top: 200px;
   height: 70vh;
   padding-right: 10px;
   overflow: auto;
-  background-image: url("../assests/Photos/aboutbackg.png");
+  /* background-image: url("../assests/Photos/aboutbackg.png"); */
   background-repeat: no-repeat;
   background-position: top 0% right 0%;
   
@@ -92,7 +91,7 @@
 }
 .treatments-title p {
   font-size: 18px;
-  font-weight: 400;
+  font-weight: 300;
   margin-bottom: 20px;
   
   color: #080111;
@@ -242,5 +241,23 @@ select {
   .treatments-subtitle p{
     font-size: 16px;
     line-height: 20px;
+  }
+  .Treatments-right{
+    height: auto;
+    margin: 0;
+  }
+  .treatment img{
+    position: sticky;
+    height: 150px;
+    top: -100px;
+  }
+  .FAQ-left .dropdowntt{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+  }
+  .FAQ-left .dropbtn{
+    height: auto;
   }
 }

@@ -22,9 +22,14 @@ import AboutVriksh from "./components/AboutVriksh";
 import TeamValue from "./components/TeamValue";
 import ContactPage from "./components/ContactPage";
 import BlogMore from "./components/Blogmore";
+import PrivacyNpolicy from "./components/PrivacyNpolicy";
+import TermsNconditions from "./components/TermsNconditions";
 
 function App() {
+  // window.scrollTo(0, 0);
   useEffect(() => {
+    window.scrollTo(0, 0);
+    
     window.addEventListener("scroll", () => {
       if (document.documentElement.scrollTop === 0) {
         document.querySelector(".Nav_body").classList.remove("white_bg");
@@ -83,9 +88,18 @@ function App() {
             <FaqPage />
             <Footer />
           </Route>
+          {/* privacy policy */}
+          <Route path={"/privacyandpolicy"}>
+            <PrivacyNpolicy />
+            <Footer />
+          </Route>
+          <Route path={"/termsandconditions"}>
+            <TermsNconditions />
+            <Footer />
+          </Route>
           {Data.landingPage.article_section.articles.map((item, index) => {
             return (
-              <Route path={"/"+item.more_link} key={index}>
+              <Route path={"/" + item.more_link} key={index}>
                 <BlogMore blogdata={item} />
                 <Footer />
               </Route>
@@ -109,7 +123,6 @@ function App() {
                 <Treatments data={item} />
                 {/* <Footer/> */}
               </Route>
-              
             );
           })}
           {/* blogs */}
