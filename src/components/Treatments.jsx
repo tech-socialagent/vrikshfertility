@@ -71,7 +71,7 @@ function Treatments({ data }) {
           <div className="treatments-subtitle">
             {data.sub_data.slice(0, -1).map((item, index) => {
               return (
-                <section key={index} id={`sec${++index} section`}>
+                <section key={index} id={`sec${++index}`} className={"section"}>
                   <h1 id="treatments-subtitle-1">{item["sub-title"]}</h1>
                   {item.desc.map((des, index) => {
                     return <p key={index}>{des}</p>;
