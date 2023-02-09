@@ -45,6 +45,7 @@
   /* background-image: url("../assests/Photos/aboutbackg.png"); */
   background-repeat: no-repeat;
   background-position: top 0% right 0%;
+  scroll-behavior: smooth;
   
 }
 .Treatments-right::-webkit-scrollbar{
