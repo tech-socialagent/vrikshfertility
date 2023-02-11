@@ -68,6 +68,7 @@
   border-radius: 15px;
   width: 260px;
   height: 180px;
+
 }
 .doctor_detail img {
   position: absolute;
@@ -75,7 +76,10 @@
   right: 0px;
   height: 220px;
   width: 220px;
+
+  
 }
+
 .doctor_data h4 {
   font-size: 26px;
   line-height: 32px;
@@ -122,6 +126,13 @@
 }
 .linkedin {
   background-color: #2878b7;
+}
+.facebook{
+  background-color: #3b5998;
+}
+.twitter{
+  background-color: #1DA1F2;
+  
 }
 
 .doctor_desc {

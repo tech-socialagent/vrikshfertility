@@ -73,7 +73,7 @@ const Doctors = () => {
                     </a>
                   </div>
                   <div className="instagram">
-                    <a href="">
+                    <a href="https://www.instagram.com/drsneha_fertilitydoc">
                       <BsInstagram />
                     </a>
                   </div>

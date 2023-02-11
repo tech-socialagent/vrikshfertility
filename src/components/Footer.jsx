@@ -3,9 +3,10 @@ import "../styles/Footer.css";
 import Data from "../Data.json";
 import Phone from "../assests/Icons/phone.png";
 import Mail from "../assests/Icons/envelope.png";
-import { BsInstagram } from "react-icons/bs";
+import { BsInstagram,BsFacebook } from "react-icons/bs";
 import { IoLogoWhatsapp } from "react-icons/io";
 import { FaLinkedinIn } from "react-icons/fa";
+import {AiFillTwitterCircle} from "react-icons/ai";
 import { Link } from "react-router-dom";
 
 const Footer = () => {
@@ -22,11 +23,11 @@ const Footer = () => {
             <div className="ft_services">
               <div className="ft_ser_heading">Contact</div>
               <div className="ft_con_data">
-                <a href="mailto:info@vrikshfertility.com" className="ft_con">
+                <a href={`mailto:${Data.footer.contact.mail}`} className="ft_con">
                   <img src={Phone} alt="" className="ft_icons" />{" "}
                   {Data.footer.contact.mail}
                 </a>
-                <a href="tel:" className="ft_con">
+                <a href={`tel:${Data.footer.contact.phone_no}`} className="ft_con">
                   <img src={Mail} alt="" className="ft_icons" />{" "}
                   {Data.footer.contact.phone_no}
                 </a>
@@ -36,19 +37,26 @@ const Footer = () => {
             <div className="ft_services">
               <div className="ft_ser_heading">Social Media Links</div>
               <div className="social_media_links">
-                <div className="whatsapp">
-                  <a href="/">
-                    <IoLogoWhatsapp />
+                
+                <div className="facebook">
+                  <a href="https://www.facebook.com/VrikshFertility?mibextid=ZbWKwL">
+                    <BsFacebook />
                   </a>
                 </div>
                 <div className="instagram">
-                  <a href="/">
+                  <a href="https://www.instagram.com/vrikshfertility/">
                     <BsInstagram />
                   </a>
                 </div>
                 <div className="linkedin">
-                  <a href="/">
+                  <a href="https://www.linkedin.com/company/vrikshfertility/">
                     <FaLinkedinIn />
+                  </a>
+                </div>
+                
+                <div className="twitter">
+                  <a href="https://www.twitter.com/VrikshFertility">
+                    <AiFillTwitterCircle />
                   </a>
                 </div>
               </div>

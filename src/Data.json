@@ -855,14 +855,14 @@
     "footer": {
         "section_image": "Vrikshlogo06.jpg",
         "contact": {
-            "phone_no": "+1(230)-456-155-23",
+            "phone_no": "+918797080808",
             "mail": "info@vrikshfertility.com"
         },
         "media_links": [
-            "facebooklink",
-            "instalink",
-            "twitterlink",
-            "youtubelinki"
+            "https://www.facebook.com/VrikshFertility?mibextid=ZbWKwL",
+            "https://www.instagram.com/",
+            "https://twitter.com/home",
+            "https://www.linkedin.com/company/vrikshfertility/"
         ],
         "services": [
             "Fertility Treatment",
