@@ -1,4 +1,3 @@
-import { useEffect } from "react";
 import Data from "../Data.json";
 import "../styles/Benefits.css";
 

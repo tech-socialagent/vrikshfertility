@@ -1,7 +1,7 @@
 import React from "react";
 import Data from "../Data.json";
 import { BsInstagram } from "react-icons/bs";
-import { IoLogoWhatsapp } from "react-icons/io";
+// import { IoLogoWhatsapp } from "react-icons/io";
 import { FaLinkedinIn } from "react-icons/fa";
 import "../styles/About.css";
 import { Link } from "react-router-dom";

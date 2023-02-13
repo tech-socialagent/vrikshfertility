@@ -2,8 +2,6 @@ import "../styles/Sub_services.css";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { Link } from "react-router-dom";
-import{BsArrowRightCircle} from "react-icons/bs"
 
 const Sub_services = ({ ser_data }) => {
   const settings = {

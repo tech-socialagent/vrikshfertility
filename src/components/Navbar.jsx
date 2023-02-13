@@ -1,10 +1,8 @@
 import "../styles/Navbar.css";
 import { HashLink } from "react-router-hash-link";
-import { Link } from "react-router-dom";
 import { BiX, BiMenu } from "react-icons/bi";
 import { useState } from "react";
 import MenuItems from "./MenuItems";
-import Logo from "../assests/svgs/PurpleLogo.svg";
 import Data from "../Data.json";
 import "../styles/Dropdown.css";
 

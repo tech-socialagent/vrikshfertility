@@ -1,4 +1,3 @@
-import Data from "../Data.json";
 import "../styles/TestimonialsCard.css";
 
 function TestimonialsCard({ desc, pic, name, age, prof,clr }) {

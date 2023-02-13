@@ -1,6 +1,5 @@
 import "../styles/Treatments.css";
 import Trimg from "../assests/Photos/Servicesbackg.png";
-import FAQImg from "../assests/Photos/christian-bowen-OJOE587CWuE-unsplash.jpg";
 import { useEffect } from "react";
 import { FaAngleDown } from "react-icons/fa";
 
@@ -29,7 +28,7 @@ function Treatments({ data }) {
         }
       });
     });
-  }, []);
+  }, [navLi,sections]);
 
   const myfunc = (e) => {
     // document

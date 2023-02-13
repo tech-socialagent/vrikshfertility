@@ -1,6 +1,6 @@
 import Data from "../Data.json";
 import "../styles/Services.css";
-import Sub_services from "./Sub_services";
+import SubServices from "./Sub_services";
 import { useEffect, useState } from "react";
 import { FaAngleRight } from "react-icons/fa";
 
@@ -9,8 +9,6 @@ const Services = () => {
   const [cr_service, setCr_service] = useState(
     Data.landingPage.services_section.services[0]
   );
-  const [ser, setSer] = useState(false);
-  const [subSer, setSubSer] = useState(false);
 
   // console.log(cr_service);
 
@@ -83,7 +81,7 @@ const Services = () => {
           </div>
 
           <div className="services_details">
-            <Sub_services ser_data={cr_service} />
+            <SubServices ser_data={cr_service} />
             {/* {Data.landingPage.services_section.services.map((item, index) => {
               return (
                 <div key={index}>

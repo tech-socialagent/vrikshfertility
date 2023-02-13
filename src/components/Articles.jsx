@@ -1,11 +1,10 @@
 import "../styles/Articles.css";
 import Data from "../Data.json";
-import Article_card from "./Article_card";
+import ArticleCard from "./Article_card";
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-import { useState } from "react";
 
 const Articles = () => {
   var settings2 = {
@@ -80,7 +79,7 @@ const Articles = () => {
               {Data.landingPage.article_section.articles.map((item, index) => {
                 return (
                   <div className="arItems" key={index}>
-                    <Article_card
+                    <ArticleCard
                       title={item.title}
                       img={item.img}
                       user={item.postby}

@@ -3,7 +3,7 @@ import "../styles/Home.css";
 import { useEffect,useRef } from "react";
 
 const Home = () => {
-  let img = 1;
+  // let img = 1;
 
   const videoEl = useRef(null);
 
