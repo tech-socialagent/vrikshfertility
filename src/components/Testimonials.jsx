@@ -14,7 +14,7 @@ function Testimonials() {
     autoplay: true,
     slidesToShow: 2,
     slidesToScroll: 1,
-    arrows:false
+    arrows: false,
   };
   var settingsmob = {
     dots: true,
@@ -24,7 +24,7 @@ function Testimonials() {
     autoplay: true,
     slidesToShow: 1,
     slidesToScroll: 1,
-    arrows:false
+    arrows: false,
   };
 
   return (
@@ -92,6 +92,7 @@ function Testimonials() {
         alt=""
         className="background"
       />
+      
     </section>
   );
 }

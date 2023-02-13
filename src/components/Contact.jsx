@@ -20,14 +20,16 @@ const Contact = () => {
               {Data.landingPage.location_time_section.timing.heading}
             </div>
             <div className="workinghours">
-              <div className="time_sub_heading">Monday - Friday</div>
+              <div className="time_sub_heading">Morning</div>
               <div className="main_time">
                 {Data.landingPage.location_time_section.timing.weekdays}
               </div>
-              <div className="time_sub_heading">Saturday - Sunday</div>
+              <div className="time_sub_heading">Evening</div>
               <div className="main_time">
                 {Data.landingPage.location_time_section.timing.weekends}
               </div>
+
+              <div className="time_sub_heading">( Except Thursday )</div>
             </div>
             <div className="contact_details">
               <div className="time_sub_heading">Email</div>

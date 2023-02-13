@@ -67,18 +67,18 @@ const Doctors = () => {
                   }
                 )}
                 <div className="social_media_links">
-                  <div className="whatsapp">
+                  {/* <div className="whatsapp">
                     <a href="">
                       <IoLogoWhatsapp />
                     </a>
-                  </div>
+                  </div> */}
                   <div className="instagram">
                     <a href="https://www.instagram.com/drsneha_fertilitydoc">
                       <BsInstagram />
                     </a>
                   </div>
                   <div className="linkedin">
-                    <a href="">
+                    <a href="https://www.linkedin.com/in/drsnehashetty">
                       <FaLinkedinIn />
                     </a>
                   </div>

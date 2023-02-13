@@ -22,8 +22,8 @@
 }
 .team_body h2 {
   font-weight: 500;
-  font-size: 30px;
-  line-height: 36px;
+  font-size: 22px;
+  line-height: 30px;
   text-align: center;
   width: 900px;
   color: #d4b352;
@@ -31,8 +31,8 @@
 }
 .team_body h3 {
   font-weight: 400;
-  font-size: 22px;
-  line-height: 30px;
+  font-size: 18px;
+  line-height: 25px;
   color: #772c77;
   margin: 30px 0px;
 }
@@ -41,7 +41,7 @@
 }
 .teamvalue_text p {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 23px;
   margin: 15px 0px;
   color: #000000;
@@ -58,7 +58,7 @@
 }
 .teamvalue_text h4 {
   font-weight: 400;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 28px;
   color: #772c77;
   margin: 10px 0px;

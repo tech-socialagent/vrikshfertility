@@ -76,7 +76,7 @@ function App() {
             <AboutVriksh />
             <Footer />
           </Route>
-          <Route path={"/team_value"}>
+          <Route path={"/team_values"}>
             <TeamValue />
             <Footer />
           </Route>

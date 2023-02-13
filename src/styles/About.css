@@ -75,9 +75,7 @@
   bottom: 0px;
   right: 0px;
   height: 220px;
-  width: 220px;
-
-  
+  width: 220px; 
 }
 
 .doctor_data h4 {
@@ -137,7 +135,7 @@
 
 .doctor_desc {
   font-weight: 300;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 22px;
   color: #080111;
   margin: 20px 0px;
