@@ -47,7 +47,7 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        {/* <Navbar /> */}
+        <Navbar />
         <Switch>
           <Route exact path={"/"}>
             <Home />
