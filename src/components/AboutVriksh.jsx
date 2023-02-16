@@ -1,6 +1,10 @@
+import { useEffect } from "react";
 import "../styles/AboutVriksh.css";
 
 const AboutVriksh = () => {
+  useEffect(()=>{
+    window.scrollTo(0, 0);
+  })
   return (
     <section className="aboutVriksh">
       <div className="header">

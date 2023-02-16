@@ -40,7 +40,7 @@
 }
 .aboutVriksh ul li {
   font-weight: 400;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 24px;
   color: #000000;
   margin: 10px 0px;
@@ -54,23 +54,25 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: 20px 0px;
 }
 .about_images img{
   width: auto;
   height: 500px;
+
 }
 @media only screen and (max-width: 480px) {
   .aboutVriksh .header{
     height: 200px;
     padding: 10px;
   }
-  aboutVriksh .header h2 {
+  .aboutVriksh .header h2 {
     font-weight: 600;
     font-size: 30px;
   }
   .aboutVriksh .header h3 {
     font-weight: 500;
-    font-size: 20px;
+    font-size: 18px;
   }
   .aboutVriksh .body {
     grid-template-columns: 1fr;
