@@ -24,6 +24,7 @@ import ContactPage from "./components/ContactPage";
 import BlogMore from "./components/Blogmore";
 import PrivacyNpolicy from "./components/PrivacyNpolicy";
 import TermsNconditions from "./components/TermsNconditions";
+import Comingsoon from "./components/comingsoon";
 
 function App() {
   // window.scrollTo(0, 0);
@@ -46,10 +47,10 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        <Navbar />
+        {/* <Navbar /> */}
         <Switch>
           <Route exact path={"/"}>
-            <Home />
+            {/* <Home />
             <About />
             <Benefits />
             <Services />
@@ -58,7 +59,8 @@ function App() {
             <Articles />
             <Contact />
             <Consultation />
-            <Footer />
+            <Footer /> */}
+            <Comingsoon />
           </Route>
           <Route path={"/about_doctor"}>
             <AboutDr />
