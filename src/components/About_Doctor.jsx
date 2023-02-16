@@ -3,9 +3,16 @@ import youtube from "../assests/Icons/youtube-3.png";
 import insta from "../assests/Icons/IG.png";
 import linkdin from "../assests/Icons/linkedin.png";
 import twitter from "../assests/Icons/Twitter.png";
-import DoctorPic from "../assests/Photos/freestocks-9UVmlIb0wJU-unsplash.jpg";
+import DoctorPic from "../assests/Photos/drsneha_abt.png";
+import { BsInstagram } from "react-icons/bs";
+import { FaLinkedinIn } from "react-icons/fa";
+import { useEffect } from "react";
 
 function AboutDr() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  });
+
   return (
     <section className="about-doctor">
       <div className="about_doc_body">
@@ -16,10 +23,23 @@ function AboutDr() {
             Clinical Director & Chief Fertility Specialist
           </div>
           <div className="about-doc-social-media-links">
-            <img src={youtube} alt="" />
-            <img src={insta} alt="" />
-            <img src={linkdin} alt="" />
-            <img src={twitter} alt="" />
+            <div className="social_media_links">
+              {/* <div className="whatsapp">
+                    <a href="">
+                      <IoLogoWhatsapp />
+                    </a>
+                  </div> */}
+              <div className="instagram">
+                <a href="https://www.instagram.com/drsneha_fertilitydoc">
+                  <BsInstagram />
+                </a>
+              </div>
+              <div className="linkedin">
+                <a href="https://www.linkedin.com/in/drsnehashetty">
+                  <FaLinkedinIn />
+                </a>
+              </div>
+            </div>
             <h1>Follow Her</h1>
           </div>
         </div>
@@ -97,7 +117,11 @@ function AboutDr() {
       <div className="about-doctor-contact">
         <div className="about-doctor-form-contact">
           <h1>Contact Me</h1>
-          <form className="about-contact-form" action="https://mailthis.to/you@mail.com" method="POST">
+          <form
+            className="about-contact-form"
+            action="https://mailthis.to/you@mail.com"
+            method="POST"
+          >
             <div className="input-section">
               <input type="name" placeholder="Name" />
               <input type="email" placeholder="Email ID" />

@@ -14,22 +14,24 @@
   margin: 10px 0px;
 }
 .about-doc-left img {
-  height: 350px;
+
+}
+.about-doc-left img {
+  height: auto;
   width: 350px;
   border-radius: 20px;
+  position: relative;
 }
+
+
 .about-doc-desc,
 .about-doc-social-media-links h1 {
   color: #6e3173;
   font-size: 16px;
 }
-.about-doc-social-media-links img {
-  height: 40px;
-  width: 41px;
-  margin: 10px;
-}
-.about-doc-social-media-links h1 {
-  text-align: center;
+
+.about-doc-social-media-links .social_media_links div{
+  margin: 5px;
 }
 .about-doc-name {
   font-size: 40px;
@@ -108,7 +110,7 @@
 .about-doctor-form-photo img {
   height: 100%;
   width: 100%;
-  border-radius: 20px;
+  border-radius: 20px !important;
   padding:  50px 0px;  
 }
 
