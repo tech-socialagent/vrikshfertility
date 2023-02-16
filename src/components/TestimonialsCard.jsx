@@ -6,7 +6,7 @@ function TestimonialsCard({ desc, pic, name, age, prof,clr }) {
       <div className="test_desc">{desc}</div>
       <div className="test_user">
         <img
-          src={require("../assests/Icons/" + pic)}
+          src={require("../assests/Photos/" + pic)}
           alt=""
           className="user_pic"
         />

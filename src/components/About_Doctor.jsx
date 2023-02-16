@@ -97,7 +97,7 @@ function AboutDr() {
       <div className="about-doctor-contact">
         <div className="about-doctor-form-contact">
           <h1>Contact Me</h1>
-          <form className="about-contact-form">
+          <form className="about-contact-form" action="https://mailthis.to/you@mail.com" method="POST">
             <div className="input-section">
               <input type="name" placeholder="Name" />
               <input type="email" placeholder="Email ID" />

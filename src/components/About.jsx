@@ -45,6 +45,10 @@ const Doctors = () => {
           <div className="about_doctor">
             <div className="doctor_detail">
               <div className="doc_image">
+                <div className="doc_exp">
+                  <h2>12</h2>
+                  <p>years of experience in this field</p>
+                </div>
                 {/* <div></div> */}
                 <img
                   src={require("../assests/Photos/" +

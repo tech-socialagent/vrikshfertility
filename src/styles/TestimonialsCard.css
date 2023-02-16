@@ -2,9 +2,13 @@
   margin: 10px;
   border-radius: 20px;
   padding: 24px;
+  min-height: 250px;
   color: var(--white-color);
+  position: relative;
 }
 .test_user {
+  position: absolute;
+  bottom: 10px;
   display: flex;
   align-items: center;
   margin: 20px 0px 10px 0px;
@@ -15,8 +19,8 @@
   margin: 5px;
 }
 .user_name {
-  font-weight: 600;
-  font-size: 20px;
+  font-weight: 500;
+  font-size: 18px;
   line-height: 24px;
 }
 .user_prof {
@@ -27,7 +31,7 @@
 .test_desc {
   font-weight: 300;
   font-size: 14px;
-  line-height: 25px;
+  line-height: 20px;
 }
 
 @media only screen and (max-width: 480px){

@@ -284,7 +284,7 @@
             "Doctors_detail": [
                 {
                     "name": "Dr. Sneha Shetty",
-                    "photo": "pngwing.com.png",
+                    "photo": "drsneha2.png",
                     "experience": "12",
                     "designation": [
                         "Gynoecologist",
@@ -743,37 +743,38 @@
             "section_title": "Testimonials",
             "section_desc": "What Our Client Say About Vriksh",
             "reviews_item": [
+                
                 {
-                    "name": "Sneha paul",
+                    "name": "Jessica",
+                    "age": "30",
+                    "profession": "Graphic Designer",
+                    "review_text": "I had an amazing experience at this fertility center. The doctors and nurses were professional and compassionate. They made me feel at ease throughout the entire process, and were always available to answer any questions I had. Thanks to their expertise, I am now pregnant and expecting my first child. I would recommend Vriksh Fertility to anyone who is struggling with fertility issues.",
+                    "picUrl": "femaleUser.png",
+                    "color": "#57BEB5"
+                },
+                {
+                    "name": "Monika",
                     "age": "28",
-                    "profession": "Director of Marketing & Design of Tots & Teens",
-                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!",
-                    "picUrl": "sneha.png",
+                    "profession": "Homemaker",
+                    "review_text": "I cannot express how grateful I am for the care I received at Vriksh fertility . From the very first consultation to the successful outcome of my IVF treatment, the entire team was supportive and caring. They made me feel like I was part of a family, and they were there for me every step of the way. I would highly recommend this clinic to anyone looking for fertility treatment.",
+                    "picUrl": "femaleUser.png",
                     "color": "#DBB13B"
                 },
                 {
-                    "name": "Sneha paul",
-                    "age": "28",
-                    "profession": "Director of Marketing & Design of Tots & Teens",
-                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!",
-                    "picUrl": "sneha.png",
+                    "name": "Sarah M",
+                    "age": "31",
+                    "profession": "Marketing Specialist",
+                    "review_text": "I had been trying to conceive for years without success before I found this fertility center. The doctors and staff were incredibly helpful and compassionate, and they took the time to answer all of my questions and concerns. Thanks to their expertise, I am now pregnant with twins! I would highly recommend this clinic to anyone struggling with infertility. ",
+                    "picUrl": "femaleUser.png",
                     "color": "#57BEB5"
                 },
                 {
                     "name": "Sneha paul",
                     "age": "28",
-                    "profession": "Director of Marketing & Design of Tots & Teens",
-                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!",
-                    "picUrl": "sneha.png",
+                    "profession": "Financial Analyst",
+                    "review_text": "Thank you for helping us start our family! The staff were so kind and knowledgeable, and they made the whole process of fertility treatments much less stressful. After struggling to conceive for years, we finally found success with the help of their expert team. They walked us through every step of the way and made us feel like we were in good hands.",
+                    "picUrl": "femaleUser.png",
                     "color": "#DBB13B"
-                },
-                {
-                    "name": "Sneha paul",
-                    "age": "28",
-                    "profession": "Director of Marketing & Design of Tots & Teens",
-                    "review_text": "It was our 1st anniversary, my hubby and I wanted to celebrate with our close friends and we wanted Chinese cuisine. But, we were clueless and then found Bhojan app. All our problems disappeared into thin air! We got a Chinese chef and authentic Chinese dishes at home that too without going anywhere. It was wonderful!!",
-                    "picUrl": "sneha.png",
-                    "color": "#57BEB5"
                 }
             ]
         },

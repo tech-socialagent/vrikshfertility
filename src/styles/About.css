@@ -34,14 +34,13 @@
 }
 
 .about_video {
- 
 }
 .about_video video {
   height: 400px;
   width: 100%;
   object-fit: cover;
   border-radius: 15px;
-  border: 4.17414px solid #FFFFFF;
+  border: 4.17414px solid #ffffff;
   box-shadow: -2.73852px 7.30273px 13.6926px 3.65137px rgba(0, 0, 0, 0.35);
 }
 .doctor_detail {
@@ -55,27 +54,51 @@
 }
 .doc_image {
   position: relative;
-  background-color: var(--primary-color);
-  border-radius: 15px;
-  backdrop-filter: blur(5px);
+  
+  
   width: 260px;
-  height: 180px;
+  height: 160px;
 }
-.doc_image div {
+.doc_image::before{
+  content: "";
+  position: absolute;
+  border-radius: 10px;
+  background-color: var(--primary-color);
+  filter: blur(5px);
+  width: 260px;
+  height: 160px;
+}
+/* .doc_image div {
   position: absolute;
   background-color: var(--primary-color);
   filter: blur(5px);
   border-radius: 15px;
   width: 260px;
   height: 180px;
-
+} */
+.doc_image .doc_exp {
+  position: absolute;
+  top: -25px;
+}
+.doc_image .doc_exp p {
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  width: 100px;
+  color: #ffffff;
+}
+.doc_image .doc_exp h2 {
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 40px;
+  color: #d4b352;
 }
 .doctor_detail img {
   position: absolute;
   bottom: 0px;
   right: 0px;
   height: 220px;
-  width: 220px; 
+  width: 220px;
 }
 
 .doctor_data h4 {
@@ -125,12 +148,11 @@
 .linkedin {
   background-color: #2878b7;
 }
-.facebook{
+.facebook {
   background-color: #3b5998;
 }
-.twitter{
-  background-color: #1DA1F2;
-  
+.twitter {
+  background-color: #1da1f2;
 }
 
 .doctor_desc {
@@ -199,8 +221,8 @@
     padding: 0px 30px;
   }
 }
-@media screen and (min-width:1025px) {
-  .section{
+@media screen and (min-width: 1025px) {
+  .section {
     padding: 0px 60px 50px 60px;
   }
 }
