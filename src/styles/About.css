@@ -54,14 +54,15 @@
 }
 .doc_image {
   position: relative;
-  
-  
+
   width: 260px;
   height: 160px;
 }
-.doc_image::before{
+.doc_image::before {
   content: "";
   position: absolute;
+  top: 0;
+  left: 0;
   border-radius: 10px;
   background-color: var(--primary-color);
   filter: blur(5px);
@@ -193,6 +194,18 @@
   }
   .doc_image {
     margin-top: 50px;
+    position: relative;
+  }
+  .doc_image::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background-color: var(--primary-color);
+    filter: blur(5px);
+    width: 260px;
+    height: 160px;
   }
   .about_video video {
     height: 200px;
