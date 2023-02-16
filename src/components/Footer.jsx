@@ -3,10 +3,10 @@ import "../styles/Footer.css";
 import Data from "../Data.json";
 import Phone from "../assests/Icons/phone.png";
 import Mail from "../assests/Icons/envelope.png";
-import { BsInstagram,BsFacebook } from "react-icons/bs";
+import { BsInstagram, BsFacebook } from "react-icons/bs";
 import { IoLogoWhatsapp } from "react-icons/io";
 import { FaLinkedinIn } from "react-icons/fa";
-import {AiFillTwitterCircle} from "react-icons/ai";
+import { AiFillTwitterCircle } from "react-icons/ai";
 import { Link } from "react-router-dom";
 
 const Footer = () => {
@@ -23,11 +23,17 @@ const Footer = () => {
             <div className="ft_services">
               <div className="ft_ser_heading">Contact</div>
               <div className="ft_con_data">
-                <a href={`mailto:${Data.footer.contact.mail}`} className="ft_con">
+                <a
+                  href={`mailto:${Data.footer.contact.mail}`}
+                  className="ft_con"
+                >
                   <img src={Phone} alt="" className="ft_icons" />{" "}
                   {Data.footer.contact.mail}
                 </a>
-                <a href={`tel:${Data.footer.contact.phone_no}`} className="ft_con">
+                <a
+                  href={`tel:${Data.footer.contact.phone_no}`}
+                  className="ft_con"
+                >
                   <img src={Mail} alt="" className="ft_icons" />{" "}
                   {Data.footer.contact.phone_no}
                 </a>
@@ -37,7 +43,6 @@ const Footer = () => {
             <div className="ft_services">
               <div className="ft_ser_heading">Social Media Links</div>
               <div className="social_media_links">
-                
                 <div className="facebook">
                   <a href="https://www.facebook.com/VrikshFertility?mibextid=ZbWKwL">
                     <BsFacebook />
@@ -53,7 +58,7 @@ const Footer = () => {
                     <FaLinkedinIn />
                   </a>
                 </div>
-                
+
                 <div className="twitter">
                   <a href="https://www.twitter.com/VrikshFertility">
                     <AiFillTwitterCircle />
@@ -107,8 +112,8 @@ const Footer = () => {
                 );
               })}
             </div>
-            <div className="ft_services">
-              {/* <div className="ft_ser_heading">International Patients</div>
+
+            {/* <div className="ft_ser_heading">International Patients</div>
               {Data.footer.International_Patients.map((item, index) => {
                 return (
                   <a key={index} href="/">
@@ -117,16 +122,15 @@ const Footer = () => {
                 );
               })} */}
 
-              <div className="ft_services">
-                <div className="ft_ser_heading">Resources</div>
-                {Data.footer.Resources.map((item, index) => {
-                  return (
-                    <Link key={index} to={`/${item}`}>
-                      {item}
-                    </Link>
-                  );
-                })}
-              </div>
+            <div className="ft_services">
+              <div className="ft_ser_heading">Resources</div>
+              {Data.footer.Resources.map((item, index) => {
+                return (
+                  <Link key={index} to={`/${item}`}>
+                    {item}
+                  </Link>
+                );
+              })}
             </div>
           </div>
         </div>
