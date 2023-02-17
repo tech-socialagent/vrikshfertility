@@ -50,10 +50,20 @@
   display: flex;
   align-items: center;
 }
+
 .service_slides .slick-prev:before, .slick-next:before{
   color: var(--primary-color);
 }
 .service_slides .slick-arrow{
   background-color: transparent !important;
+}
+
+@media only screen and (min-width:900px){
+  .slick-prev,.slick-next{
+    font-size: 40px !important;
+  }
+  .slick-prev{
+    left: -45px;
+  }
 }
 

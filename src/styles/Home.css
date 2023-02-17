@@ -105,7 +105,17 @@
         animation-delay: 0s;
     animation-timing-function: linear;
 }
-
+.home_banner_img .social_media_links{
+  position: absolute;
+  top: 40%;
+  right: 10px;
+  display: flex;
+  flex-direction: column;
+  opacity: .7;
+}
+.home_banner_img .social_media_links:hover{
+  opacity: 1;
+}
 .mobile_banner{
   display: none;
 }

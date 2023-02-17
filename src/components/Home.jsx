@@ -1,6 +1,9 @@
 import Data from "../Data.json";
 import "../styles/Home.css";
-import { useEffect,useRef } from "react";
+import { BsInstagram, BsFacebook } from "react-icons/bs";
+import { FaLinkedinIn } from "react-icons/fa";
+import { AiFillTwitterCircle } from "react-icons/ai";
+import { useEffect, useRef } from "react";
 
 const Home = () => {
   // let img = 1;
@@ -10,7 +13,7 @@ const Home = () => {
   const attemptPlay = () => {
     videoEl &&
       videoEl.current &&
-      videoEl.current.play().catch(error => {
+      videoEl.current.play().catch((error) => {
         console.error("Error attempting to play", error);
       });
   };
@@ -22,27 +25,45 @@ const Home = () => {
   return (
     <section className="home_section" id="home">
       <div className="home_banner_img">
-        <video autoPlay ref={videoEl}  src={require('../assests/HomeVdo.mp4')} type="video/mp4" loop muted/>
-        {/* <img src={require("../assests/Photos/homeback2.png")} alt="" /> */}
+        <video
+          autoPlay
+          ref={videoEl}
+          src={require("../assests/HomeVdo.mp4")}
+          type="video/mp4"
+          loop
+          muted
+        />
+        <div className="social_media_links">
+          <div className="facebook">
+            <a href="https://www.facebook.com/VrikshFertility?mibextid=ZbWKwL">
+              <BsFacebook />
+            </a>
+          </div>
+          <div className="instagram">
+            <a href="https://www.instagram.com/vrikshfertility/">
+              <BsInstagram />
+            </a>
+          </div>
+          <div className="linkedin">
+            <a href="https://www.linkedin.com/company/vrikshfertility/">
+              <FaLinkedinIn />
+            </a>
+          </div>
+
+          <div className="twitter">
+            <a href="https://www.twitter.com/VrikshFertility">
+              <AiFillTwitterCircle />
+            </a>
+          </div>
+        </div>
       </div>
       <div className="home_content">
-        {/* <div className="floatingIcons">
-          <img
-            className="floatIcon1"
-            src={require("../assests/Icons/SPERMS(60x60).png")}
-            alt=""
-          />
-          <img
-            className="floatIcon2"
-            src={require("../assests/Icons/FEMALE EGGS ( 60x60).png")}
-            alt=""
-          />
-        </div> */}
         <div className="home_brandname">
           {Data.landingPage.Banner_Section.section_brand_name}
         </div>
         <h2 className="home_title">
-          <span className="titleclr">A Comprehensive Fertility Care -</span> Unit to Guide You Towards a Loving Parenthood
+          <span className="titleclr">A Comprehensive Fertility Care Unit</span>{" "}
+          your Guide Towards a Loving Parenthood
         </h2>
         <p className="home_desc">
           {Data.landingPage.Banner_Section.section_desc}

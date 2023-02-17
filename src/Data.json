@@ -279,7 +279,7 @@
             ]
         },
         "Doctor_section": {
-            "section_title": "Meet Our Doctor",
+            "section_title": "Meet Our Clinical Director",
             "section_video": "Frame 52.png",
             "Doctors_detail": [
                 {
@@ -312,7 +312,7 @@
                 },
                 {
                     "item_image": "SPERMS shadow (80x80).png",
-                    "item_title": "Indivisualized Approach",
+                    "item_title": "Individualized Approach",
                     "item_desc": "Fertility Treatment is a very personal journey - Finding the right doctor who understands this is of utmost importance and key to the success of the treatment"
                 },
                 {
@@ -718,7 +718,7 @@
         },
         "choose_us_section": {
             "section_title": "Why Choose Us?",
-            "section_desc": "Great Reasons For People To Choose Vriksh Fertility",
+            "section_desc": "Great Reasons For couple To Choose Vriksh Fertility",
             "section_image": "chooseus_background.jpg",
             "key_factors": [
                 {

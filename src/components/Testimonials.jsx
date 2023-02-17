@@ -29,16 +29,7 @@ function Testimonials() {
 
   return (
     <section className="testimonials section" id="testmonials">
-      <img
-        className="backicons bit1"
-        src={require("../assests/Icons/FEMALE EGGS ( 60x60).png")}
-        alt=""
-      />
-      <img
-        className="backicons bit2"
-        src={require("../assests/Icons/FEMALE EGGS ( 60x60).png")}
-        alt=""
-      />
+      
       <div className="testimonial_body">
         <h2 className="section_title">
           {Data.landingPage.testimonials_section.section_title}

@@ -6,7 +6,7 @@ const Comingsoon = () => {
   return (
       <div class="wrap">
         <img src={logo} />
-        <h1>Coming Soon</h1>
+        <h1>Under Construction</h1>
       </div>
   )
 }
