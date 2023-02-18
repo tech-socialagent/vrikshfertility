@@ -47,10 +47,10 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        {/* <Navbar /> */}
+        <Navbar />
         <Switch>
           <Route exact path={"/"}>
-            {/* <Home />
+            <Home />
             <About />
             <Benefits />
             <Services />
@@ -59,8 +59,8 @@ function App() {
             <Articles />
             <Contact />
             <Consultation />
-            <Footer /> */}
-            <Comingsoon />
+            <Footer />
+            {/* <Comingsoon /> */}
           </Route>
           <Route path={"/about_doctor"}>
             <AboutDr />

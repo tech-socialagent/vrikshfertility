@@ -4,10 +4,29 @@ import { BsInstagram, BsFacebook } from "react-icons/bs";
 import { FaLinkedinIn } from "react-icons/fa";
 import { AiFillTwitterCircle } from "react-icons/ai";
 import { useEffect, useRef } from "react";
+import Slider from "react-slick";
 
 const Home = () => {
   // let img = 1;
-
+  var settings = {
+    dots: false,
+    infinite: true,
+    speed: 600,
+    autoplaySpeed: 2000,
+    autoplay: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    arrows: false,
+    vertical:true,
+    responsive:[
+      {
+        breakpoint: 480,
+        settings: {
+          vertical:false
+        },
+      },
+    ]
+  };
   const videoEl = useRef(null);
 
   const attemptPlay = () => {
@@ -61,13 +80,28 @@ const Home = () => {
         <div className="home_brandname">
           {Data.landingPage.Banner_Section.section_brand_name}
         </div>
-        <h2 className="home_title">
-          <span className="titleclr">A Comprehensive Fertility Care Unit</span>{" "}
-          your Guide Towards a Loving Parenthood
-        </h2>
-        <p className="home_desc">
-          {Data.landingPage.Banner_Section.section_desc}
-        </p>
+        <Slider {...settings} style={{"maxWidth":"500px","width":"100%"}} id="hometxt_head">
+          <div>
+            <h2 className="home_title">
+              <span className="titleclr">
+              Fertility Care -
+              </span>
+              Your Journey towards A Loving Parenthood
+            </h2>
+            <p className="home_desc">
+              {Data.landingPage.Banner_Section.section_desc}
+            </p>
+          </div>
+          <div>
+            <h2 className="home_title">
+              <span className="titleclr">
+              Fertility Counseling & Treatments - 
+              </span>
+              Personalised care for Both Men & Women
+            </h2>
+          </div>
+        </Slider>
+
         <div className="home_book_app">
           <a href="#book">{Data.landingPage.Banner_Section.section_btn_text}</a>
         </div>

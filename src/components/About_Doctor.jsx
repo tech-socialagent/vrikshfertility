@@ -1,14 +1,35 @@
 import "../styles/About_Doctor.css";
-import youtube from "../assests/Icons/youtube-3.png";
-import insta from "../assests/Icons/IG.png";
-import linkdin from "../assests/Icons/linkedin.png";
-import twitter from "../assests/Icons/Twitter.png";
+// import youtube from "../assests/Icons/youtube-3.png";
+// import insta from "../assests/Icons/IG.png";
+// import linkdin from "../assests/Icons/linkedin.png";
+// import twitter from "../assests/Icons/Twitter.png";
 import DoctorPic from "../assests/Photos/drsneha_abt.png";
 import { BsInstagram } from "react-icons/bs";
 import { FaLinkedinIn } from "react-icons/fa";
 import { useEffect } from "react";
 
 function AboutDr() {
+  // const sendMail = () => {
+  //   console.log(".................................");
+  //   const mail = document.getElementById("form_mailid");
+  //   const config = {
+  //     Username: "bayawi8712@mirtox.com",
+  //     Password: "CB9F3A42CB7E4AA7424E6659836C1D008359",
+  //     Host: "smtp.elasticemail.com",
+  //     Port: "2525",
+
+  //     To: "bayawi8712@mirtox.com",
+  //     From: "bkmahapatra27@gmail.com",
+  //     Subject: "test",
+  //     Body: "test",
+  //   };
+
+  //   if (window.Email) {
+  //     window.Email.send(config).then((res) => console.log(res));
+  //   } else {
+  //     console.log("Nnoooo********************");
+  //   }
+  // };
   useEffect(() => {
     window.scrollTo(0, 0);
   });
@@ -117,22 +138,19 @@ function AboutDr() {
       <div className="about-doctor-contact">
         <div className="about-doctor-form-contact">
           <h1>Contact Me</h1>
-          <form
-            className="about-contact-form"
-            action="https://mailthis.to/you@mail.com"
-            method="POST"
-          >
+          <div className="about-contact-form">
             <div className="input-section">
-              <input type="name" placeholder="Name" />
-              <input type="email" placeholder="Email ID" />
-              <input type="number" placeholder="Contact Number" />
-              <input type="name" placeholder="Subject" />
+              <input type="name" placeholder="Name" id="form_name" />
+              <input type="email" placeholder="Email ID" id="form_mailid" />
+              <input type="number" placeholder="Contact Number" id="form_ph" />
+              <input type="name" placeholder="Subject" id="form_subject" />
             </div>
             <div className="about-doc-contact-form-second">
               <textarea placeholder="meassage" className="contact-meassage" />
-              <button>Send meassage</button>
+              <button >Send meassage</button>
+              {/* <button onClick={() => sendMail()}>Send meassage</button> */}
             </div>
-          </form>
+          </div>
         </div>
         <div className="about-doctor-form-photo">
           <img
