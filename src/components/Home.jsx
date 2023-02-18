@@ -16,16 +16,16 @@ const Home = () => {
     autoplay: true,
     slidesToShow: 1,
     slidesToScroll: 1,
-    arrows: false,
-    vertical:true,
-    responsive:[
-      {
-        breakpoint: 480,
-        settings: {
-          vertical:false
-        },
-      },
-    ]
+    arrows: false
+ 
+    // responsive:[
+    //   {
+    //     breakpoint: 480,
+    //     settings: {
+    //       vertical:false
+    //     },
+    //   },
+    // ]
   };
   const videoEl = useRef(null);
 

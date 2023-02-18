@@ -5,7 +5,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 // import { IoLogoWhatsapp } from "react-icons/io";
 import "../styles/About.css";
 import { Link } from "react-router-dom";
-import { useEffect,useRef } from "react";
+import { useEffect, useRef } from "react";
 
 const Doctors = () => {
   const videoEl = useRef(null);
@@ -13,7 +13,7 @@ const Doctors = () => {
   const attemptPlay = () => {
     videoEl &&
       videoEl.current &&
-      videoEl.current.play().catch(error => {
+      videoEl.current.play().catch((error) => {
         console.error("Error attempting to play", error);
       });
   };
@@ -33,9 +33,18 @@ const Doctors = () => {
         <h2 className="section_title">
           {Data.landingPage.Doctor_section.section_title}
         </h2>
+
         <div className="section_body">
           <div className="about_video">
-          <video className="vdo" autoPlay ref={videoEl} src={require("../assests/DoctorInto.mp4")} type="video/mp4" loop muted />
+            <video
+              className="vdo"
+              autoPlay
+              ref={videoEl}
+              src={require("../assests/DoctorInto.mp4")}
+              type="video/mp4"
+              loop
+              muted
+            />
             {/* <img
               src={require("../assests/Photos/" +
                 Data.landingPage.Doctor_section.section_video)}
@@ -46,8 +55,8 @@ const Doctors = () => {
             <div className="doctor_detail">
               <div className="doc_image">
                 <div className="doc_exp">
-                  <h2>12</h2>
-                  <p>years of experience in this field</p>
+                  
+                  <p>More than a decade of Experience</p>
                 </div>
                 {/* <div></div> */}
                 <img
@@ -58,9 +67,15 @@ const Doctors = () => {
               </div>
 
               <div className="doctor_data">
-                <h4 className="doc_name">
-                  {Data.landingPage.Doctor_section.Doctors_detail[0].name}
-                </h4>
+                <div>
+                  <h4 className="doc_name">
+                    {Data.landingPage.Doctor_section.Doctors_detail[0].name}
+                  </h4>
+                  <div className="about-doc-desc">
+                    Clinical Director & Chief Fertility Specialist
+                  </div>
+                </div>
+
                 {Data.landingPage.Doctor_section.Doctors_detail[0].designation.map(
                   (item, index) => {
                     return (
