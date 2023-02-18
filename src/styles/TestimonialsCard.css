@@ -39,4 +39,16 @@
     padding: 20px;
     margin: 0 10px;
   }
+  .test_user {
+    position: relative;
+  }
+}
+@media only screen and (max-width: 870px){
+  .test_card{
+    padding: 15px;
+  }
+  .test_user {
+    position: relative;
+    bottom: 0;
+  }
 }

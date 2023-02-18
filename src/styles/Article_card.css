@@ -63,3 +63,11 @@
         left: 0;
     }
 }
+@media only screen and (max-width:300px){
+    .article_card{
+        width: 100%;
+    }
+    .article_card img{
+        width: 100%;
+    }
+}

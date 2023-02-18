@@ -56,7 +56,7 @@ const Doctors = () => {
               <div className="doc_image">
                 <div className="doc_exp">
                   
-                  <p>More than a decade of Experience</p>
+                  <p>More Than A Decade of Experience</p>
                 </div>
                 {/* <div></div> */}
                 <img

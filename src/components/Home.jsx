@@ -12,7 +12,7 @@ const Home = () => {
     dots: false,
     infinite: true,
     speed: 600,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 4000,
     autoplay: true,
     slidesToShow: 1,
     slidesToScroll: 1,
@@ -77,9 +77,7 @@ const Home = () => {
         </div>
       </div>
       <div className="home_content">
-        <div className="home_brandname">
-          {Data.landingPage.Banner_Section.section_brand_name}
-        </div>
+        
         <Slider {...settings} style={{"maxWidth":"500px","width":"100%"}} id="hometxt_head">
           <div>
             <h2 className="home_title">

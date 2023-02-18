@@ -13,9 +13,7 @@
   flex: 30%;
   margin: 10px 0px;
 }
-.about-doc-left img {
 
-}
 .about-doc-left img {
   height: auto;
   width: 350px;
@@ -205,5 +203,16 @@
   .about-doctor-form-photo img {
     height: 326px;
     width: 326px;
+  }
+}
+@media only screen and (max-width: 300px){
+  .input-section input,.about-doc-contact-form-second textarea {
+    width: 100%;
+  }
+  .about-doctor-form-photo img{
+    display: none;
+  }
+  .about-doc-left img {
+    width: auto;
   }
 }

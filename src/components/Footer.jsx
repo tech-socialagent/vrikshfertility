@@ -3,8 +3,8 @@ import "../styles/Footer.css";
 import Data from "../Data.json";
 import Phone from "../assests/Icons/phone.png";
 import Mail from "../assests/Icons/envelope.png";
-import { BsInstagram, BsFacebook } from "react-icons/bs";
 import { IoLogoWhatsapp } from "react-icons/io";
+import { BsInstagram, BsFacebook } from "react-icons/bs";
 import { FaLinkedinIn } from "react-icons/fa";
 import { AiFillTwitterCircle } from "react-icons/ai";
 import { Link } from "react-router-dom";
@@ -136,7 +136,7 @@ const Footer = () => {
         </div>
       </section>
       <div className="ft_foot">
-        <div>Vriksh Fertility &copy; 2023 All Right Reserved.</div>
+        <div>Vriksh Fertility &copy; 2022 All Right Reserved.</div>
         <div>
           <Link to={"termsandconditions"}>Terms and Conditions</Link>
           <Link to={"privacyandpolicy"}>Privacy and Policy</Link>

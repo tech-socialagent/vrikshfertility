@@ -1,6 +1,6 @@
-.aboutVriksh {
-}
-.aboutVriksh .header{
+/* .aboutVriksh {
+} */
+.aboutVriksh .header {
   height: 300px;
   width: 100%;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -26,8 +26,8 @@
   display: grid;
   grid-template-columns: 1.5fr 1fr;
 }
-.aboutVriksh .about_desc{
-     padding: 40px 10px 40px 50px ;
+.aboutVriksh .about_desc {
+  padding: 40px 10px 40px 50px;
 }
 .aboutVriksh .desc_heading {
   font-weight: 500;
@@ -45,24 +45,23 @@
   color: #000000;
   margin: 10px 0px;
 }
-.aboutVriksh .body{
-    background-image: url("../assests/Photos/aboutbackg.png");
-    background-repeat: no-repeat;
-    background-position: top right;   
+.aboutVriksh .body {
+  background-image: url("../assests/Photos/aboutbackg.png");
+  background-repeat: no-repeat;
+  background-position: top right;
 }
-.about_images{
+.about_images {
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 20px 0px;
 }
-.about_images img{
+.about_images img {
   width: auto;
   height: 500px;
-
 }
 @media only screen and (max-width: 480px) {
-  .aboutVriksh .header{
+  .aboutVriksh .header {
     height: 200px;
     padding: 10px;
   }
@@ -77,10 +76,13 @@
   .aboutVriksh .body {
     grid-template-columns: 1fr;
   }
-  .aboutVriksh .about_desc{
-    padding: 20px ;
-}
-  .about_images{
+  .aboutVriksh .about_desc {
+    padding: 20px;
+  }
+  .about_images {
     display: none;
+  }
+  .aboutVriksh .body{
+    background-image: none;
   }
 }

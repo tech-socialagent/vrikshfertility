@@ -8,9 +8,6 @@
                 "submenu": [
                     {
                         "title": "About Vriksh"
-                    },
-                    {
-                        "title": "Team Values"
                     }
                 ]
             },
@@ -54,7 +51,7 @@
                                 "title": "PRP",
                                 "submenu": [
                                     {
-                                        "title": "Ovarion PRP"
+                                        "title": "Ovarian PRP"
                                     },
                                     {
                                         "title": "Endometrial PRP"
@@ -267,7 +264,7 @@
         "Banner_Section": {
             "section_brand_name": "Vriksh Fertility",
             "section_headline": "Fertility Care  Your Journey Towards A Loving Parenthood",
-            "section_desc": "We solve all your fertility care needs by providing a personalised & holistic fertility care system",
+            "section_desc": "We solve all your fertility care needs by providing a personalised & holistic fertility eco system",
             "section_btn_text": "Book Appointment",
             "section_banner_image": "",
             "section_icons": [
@@ -286,9 +283,9 @@
                     "photo": "drsneha2.png",
                     "experience": "12",
                     "designation": [
-                        "Gynoecologist",
+                        "Senior Infertility Specialist",
                         "Loparoscopic Surgeon",
-                        "Infertility Specialist"
+                        "Gynoecologist"
                     ],
                     "media_links": [
                         "facebooklink",
@@ -717,7 +714,7 @@
         },
         "choose_us_section": {
             "section_title": "Why Choose Us?",
-            "section_desc": "Great Reasons For couple To Choose Vriksh Fertility",
+            "section_desc": "Great Reasons For Couples To Choose Vriksh Fertility",
             "section_image": "chooseus_background.jpg",
             "key_factors": [
                 {
@@ -762,7 +759,7 @@
                     "name": "Sarah M",
                     "age": "31",
                     "profession": "Marketing Specialist",
-                    "review_text": "I had been trying to conceive for years without success before I found this fertility center. The doctors and staff were incredibly helpful and compassionate, and they took the time to answer all of my questions and concerns. Thanks to their expertise, I am now pregnant with twins! I would highly recommend this clinic to anyone struggling with infertility. ",
+                    "review_text": "I had been trying to conceive for years without success before I found this fertility center. The doctors and staff were incredibly helpful and compassionate, and they took the time to answer all of my questions and concerns. Thanks to their expertise, I am now pregnant with twins! I would highly recommend this clinic to anyone struggling with infertility.",
                     "picUrl": "femaleUser.png",
                     "color": "#57BEB5"
                 },
@@ -950,15 +947,9 @@
                     "sub-title": "FAQs",
                     "desc": [
                         {
-                            "title": "Who can benefit from OITI treatment?",
+                            "title": "",
                             "fdesc": [
-                                "OITI treatment can be used by anyone looking to improve their communication skills, including individuals with language-related disabilities or those seeking to improve their language proficiency."
-                            ]
-                        },
-                        {
-                            "title": "Is a prescription required for OITI treatment?",
-                            "fdesc": [
-                                "No prescription is required for OITI treatment as it is a technology platform and not a medication. However, it is always recommended to consult with a healthcare professional before starting any new treatment."
+                                ""
                             ]
                         }
                     ]
@@ -1383,7 +1374,7 @@
                     ]
                 },
                 {
-                    "title": "Who ought to use IVF and assisted hatching?",
+                    "sub-title": "Who ought to use IVF and assisted hatching?",
                     "desc": [
                         "Some couples with a poor prognosis may benefit from assisted hatching since their embryos may not have the energy to finish the hatching process.",
                         "According to the American Society for Reproductive Medicine, women with the following conditions may benefit from assisted hatching:",
@@ -1391,7 +1382,7 @@
                     ]
                 },
                 {
-                    "title": "Will the success rate of IVF be improved by assisted hatching?",
+                    "sub-title": "Will the success rate of IVF be improved by assisted hatching?",
                     "desc": [
                         "In patients with a poor prognosis, assisted hatching has been observed to increase the clinical pregnancy rate.",
                         "The effectiveness of assisted hatching, however, depends on the embryologist's skill and expertise because it is a challenging process.",
@@ -1399,7 +1390,7 @@
                     ]
                 },
                 {
-                    "title": "Advantages of Assisted hatching ?",
+                    "sub-title": "Advantages of Assisted hatching ?",
                     "desc": [
                         "Cost effective ",
                         "Improves IVF success rates ",
@@ -1525,7 +1516,7 @@
                     ]
                 },
                 {
-                    "title": "How is azoospermia treated?",
+                    "sub-title": "How is azoospermia treated?",
                     "desc": [
                         "Treatment of azoospermia depends on the cause. Genetic testing and counselling are often an important part of understanding and treating azoospermia. Treatment approaches include:",
                         "● If a blockage is the cause of your azoospermia, surgery can unblock tubes or reconstruct tubes.",
@@ -1537,7 +1528,7 @@
                     ]
                 },
                 {
-                    "title": "How can azoospermia be prevented?",
+                    "sub-title": "How can azoospermia be prevented?",
                     "desc": [
                         "If your azoospermia is not a genetic problem, doing the following can help lessen the chance of azoospermia:",
                         "1. Avoid activities that could injure the reproductive organs. ",
@@ -2152,7 +2143,7 @@
             ]
         },
         {
-            "treatment_name": "Ovarion PRP",
+            "treatment_name": "Ovarian PRP",
             "treatment_desc": [
                 "Ovarian PRP (Platelet-Rich Plasma) Treatment is a cutting-edge procedure used to promote fertility and improve egg quality in women. It is a minimally invasive procedure that uses a woman's own blood plasma to stimulate the growth of new blood vessels and promote healing in the ovaries."
             ],
@@ -4126,7 +4117,7 @@
         "PGT-M",
         "PGT-A",
         "Blastocyst culture",
-        "Ovarion PRP",
+        "Ovarian PRP",
         "Endometrial PRP",
         "Testicular PRP",
         "Varicocele",

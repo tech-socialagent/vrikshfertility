@@ -110,7 +110,16 @@
     align-items: center;
   }
 }
-
+@media only screen and (max-width: 300px){
+  .ft_foot{
+    height: auto;
+    padding: 10px;
+    text-align: center;
+  }
+  .ft_foot div a{
+    display: block;
+  }
+}
 
 @media only screen and (max-width: 850px) {
   .ft_con_data {

@@ -66,10 +66,10 @@
 }
 .treatments-list li {
   list-style: none;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 300;
   line-height: 22px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   width: 100%;  
   /* width:30% */
   color: #787575;
@@ -82,6 +82,7 @@
   grid-template-columns: 0.5fr 9.5fr;
   align-items: center;
   text-align: left;
+
 }
 
 .treatments-title h1 {

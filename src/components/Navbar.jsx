@@ -41,11 +41,7 @@ const Navbar = () => {
             return (
               <li
                 key={index}
-                onClick={() => {
-                  document
-                    .querySelector(".nav_menu")
-                    .classList.toggle("to_right");
-                }}
+                onClick={() => navMenuToggle()}
                 className="nav_item nav_btns get_quote_btn"
               >
                 <HashLink to={"/#" + item.id}>{item.title}</HashLink>
@@ -59,3 +55,10 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+// {
+//   document
+//     .querySelector(".nav_menu")
+//     .classList.toggle("to_right");
+  
+// }

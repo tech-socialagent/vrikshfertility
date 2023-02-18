@@ -35,8 +35,7 @@
   margin: 10px 0px;
   color: var(--black-color);
 }
-.home_book_app {
-}
+
 .home_book_app a {
   text-decoration: none;
   display: block;
@@ -60,9 +59,9 @@
 .home_section .home_book_app a:hover{
   transform: none;
 }
-.home_section .home_book_app a{
+/* .home_section .home_book_app a{
   
-}
+} */
 .home_banner_img{
   position: absolute;
   width: 100%;
@@ -87,8 +86,7 @@
   animation-delay: 0s;
   animation-timing-function: linear;
 }
-.floatingIcons {
-}
+
 .floatIcon1 {
   top: -40px;
   left: 80px;
@@ -188,6 +186,11 @@
   }
   .home_book_app a{
     margin: 0px 0px 60px 0px;
+  }
+}
+@media only screen and (max-width:300px){
+  .home_section .home_book_app a{
+    padding: 10px 30px;
   }
 }
 @media only screen and (min-width: 490px) and (max-width: 850px) {

@@ -33,8 +33,8 @@
   z-index: 10;
 }
 
-.about_video {
-}
+/* .about_video {
+} */
 .about_video video {
   height: 400px;
   width: 100%;
@@ -220,6 +220,12 @@
   .background {
     display: none;
   }
+}
+@media only screen and (max-width:300px){
+ .about_video video{
+  margin: 0px 0px !important;
+ }
+  
 }
 @media only screen and (max-width: 850px) {
   .about .section_body {

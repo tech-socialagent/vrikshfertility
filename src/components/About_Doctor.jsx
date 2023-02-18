@@ -147,7 +147,9 @@ function AboutDr() {
             </div>
             <div className="about-doc-contact-form-second">
               <textarea placeholder="meassage" className="contact-meassage" />
-              <button >Send meassage</button>
+              <div className="home_book_app">
+              <a to="/about_doctor">Send Message</a>
+            </div>
               {/* <button onClick={() => sendMail()}>Send meassage</button> */}
             </div>
           </div>
