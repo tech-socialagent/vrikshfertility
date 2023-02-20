@@ -443,7 +443,7 @@
                             "sub_service_name": "Ovarian PRP",
                             "sub_service_title": "What is Ovarian PRP",
                             "sub_service_desc": [
-                                "PRP stands for Platelet-Rich Plasma, and Ovarian PRP refers to the use of plasma enriched with platelets for the treatment of ovarian disorders. The platelets contain growth factors that may promote the growth of new blood vessels and tissue, which could potentially improve ovarian function and stimulate ovulation. Ovarian PRP is considered an experimental treatment, and its effectiveness has not been fully established. Further research is needed to determine its safety and efficacy for the treatment of ovarian disorders. It's important to note that not all medical experts agree on the benefits of PRP treatment for reproductive health and some may recommend more established and proven treatments."
+                                "PRP stands for Platelet-Rich Plasma, and Ovarian PRP refers to the use of plasma enriched with platelets for the treatment of ovarian disorders. The platelets contain growth factors that may promote the growth of new blood vessels and tissue, which could potentially improve ovarian function and stimulate ovulation. It's important to note that not all medical experts agree on the benefits of PRP treatment for reproductive health and some may recommend more established and proven treatments."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -488,7 +488,7 @@
                             "sub_service_name": "PGT-SR",
                             "sub_service_title": "How Does PGT-SR Work?",
                             "sub_service_desc": [
-                                "The process begins with IVF to create embryos. A few days later, a small cell sample is taken from each embryo and analyzed for structural rearrangements. Embryos that are free of these genetic abnormalities are then selected for transfer to the uterus."
+                                "PGT-SR involves testing embryos (for chromosomal structural rearrangement ) created through in vitro fertilization (IVF) and then transferring only normal embryos. You may consider PGT-SR for chromosome rearrangements if you had a child or pregnancy with a chromosome rearrangement or if you or your partner are a carrier of : Inversion / Reciprocal translocation / Robertsonian translocation."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -512,9 +512,14 @@
                         },
                         {
                             "sub_service_name": "PGT-A",
-                            "sub_service_title": "The PGT-A test looks for what kinds of chromosomal abnormalities? ",
+                            "sub_service_title": "What is Preimplantation Genetic Sreening??",
                             "sub_service_desc": [
-                                "The main goal of a PGT-A embryo is to guarantee that it is euploid, or having the appropriate amount of chromosomes. PGT-A can identify monosomies (incomplete chromosomes) and trisomies (incomplete chromosomes) in embryos. PGT-A also checks for chromosomal duplications and deletions. Large deletions and duplications are necessary for their detection. In some versions, but not all, the PGT-A may also pick up on mosaicism and uniparental disomy (UPD). Our genetic counsellor will go over the different kinds of outcomes that can be discovered during your session."
+                                "Preimplantation Genetic Screening (PGT-A) is a test that examines chromosomal material of an in vitro fertilized (IVF) embryos before implantation. It involves removing one or more cells from an IVF embryo to test for numerical chromosomal abnormalities (aneuploidy). This screening method facilitates the selective implantation of embryos that have a normal number of chromosomes (Euploid Embryos). Couples who can benefit from PGT-A are :",
+                                "1)Patients at any age who have repeated implantation failure or recurrent pregnancyloss while undergoing IVF.",
+                                "2)Women over 35 years old undergoing IVF.",
+                                "3) Couples with recurrent miscarriages.",
+                                "4) Positive history of chromosomal abnormalities in the family.",
+                                "5) Diagnosed carriers of chromosomal aberrations"
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -527,7 +532,7 @@
                             "sub_service_name": "Chromosomal Karyotyping",
                             "sub_service_title": "How Does Chromosomal Karyotyping Work?",
                             "sub_service_desc": [
-                                "The test is performed on cells, such as blood or skin cells, which are taken from the patient. The cells are then grown in a laboratory and treated with chemicals that make the chromosomes visible under a microscope. The chromosomes are then photographed and analyzed to identify any abnormalities."
+                                "Chromosome analysis or karyotyping is a blood test that evaluates the number and structure of a person’s chromosomes in order to detect abnormalities, thus to help diagnose genetic diseases, birth defects etc. Some chromosomal disorders that may be detected include: Down’s syndrome , Edwards syndrome, Turner’s syndrome, klinefelters syndrome , patau syndrome etc"
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -545,7 +550,7 @@
                             "sub_service_name": "Polycystic Ovary Syndrome",
                             "sub_service_title": "Who may develop PCOS?",
                             "sub_service_desc": [
-                                "After puberty, a woman can develop PCOS at any time. When a person is attempting to get pregnant in their 20s or 30s, they are typically diagnosed. If you are obese or overweight, have a family history of PCOS, or are overweight, your risk of developing the condition may be increased."
+                                "Polycystic Ovary Syndrome or PCOS is the most common endocrine disorder in women of reproductive age. Symptoms of PCOS : Irregular menstrual periods, heavy periods, excess hair, acne, pelvic pain, difficulty getting pregnant, patches of thick, darker, velvety skin. Complications : Type 2 diabetes, infertility, obesity, obstructive sleep apnea, heart disease, mood disorders etc"
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -558,7 +563,7 @@
                             "sub_service_name": "Recurrent Miscarriage",
                             "sub_service_title": "What is Recurrent Miscarriage?",
                             "sub_service_desc": [
-                                "Many women have a miscarriage at one time or another. Miscarriages can happen for many reasons. Having a miscarriage doesn’t mean a woman will have another miscarriage if she tries again. But some women suffer more than one miscarriage. This is called recurrent pregnancy loss (RPL). Women and families often grieve these losses deeply. Women may also worry that they are sick or did something to cause the losses. RPL, however, is often a natural process. Less than half of recurrent miscarriages have an obvious or treatable cause. Almost two-thirds of women with RPL will eventually have a healthy pregnancy — often without any extra treatment. If you have suffered two or more miscarriages, you should talk with your health-care provider. Often, women decide to continue trying to get pregnant naturally. However, in certain situations, your doctor might suggest treatments to help reduce your risk for miscarriage."
+                                "Many women have a miscarriage at one time or another. Miscarriages can happen for many reasons. Having a miscarriage doesn’t mean a woman will have another miscarriage if she tries again. But some women suffer more than one miscarriage. This is called recurrent pregnancy loss (RPL). Women and families often grieve these losses deeply. Women may also worry that they are sick or did something to cause the losses. Pregnancy loss is the spontaneous loss of a pregnancy before 24 weeks of gestation. The loss of a pregnancy after 24 weeks gestation is called a stillbirth. A diagnosis of Recurrent Pregnancy Loss or RPL could be considered after the loss of two or more pregnancies. This includes pregnancies after spontaneous conception and after assisted reproduction (e.g. IUI and IVF/ICSI). Ectopic pregnancies and molar pregnancies are not included. There are various causes for recurrent miscarriage, and some can be treated. Most couples with RPL have a higher chance of a live birth in their next pregnancy than of having another pregnancy loss, but that does vary depending on maternal age and the number of pregnancy losses and on whether a likely cause has been found."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -602,7 +607,7 @@
                             "sub_service_name": "Varicocele",
                             "sub_service_title": "What Causes Varicoceles?",
                             "sub_service_desc": [
-                                "The exact cause of varicoceles is unknown, but they are thought to be related to a problem with the valves in the veins that control blood flow. Varicoceles are most common in men between the ages of 15 and 25 and are often asymptomatic."
+                                "A varicocele is an enlargement of the veins within the scrotum of the male testis. These veins are called the pampiniform plexus. A varicocele can result in decreased sperm production and quality, which in some cases can lead to infertility.  You may have no symptoms associated with a varicocele or you might experience - a lump in one of your testicles swelling in your scrotum visibly enlarged or twisted veins in your scrotum (which are often described as looking like a bag of worms )  or a dull, recurring pain in your scrotum etc. Once the varicocele is diagnosed, your doctor will classify it with one of three clinical grades. Grade 1 is the smallest, and grade 3 is the largest. It’s not always necessary to treat a varicocele - please consult our experts to know more"
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",
@@ -628,7 +633,7 @@
                             "sub_service_name": "Retrograde Ejaculation",
                             "sub_service_title": "What Causes Retrograde Ejaculation?",
                             "sub_service_desc": [
-                                "Retrograde ejaculation is caused by a variety of factors, including nerve damage, spinal cord injuries, certain medications, and surgery to the bladder, prostate, or urethra."
+                                "Retrograde ejaculation occurs when semen enters the bladder instead of emerging through the penis during orgasm. Although you still reach a sexual climax, you might ejaculate very little or no semen. This is sometimes called a dry orgasm.  Retrograde ejaculation isn't harmful, but it can cause male infertility."
                             ],
                             "sub_service_keypoints": [
                                 "Lorem Ipsum",

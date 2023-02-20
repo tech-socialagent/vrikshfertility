@@ -27,14 +27,14 @@ const Footer = () => {
                   href={`mailto:${Data.footer.contact.mail}`}
                   className="ft_con"
                 >
-                  <img src={Phone} alt="" className="ft_icons" />{" "}
+                  <img src={Mail} alt="" className="ft_icons" />{" "}
                   {Data.footer.contact.mail}
                 </a>
                 <a
                   href={`tel:${Data.footer.contact.phone_no}`}
                   className="ft_con"
                 >
-                  <img src={Mail} alt="" className="ft_icons" />{" "}
+                  <img src={Phone} alt="" className="ft_icons" />{" "}
                   {Data.footer.contact.phone_no}
                 </a>
               </div>

@@ -43,6 +43,16 @@ function AboutDr() {
           <div className="about-doc-desc">
             Clinical Director & Chief Fertility Specialist
           </div>
+          <div className="about-doc-desig">
+            <ul>
+              <li>MBBS</li>
+              <li>D.G.O</li>
+              <li>DIPLOMA IN MINIMAL ACCESS SURGERY- [D.M.A.S]</li>
+              <li>FELLOWSHIP IN REPRODUCTIVE MEDICINE (LONDON) - [FRMI]</li>
+              <li>FELLOWSHIP IN IF & REPRODUCTIVE MEDICINE (GERMANY) [FIVF&RM]</li>
+              <li>FELLOWSHIP IN ASSISTED REPRODUCTIVE TECHNOLOGY (INDIA) [F.ART]</li>
+            </ul>
+          </div>
           <div className="about-doc-social-media-links">
             <div className="social_media_links">
               {/* <div className="whatsapp">

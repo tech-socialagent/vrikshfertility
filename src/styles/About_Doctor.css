@@ -27,7 +27,16 @@
   color: #6e3173;
   font-size: 16px;
 }
-
+.about-doc-desig ul li{
+  list-style: none;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 10px 10px;
+  text-align: center;
+}
+.about-doc-desig{
+  margin: 10px 0px;
+}
 .about-doc-social-media-links .social_media_links div{
   margin: 5px;
 }
