@@ -55,8 +55,8 @@ const Doctors = () => {
             <div className="doctor_detail">
               <div className="doc_image">
                 <div className="doc_exp">
-                  
-                  <p>More Than A Decade of Experience</p>
+                  <h2>13+</h2>
+                  <p>Years of Experience</p>
                 </div>
                 {/* <div></div> */}
                 <img

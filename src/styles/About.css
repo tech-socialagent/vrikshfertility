@@ -79,7 +79,7 @@
 } */
 .doc_image .doc_exp {
   position: absolute;
-  top: 10px;
+  top: -15px;
 }
 .doc_image .doc_exp p {
   font-weight: 400;

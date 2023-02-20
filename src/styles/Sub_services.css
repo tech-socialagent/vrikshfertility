@@ -58,6 +58,9 @@
   background-color: transparent !important;
 }
 
+.slick-prev:before, .slick-next:before {
+  font-size: 30px !important;
+}
 @media only screen and (min-width:900px){
   .slick-prev,.slick-next{
     font-size: 40px !important;
