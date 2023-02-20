@@ -134,10 +134,24 @@ function AboutDr() {
           </div>
         </div>
       </div>
+      <iframe FrameBorder="0" title="contact_form" style={{"height":"800px","width":"100%","border":"none"}} src='https://forms.zohopublic.in/vrikshhealthcare/form/ContactUs/formperma/iABUpMbxGdwNv_pXxQnLFLZkBSqhEpFgIvav0liML6A'></iframe>
 
       <div className="about-doctor-contact">
         <div className="about-doctor-form-contact">
-          <h1>Contact Me</h1>
+        </div>
+        <div className="about-doctor-form-photo">
+          {/* <img
+            src={require("../assests/Photos/michal-bar-haim-NYvRaxVZ-_M-unsplash.jpg")}
+            alt=""
+          /> */}
+        </div>
+      </div>
+    </section>
+  );
+}
+export default AboutDr;
+
+{/* <h1>Contact Me</h1>
           <div className="about-contact-form">
             <div className="input-section">
               <input type="name" placeholder="Name" id="form_name" />
@@ -150,18 +164,6 @@ function AboutDr() {
               <div className="home_book_app">
               <a to="/about_doctor">Send Message</a>
             </div>
-              {/* <button onClick={() => sendMail()}>Send meassage</button> */}
+          
             </div>
-          </div>
-        </div>
-        <div className="about-doctor-form-photo">
-          <img
-            src={require("../assests/Photos/michal-bar-haim-NYvRaxVZ-_M-unsplash.jpg")}
-            alt=""
-          />
-        </div>
-      </div>
-    </section>
-  );
-}
-export default AboutDr;
+          </div> */}
