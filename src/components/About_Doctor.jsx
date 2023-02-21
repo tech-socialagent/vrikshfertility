@@ -49,8 +49,12 @@ function AboutDr() {
               <li>D.G.O</li>
               <li>DIPLOMA IN MINIMAL ACCESS SURGERY- [D.M.A.S]</li>
               <li>FELLOWSHIP IN REPRODUCTIVE MEDICINE (LONDON) - [FRMI]</li>
-              <li>FELLOWSHIP IN IF & REPRODUCTIVE MEDICINE (GERMANY) [FIVF&RM]</li>
-              <li>FELLOWSHIP IN ASSISTED REPRODUCTIVE TECHNOLOGY (INDIA) [F.ART]</li>
+              <li>
+                FELLOWSHIP IN IF & REPRODUCTIVE MEDICINE (GERMANY) [FIVF&RM]
+              </li>
+              <li>
+                FELLOWSHIP IN ASSISTED REPRODUCTIVE TECHNOLOGY (INDIA) [F.ART]
+              </li>
             </ul>
           </div>
           <div className="about-doc-social-media-links">
@@ -144,36 +148,20 @@ function AboutDr() {
           </div>
         </div>
       </div>
-      <iframe FrameBorder="0" title="contact_form" style={{"height":"800px","width":"100%","border":"none"}} src='https://forms.zohopublic.in/vrikshhealthcare/form/ContactUs/formperma/iABUpMbxGdwNv_pXxQnLFLZkBSqhEpFgIvav0liML6A'></iframe>
 
-      <div className="about-doctor-contact">
+      <div></div>
+      {/* <div className="about-doctor-contact">
         <div className="about-doctor-form-contact">
         </div>
         <div className="about-doctor-form-photo">
-          {/* <img
+          <img
             src={require("../assests/Photos/michal-bar-haim-NYvRaxVZ-_M-unsplash.jpg")}
             alt=""
-          /> */}
+          />
         </div>
-      </div>
+      </div> */}
     </section>
   );
 }
 export default AboutDr;
 
-{/* <h1>Contact Me</h1>
-          <div className="about-contact-form">
-            <div className="input-section">
-              <input type="name" placeholder="Name" id="form_name" />
-              <input type="email" placeholder="Email ID" id="form_mailid" />
-              <input type="number" placeholder="Contact Number" id="form_ph" />
-              <input type="name" placeholder="Subject" id="form_subject" />
-            </div>
-            <div className="about-doc-contact-form-second">
-              <textarea placeholder="meassage" className="contact-meassage" />
-              <div className="home_book_app">
-              <a to="/about_doctor">Send Message</a>
-            </div>
-          
-            </div>
-          </div> */}

@@ -26,6 +26,7 @@ import PrivacyNpolicy from "./components/PrivacyNpolicy";
 import TermsNconditions from "./components/TermsNconditions";
 import Comingsoon from "./components/comingsoon";
 import { BsWhatsapp } from "react-icons/bs";
+import PageNotFound from "./components/PageNotFound";
 
 function App() {
   // window.scrollTo(0, 0);
@@ -48,17 +49,18 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
+        {/* whatsapp */}
         <a
           href="https://wa.me/8797080808"
-          class="whatsapp_float"
+          className="whatsapp_float"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <BsWhatsapp class=" whatsapp-icon"/>
-          
+          <BsWhatsapp className="whatsapp-icon" />
         </a>
 
         <Navbar />
+        
         <Switch>
           <Route exact path={"/"}>
             <Home />
@@ -73,12 +75,16 @@ function App() {
             <Footer />
             {/* <Comingsoon /> */}
           </Route>
+          {/* <Route path={"/onlineConsultation"}>
+            <OnlineConsultation />
+            <Footer />
+          </Route> */}
+          {/* <Route path={"/team_values"}>
+            <TeamValue />
+            <Footer />
+          </Route> */}
           <Route path={"/about_doctor"}>
             <AboutDr />
-            <Footer />
-          </Route>
-          <Route path={"/onlineConsultation"}>
-            <OnlineConsultation />
             <Footer />
           </Route>
           <Route path={"/blogs"}>
@@ -89,25 +95,12 @@ function App() {
             <AboutVriksh />
             <Footer />
           </Route>
-          {/* <Route path={"/team_values"}>
-            <TeamValue />
-            <Footer />
-          </Route> */}
           <Route path={"/contactus"}>
             <ContactPage />
             <Footer />
           </Route>
           <Route path={"/faqs"}>
             <FaqPage />
-            <Footer />
-          </Route>
-          {/* privacy policy */}
-          <Route path={"/privacyandpolicy"}>
-            <PrivacyNpolicy />
-            <Footer />
-          </Route>
-          <Route path={"/termsandconditions"}>
-            <TermsNconditions />
             <Footer />
           </Route>
           {Data.landingPage.article_section.articles.map((item, index) => {
@@ -120,9 +113,9 @@ function App() {
           })}
 
           {Data.treatments.map((item, index) => {
-            console.log(
-              item.treatment_name.split(" ").join("_").toLowerCase().toString()
-            );
+            // console.log(
+            //   item.treatment_name.split(" ").join("_").toLowerCase().toString()
+            // );
             return (
               <Route
                 key={index}
@@ -141,6 +134,18 @@ function App() {
           {/* blogs */}
           <Route path={"/blog1"}>
             <BlogMore />
+          </Route>
+          <Route path={"*"}>
+              <PageNotFound/>
+          </Route>
+          {/* privacy policy */}
+          <Route path={"/privacyandpolicy"}>
+            <PrivacyNpolicy />
+            <Footer />
+          </Route>
+          <Route path={"/termsandconditions"}>
+            <TermsNconditions />
+            <Footer />
           </Route>
         </Switch>
       </div>

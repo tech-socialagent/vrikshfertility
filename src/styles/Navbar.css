@@ -21,7 +21,7 @@
   backdrop-filter: blur(15px);
 
   border-radius: 40px;
-  transition: all .5s;
+  transition: all 0.5s;
   transition-delay: 0s;
 }
 
@@ -104,6 +104,24 @@
 .menu_bar {
   display: none;
 }
+
+.enqform {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 40;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.enqf_btn {
+  font-size: 50px;
+  position: relative;
+  left: 90%;
+  color: red;
+  cursor: pointer;
+  height: 40px;
+}
+
 @media only screen and (max-width: 850px) {
   .Nav_body {
     /* background-color: #f3f3f3; */
@@ -154,4 +172,5 @@
     margin: 10px 10px;
     padding: 5px 30px;
   }
+  
 }
