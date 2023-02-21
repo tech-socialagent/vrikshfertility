@@ -25,12 +25,13 @@ import BlogMore from "./components/Blogmore";
 import PrivacyNpolicy from "./components/PrivacyNpolicy";
 import TermsNconditions from "./components/TermsNconditions";
 import Comingsoon from "./components/comingsoon";
+import { BsWhatsapp } from "react-icons/bs";
 
 function App() {
   // window.scrollTo(0, 0);
   useEffect(() => {
     window.scrollTo(0, 0);
-    
+
     window.addEventListener("scroll", () => {
       if (document.documentElement.scrollTop === 0) {
         document.querySelector(".Nav_body").classList.remove("white_bg");
@@ -47,6 +48,16 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
+        <a
+          href="https://wa.me/8797080808"
+          class="whatsapp_float"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <BsWhatsapp class=" whatsapp-icon"/>
+          
+        </a>
+
         <Navbar />
         <Switch>
           <Route exact path={"/"}>
