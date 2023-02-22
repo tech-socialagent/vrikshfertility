@@ -40,7 +40,7 @@ const Doctors = () => {
               className="vdo"
               autoPlay
               ref={videoEl}
-              src={require("../assests/DoctorInto.mp4")}
+              src={"https://vrikshstorage.s3.ap-south-1.amazonaws.com/DoctorInto.mp4"}
               type="video/mp4"
               loop
               muted

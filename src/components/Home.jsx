@@ -41,13 +41,14 @@ const Home = () => {
     attemptPlay();
   }, []);
 
+  
   return (
     <section className="home_section" id="home">
       <div className="home_banner_img">
         <video
           autoPlay
           ref={videoEl}
-          src={require("../assests/HomeVdo.mp4")}
+          src={"https://vrikshstorage.s3.ap-south-1.amazonaws.com/HomeVdo.mp4"}
           type="video/mp4"
           loop
           muted

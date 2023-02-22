@@ -5,7 +5,6 @@ import { useState } from "react";
 import MenuItems from "./MenuItems";
 import Data from "../Data.json";
 import "../styles/Dropdown.css";
-import EnquiryForm from "./EnquiryForm";
 
 const Navbar = () => {
   const [enq, setEnq] = useState(false);
