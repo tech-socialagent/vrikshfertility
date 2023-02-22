@@ -1,98 +1,40 @@
 .consultation-main {
+  padding: 30px 0px;
+
+}
+.consultation_tab{
   display: flex;
   justify-content: center;
-  align-items: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
 }
-.consultion-form {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  background: #ffff;
-  padding: 60px 40px 20px 40px;
-  box-shadow: 1px 5px 12px 2px gray;
- 
-  background-image: url("../assests/Icons/contact_bg.png");
-  background-repeat: no-repeat;
-  background-position: bottom 0% left 0%;
-}
-.consultion-form h1 {
-  font-size: 48px;
-  font-weight: 600;
-  line-height: 39px;
-  letter-spacing: 0px;
-  text-align: center;
-  color: #772c77;
-  margin-top: -20px;
-  padding-bottom: 20px;
-}
-.consultion-form input,
-select {
-  height: 48px;
-  width: 390px;
+.tabs{
+  padding: 10px 20px;
+  margin: 20px 20px;
+  cursor: pointer;
+  color: #ffffff;
   border-radius: 10px;
-  margin-top: 10px;
-  padding: 0 20px;
-  border: 1px solid gray;
-}
-.consultion-form button {
-  height: 48px;
-  width: 297px;
-  border-radius: 30px;
-  background-color: #772c77;
-  color: white;
-  font-size: 16px;
-  font-weight: 600;
-  line-height: 20px;
-  letter-spacing: 0em;
+  background-color: #c26cc2;
   text-align: center;
-  border: none;
-  margin-top: 10px;
 }
-.consultation-form-img video{
-  border-radius: 15px;
-  border: 4.17414px solid #FFFFFF;
-  box-shadow: -2.73852px 7.30273px 13.6926px 3.65137px rgba(0, 0, 0, 0.35);
+.appointment_title{
+  font-size: 40px;
+  text-align: center;
+  margin: 10px ;
+  font-weight: 500;
 }
-.consultation-form-img img {
-  height: 520px;
-  width: 600px;
-  border-radius: 20px;
+.tactive{
+  background-color: var(--primary-color) !important;
 }
 @media screen and (max-width: 480px) {
-  .consultation-main {
+  .consultation_tab{
     flex-direction: column;
   }
-  .consultion-form {
-    border-radius: 20px;
-    padding: 60px 20px 20px 20px;
-    margin-right: 0px;
+  .tabs{
+    margin: 5px;
   }
-  .consultion-form h1 {
-    font-size: 24px;
-    font-weight: 600;
-  }
-  .consultion-form input,
-  .dropdown-option {
-    height: 30px;
-    width: 280px;
-  }
-  .consultation-form-img video {
-    height: 100%;
-    width: 100%;
-  }
-  .consultation-form-img .vdo{
-    
+  .appointment_title{
+    font-size: 30px;
   }
 }
 @media only screen and (max-width: 850px){
-  .consultion-form h1 {
-    font-size: 30px;
-    font-weight: 600;
-  }
-  .consultation-form-img img {
-    display: none;
-  }
+  
 }

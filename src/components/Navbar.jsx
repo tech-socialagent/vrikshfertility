@@ -15,7 +15,7 @@ const Navbar = () => {
   };
 
   const enquiry = (e) => {
-    if (e.target.innerText === "Enquiry Now") {
+    if (e.target.innerText === "Enquire Now") {
       setEnq(true);
     }
   };

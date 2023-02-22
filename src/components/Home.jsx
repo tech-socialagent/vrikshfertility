@@ -85,7 +85,7 @@ const Home = () => {
               <span className="titleclr">
               Fertility Care -
               </span>
-              Your Journey towards A Loving Parenthood
+              Your Journey Towards A Loving Parenthood
             </h2>
             <p className="home_desc">
               {Data.landingPage.Banner_Section.section_desc}
@@ -96,7 +96,7 @@ const Home = () => {
               <span className="titleclr">
               Fertility Counseling & Treatments - 
               </span>
-              Personalised care for Both Men & Women
+              Personalised Care for Both Men & Women
             </h2>
           </div>
         </Slider>

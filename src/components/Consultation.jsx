@@ -1,26 +1,63 @@
 import "../styles/Consultation.css";
-import Data from "../Data.json";
-import ConsultationImg from "../assests/Photos/Frame 52.png";
-import { Link } from "react-router-dom";
-import { useEffect, useRef } from "react";
+// import Data from "../Data.json";
+// import ConsultationImg from "../assests/Photos/Frame 52.png";
+// import { Link } from "react-router-dom";
+import { useEffect, useRef, useState } from "react";
+
 function Consultation() {
-  const today = new Date();
-  const videoEl = useRef(null);
+  
+  const [book, setBook] = useState(
+    "https://harishetty-vrikshfertility.zohobookings.in/portal-embed#/customer/117018000000025066"
+  );
+  const setactive=(e)=>{
+    document.querySelectorAll(".tabs").forEach(item=>{
+      item.classList.remove("tactive")
+    })
 
-  const attemptPlay = () => {
-    videoEl &&
-      videoEl.current &&
-      videoEl.current.play().catch((error) => {
-        console.error("Error attempting to play", error);
-      });
+    e.target.classList.add("tactive");
+  }
+
+  const tabhandler = (e) => {
+    console.log(e.target.id);
+    switch (e.target.id) {
+      case "firstvisit":
+        setBook(
+          "https://harishetty-vrikshfertility.zohobookings.in/portal-embed#/customer/117018000000025066"
+        );
+        setactive(e)
+        break;
+      case "revist":
+        setBook(
+          "https://harishetty-vrikshfertility.zohobookings.in/portal-embed#/customer/117018000000031108"
+        );
+        setactive(e)
+        break;
+      case "videocons":
+        setBook(
+          "https://harishetty-vrikshfertility.zohobookings.in/portal-embed#/customer/117018000000031028"
+        );
+        setactive(e)
+        break;
+      default:
+        setBook(
+          "https://harishetty-vrikshfertility.zohobookings.in/portal-embed#/customer/117018000000025066"
+        );
+    }
   };
-
-  useEffect(() => {
-    attemptPlay();
-  }, []);
-
   return (
     <section className="consultation-main section" id="book">
+      <div className="appointment_title">Book Your Appointment</div>
+      <div className="consultation_tab">
+        <div className="tabs" id="firstvisit" onClick={(e) => tabhandler(e)}>
+          First Visit
+        </div>
+        <div className="tabs" id="revist" onClick={(e) => tabhandler(e)}>
+          Revist
+        </div>
+        <div className="tabs" id="videocons" onClick={(e) => tabhandler(e)}>
+          Video Consultation
+        </div>
+      </div>
       {/* <div className="consultion">
         <form className="consultion-form">
           <h1>{Data.landingPage.consultation_section.section_title}</h1>
@@ -52,12 +89,10 @@ function Consultation() {
       <iframe
         width="100%"
         height="500px"
-        src="https://harishetty-vrikshfertility.zohobookings.in/portal-embed#/customer/117018000000025066"
-        frameBorder="0"
+        src={book}
+        FrameBorder="0"
         // allowfullscreen=""
-      >
-        {" "}
-      </iframe>
+      ></iframe>
     </section>
   );
 }
