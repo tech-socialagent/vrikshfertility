@@ -26,7 +26,7 @@ function Consultation() {
         );
         setactive(e)
         break;
-      case "revist":
+      case "revisit":
         setBook(
           "https://harishetty-vrikshfertility.zohobookings.in/portal-embed#/customer/117018000000031108"
         );
@@ -48,43 +48,17 @@ function Consultation() {
     <section className="consultation-main section" id="book">
       <div className="appointment_title">Book Your Appointment</div>
       <div className="consultation_tab">
-        <div className="tabs" id="firstvisit" onClick={(e) => tabhandler(e)}>
+        <div className="tabs tactive" id="firstvisit" onClick={(e) => tabhandler(e)}>
           First Visit
         </div>
-        <div className="tabs" id="revist" onClick={(e) => tabhandler(e)}>
-          Revist
+        <div className="tabs" id="revisit" onClick={(e) => tabhandler(e)}>
+          Revisit
         </div>
         <div className="tabs" id="videocons" onClick={(e) => tabhandler(e)}>
           Video Consultation
         </div>
       </div>
-      {/* <div className="consultion">
-        <form className="consultion-form">
-          <h1>{Data.landingPage.consultation_section.section_title}</h1>
-          <input
-            type="text"
-            placeholder={Data.landingPage.consultation_section.form_items[0]}
-          />
-          <input
-            type="email"
-            placeholder={Data.landingPage.consultation_section.form_items[1]}
-          />
-          <input
-            type="date"
-          />
-          <input
-            type="time"
-            placeholder={Data.landingPage.consultation_section.form_items[3]}
-          />
-          
-          <div className="home_book_app">
-            <Link to="/about_doctor">Book Appointment</Link>
-          </div>
-        </form>
-      </div>
-      <div className="consultation-form-img">
-        <video className="vdo" autoPlay ref={videoEl} src={require("../assests/ConsoleVdo.mp4")} type="video/mp4" loop muted />  
-      </div> */}
+
 
       <iframe
         width="100%"
