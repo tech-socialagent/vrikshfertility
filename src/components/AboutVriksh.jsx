@@ -17,13 +17,13 @@ const AboutVriksh = () => {
         <div className="about_desc">
           <div className="desc_heading">
             Vriksh has been conceptualised with the goal of providing a
-            personalised experience for each patient looking to undergo their
+            personalised experience for each couple looking to undergo their
             fertility treatment.
           </div>
           <ul>
             <li>
               From the first visit to their entire treatment journey, all
-              patients are hand held to ensure emotional support along with medical
+              couples are hand held to ensure emotional support along with medical
               care.
             </li>
             <li>

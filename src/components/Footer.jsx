@@ -44,23 +44,23 @@ const Footer = () => {
               <div className="ft_ser_heading">Social Media Links</div>
               <div className="social_media_links">
                 <div className="facebook">
-                  <a href="https://www.facebook.com/VrikshFertility?mibextid=ZbWKwL">
+                  <a href="https://www.facebook.com/VrikshFertility?mibextid=ZbWKwL" target={"_blank"}>
                     <BsFacebook />
                   </a>
                 </div>
                 <div className="instagram">
-                  <a href="https://www.instagram.com/vrikshfertility/">
+                  <a href="https://www.instagram.com/vrikshfertility/" target={"_blank"}>
                     <BsInstagram />
                   </a>
                 </div>
                 <div className="linkedin">
-                  <a href="https://www.linkedin.com/company/vrikshfertility/">
+                  <a href="https://www.linkedin.com/company/vrikshfertility/" target={"_blank"}>
                     <FaLinkedinIn />
                   </a>
                 </div>
 
                 <div className="twitter">
-                  <a href="https://www.twitter.com/VrikshFertility">
+                  <a href="https://www.twitter.com/VrikshFertility" target={"_blank"}>
                     <AiFillTwitterCircle />
                   </a>
                 </div>

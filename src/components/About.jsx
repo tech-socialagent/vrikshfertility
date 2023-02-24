@@ -92,12 +92,12 @@ const Doctors = () => {
                     </a>
                   </div> */}
                   <div className="instagram">
-                    <a href="https://www.instagram.com/drsneha_fertilitydoc">
+                    <a href="https://www.instagram.com/drsneha_fertilitydoc" target={"_blank"}>
                       <BsInstagram />
                     </a>
                   </div>
                   <div className="linkedin">
-                    <a href="https://www.linkedin.com/in/drsnehashetty">
+                    <a href="https://www.linkedin.com/in/drsnehashetty" target={"_blank"}>
                       <FaLinkedinIn />
                     </a>
                   </div>

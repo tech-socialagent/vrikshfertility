@@ -750,7 +750,7 @@
                     "profession": "Graphic Designer",
                     "review_text": "I had an amazing experience at this fertility center. The doctors and nurses were professional and compassionate. They made me feel at ease throughout the entire process, and were always available to answer any questions I had. Thanks to their expertise, I am now pregnant and expecting my first child. I would recommend Vriksh Fertility to anyone who is struggling with fertility issues.",
                     "picUrl": "femaleUser.png",
-                    "color": "#57BEB5"
+                    "color": "#b03bb0"
                 },
                 {
                     "name": "Monika",
@@ -766,7 +766,7 @@
                     "profession": "Marketing Specialist",
                     "review_text": "I had been trying to conceive for years without success before I found this fertility center. The doctors and staff were incredibly helpful and compassionate, and they took the time to answer all of my questions and concerns. Thanks to their expertise, I am now pregnant with twins! I would highly recommend this clinic to anyone struggling with infertility.",
                     "picUrl": "femaleUser.png",
-                    "color": "#57BEB5"
+                    "color": "#b03bb0"
                 },
                 {
                     "name": "Sneha paul",
@@ -932,7 +932,7 @@
                     ]
                 },
                 {
-                    "sub-title": "Advantages ",
+                    "sub-title": "Advantages",
                     "desc": [
                         "1. Non-invasive ",
                         "2. Simple and most natural fertility treatment",
@@ -965,40 +965,55 @@
             "treatment_name": "IUI",
             "treatment_subdt": "Intrauterine Insemination",
             "treatment_desc": [
-                "An intrauterine sperm insemination (IUI) is a laboratory procedure in which the fast moving sperm is separated from the slower moving sperm and deposited at the ovulation time in the woman's womb. Artificial insemination uses husband's sperm (AIH).",
-                "A woman with patent fallopian tubes can enhance her fertility through intrauterine insemination (IUI), the first step in fertility treatment."
+                "Simple fertility treatment where the sperms are processed and placed inside the female partners uterus, around or during ovulation to fecilitate fertilization. The pre-requisite is to have atleast one fallopian tube to be open bt HSG/SSG/Laparoscopy."
             ],
             "sub_data": [
                 {
-                    "sub-title": "What it means to the couple?",
+                    "sub-title": "When is IUI advised ?",
                     "desc": [
-                        ""
+                        "1. Ovulatory dysfunction",
+                        "2. Sexual dysfunction - dyspareunia/erectile dysfunction etc.",
+                        "3. Cervical factor",
+                        "4. Mild Endometriosis",
+                        "5. Immunological factor",
+                        "6. Mild male partner infertility- low sperm count/ low sperm motility",
+                        "7. Donor sperm - 3rd party male ART procedure",
+                        "8. Unexplained infertility",
+                        "9. HIV/HBsAg discordant couple"
                     ]
                 },
                 {
-                    "sub-title": "Female Partner",
-                    "desc": [
-                        "● Ovarian Stimulation :",
-                        "Before IUI, fertility medications are administered to help in the development of one or more mature follicles in a woman’s ovaries.",
-                        "● Control:",
-                        "Pelvic ultrasound scans are used to access the endometrium (lining of the womb) and to determine how the follicles are developing. Blood tests may also be carried out to measure hormone levels and help to determine when a woman is most likely to ovulate (a woman’s most fertile time)."
+                    "sub-title": "What should I expect?",
+                    "desc": [ 
+                        "1. IUI-treatment should begin from her second or third day of menstrual cycle.",
+                        "2. A fertility specialist will examine you through an ultrasound scan and recommend the right medicines to stimulate the ovary to develop one or more mature follicles ( each follicle in the ovary may or may not contain a healthy egg). ",
+                        "3. The growth of these follicles is tracked by serial ultrasound scan.",
+                        "4. Once the follicle is ready, a trigger injection is given for egg release & IUI dates.",
+                        "5. On day of IUI -  male partner's semen is processed by procedures like double-density gadient/MACs/Microfluidics depending on prior Semen analysis & PFI report.",
+                        "6. Processed semen sample is placed inside female partners uterus under ultrasound guidance using a thin soft catheter by your doctor.",
+                        "7. Post IUI patient can rest for 10 minutes & is then given luteal support medications for 15 days."
                     ]
                 },
                 {
-                    "sub-title": "Male Partner",
+                    "sub-title": "Advantages ",
                     "desc": [
-                        "● Semen Collection:",
-                        "A semen specimen is collected from the male partner after 2-5 days of abstinence from ejaculation.",
-                        "● Sperm Selection:",
-                        "The semen is “washed” in the laboratory (called sperm processing or sperm washing). The sperm is separated from the other components of the semen and concentrated in a small volume. Various media and techniques can be used for the washing and separation. Sperm processing takes about 30-60 minutes.",
-                        "The more morphologically normal and motile sperm are selected for insemination."
+                        "● Simple",
+                        "● Least Invasive",
+                        "● Cost-Effective",
+                        "● High Success rate (15-25%)",
+                        "● Increase chances of Pregnancy",
+                        "● Decrease risks of HIV/HBsAg transmission",
+                        "● Painless",
+                        "● Doesnot require anesthesia in most of cases"
+                       
                     ]
                 },
                 {
-                    "sub-title": "IUI Process",
+                    "sub-title": "Are There Any Risks?",
                     "desc": [
-                        "IntraUterine Insemination:",
-                        "-A speculum is placed in the vagina and the cervical area is gently cleaned. The washed specimen of highly motile sperm is placed higher in the uterine cavity using a sterile, flexible catheter."
+                        "1. Natural conception is achieved through this simple and basic procedure for many couples. Maximum of 3-6 cycles can be tried depending on female partners ovarian reserve and male partners semen analysis report.",
+                        "2. Risk of twins ( multiple pregnancies) if 2 follicles develop may be there in 15% patients. ",
+                        "3. In 1 out of 1000 people, the prescribed medications tend to cause a strong reaction. They may develop multiple follicles in the ovaries instead of one or two. Such cases are managed by doctors through regular scans and proper medication."
                     ]
                 },
                 {

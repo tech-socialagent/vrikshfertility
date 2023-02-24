@@ -49,10 +49,10 @@ function Consultation() {
       <div className="appointment_title">Book Your Appointment</div>
       <div className="consultation_tab">
         <div className="tabs tactive" id="firstvisit" onClick={(e) => tabhandler(e)}>
-          First Visit
+          Primary Consultation
         </div>
         <div className="tabs" id="revisit" onClick={(e) => tabhandler(e)}>
-          Revisit
+          Follow Up Consultation
         </div>
         <div className="tabs" id="videocons" onClick={(e) => tabhandler(e)}>
           Video Consultation
@@ -62,7 +62,7 @@ function Consultation() {
 
       <iframe
         width="100%"
-        height="500px"
+        height="600px"
         src={book}
         FrameBorder="0"
         // allowfullscreen=""
