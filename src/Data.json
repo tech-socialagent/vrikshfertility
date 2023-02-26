@@ -8,6 +8,9 @@
                 "submenu": [
                     {
                         "title": "About Vriksh"
+                    },
+                    {
+                        "title":"About Doctor"
                     }
                 ]
             },

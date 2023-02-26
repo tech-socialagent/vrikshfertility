@@ -112,6 +112,23 @@ function App() {
             );
           })}
 
+          
+
+          {/* blogs */}
+          <Route path={"/blog1"}>
+            <BlogMore />
+          </Route>
+          
+          {/* privacy policy */}
+          <Route path={"/privacyandpolicy"}>
+            <PrivacyNpolicy />
+            <Footer />
+          </Route>
+          <Route path={"/termsandconditions"}>
+            <TermsNconditions />
+            <Footer />
+          </Route>
+
           {Data.treatments.map((item, index) => {
             // console.log(
             //   item.treatment_name.split(" ").join("_").toLowerCase().toString()
@@ -127,25 +144,14 @@ function App() {
                   .toString()}`}
               >
                 <Treatments data={item} />
-                {/* <Footer/> */}
+              
               </Route>
             );
           })}
-          {/* blogs */}
-          <Route path={"/blog1"}>
-            <BlogMore />
-          </Route>
+
+          {/* 404 page */}
           <Route path={"*"}>
               <PageNotFound/>
-          </Route>
-          {/* privacy policy */}
-          <Route path={"/privacyandpolicy"}>
-            <PrivacyNpolicy />
-            <Footer />
-          </Route>
-          <Route path={"/termsandconditions"}>
-            <TermsNconditions />
-            <Footer />
           </Route>
         </Switch>
       </div>

@@ -50,7 +50,7 @@ function AboutDr() {
               <li>DIPLOMA IN MINIMAL ACCESS SURGERY- [D.M.A.S]</li>
               <li>FELLOWSHIP IN REPRODUCTIVE MEDICINE (LONDON) - [FRMI]</li>
               <li>
-                FELLOWSHIP IN IF & REPRODUCTIVE MEDICINE (GERMANY) [FIVF&RM]
+                FELLOWSHIP IN IVF & REPRODUCTIVE MEDICINE (GERMANY) [FIVF & RM]
               </li>
               <li>
                 FELLOWSHIP IN ASSISTED REPRODUCTIVE TECHNOLOGY (INDIA) [F.ART]
@@ -65,12 +65,18 @@ function AboutDr() {
                     </a>
                   </div> */}
               <div className="instagram">
-                <a href="https://www.instagram.com/drsneha_fertilitydoc" target={"_blank"}>
+                <a
+                  href="https://www.instagram.com/drsneha_fertilitydoc"
+                  target={"_blank"}
+                >
                   <BsInstagram />
                 </a>
               </div>
               <div className="linkedin">
-                <a href="https://www.linkedin.com/in/drsnehashetty" target={"_blank"}>
+                <a
+                  href="https://www.linkedin.com/in/drsnehashetty"
+                  target={"_blank"}
+                >
                   <FaLinkedinIn />
                 </a>
               </div>
@@ -100,22 +106,20 @@ function AboutDr() {
               through a One Year full time fellowship In ART in India.
             </p>
             <p>
-              With a total experience of 12+ years of handling various
-              Gynaecological & Infertility, Assisted Reproductive Techniques.
-              She has been getting the best Pregnancy results with Naturally
-              Cycles, IUI, IVF, ICSI, & ICSI-OD through Drugs, Surgeries & Basic
-              to Advanced Fertility Treatments.
+              With a total experience of 13+ years of handling various
+              Gynaecological & Infertility related issues, she has been able to
+              achieve the best pregnancy results through Assisted Reproductive
+              Techniques such as Natural Cycle Management, IUI, IVF, ICSI, &
+              ICSI-OD through Drugs, Surgeries & Basic to Advanced Fertility
+              Treatments.
             </p>
             <p>
               In addition to her degrees, Dr. Sneha Shetty has been contributing
               to healthcare needs by her acute sense of medical analysis. She
               loves taking care of patients. In order to build a relationship
-              with a patient, she strives to listen to her patients and be their
-              advocate through empathy & patience. By making the visit
-              comfortable and relaxed, she makes them feel like she's not only
-              their doctor but a friend they can talk to about any health
-              concerns they may have. She is one of the Best Fertility
-              Specialists & Laparoscopic surgeons in Bangalore.
+              with couples she strives to listen to her patients and be their
+              advocate through empathy & patience. She is one of the Best
+              Fertility Specialists & Laparoscopic surgeons in Bangalore.
             </p>
           </div>
           <div className="about-doc-membership">
@@ -164,4 +168,3 @@ function AboutDr() {
   );
 }
 export default AboutDr;
-

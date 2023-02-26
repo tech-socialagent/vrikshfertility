@@ -64,7 +64,7 @@ function Consultation() {
         width="100%"
         height="600px"
         src={book}
-        FrameBorder="0"
+        frameBorder="0"
         // allowfullscreen=""
       ></iframe>
     </section>
