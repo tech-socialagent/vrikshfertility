@@ -9,27 +9,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 import { useEffect } from "react";
 
 function AboutDr() {
-  // const sendMail = () => {
-  //   console.log(".................................");
-  //   const mail = document.getElementById("form_mailid");
-  //   const config = {
-  //     Username: "bayawi8712@mirtox.com",
-  //     Password: "CB9F3A42CB7E4AA7424E6659836C1D008359",
-  //     Host: "smtp.elasticemail.com",
-  //     Port: "2525",
-
-  //     To: "bayawi8712@mirtox.com",
-  //     From: "bkmahapatra27@gmail.com",
-  //     Subject: "test",
-  //     Body: "test",
-  //   };
-
-  //   if (window.Email) {
-  //     window.Email.send(config).then((res) => console.log(res));
-  //   } else {
-  //     console.log("Nnoooo********************");
-  //   }
-  // };
+  
   useEffect(() => {
     window.scrollTo(0, 0);
   });
@@ -66,7 +46,7 @@ function AboutDr() {
                   </div> */}
               <div className="instagram">
                 <a
-                  href="https://www.instagram.com/drsneha_fertilitydoc"
+                  href="https://www.instagram.com/drsneha_shettyofficial/"
                   target={"_blank"}
                 >
                   <BsInstagram />
