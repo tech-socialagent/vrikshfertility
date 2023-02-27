@@ -60,7 +60,7 @@ function App() {
         </a>
 
         <Navbar />
-        
+
         <Switch>
           <Route exact path={"/"}>
             <Home />
@@ -112,13 +112,11 @@ function App() {
             );
           })}
 
-          
-
           {/* blogs */}
           <Route path={"/blog1"}>
             <BlogMore />
           </Route>
-          
+
           {/* privacy policy */}
           <Route path={"/privacyandpolicy"}>
             <PrivacyNpolicy />
@@ -144,14 +142,13 @@ function App() {
                   .toString()}`}
               >
                 <Treatments data={item} />
-              
               </Route>
             );
           })}
 
           {/* 404 page */}
           <Route path={"*"}>
-              <PageNotFound/>
+            <PageNotFound />
           </Route>
         </Switch>
       </div>
