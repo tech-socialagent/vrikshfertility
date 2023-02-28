@@ -51,20 +51,6 @@
                                 "title": "Blastocyst culture"
                             },
                             {
-                                "title": "PRP",
-                                "submenu": [
-                                    {
-                                        "title": "Ovarian PRP"
-                                    },
-                                    {
-                                        "title": "Endometrial PRP"
-                                    },
-                                    {
-                                        "title": "Testicular PRP"
-                                    }
-                                ]
-                            },
-                            {
                                 "title": "Other Genomic Testing",
                                 "submenu": [
                                     {
