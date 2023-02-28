@@ -1,10 +1,11 @@
 .about-doctor {
-  padding: 120px 40px;
+  padding: 80px 40px 10px 40px;
 }
 .about_doc_body {
   display: grid;
   grid-template-columns: 1fr 3fr;
   column-gap: 40px;
+  margin: 50px 0px ;
 }
 .about-doc-left {
   display: flex;
@@ -21,32 +22,37 @@
   position: relative;
 }
 
-
 .about-doc-desc,
 .about-doc-social-media-links h1 {
   color: #6e3173;
   font-size: 16px;
 }
+
 .about-doc-desig ul li{
   list-style: none;
   font-size: 14px;
   font-weight: 400;
   margin: 10px 10px;
-  text-align: center;
+  text-align: left;
 }
 .about-doc-desig{
   margin: 10px 0px;
+  width: 100%;
 }
 .about-doc-social-media-links .social_media_links div{
   margin: 5px;
 }
 .about-doc-name {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 600;
 }
 
-.about-doc-title {
+.about-doc-heading {
   font-size: 48px;
+  font-weight: 600;
+}
+.about-doc-title {
+  font-size: 40px;
   font-weight: 600;
 }
 .about-doc-subtitle {
@@ -121,7 +127,7 @@
   padding:  50px 0px;  
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 850px) {
   .about-doctor{
     padding: 100px  10px 10px 10px;
   }
