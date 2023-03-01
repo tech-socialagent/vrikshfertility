@@ -180,9 +180,6 @@
                                 "title": "Auto Immune Disease"
                             },
                             {
-                                "title": "Diabetes"
-                            },
-                            {
                                 "title": "Genetic Disorders"
                             }
                         ]
@@ -204,27 +201,7 @@
                     }
                 ]
             },
-            {
-                "title": "Surgeries",
-                "id": "surgeries",
-                "submenu": [
-                    {
-                        "title": "Laparoscopy"
-                    },
-                    {
-                        "title": "Hysteroscopy"
-                    },
-                    {
-                        "title": "Myomectomy (Fibroid Removal Surgery)"
-                    },
-                    {
-                        "title": "Uterine Septal Resection"
-                    },
-                    {
-                        "title": "Endometrial/ Dermoid Cystectomy"
-                    }
-                ]
-            },
+
             {
                 "title": "Resources",
                 "id": "resources",
