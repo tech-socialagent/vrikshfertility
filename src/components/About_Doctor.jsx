@@ -229,7 +229,6 @@ function AboutDr() {
         </div>
       </div>
 
-      
     </section>
   );
 }
