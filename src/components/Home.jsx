@@ -94,7 +94,7 @@ const Home = () => {
           <div>
             <h2 className="home_title">
               <span className="titleclr">
-              Fertility Counseling & Treatments - 
+              Fertility Counselling & Treatments - 
               </span>
               Personalised Care for Both Men & Women
             </h2>

@@ -16,8 +16,9 @@
     color: var(--secondary-color);
 }
 .article_card{
-    width: 100%;
+    /* width: 100%; */
     /* background-color: var(--white-color); */
+    max-width: 350px;
     border-radius: 20px;
     margin: 0;
     padding: 0px 20px;
