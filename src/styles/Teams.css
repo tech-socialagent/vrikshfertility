@@ -1,10 +1,10 @@
-.our_doctors_section{
-    padding: 50px;
+
+.teams{
     display: flex;
     gap: 50px;
     justify-content: center;
     flex-wrap: wrap;
-    
+    padding: 20px;  
 }
 .doctor_card{
     display: flex;
@@ -15,7 +15,7 @@
 .doctor_card img{
     max-width: 150px;
     border-radius: 50%;
-    height: 100%;
+    height: 150px;
     border: 2px solid var(--primary-color);
     object-fit: cover;
 }
@@ -37,5 +37,5 @@
 }
 
 .doctors_page{
-    padding: 150px;
+    padding: 100px;
 }

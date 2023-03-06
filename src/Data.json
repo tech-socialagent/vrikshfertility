@@ -4874,32 +4874,44 @@
     ],
     "doctors_detail": [
         {
-            "name": "Dr. Sneha Shetty",
-            "designation": "Clinical Director & Chief Fertility Specialist",
-            "photo": "drsneha2.png",
-            "desc": [],
-            "link": "/about_clinical_director"
-        },
-        {
             "name": "Dr. Vikram J Rao",
             "designation": "Consultant",
             "photo": "drvikram.png",
-            "desc": [],
-            "link": ""
+            "degrees": [
+                "MBBS, MS (General Surgery)",
+                "DNB, Surgical Gastroentrology (KEM, Mumbai)",
+                "FMAS",
+                "FIAGES",
+                "FACRSI"
+            ],
+            "desc": [
+                "Dr. Vikram J Rao is a specialist in the field of Advanced laparoscopic, Hepato-Pancreatic-Biliary (HPB) and Colorectal surgeries. He is a seasoned doctor with demonstrated accomplishments in skilled patient evaluation, diagnostics, and management in his area of interest with great testimonials to prove it. He completed his master’s in general surgery from MRMC, Gulbarga under R.G.U.H.S. He had developed a passion for abdominal ailments and Minimally Invasive Surgeries since then which led him to pursue Surgical Gastroenterology at the prestigious King Edward Memorial College and Seth G S Hospital (K.E.M, Mumbai).",
+                "Dr Vikram J Rao has experience working with stalwarts like Dr R D Bapat, Dr Ashwin Supe, and Dr Ramesh Makom. He is passionate about surgeries for Gastrointestinal cancers including HPB and colorectal malignancies. His team at Belenus Champion Hospital strive to be updated and incorporate a holistic approach that combines the latest advances with a human touch to ensure quality care for our patients."
+            ],
+            "link": "/dr__vikram_j_rao"
         },
         {
             "name": "Dr. Manohar Bhadrappa",
             "designation": "Consultant",
             "photo": "DoctorUser.png",
-            "desc": [],
-            "link": ""
+            "degrees": [
+                "MBBS, MS (General Surgery)",
+                "M.Ch(Urology)"
+            ],
+            "desc": [
+                "Dr.Manohar did his undergraduate training at Dr. B. R. Ambedkar Medical College, Bangalore and Post-graduation in M.S.General Surgery from J.J Medical College Davanagere. After postgraduation, he wanted to pursue Superspeciality and completed his MCH, Urology from Institute of NephroUrology, Bangalore Medical College, Bangalore."
+            ],
+            "link": "/dr__manohar_bhadrappa"
         },
         {
             "name": "Dr. Dilip Raj K S",
             "designation": "Consultant",
             "photo": "DoctorUser.png",
-            "desc": [],
-            "link": ""
+            "degrees": [
+                "MBBS, MD - General Medicine"
+            ],
+            "desc": ["Dr. Dilip Raj K S is a Internal Medicine in Sarjapur Road, Bangalore and has an experience of 11 years in this field. Dr. Dilip Raj K S practices at Belenus Champion Hospital in Sarjapur Road, Bangalore. He completed MBBS from Kempegowda Institute of Medical Sciences (KIMS), Bangalore in 2012 and MD - General Medicine from Kempegowda Institute of Medical Sciences (KIMS), Bangalore in 2018."],
+            "link": "/dr__dilip_raj_k_s"
         }
     ]
 }

@@ -1,6 +1,6 @@
 import React from 'react'
-import OurDoctors from './OurDoctors'
-import "../styles/OurDoctors.css"
+import OurDoctors from './Teams'
+import "../styles/Teams.css"
 
 const OurDoctors_Page = () => {
   return (
