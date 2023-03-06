@@ -1,0 +1,41 @@
+.our_doctors_section{
+    padding: 50px;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.doctor_card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.doctor_card img{
+    max-width: 150px;
+    border-radius: 50%;
+    height: 100%;
+    border: 2px solid var(--primary-color);
+    object-fit: cover;
+}
+.doctor_card h6{
+    color: var(--primary-color);
+}
+.doctor_card a{
+    text-decoration: none;
+    color: var(--white-color);
+    font-size: 14px;
+    margin: 10px 0px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: var(--primary-color);
+    transition: all .3s;
+}
+.doctor_card a:hover{
+    transform: scale(1.1,1.1)
+}
+
+.doctors_page{
+    padding: 150px;
+}

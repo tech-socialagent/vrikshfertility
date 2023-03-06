@@ -15,20 +15,18 @@ import { useEffect } from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Treatments from "./components/Treatments";
 import Data from "./Data.json";
-import OnlineConsultation from "./components/OnlineConsultation";
 import Blogpage from "./components/Blogpage";
 import FaqPage from "./components/FaqPage";
 import AboutVriksh from "./components/AboutVriksh";
-import TeamValue from "./components/TeamValue";
 import ContactPage from "./components/ContactPage";
 import BlogMore from "./components/Blogmore";
 import PrivacyNpolicy from "./components/PrivacyNpolicy";
 import TermsNconditions from "./components/TermsNconditions";
-import Comingsoon from "./components/comingsoon";
 import { BsWhatsapp } from "react-icons/bs";
 import PageNotFound from "./components/PageNotFound";
 import OurDoctors from "./components/OurDoctors";
 import Thankyou from "./components/Thankyou";
+import OurDoctors_Page from "./components/OurDoctors_Page";
 
 function App() {
   useEffect(() => {
@@ -66,6 +64,7 @@ function App() {
           <Route exact path={"/"}>
             <Home />
             <About />
+            <OurDoctors/>
             <Services />
             <Benefits />
             <Choose />
@@ -96,7 +95,7 @@ function App() {
             <Footer />
           </Route>
           <Route path={"/about_doctors"}>
-            <OurDoctors/>
+            <OurDoctors_Page/>
           </Route>
           <Route path={"/contactus"}>
             <ContactPage />
