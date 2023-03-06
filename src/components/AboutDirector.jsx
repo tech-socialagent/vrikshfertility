@@ -43,7 +43,7 @@ function AboutDirector() {
               <div className="instagram">
                 <a
                   href="https://www.instagram.com/drsneha_shettyofficial/"
-                  target={"_blank"}
+                  target={"_blank"} rel="noreferrer"
                 >
                   <BsInstagram />
                 </a>
@@ -51,7 +51,7 @@ function AboutDirector() {
               <div className="linkedin">
                 <a
                   href="https://www.linkedin.com/in/drsnehashetty"
-                  target={"_blank"}
+                  target={"_blank"} rel="noreferrer"
                 >
                   <FaLinkedinIn />
                 </a>

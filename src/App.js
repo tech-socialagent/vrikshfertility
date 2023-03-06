@@ -15,7 +15,6 @@ import Articles from "./components/Articles";
 import Footer from "./components/Footer";
 import Consultation from "./components/Consultation";
 import Services from "./components/Services";
-import AboutDr from "./components/About_Director";
 import Treatments from "./components/Treatments";
 import Blogpage from "./components/Blogpage";
 import FaqPage from "./components/FaqPage";
@@ -25,12 +24,11 @@ import BlogMore from "./components/Blogmore";
 import PrivacyNpolicy from "./components/PrivacyNpolicy";
 import TermsNconditions from "./components/TermsNconditions";
 import PageNotFound from "./components/PageNotFound";
-import OurDoctors from "./components/Teams";
 import Thankyou from "./components/Thankyou";
-import Team_Page from "./components/Team_Page";
+import TeamPage from "./components/TeamPage";
 import Teams from "./components/Teams";
-import AboutDirector from "./components/About_Director";
-import About_Doctor from "./components/About_Doctor";
+import AboutDirector from "./components/AboutDirector";
+import AboutDoctor from "./components/AboutDoctor";
 
 function App() {
   useEffect(() => {
@@ -86,7 +84,7 @@ function App() {
             <Footer />
           </Route>
           <Route path={"/about_doctors"}>
-            <Team_Page />
+            <TeamPage/>
           </Route>
           <Route path={"/blogs"}>
             <Blogpage />
@@ -115,7 +113,7 @@ function App() {
                   .toString()}`}
                 key={index}
               >
-                <About_Doctor doctor={item} />
+                <AboutDoctor doctor={item} />
                 <Footer />
               </Route>
             );
