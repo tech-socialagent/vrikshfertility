@@ -27,9 +27,10 @@ import TermsNconditions from "./components/TermsNconditions";
 import Comingsoon from "./components/comingsoon";
 import { BsWhatsapp } from "react-icons/bs";
 import PageNotFound from "./components/PageNotFound";
+import OurDoctors from "./components/OurDoctors";
+import Thankyou from "./components/Thankyou";
 
 function App() {
-  // window.scrollTo(0, 0);
   useEffect(() => {
     window.scrollTo(0, 0);
 
@@ -65,15 +66,14 @@ function App() {
           <Route exact path={"/"}>
             <Home />
             <About />
-            <Benefits />
             <Services />
+            <Benefits />
             <Choose />
             <Testimonials />
             <Articles />
             <Contact />
             <Consultation />
             <Footer />
-            {/* <Comingsoon /> */}
           </Route>
           {/* <Route path={"/onlineConsultation"}>
             <OnlineConsultation />
@@ -83,7 +83,7 @@ function App() {
             <TeamValue />
             <Footer />
           </Route> */}
-          <Route path={"/about_doctor"}>
+          <Route path={"/about_clinical_director"}>
             <AboutDr />
             <Footer />
           </Route>
@@ -94,6 +94,9 @@ function App() {
           <Route path={"/about_vriksh"}>
             <AboutVriksh />
             <Footer />
+          </Route>
+          <Route path={"/about_doctors"}>
+            <OurDoctors/>
           </Route>
           <Route path={"/contactus"}>
             <ContactPage />
@@ -111,12 +114,14 @@ function App() {
               </Route>
             );
           })}
-
+          <Route path={"/thankyou"}>
+            <Thankyou/>
+            <Footer/>
+          </Route>
           {/* blogs */}
           <Route path={"/blog1"}>
             <BlogMore />
           </Route>
-
           {/* privacy policy */}
           <Route path={"/privacyandpolicy"}>
             <PrivacyNpolicy />

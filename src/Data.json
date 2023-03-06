@@ -10,7 +10,10 @@
                         "title": "About Vriksh"
                     },
                     {
-                        "title":"About Doctor"
+                        "title":"About Clinical Director"
+                    },
+                    {
+                        "title":"About Doctors"
                     }
                 ]
             },
@@ -4869,6 +4872,32 @@
             "name":"",
             "title":"",
             "desc":""
+        }
+    ],
+    "doctors_detail":[
+        {
+            "name":"Dr. Sneha Shetty",
+            "designation":"Clinical Director & Chief Fertility Specialist",
+            "photo":""
+
+        },
+        {
+            "name":"Dr. Vikram J Rao",
+            "designation":"Consultant",
+            "photo":""
+
+        },
+        {
+            "name":"Dr. Manohar Bhadrappa",
+            "designation":"Consultant",
+            "photo":""
+
+        },
+        {
+            "name":"Dr. Dilip Raj K S",
+            "designation":"Consultant",
+            "photo":""
+
         }
     ]
 }
