@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Data from "./Data.json";
 import { BsWhatsapp } from "react-icons/bs";
@@ -29,8 +29,36 @@ import TeamPage from "./components/TeamPage";
 import Teams from "./components/Teams";
 import AboutDirector from "./components/AboutDirector";
 import AboutDoctor from "./components/AboutDoctor";
+import Vrikshfertility from "./components/Vrikshfertility";
+import TestimonialsPage from "./components/TestimonialsPage";
+import { configureStore, createSlice } from "@reduxjs/toolkit";
+import { Provider } from "react-redux";
+
+const counterSlice = createSlice({
+  name: "enform",
+  initialState: {
+    value: false,
+  },
+  reducers: {
+    openForm: (state) => {
+        state.value=true
+    },
+    closeForm: (state)=>{
+      state.value=false
+    }
+  },
+});
+
+export const { openForm,closeForm } = counterSlice.actions;
+
+const store = configureStore({
+  reducer:{
+    enform: counterSlice.reducer
+  },
+});
 
 function App() {
+
   useEffect(() => {
     window.scrollTo(0, 0);
 
@@ -46,131 +74,138 @@ function App() {
     });
   }, []);
   return (
-    <BrowserRouter>
-      <div className="App">
-        {/* whatsapp */}
-        <a
-          href="https://wa.me/+918797080808"
-          className="whatsapp_float"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <BsWhatsapp className="whatsapp-icon" />
-        </a>
+    <Provider store={store}>
+      <BrowserRouter>
+        <div className="App">
+          {/* whatsapp */}
+          <a
+            href="https://wa.me/+918797080808"
+            className="whatsapp_float"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <BsWhatsapp className="whatsapp-icon" />
+          </a>
 
-        <Navbar />
+          <Navbar />
 
-        <Switch>
-          <Route exact path={"/"}>
-            <Home />
-            <About />
-            <Teams />
-            <Services />
-            <Benefits />
-            <Choose />
-            <Testimonials />
-            <Articles />
-            <Contact />
-            <Consultation />
-            <Footer />
-          </Route>
+          <Switch>
+            <Route exact path={"/"}>
+              <Home />
+              <About />
+              <Teams />
+              <Services />
+              <Benefits />
+              <Choose />
+              <Testimonials />
+              <Articles />
+              <Contact />
+              <Consultation />
+              <Footer />
+            </Route>
+            <Route path={"/vriksh"}>
+              <Vrikshfertility />
+              <Footer />
+            </Route>
+            <Route path={"/testimonials"}>
+              <TestimonialsPage />
+            </Route>
+            <Route path={"/about_vriksh"}>
+              <AboutVriksh />
+              <Footer />
+            </Route>
+            <Route path={"/about_clinical_director"}>
+              <AboutDirector />
+              <Footer />
+            </Route>
+            <Route path={"/about_doctors"}>
+              <TeamPage />
+            </Route>
+            <Route path={"/blogs"}>
+              <Blogpage />
+              <Footer />
+            </Route>
 
-          <Route path={"/about_vriksh"}>
-            <AboutVriksh />
-            <Footer />
-          </Route>
-          <Route path={"/about_clinical_director"}>
-            <AboutDirector />
-            <Footer />
-          </Route>
-          <Route path={"/about_doctors"}>
-            <TeamPage/>
-          </Route>
-          <Route path={"/blogs"}>
-            <Blogpage />
-            <Footer />
-          </Route>
+            <Route path={"/contactus"}>
+              <ContactPage />
+              <Footer />
+            </Route>
+            <Route path={"/faqs"}>
+              <FaqPage />
+              <Footer />
+            </Route>
 
-          <Route path={"/contactus"}>
-            <ContactPage />
-            <Footer />
-          </Route>
-          <Route path={"/faqs"}>
-            <FaqPage />
-            <Footer />
-          </Route>
+            {/* doctors */}
+            {Data.doctors_detail.map((item, index) => {
+              return (
+                <Route
+                  path={`/${item.name
+                    .replace(/[^a-zA-Z0-9 ]/g, " ")
+                    .split(" ")
+                    .join("_")
+                    .toLowerCase()
+                    .toString()}`}
+                  key={index}
+                >
+                  <AboutDoctor doctor={item} />
+                  <Footer />
+                </Route>
+              );
+            })}
 
-          {/* doctors */}
-          {Data.doctors_detail.map((item, index) => {
-            
-            return (
-              <Route
-                path={`/${item.name
-                  .replace(/[^a-zA-Z0-9 ]/g, " ")
-                  .split(" ")
-                  .join("_")
-                  .toLowerCase()
-                  .toString()}`}
-                key={index}
-              >
-                <AboutDoctor doctor={item} />
-                <Footer />
-              </Route>
-            );
-          })}
+            {Data.landingPage.article_section.articles.map((item, index) => {
+              return (
+                <Route path={"/" + item.more_link} key={index}>
+                  <BlogMore blogdata={item} />
+                  <Footer />
+                </Route>
+              );
+            })}
+            <Route path={"/blog1"}>
+              <BlogMore />
+            </Route>
+            {/* privacy policy */}
+            <Route path={"/thankyou"}>
+              <Thankyou />
+              <Footer />
+            </Route>
+            {/* blogs */}
+            <Route path={"/privacyandpolicy"}>
+              <PrivacyNpolicy />
+              <Footer />
+            </Route>
+            <Route path={"/termsandconditions"}>
+              <TermsNconditions />
+              <Footer />
+            </Route>
 
-          {Data.landingPage.article_section.articles.map((item, index) => {
-            return (
-              <Route path={"/" + item.more_link} key={index}>
-                <BlogMore blogdata={item} />
-                <Footer />
-              </Route>
-            );
-          })}
-          <Route path={"/blog1"}>
-            <BlogMore />
-          </Route>
-          {/* privacy policy */}
-          <Route path={"/thankyou"}>
-            <Thankyou />
-            <Footer />
-          </Route>
-          {/* blogs */}
-          <Route path={"/privacyandpolicy"}>
-            <PrivacyNpolicy />
-            <Footer />
-          </Route>
-          <Route path={"/termsandconditions"}>
-            <TermsNconditions />
-            <Footer />
-          </Route>
+            {Data.treatments.map((item, index) => {
+              // console.log(
+              //   item.treatment_name.split(" ").join("_").toLowerCase().toString()
+              // );
+              return (
+                <Route
+                  key={index}
+                  path={`/${item.treatment_name
+                    .replace(/[^a-zA-Z0-9 ]/g, " ")
+                    .split(" ")
+                    .join("_")
+                    .toLowerCase()
+                    .toString()}`}
+                >
+                  <Treatments data={item} />
+                </Route>
+              );
+            })}
 
-          {Data.treatments.map((item, index) => {
-            // console.log(
-            //   item.treatment_name.split(" ").join("_").toLowerCase().toString()
-            // );
-            return (
-              <Route
-                key={index}
-                path={`/${item.treatment_name
-                  .replace(/[^a-zA-Z0-9 ]/g, " ")
-                  .split(" ")
-                  .join("_")
-                  .toLowerCase()
-                  .toString()}`}
-              >
-                <Treatments data={item} />
-              </Route>
-            );
-          })}
-
-          {/* 404 page */}
-          <Route path={"*"}>
-            <PageNotFound />
-          </Route>
-        </Switch>
-      </div>
-    </BrowserRouter>
+            {/* 404 page */}
+            <Route path={"*"}>
+              <PageNotFound />
+            </Route>
+          </Switch>
+        </div>
+      </BrowserRouter>
+    </Provider>
   );
 }
 

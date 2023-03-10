@@ -1,13 +1,18 @@
 import "../styles/Navbar.css";
 import { HashLink } from "react-router-hash-link";
 import { BiX, BiMenu } from "react-icons/bi";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import MenuItems from "./MenuItems";
 import Data from "../Data.json";
 import "../styles/Dropdown.css";
+import { useDispatch, useSelector } from "react-redux";
+import { openForm,closeForm } from "../App";
 
-const Navbar = () => {
-  const [enq, setEnq] = useState(false);
+const Navbar = (props) => {
+  const enq=useSelector(state=>state.enform.value);
+  const dispatch=useDispatch();
+
+  // const [enq, setEnq] = useState(false);
   const [menuBtn, setMenuBtn] = useState(false);
   const navMenuToggle = () => {
     setMenuBtn(!menuBtn);
@@ -16,14 +21,19 @@ const Navbar = () => {
 
   const enquiry = (e) => {
     if (e.target.innerText === "Enquire Now") {
-      setEnq(true);
+      // setEnq(true);
+      dispatch(openForm())
     }
   };
 
-  const closeform=()=>{
-    setEnq(false)
-  }
+  const closeform = () => {
+    // setEnq(false);
+    dispatch(closeForm())
+  };
 
+  useEffect(()=>{
+    if(props.enq) enquiry()
+  })
   return (
     <div className="Nav_body">
       <div className="app_logo">
@@ -48,25 +58,37 @@ const Navbar = () => {
             );
           })}
 
-          {Data.header.nav_btns.map((item, index) => {
-            return (
-              <li
-                key={index}
-                onClick={() => navMenuToggle()}
-                className="nav_item nav_btns get_quote_btn"
-              >
-                <HashLink to={"/#" + item.id} onClick={(e) => enquiry(e)}>
-                  {item.title}
-                </HashLink>
-              </li>
-            );
-          })}
+          <li
+            // onClick={() => navMenuToggle()}
+            className="nav_item nav_btns get_quote_btn"
+          >
+            <HashLink
+              to={"/#" + Data.header.nav_btns[0].id}
+              onClick={(e) => enquiry(e)}
+            >
+              {Data.header.nav_btns[0].title}
+            </HashLink>
+          </li>
+          <li
+            onClick={() => navMenuToggle()}
+            className="nav_item nav_btns get_quote_btn"
+          >
+            <HashLink
+              to={"#"}
+              onClick={(e) => enquiry(e)}
+            >
+              {Data.header.nav_btns[1].title}
+            </HashLink>
+          </li>
+          
         </ul>
       </div>
 
       {enq && (
         <div className="enqform">
-          <div className="enqf_btn" onClick={closeform}><BiX/></div>
+          <div className="enqf_btn" onClick={closeform}>
+            <BiX />
+          </div>
           <iframe
             FrameBorder="0"
             title="contact_form"

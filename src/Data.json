@@ -213,6 +213,12 @@
                     },
                     {
                         "title": "Blogs"
+                    },
+                    {
+                        "title": "Testimonials"
+                    },
+                    {
+                        "title": "Gallery"
                     }
                 ]
             }
@@ -404,51 +410,7 @@
                         }
                     ]
                 },
-                {
-                    "service_title": "PRP",
-                    "sub_services": [
-                        {
-                            "sub_service_name": "Ovarian PRP",
-                            "sub_service_title": "What is Ovarian PRP",
-                            "sub_service_desc": [
-                                "PRP stands for Platelet-Rich Plasma, and Ovarian PRP refers to the use of plasma enriched with platelets for the treatment of ovarian disorders. The platelets contain growth factors that may promote the growth of new blood vessels and tissue, which could potentially improve ovarian function and stimulate ovulation. It's important to note that not all medical experts agree on the benefits of PRP treatment for reproductive health and some may recommend more established and proven treatments."
-                            ],
-                            "sub_service_keypoints": [
-                                "Lorem Ipsum",
-                                "Lorem Ipsum",
-                                "Lorem Ipsum"
-                            ],
-                            "sub_service_image": ""
-                        },
-                        {
-                            "sub_service_name": "Endometrial PRP",
-                            "sub_service_title": "What is Endometrial PRP?",
-                            "sub_service_desc": [
-                                "Endometrial PRP, or Platelet-Rich Plasma therapy of the endometrium, is a type of treatment for endometrial disorders, such as infertility, recurrent pregnancy loss, and thin endometrial lining. It involves the injection of a concentrated solution of the patient's own platelets into the endometrial lining. The growth factors in the platelets are believed to improve blood flow and tissue regeneration in the endometrium, potentially increasing the chances of successful implantation and pregnancy. Endometrial PRP is considered experimental and its efficacy has not been firmly established. Further research is needed to determine its safety and effectiveness for the treatment of endometrial disorders. As with all experimental treatments, it's important to discuss the risks and benefits with a healthcare provider and to consider alternative, more proven treatments."
-                            ],
-                            "sub_service_keypoints": [
-                                "Lorem Ipsum",
-                                "Lorem Ipsum",
-                                "Lorem Ipsum"
-                            ],
-                            "sub_service_image": ""
-                        },
-                        {
-                            "sub_service_name": "Testicular PRP",
-                            "sub_service_title": "When is Testicular PRP used for?",
-                            "sub_service_desc": [
-                                "Testicular PRP is mainly used for the treatment of male infertility, although it may also be considered for other testicular disorders. Men with decreased sperm count, poor sperm motility, or low sperm quality may benefit from Testicular PRP. However, it's important to note that the efficacy of this treatment has not been firmly established, and further research is needed to determine its safety and effectiveness.",
-                                "Before considering Testicular PRP, it's advisable to have a thorough evaluation by a specialist in reproductive medicine to determine the cause of the infertility. In some cases, the underlying cause may be treatable with other, more proven methods. A healthcare provider should be consulted to determine if Testicular PRP is a suitable option for the individual."
-                            ],
-                            "sub_service_keypoints": [
-                                "Lorem Ipsum",
-                                "Lorem Ipsum",
-                                "Lorem Ipsum"
-                            ],
-                            "sub_service_image": ""
-                        }
-                    ]
-                },
+                
                 {
                     "service_title": "Other Genomic Testing",
                     "sub_services": [
@@ -836,7 +798,6 @@
         "services": [
             "Fertility Treatment",
             "Advanced Fertility Treatments",
-            "PRP",
             "Other Geonomic Testing",
             "Female Fertility Treatments",
             "Male Disorders",
@@ -4913,5 +4874,140 @@
             "desc": ["Dr. Dilip Raj K S is a Internal Medicine in Sarjapur Road, Bangalore and has an experience of 11 years in this field. Dr. Dilip Raj K S practices at Belenus Champion Hospital in Sarjapur Road, Bangalore. He completed MBBS from Kempegowda Institute of Medical Sciences (KIMS), Bangalore in 2012 and MD - General Medicine from Kempegowda Institute of Medical Sciences (KIMS), Bangalore in 2018."],
             "link": "/dr__dilip_raj_k_s"
         }
+    ],
+    "testimonial_page":[
+        {
+            "name":"Sunitha",
+            "desc":"We are very happy after today’s good news. We are very thankful to Dr. Sneha Shetty and all staff for helping us to achieve our long-awaited desire. We tried from the last 2 years with so many reputed hospitals and doctors but did not work. We almost left hope and then we came to know about Dr. Sneha Shetty. We get positive hope from her and she always supported us with full confidence with good treatment. And it worked out well. We are very happy today. Thank you, a lot Dr. Sneha Shetty and all staff. Trust me, A must visit doctor for infertility issues."
+        },
+        {
+            "name":"Kutty",
+            "desc":"Must visit doctor for infertility issues. Today I’ve blessed with my pregnancy positive news and all thanks to the entire team. I had come to them with a failed IVF cycle at another center. I was emotionally shattered when I came. Since my first consultation with Dr Sneha Shetty to the entire treatment of my IVF cycle – I’ve realized how different and diligently they’ve handled it. A thorough investigation was done for my previous failure and the entire team of doctors and embryologists kept me regularly updated on the processes. And today I’m so grateful to them for this positive news. I would also like to thank the sisters and counselor and wish the best for the team. "
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"I am very thankful to this hospital especially thank full to Dr Sneha Shetty madam❤ is very caring and she spend her valuable time to explain my condition with more patience. She finds the root cause of IVF and gives 100% best treatment. Whoever comes I strongly recommend to meet Dr Sneha madam once. I am very blessed to get treatment with Sneha madam. I am very thankful to Dr. Sneha mam she is very friendly. I got positive result I am very happy with result and treat❤😍"
+        },
+        {
+            "name":"Bindhu",
+            "desc":"The way of treating and the way of explaining the issues suffering was well given n make patients feel free."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"Good staff. Definitely recommend her. She's very friendly and suggests treatment. We underwent 3 IVF with pgt due to low eggs and age 40. Got positive in our 2nd get after hysteroscopy. Very long journey but today I have my baby in my arms only due to Dr Sneha’s positivity. If you are anxious like me, visit her, she is a friend for every patient. Love you ma’am"
+        },
+        {
+            "name":"Vijay Kumar",
+            "desc":"In our first session itself, we realized the doctor is an amazing counselor and gave us practical and handy guidelines for each month of pregnancy. In our every session, beyond prescriptions and tests, she patiently explained about the pregnancy period, how to avoid misleading information (as abundantly available on the internet) and how to take care of self during the nine months."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"Dr. Sneha Shetty is very humble, treated with a positive attitude. Thank you so much doctor and supportive staff…"
+        },
+        {
+            "name":"Poornima C G",
+            "desc":"Happy with: Explanation of the health issue"
+        },
+        {
+            "name":"Suvarna Pujari",
+            "desc":"So happy to full fill my dreams come true in our life with the Dr.Sneha Shetty .So,so happy going to be the parent soon thanks a lot for care and good advice and full fully all the dreams thank you so much to the Dr Sneha madam all the staff and hospital are good and neat ambiance and good caring thank you"
+        },
+        {
+            "name":"Madhuri",
+            "desc":"We are very much happy to get detailed information about the treatment and further steps of treatment explained by Dr. Sneha Shetty Mam. Got hope of making our dream come true. I visited the hospital. It was so hygiene and the staff is also very good and polite. "
+        },
+        {
+            "name":"P.Roshni",
+            "desc":"First of all, she greeted us with her beautiful smile, which made my discomfort disappear. Then, very friendly, she asked me about the history of my problem. And then explained to me the reason for my problems & prescribed some tests & medication & asked me to visit her after a week. Can’t wait to see Dr Sneha again ☺️"
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"At our first meet, she was very clear & taking time to explain the process from scratch, besides making patients comfortable by answering every single small doubt/concern was absolutely loving. Not only addressing the issue but the care and love she has for her patients is really amazing. The knowledge and presenting skills she possess in her practice are extra ordinary. I am sure she will drive us to our destiny, making the journey worth it!"
+        },
+        {
+            "name":"Nirma Vishnoi",
+            "desc":"Dr Sneha is a great doctor. She listens to us and make us understand the problem. She is full of positivity and provided the right treatment with care. Staff at the hospital are very supportive. I would recommend this hospital for fertility treatment."
+        },
+        {
+            "name":"Sadiq Mohamed",
+            "desc":"Visited Dr Sneha Shetty for IVF treatment and I conceived in 1st cycle, really happy with the result. Will definitely recommend couples with the same issue. Thanks to the staff for your support."
+        },
+        {
+            "name":"S.Reshma",
+            "desc":"We are so happy because our desire fulfilled with Dr. Sneha Shetty mam well experienced and she explained everything clearly and staff also good."
+        },
+        {
+            "name":"P.Lalitha",
+            "desc":"We are Happy with treatment done by the Dr. Sneha Shetty Garu, we have succeeded thank you."
+        },
+        {
+            "name":"Amulya",
+            "desc":"Amazing mam, ur suggestions and explanation of the health issues are good. I feel very satisfied after your consultation. Thank you very much madam."
+        },
+        {
+            "name":"Akshaya",
+            "desc":"I am very happy with the treatment of Dr. Sneha. She explained the process of treatment is very good. Treatment and support everything is good. Thank you, madam, for your support."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"Liked the way she calmly described things in detail and what steps to be taken for future course of action. Only thing is the waiting period is high, as we had to be there almost 3 hours for complete diagnosis and consultation, even after booking online. First meeting with doctor itself took 1.5 hours."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"We are very Happy to get a detailed and personalised information about the whole Process by Dr Sneha Shetty Ma'am. We thank her and the whole team. As my wife was 40 plus age so we were very skeptical and has so many questions but we are very Happy to get very KNOWLEDGABLE INFORMATION from Dr Sneha Ma'am which has helped to achieve our long-cherished dream."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"We just blindly trusted her and her judgment. Finally blessed to hear that good news regarding my pregnancy. Thanks to Sneha Ma’am for always bringing out the positive side and keep us pushing. Would like to name our baby too as Sneha if it’s a girl. Love you ma’am."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"I'm very much happy after visiting Hospital, We were traveling with Dr.Sneha she is really humble with patients, she is doing a great job, very professional, She Cascades the matter to patients . Good experienced and friendly Doctor, Finally Thanks to Doctor."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"We are very glad to come for our treatment after being referred by our friends. It has been a great experience so far; the staff here are very supportive and guide us at every step. The journey has been smooth and looking forward to a positive result. A special thanks to Dr Sneha for counseling us with right treatment.l Will definitely recommend to all couples looking forward to parenthood."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"It’s our first consultation with Dr. Sneha and we are quite satisfied with the way the doctor has explained the process of treatment and we are very positive with it. The staff is very cooperative and guides us in every step"
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"Like her way of explaining the basics and helping us understand the problem. We were very low with having 3 pregnancy losses - we got genetically evaluated. Thanks to doctor Sneha Shetty - now we understand the problem are going through IVF with PGT. Hopefully things will fall in place and we will have a healthy pregnancy. Will update you guys with the good news."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"Went for pregnancy planning, she explained everything in detail. Did a scan. Told the follicle is ready to try this month and maybe it will be positive by trying at the right time and told we will evaluate if we get periods. And we got a positive result in 15days! Her positivity, explanation and, Will def recommend family and friends! Thank you doctor!"
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"Very good staff and caring sisters. Recommend for all who are trying to have a baby. Clean hospital with good results."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"We are very happy with Dr.Sneha who made our dreams come true. I recommend all those couples who are suffering from infertility please consult Dr. Sneha, she will make sure you will fulfill with your dreams. Dr. Sneha is a very dedicated person and she will own the problems until they are resolved."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"Thankfull Sneha Shetty madam and staff very friendly nature we got a pregnant Thank you team."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"We are very happy with  Dr Sneha Shetty. She is Very Polite and humble with Patients Very professional Doctor. Finally, we have succeeded. Very Thankful to  Dr Sneha Shetty and staff."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"We are very glad to come of our treatment after being referred by our friends. Dr Sneha Shetty has helped us we had doubts and She Cleared it with ease. Now we have succeeded Very Thankful to Dr Sneha Shetty."
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"Dr Sneha Shetty has helped us every time we had doubts and she cleared it with ease. I will recommend everyone who are parents to be :)"
+        },
+        {
+            "name":"Verified Patient",
+            "desc":"She is a goddess who blessed us with a child! Today Is the happiest day for us - delivered a healthy baby girl - conceived through IUI 3rd cycle. Her positivity kept us going and finally we got the good news. Thank you is a small word!"
+        }
     ]
 }
+

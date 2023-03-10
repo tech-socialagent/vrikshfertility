@@ -1,0 +1,60 @@
+.testimonial_page_body {
+    padding: 20px 80px;
+
+}
+.testimonial_page .backg {
+    height: 240px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 40%;
+    background-image: url("../assests/Photos/nathan-dumlao-P5MXtYfgmmw-unsplash.jpg");
+}
+.testimonial_page_body h3 {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 90%;
+  color: #000000;
+}
+.testimonial_page_body p {
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 45px;
+  color: #000000;
+  margin: 10px 0px;
+}
+.testimonial_page_body .testimonials .test_card {
+    /* max-height: 300px; */
+}
+.testimonial_page_body .testimonials {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.testimonial_page_body .testimonials .test_card:nth-child(odd){
+    background-color: #b03bb0;
+}
+.testimonial_page_body .testimonials .test_card:nth-child(even){
+    background-color: #DBB13B;
+}
+
+ 
+@media only screen and (max-width: 700px){
+    .testimonial_page_body {
+        padding: 20px 20px;
+      }
+      .testimonial_page_body h3 {
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 90%;
+        color: #000000;
+      }
+      .testimonial_page_body p {
+        font-size: 20px;
+        line-height: 24px;
+      }
+    .testimonial_page_body .testimonials {
+        grid-template-columns: 1fr;
+        row-gap: 10px;
+    }
+   
+}

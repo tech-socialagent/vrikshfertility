@@ -95,7 +95,7 @@ const Footer = () => {
                 );
               })}
             </div>
-            <div className="ft_services">
+            {/* <div className="ft_services">
               <div className="ft_ser_heading">Surgeries</div>
               {Data.footer.Surgeries.map((item, index) => {
                 return (
@@ -111,7 +111,7 @@ const Footer = () => {
                   </Link>
                 );
               })}
-            </div>
+            </div> */}
 
             {/* <div className="ft_ser_heading">International Patients</div>
               {Data.footer.International_Patients.map((item, index) => {

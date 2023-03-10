@@ -5,10 +5,13 @@
   min-height: 250px;
   color: var(--white-color);
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .test_user {
-  position: absolute;
-  bottom: 10px;
+  /* position: absolute;
+  bottom: 10px; */
   display: flex;
   align-items: center;
   margin: 20px 0px 10px 0px;
