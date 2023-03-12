@@ -13,6 +13,7 @@ const FaqPage = () => {
     setFaqs([...Data.faqpage]);
   };
   useEffect(() => {
+    window.scrollTo(0,0);
     updateData();
   }, []);
 

@@ -29,6 +29,7 @@ const Doctors = () => {
         src={require("../assests/Photos/aboutbackg.png")}
         alt=""
       />
+
       <div className="about_body">
         <h2 className="section_title">
           {Data.landingPage.Doctor_section.section_title}
@@ -110,7 +111,7 @@ const Doctors = () => {
             {/* <Link to={"/about_doctor"} className="doc_knowmore_btn btn">Know More</Link> */}
             {/* <div to={"/about_doctor"} className="doc_knowmore_btn btn"><Link to={"/about_doctor"}>Know More</Link></div> */}
             <div className="home_book_app">
-              <Link to="/about_doctor">Know More</Link>
+              <Link to="/about_clinical_director">Know More</Link>
             </div>
           </div>
         </div>

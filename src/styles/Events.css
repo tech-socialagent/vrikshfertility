@@ -1,0 +1,42 @@
+.events_page .page_top_section {
+  background: linear-gradient(
+      0deg,
+      rgba(13, 13, 13, 0.2),
+      rgba(13, 13, 13, 0.2)
+    ),
+    url("../assests/Photos/eventsbg.jpg");
+  height: 300px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 30px 80px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.events_page .page_top_section h5 {
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 45px;
+  color: #ffffff;
+}
+.events_page .page_top_section h2 {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 90%;
+  color: #ffffff;
+}
+.events_page .page_body {
+  padding: 40px 80px;
+}
+.events_page .page_body h3 {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 90%;
+  /* or 32px */
+
+  color: #000000;
+}

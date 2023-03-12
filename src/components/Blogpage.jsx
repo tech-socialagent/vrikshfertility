@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Data from "../Data.json";
 import "../styles/Blogpage.css";
 import { FiArrowUpRight } from "react-icons/fi";
@@ -16,6 +16,11 @@ const Blogpage = () => {
     slidesToScroll: 1,
     arrows: false,
   };
+
+  useEffect(()=>{
+    window.scrollTo(0,0);
+  })
+
   return (
     <section className="blogpage">
       <div className="section_header">

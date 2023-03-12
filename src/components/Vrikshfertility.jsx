@@ -15,14 +15,13 @@ import { useDispatch } from "react-redux";
 const Vrikshfertility = () => {
   const dispatch=useDispatch();
   useEffect(()=>{
-    dispatch(openForm())
+    dispatch(openForm());
+    
   })
   return (
     <div>
       <Home />
       <About />
-      <Teams />
-      <Services />
       <Benefits />
       <Choose />
       <Testimonials />

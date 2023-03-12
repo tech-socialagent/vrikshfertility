@@ -72,9 +72,16 @@ const Footer = () => {
               <div className="ft_ser_heading">Our Services</div>
               {Data.footer.services.map((item, index) => {
                 return (
-                  <a key={index} href="/#services">
+                  <Link
+                    key={index}
+                    to={`/${item
+                      .replace(/[^a-zA-Z0-9 ]/g, " ")
+                      .split(" ")
+                      .join("_")
+                      .toLowerCase()}`}
+                  >
                     {item}
-                  </a>
+                  </Link>
                 );
               })}
             </div>

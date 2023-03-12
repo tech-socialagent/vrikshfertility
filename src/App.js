@@ -33,6 +33,7 @@ import Vrikshfertility from "./components/Vrikshfertility";
 import TestimonialsPage from "./components/TestimonialsPage";
 import { configureStore, createSlice } from "@reduxjs/toolkit";
 import { Provider } from "react-redux";
+import Events from "./components/Events";
 
 const counterSlice = createSlice({
   name: "enform",
@@ -109,6 +110,7 @@ function App() {
             </Route>
             <Route path={"/testimonials"}>
               <TestimonialsPage />
+              <Footer/>
             </Route>
             <Route path={"/about_vriksh"}>
               <AboutVriksh />
@@ -134,7 +136,9 @@ function App() {
               <FaqPage />
               <Footer />
             </Route>
-
+            <Route path={"/events"}>
+              <Events/>
+            </Route>
             {/* doctors */}
             {Data.doctors_detail.map((item, index) => {
               return (
