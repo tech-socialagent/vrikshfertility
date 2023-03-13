@@ -40,7 +40,7 @@ function Treatments({ data }) {
     <div className="treatment">
       <img src={Trimg} alt="" className="treatment_top_image" />
       <div className="Treatments-main">
-        <div className="Treatments-left">
+        <aside className="Treatments-left">
           <ul className="treatments-list">
             {data.sub_data.map((item, index) => {
               return (
@@ -53,7 +53,7 @@ function Treatments({ data }) {
               );
             })}
           </ul>
-        </div>
+        </aside>
         {/* <div className="mid"></div> */}
         <div className="Treatments-right">
           <div className="treatments-title">

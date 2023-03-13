@@ -198,6 +198,7 @@ function App() {
                     .toString()}`}
                 >
                   <Treatments data={item} />
+                  <Footer/>
                 </Route>
               );
             })}
